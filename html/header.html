@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Uriel</title>
+<meta name="author" content="Judka Linkov"/>
+<style type="text/css" media="print">
+@page {
+  size: A4;
+  margin: 2cm;
+}
+.page-break {
+  page-break-before: always;
+}
+table {
+  page-break-inside: avoid;
+}
+</style>
+<style type="text/css">
+html {
+  font-family: Taamey Frank CLM, Liberation Sans;
+  /* font-family: Dejavu Sans; */
+  /* font-family: Bitstream Vera Sans; */
+  /* font-family: Times New Roman; has bad shape of letter һ */
+  font-size: 120%;
+}
+em {
+  /* font-family: Liberation Sans; */
+  /* font-size: 88%; */
+}
+a {
+  color: inherit;
+  text-decoration: underline;
+  cursor: pointer;
+}
+p, ul {
+  /* text-indent: 1cm; */
+  text-align: justify;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width: 540px;
+}
+figure {
+  text-align: center;
+}
+figure img {
+  margin: 0;
+  padding: 0;
+}
+figcaption {
+  margin-top: 0;
+  line-height: 1em;
+  font-size: .8rem;
+  color: grey;
+  text-align: center;
+}
+table.chapter {
+  width: 100%;
+}
+table.chapter tr td {
+  margin: 0;
+  padding: 0;
+  text-align: justify;
+  vertical-align: top;
+}
+table.chapter tr:nth-child(1) td:nth-child(1) {
+  font-weight: bold;
+}
+table.chapter tr:nth-child(1) td:nth-child(2) {
+  /* font-family: Taamey Frank CLM; */
+  font-size: 122%;
+  font-weight: bold;
+  line-height: 110%;
+  direction: rtl;
+  padding-left: 1em;
+  /* text-align: right; */
+}
+table.chapter tr:nth-child(2) td {
+  text-align: right;
+}
+/* First letter of Beresheet */
+table.capitalize tr:nth-child(1) td:nth-child(2)::first-letter {
+  font-size: 150%;
+}
+table.quote {
+  width: 100%;
+  margin: 1em 0 0 0;
+  padding: 0 0 0 1em;
+  border-left: thick solid lightgrey;
+  font-style: italic;
+}
+table.quote tr td {
+  margin: 0;
+  padding: 0;
+  text-align: justify;
+  vertical-align: top;
+}
+blockquote {
+  margin: 1em 0 0 0;
+  padding: 0 0 0 1em;
+  border-left: thick solid lightgrey;
+  font-style: italic;
+}
+:lang(he) {
+  /* font-family: Taamey Frank CLM; */
+}
+</style>
+</head>
+<body>

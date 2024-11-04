@@ -32,6 +32,7 @@ $(URIEL_HTML): $(SRCFILES) html/header.html html/footer.html Makefile
 pdf: $(URIEL_PDF)
 $(URIEL_PDF): $(URIEL_HTML) Makefile
 	chromehtml2pdf \
+	--executablePath /usr/bin/chromium \
 	--format=A4 \
 	--displayHeaderFooter=true \
 	--headerTemplate='<div></div>' \

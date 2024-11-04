@@ -23,9 +23,14 @@ table {
 }
 </style>
 <style type="text/css">
+@font-face {
+  font-family: 'MyHebrewFont';
+  src: url('TaameyFrankCLM-Medium.ttf') format('truetype');
+  unicode-range: U+0590-05FF;
+}
 html {
-  font-family: Taamey Frank CLM, Liberation Sans;
-  /* font-family: Dejavu Sans; */
+  font-family: MyHebrewFont, DejaVu Sans;
+  /* font-family: Taamey Frank CLM, Liberation Sans; */
   /* font-family: Bitstream Vera Sans; */
   /* font-family: Times New Roman; has bad shape of letter һ */
   font-size: 120%;
@@ -80,7 +85,7 @@ table.chapter tr:nth-child(1) td:nth-child(1) {
 table.chapter tr:nth-child(1) td:nth-child(2) {
   /* font-family: Taamey Frank CLM; */
   font-size: 122%;
-  font-weight: bold;
+  /* font-weight: bold; */
   line-height: 110%;
   direction: rtl;
   padding-left: 1em;

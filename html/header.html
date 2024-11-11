@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="utf-8" />
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
 <title>Uriel</title>
 <meta name="author" content="Judka Linkov"/>
 <meta name="subject" content="Non-Orthodox Judaism"/>
+<meta name="description" content="Uriel: Looking at the world through the prism of Judaism">
 <meta name="keywords" content="judaism, light"/>
 <meta name="copyright" content="Copyright (C) 2018-2024  Judka Linkov <judka@uriel.world>"/>
 <style type="text/css" media="print">
@@ -24,28 +26,23 @@ table {
 </style>
 <style type="text/css">
 @font-face {
-  font-family: 'MyHebrewFont';
+  font-family: 'GreatHebrewFont';
   src: url('TaameyFrankCLM-Medium.ttf') format('truetype');
   unicode-range: U+0590-05FF;
 }
 html {
-  font-family: MyHebrewFont, DejaVu Sans;
-  /* font-family: Taamey Frank CLM, Liberation Sans; */
-  /* font-family: Bitstream Vera Sans; */
-  /* font-family: Times New Roman; has bad shape of letter һ */
+  font-family: GreatHebrewFont, DejaVu Sans;
   font-size: 120%;
-}
-em {
-  /* font-family: Liberation Sans; */
-  /* font-size: 88%; */
+  /* SAME: font-size: 19.2px; */
 }
 a {
   color: inherit;
   text-decoration: underline;
   cursor: pointer;
 }
-p, ul {
-  /* text-indent: 1cm; */
+/* first-line indentation not needed: */
+/* p { text-indent: 2em; } */
+p, ul, ol {
   text-align: justify;
 }
 .center {
@@ -77,19 +74,18 @@ table.chapter tr td {
   margin: 0;
   padding: 0;
   text-align: justify;
-  vertical-align: top;
+}
+table.chapter:not(.capitalize) tr td {
+  vertical-align: text-top;
 }
 table.chapter tr:nth-child(1) td:nth-child(1) {
   font-weight: bold;
 }
 table.chapter tr:nth-child(1) td:nth-child(2) {
-  /* font-family: Taamey Frank CLM; */
   font-size: 122%;
-  /* font-weight: bold; */
   line-height: 110%;
   direction: rtl;
   padding-left: 1em;
-  /* text-align: right; */
 }
 table.chapter tr:nth-child(2) td {
   text-align: right;
@@ -98,27 +94,59 @@ table.chapter tr:nth-child(2) td {
 table.capitalize tr:nth-child(1) td:nth-child(2)::first-letter {
   font-size: 150%;
 }
-table.quote {
-  width: 100%;
-  margin: 1em 0 0 0;
-  padding: 0 0 0 1em;
-  border-left: thick solid lightgrey;
-  font-style: italic;
-}
-table.quote tr td {
-  margin: 0;
-  padding: 0;
-  text-align: justify;
-  vertical-align: top;
-}
 blockquote {
   margin: 1em 0 0 0;
   padding: 0 0 0 1em;
   border-left: thick solid lightgrey;
   font-style: italic;
 }
-:lang(he) {
-  /* font-family: Taamey Frank CLM; */
+.title-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100vh;
+  font-family: Arial, sans-serif;
+  color: #2e4057;
+  position: relative;
+}
+.title-page .title {
+  font-size: 64px;
+  font-weight: bold;
+  letter-spacing: 5px;
+}
+.title-page .subtitle::before {
+  content: '';
+  display: block;
+  width: 60px;
+  height: 2px;
+  background-color: #2e4057;
+  margin: 30px auto;
+}
+.title-page .subtitle {
+  font-size: 36px;
+  font-weight: 300;
+  max-width: 80%;
+}
+.title-page .dot {
+  font-size: 36px;
+  margin: 30px 0;
+}
+.title-page .author {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 420px;
+}
+.title-page .edition {
+  font-size: 20px;
+  position: absolute;
+  bottom: 2cm;
+}
+.title-page .year {
+  font-size: 20px;
+  position: absolute;
+  bottom: 1cm;
 }
 </style>
 </head>

@@ -1,4 +1,4 @@
-# Copyright (C) 2018-2024  Judka Linkov <judka@uriel.world>
+# Copyright (C) 2018-2024 Judka Linkov <judka@uriel.world>
 # This file is free software; see GNU GPL v3 for copying conditions.
 
 # Installation:
@@ -36,7 +36,7 @@ $(URIEL_PDF): $(URIEL_HTML) Makefile
 	--format=A4 \
 	--displayHeaderFooter=true \
 	--headerTemplate='<div></div>' \
-	--footerTemplate='<style type="text/css">.pdf-footer { font-size: 10px; font-weight: bold; font-style: italic; width: 100%; text-align: center; color: lightgrey; padding-right: 1cm; }</style><div class="pdf-footer"><span class="pageNumber"></span></div>' \
+	--footerTemplate='<style type="text/css">.pdf-footer { font-size: 15px; font-weight: bold; font-style: italic; width: 100%; text-align: center; color: lightgrey; padding-right: 1cm; }</style><div class="pdf-footer"><span class="pageNumber"></span></div>' \
 	--out=$(URIEL_PDF) \
 	file://$(ROOTDIR)/$(URIEL_HTML)
-	exiftool -e -overwrite_original -P -PDF:Author="Judka Linkov" -PDF:Title="Uriel" -PDF:Subject="Non-Orthodox Judaism" -PDF:Keywords="judaism, light" $(URIEL_PDF)
+	exiftool -e -overwrite_original -P -PDF:Author="(C) 2018-2024 Judka Linkov CC-BY-4.0" -PDF:Title="Uriel" -PDF:Subject="Non-Orthodox Judaism" -PDF:Keywords="judaism, light" $(URIEL_PDF)

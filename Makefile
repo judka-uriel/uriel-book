@@ -23,10 +23,10 @@ $(dir $(URIEL_HTML)):
 	mkdir -p $@
 
 html: $(URIEL_HTML)
-$(URIEL_HTML): $(SRCFILES) html/header.html html/footer.html Makefile $(dir $(URIEL_HTML))
+$(URIEL_HTML): $(SRCFILES) files/book/header.html files/book/footer.html Makefile $(dir $(URIEL_HTML))
 #	convert -size 320x200 xc:gray +noise random -colorspace gray images/white_noise.jpg
 	LANG=en_US.UTF-8 kramdown $(SRCFILES) \
-	| cat html/header.html - html/footer.html \
+	| cat files/book/header.html - files/book/footer.html \
 	> $@
 
 $(dir $(URIEL_PDF)):

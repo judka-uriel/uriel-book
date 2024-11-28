@@ -44,6 +44,7 @@ a {
 /* p { text-indent: 2em; } */
 p, ul, ol {
   text-align: justify;
+  /* text-wrap-style: pretty; */ /* no need to avoid orphans */
 }
 .center {
   display: block;
@@ -129,24 +130,24 @@ blockquote {
   font-weight: 300;
   max-width: 80%;
 }
-.title-page .dot {
-  font-size: 36px;
-  margin: 30px 0;
+.title-page img {
+  margin-bottom: 120px;
 }
 .title-page .author {
   font-size: 18px;
   font-weight: bold;
-  margin-bottom: 420px;
+  position: absolute;
+  bottom: 2cm;
 }
 .title-page .edition {
   font-size: 20px;
   position: absolute;
-  bottom: 2cm;
+  bottom: 1cm;
 }
 .title-page .year {
   font-size: 20px;
   position: absolute;
-  bottom: 1cm;
+  bottom: 0cm;
 }
 </style>
 </head>

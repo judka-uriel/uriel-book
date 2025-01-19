@@ -1,0 +1,127 @@
+@font-face {
+  font-family: 'GreatHebrewFont';
+  src: url('./TaameyFrankCLM-Medium.ttf') format('truetype');
+  unicode-range: U+0590-05FF;
+}
+html {
+  font-family: GreatHebrewFont, DejaVu Sans;
+  font-size: 120%;
+  /* SAME: font-size: 19.2px; */
+}
+a {
+  color: inherit;
+  text-decoration: underline;
+  cursor: pointer;
+}
+/* first-line indentation not needed: */
+/* p { text-indent: 2em; } */
+p, ul, ol {
+  text-align: justify;
+  /* text-wrap-style: pretty; */ /* no need to avoid orphans */
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width: 540px;
+}
+figure {
+  text-align: center;
+}
+figure img {
+  margin: 0;
+  padding: 0;
+}
+figcaption {
+  margin-top: 0;
+  line-height: 1em;
+  font-size: .8rem;
+  color: grey;
+  text-align: center;
+}
+table.chapter {
+  width: 100%;
+}
+table.chapter tr td {
+  margin: 0;
+  padding: 0;
+  text-align: justify;
+}
+table.chapter:not(.capitalize) tr td {
+  vertical-align: text-top;
+}
+table.chapter tr:nth-child(1) td:nth-child(1) {
+  font-weight: bold;
+}
+table.chapter tr:nth-child(1) td:nth-child(2) {
+  font-size: 122%;
+  line-height: 110%;
+  direction: rtl;
+  padding-left: 1em;
+}
+table.chapter tr:nth-child(2) td {
+  text-align: right;
+}
+/* First letter of Beresheet */
+table.capitalize tr:nth-child(1) td:nth-child(2)::first-letter {
+  font-size: 150%;
+}
+blockquote {
+  margin: 1em 0 0 0;
+  padding: 0 0 0 1em;
+  border-left: thick solid lightgrey;
+  font-style: italic;
+}
+.title-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100vh;
+  font-family: Arial, sans-serif;
+  color: #2e4057;
+  position: relative;
+}
+.title-page .title {
+  font-size: 64px;
+  font-weight: bold;
+  letter-spacing: 5px;
+}
+.title-page .subtitle::before {
+  content: '';
+  display: block;
+  width: 60px;
+  height: 2px;
+  background-color: #2e4057;
+  margin: 30px auto;
+}
+.title-page .subtitle {
+  font-size: 36px;
+  font-weight: 300;
+  max-width: 80%;
+}
+.title-page img {
+  margin-bottom: 120px;
+}
+.title-page .author {
+  font-size: 18px;
+  font-weight: bold;
+  position: absolute;
+  bottom: 2cm;
+}
+.title-page .edition {
+  font-size: 20px;
+  position: absolute;
+  bottom: 1cm;
+}
+.title-page .year {
+  font-size: 20px;
+  position: absolute;
+  bottom: 0cm;
+}
+.comment {
+  background-color: lightgrey;
+}

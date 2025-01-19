@@ -19,7 +19,7 @@ all: $(URIEL_PDF)
 $(dir $(URIEL_HTML)):
 	mkdir -p $@
 
-$(URIEL_HTML): $(URIEL_MD) files/book/header.html files/book/footer.html Makefile $(dir $(URIEL_HTML))
+$(URIEL_HTML): $(URIEL_MD) files/book/style.css files/book/header.html files/book/footer.html Makefile $(dir $(URIEL_HTML))
 #	convert -size 320x200 xc:gray +noise random -colorspace gray images/white_noise.jpg
 	LANG=en_US.UTF-8 kramdown $< \
 	| cat files/book/header.html - files/book/footer.html \
@@ -28,7 +28,7 @@ $(URIEL_HTML): $(URIEL_MD) files/book/header.html files/book/footer.html Makefil
 $(dir $(URIEL_PDF)):
 	mkdir -p $@
 
-$(URIEL_PDF): $(URIEL_HTML) Makefile $(dir $(URIEL_PDF))
+$(URIEL_PDF): $(URIEL_HTML) files/book/print.css $(dir $(URIEL_PDF))
 	chromehtml2pdf \
 	--executablePath /usr/bin/chromium \
 	--format=A4 \

@@ -1,0 +1,13 @@
+@page {
+  size: A4;
+  margin: 2cm;
+}
+html {
+  -webkit-print-color-adjust: exact;
+}
+.page-break {
+  page-break-before: always;
+}
+table {
+  page-break-inside: avoid;
+}

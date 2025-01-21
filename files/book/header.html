@@ -14,4 +14,6 @@
 <!-- script defer src="//unpkg.com/alpinejs"></script -->
 <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
 </head>
-<body>
+<body x-data="{ openall: false, buttons: true }">
+<button @click="openall = !openall" x-text="openall ? 'Close All' : 'Open All' "></button>
+<button @click="buttons = !buttons" x-text="buttons ? 'Hide buttons' : 'Show buttons' "></button>

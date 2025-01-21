@@ -6,9 +6,9 @@ input = ARGF.read
 output = input
            .gsub(
              /<p>{OPEN}<\/p>\n([^{}]+?)\n<p>{CLOSE}<\/p>/m,
-             '<div class="comments" x-data="{ open: false }"><button @click="open = !open">…</button><div class="comment hidden" :class="{ \'hidden\': !open }">\1</div></div>')
+             '<div class="comments" x-show="buttons" x-data="{ open: false }"><button @click="open = !open">…</button><div class="comment hidden" :class="{ \'hidden\': !open && !openall }">\1</div></div>')
            .gsub(
              /{OPEN}(.+?){CLOSE}/m,
-             '<span class="comments" x-data="{ open: false }"><button @click="open = !open">…</button><span class="comment hidden" :class="{ \'hidden\': !open }">\1</span></span>')
+             '<span class="comments" x-show="buttons" x-data="{ open: false }"><button @click="open = !open">…</button><span class="comment hidden" :class="{ \'hidden\': !open && !openall }">\1</span></span>')
 
 print output

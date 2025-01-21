@@ -11,3 +11,6 @@ html {
 table {
   page-break-inside: avoid;
 }
+.comments button {
+  display: none;
+}

@@ -1,19 +1,18 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords" content="judaism, light" />
 <title>Uriel</title>
-<meta name="author" content="Judka Linkov"/>
+<meta name="author" content="Judka Linkov" />
 <meta name="subject" content="Non-Orthodox Judaism"/>
-<meta name="description" content="Uriel: Looking at the world through the prism of Judaism">
-<meta name="keywords" content="judaism, light"/>
-<meta name="copyright" content="(C) 2018-2024 Judka Linkov <judka@uriel.world>"/>
+<meta name="description" content="Uriel: Looking at the world through the prism of Judaism" />
+<meta name="copyright" content="(C) 2018-2024 Judka Linkov <judka@uriel.world>" />
 <link href="../../../files/book/print.css" rel="stylesheet" media="print" />
 <link href="../../../files/book/style.css" rel="stylesheet" />
 <!-- script defer src="//unpkg.com/alpinejs"></script -->
 <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
 </head>
-<body x-data="{ openall: false, buttons: true }">
-<button @click="openall = !openall" x-text="openall ? 'Close All' : 'Open All' "></button>
-<button @click="buttons = !buttons" x-text="buttons ? 'Hide buttons' : 'Show buttons' "></button>
+<body x-data="{ openall: false, buttons: false }">
+<button @click="buttons = !buttons" @click.shift="openall = !openall" x-text="buttons ? 'Без комментариев' : 'С комментариями' "></button>

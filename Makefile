@@ -47,7 +47,7 @@ $(URIEL_PDF): $(URIEL_HTML) files/book/print.css $(dir $(URIEL_PDF))
 
 # 2. generate HTML with comments
 
-$(URIEL_C_HTML): $(URIEL_MD) comments_md.rb comments_html.rb $(dir $(URIEL_C_HTML))
+$(URIEL_C_HTML): $(URIEL_MD) comments_md.rb comments_html.rb files/book/style.css files/book/header.html files/book/footer.html Makefile $(dir $(URIEL_C_HTML))
 	LANG=en_US.UTF-8 ruby comments_md.rb $< \
 	| LANG=en_US.UTF-8 kramdown \
 	| LANG=en_US.UTF-8 ruby comments_html.rb \

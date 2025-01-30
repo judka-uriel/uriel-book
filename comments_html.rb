@@ -7,9 +7,9 @@ output = input.gsub(/<p>{OPEN}<\/p>\n([^{}]+?)\n<p>{CLOSE}<\/p>/m) do |_match|
   content = $1
   open_p = content =~ /id="postmodern"|id="typography"/ ? 'true' : 'false'
   <<-HTML.chomp
-<div class="comments" x-show="buttons" x-data="{ open: #{open_p} }"><button @click="open = !open">…</button><div class="comment hidden" :class="{ \'hidden\': !open && !openall }">#{content}</div></div>
+<template x-if="buttons"><div class="comments" x-data="{ open: #{open_p} }"><button @click="open = !open">…</button><div class="comment hidden" :class="{ \'hidden\': !open && !openall }">#{content}</div></div></template>
 HTML
 end.gsub(/{OPEN}(.+?){CLOSE}/m,
-  '<span class="comments" x-show="buttons" x-data="{ open: false }"><button @click="open = !open">…</button><span class="comment hidden" :class="{ \'hidden\': !open && !openall }">\1</span></span>')
+  '<template x-if="buttons"><span class="comments" x-data="{ open: false }"><button @click="open = !open">…</button><span class="comment hidden" :class="{ \'hidden\': !open && !openall }">\1</span></span></template>')
 
 print output

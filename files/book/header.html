@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta name="keywords" content="judaism, light" />
 <title>Uriel</title>
 <meta name="author" content="Judka Linkov" />
@@ -15,4 +15,4 @@
 <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
 </head>
 <body x-data="{ buttons: false }">
-<button @click="buttons = !buttons" @click.shift="$dispatch('openall')" x-text="buttons ? 'Без комментариев' : 'С комментариями'"></button>
+<button @click="buttons = !buttons" @click.shift="$dispatch('openall')" x-init="if (buttons) $nextTick(() => {$dispatch('openall')})" :title="buttons ? 'С комментариями' : 'Без комментариев'">…</button>

@@ -2,9 +2,6 @@
   body {
     margin: 2cm;
   }
-  .hidden {
-    display: none;
-  }
 }
 @font-face {
   font-family: 'GreatHebrewFont';
@@ -137,10 +134,10 @@ div.comment {
   border-block: 1px solid lightgrey;
   margin-bottom: 24px;
 }
-div.comment p:first-child, div.comment ul:first-child {
+div.comment p:first-child, div.comment blockquote:first-child, div.comment ul:first-child {
   margin-top: 0;
 }
-div.comment p:last-child, div.comment ul:last-child {
+div.comment p:last-child, div.comment blockquote:last-child, div.comment ul:last-child {
   margin-bottom: 0;
 }
 span.comment {

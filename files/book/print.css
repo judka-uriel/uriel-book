@@ -11,6 +11,12 @@ html {
 table {
   page-break-inside: avoid;
 }
-.comments button {
+img {
+  /* Override max-width: 100% */
+  max-width: 540px !important;
+}
+/* .comments button { */
+/* TODO: restore .comments above after moving <button> from header.html to Jekyll */
+button {
   display: none;
 }

@@ -1,7 +1,7 @@
 @media screen {
+  /* This is only for debugging PDF preview, otherwise use print for PDF. */
   body {
     max-width: 785px;
-    /* TODO: remove after moving to Jekyll */
     margin: 0 auto;
     padding: 1em;
   }
@@ -37,7 +37,7 @@ p, ul, ol {
   margin-right: auto;
 }
 img {
-  max-width: 100%;
+  max-width: 540px;
 }
 figure {
   text-align: center;
@@ -61,14 +61,9 @@ table.chapter tr td {
   padding: 0;
   text-align: justify;
 }
+/* On print PDF it doesn't align nicely the capitalized letter. */
 table.chapter:not(.capitalize) tr td {
   vertical-align: text-top;
-}
-@media screen {
-  /* On print PDF it doesn't align nicely the capitalized letter. */
-  table.chapter.capitalize tr td {
-    vertical-align: text-top;
-  }
 }
 table.chapter tr:nth-child(1) td:nth-child(1) {
   font-weight: bold;
@@ -98,6 +93,7 @@ blockquote {
   align-items: center;
   justify-content: center;
   text-align: center;
+  height: 100vh;
   font-family: Arial, sans-serif;
   color: #2e4057;
   position: relative;
@@ -121,19 +117,23 @@ blockquote {
   max-width: 80%;
 }
 .title-page img {
+  margin-bottom: 120px;
 }
 .title-page .author {
   font-size: 18px;
   font-weight: bold;
-  margin-top: 1em;
+  position: absolute;
+  bottom: 2cm;
 }
 .title-page .edition {
   font-size: 20px;
-  margin-top: 0.5em;
+  position: absolute;
+  bottom: 1cm;
 }
 .title-page .year {
   font-size: 20px;
-  margin-top: 0.5em;
+  position: absolute;
+  bottom: 0cm;
 }
 .comment {
   background-color: #efefef;

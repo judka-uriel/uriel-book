@@ -15,4 +15,4 @@
 <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
 </head>
 <body x-data="{ buttons: false }">
-<button @click="buttons = !buttons" @click.shift="$dispatch('openall')" @dblclick="$nextTick(() => {buttons = true; $dispatch('openall')})" x-init="if (buttons) $nextTick(() => {$dispatch('openall')})" :title="buttons ? 'Без комментариев' : 'С комментариями (Shift/DoubleClick - Open All)'">…</button>
+<button @click="buttons = !buttons" @click.shift="$dispatch('openall')" @dblclick="buttons = true; $nextTick(() => {$dispatch('openall')})" x-init="if (buttons) $nextTick(() => {$dispatch('openall')})" :title="buttons ? 'Без комментариев' : 'С комментариями (Shift/DoubleClick - Open All)'">…</button>

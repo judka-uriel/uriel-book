@@ -12,4 +12,6 @@ HTML
 end.gsub(/{OPEN}(.+?){CLOSE}/m,
   '<template x-if="buttons"><span class="comments" x-data="{ open: false }"><button @click="open = !open" @openall.window="open = true">…</button><span class="comment" x-show="open">\1</span></span></template>')
 
+output.gsub!(/<a href="[^"]+"/, '\& target="_blank"')
+
 print output

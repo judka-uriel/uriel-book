@@ -42,7 +42,7 @@ $(URIEL_PDF): $(URIEL_HTML) files/book/print.css $(dir $(URIEL_PDF))
 	--footerTemplate='<style type="text/css">.pdf-footer { font-size: 15px; font-weight: bold; font-style: italic; width: 100%; text-align: center; color: lightgrey; }</style><div class="pdf-footer"><span class="pageNumber"></span></div>' \
 	--out=$@ \
 	file://$(ROOT_DIR)/$<
-	exiftool -e -overwrite_original -P -PDF:Author="(C) 2018-2025 Judka Linkov CC-BY-4.0" -PDF:Title="Uriel" -PDF:Subject="Non-Orthodox Judaism" -PDF:Keywords="judaism, light" $@
+	exiftool -e -overwrite_original -P -PDF:Author="(C) 2018-2024 Judka Linkov CC-BY-4.0" -PDF:Title="Uriel" -PDF:Subject="Non-Orthodox Judaism" -PDF:Keywords="judaism, light" $@
 	touch -r $@ $(dir $@)
 
 # 2. generate HTML with comments
@@ -63,5 +63,5 @@ $(URIEL_C_PDF): $(URIEL_C_HTML) files/book/print.css $(dir $(URIEL_C_PDF))
 	--footerTemplate='<style type="text/css">.pdf-footer { font-size: 15px; font-weight: bold; font-style: italic; width: 100%; text-align: center; color: lightgrey; }</style><div class="pdf-footer"><span class="pageNumber"></span></div>' \
 	--out=$@ \
 	file://$(ROOT_DIR)/$<
-	exiftool -e -overwrite_original -P -PDF:Author="(C) 2018-2025 Judka Linkov CC-BY-4.0" -PDF:Title="Uriel" -PDF:Subject="Non-Orthodox Judaism" -PDF:Keywords="judaism, light" $@
+	exiftool -e -overwrite_original -P -PDF:Author="(C) 2018-2024 Judka Linkov CC-BY-4.0" -PDF:Title="Uriel" -PDF:Subject="Non-Orthodox Judaism" -PDF:Keywords="judaism, light" $@
 	touch -r $@ $(dir $@)

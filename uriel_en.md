@@ -216,7 +216,7 @@ but rather the order of the stages of programming the Universe.
 <!-- In the commentary of Tosafot on
 Rosh Hashanah [27a](https://www.sefaria.org/Rosh_Hashanah.27a.15?with=Tosafot),
 to reconcile the two opinions whether the world was created
-in Tishrei or in Nisan, Rabbenu Tam said that the creation of the world
+in Tishrei or in Nisan, Rabbeinu Tam said that the creation of the world
 was conceived in the month of Tishrei, yet in reality the world was created
 in the month of Nisan.  So it is possible that the world was programmed in Tishrei,
 while the program was launched in Nisan.
@@ -322,7 +322,7 @@ that coincides with the word מאור (luminous body), meaning
 a [luminous body](https://en.wikipedia.org/wiki/Sunlight)
 that nourishes life on Earth with its light.
 
-And at the most simple level of *pshat*, corresponding to the direct
+And at the most simple level of *peshat*, corresponding to the direct
 meaning, i.e., at the fundamental physical level,
 [light](https://en.wikipedia.org/wiki/Light) is electromagnetic radiation
 perceived by the human eye.  At this level, light represents a flow of
@@ -1395,7 +1395,7 @@ displeasing to G‑d.
 
 After this I began to analyze what exactly constitutes the essence of that
 undesirable action.  Why, despite the fact that this action was not in the
-list of *melachot* compiled by the sages, G‑d nonetheless forbids engaging
+list of melachot compiled by the sages, G‑d nonetheless forbids engaging
 in it on Shabbat.
 
 Everything becomes clear when we recall the words of the Torah that
@@ -1541,7 +1541,7 @@ burdens on the Sabbath day. <!-- including from houses and through gates -->
 During the time of the Second Temple, on Shabbat it was forbidden not only to
 wage war, but also to conduct peace negotiations (Josephus, *The War of the
 Jews* IV [2:3](https://www.sefaria.org/The_War_of_the_Jews.4.2.3)), despite the
-fact that this is not included in the list of 39 melakhot recorded later by the
+fact that this is not included in the list of 39 melachot recorded later by the
 sages in the Mishnah.  And here too it is clear that already then it was known
 that conducting negotiations is connected with making decisions.
 
@@ -1589,7 +1589,7 @@ I emerged from there to the parking lot, the sun had already set.
 
 Then I thought that nothing terrible would happen if, in such an exceptional
 situation, I were to drive a car just once immediately after the onset of
-Sabbath.  All the more so, since in the list of 39 melakhot there is no
+Sabbath.  All the more so, since in the list of 39 melachot there is no
 prohibition against driving a car.  Moreover, I recalled that even in
 Conservative communities, driving a car on Sabbath is permitted.
 <!-- at least for traveling to synagogue -->
@@ -1885,7 +1885,7 @@ wings.  And in mosquitoes, ticks, cockroaches, and serpents dwells Satan. -->
 (Beresheet [24:7](https://www.sefaria.org/Genesis.24.7))
 
 The angels, by the will of G‑d, so skillfully regulated human actions that at
-the very moment when Eliezer arrived at the well, Rivka approached that exact
+the very moment when Eliezer arrived at the well, Rivkah approached that exact
 same place.  This was also aided by Eliezer's prayer requesting that G‑d provide
 a favorable opportunity (Beresheet [24:12](https://www.sefaria.org/Genesis.24.12)).
 After this request, G‑d gave instruction to the angels to influence the actions
@@ -1939,7 +1939,7 @@ his name to Manoah.
 and teach us what we shall do unto the child that shall be born
 (Shoftim [13:8](https://www.sefaria.org/Judges.13.8))
 
-When Manoach and his wife encountered the angel who assisted them in the birth
+When Manoah and his wife encountered the angel who assisted them in the birth
 of Shimshon, this angel appeared as a human, such that they did not immediately
 understand that it was an angel.
 <!-- Although for understandable reasons the commentators sought not to
@@ -1977,7 +1977,7 @@ Not all angels are white and fluffy — some are destined to carry out the dirty
 
 Some of them are messengers of death and are called *mal'akhei mavet*
 (Mishlei [16:14](https://www.sefaria.org/Proverbs.16.14)),
-in sing. *mal'ach ha‑mavet*.  In Iyov [33:22](https://www.sefaria.org/Job.33.22)
+in sing. *mal'ach ha‑mavet*.  In Iyyov [33:22](https://www.sefaria.org/Job.33.22)
 the word *memitim* refers to angels preparing to bring death.
 
 The executor of punishments is called *mashchit*, *mal'ach ha‑mashchit* —
@@ -2066,7 +2066,7 @@ In both cases the word has the definite article — *ha‑satan* (*the satan*),
 which corresponds either to a title treated as a proper noun and capitalized
 as *the Satan*, or to a personal name *Satan*.  But in other places in
 the TaNaKh, as in Bemidbar [22:22](https://www.sefaria.org/Numbers.22.22),
-Tehilim [109:6](https://www.sefaria.org/Psalms.109.6),
+Tehillim [109:6](https://www.sefaria.org/Psalms.109.6),
 Divrei ha‑yamim I [21:1](https://www.sefaria.org/I_Chronicles.21.1),
 this word appears without the article as a generic noun.
 Therefore hereafter *satan* without the definite article meaning
@@ -2096,12 +2096,12 @@ This conclusion was reached on the basis that it was commanded
 not to kill Iyyov — meaning the angel had such capability (but on
 the other hand the Talmud asserts that each angel has one mission).
 
-Midrash Pirkei de‑Rabbi Eliezer
+Midrash Pirkei DeRabbi Eliezer
 [13:2](https://www.sefaria.org/Pirkei_DeRabbi_Eliezer.13.2) identifies it also
 with the angel Samael.  When in the Garden of Eden the serpent (*nachash*)
 persuaded the woman to eat the fruit, the serpent was controlled by Samael.
 This is visually represented as Samael appearing mounted upon the serpent,
-having saddled it like a rider. <!-- see also *Moreh Nevuchim*
+having saddled it like a rider. <!-- see also *Moreh Nevukhim*
 [2:30](https://www.sefaria.org/Guide_for_the_Perplexed,_Part_2.30.14) -->
 
 When in Pesachim [112b](https://www.sefaria.org/Pesachim.112b.6) it is said that
@@ -2407,7 +2407,7 @@ someone else gets ahead and manages to accomplish the same thing that was
 planned.  Also it becomes impossible to maintain a steady pace over an
 extended period when an artificial pause was observed before beginning the work.
 
-Interestingly, the Shulchan Aruch
+Interestingly, the Shulchan Arukh
 Yoreh De'ah [179:2](https://www.sefaria.org/Shulchan_Arukh,_Yoreh_De'ah.179.2)
 mentions customs of not beginning matters on Monday or Wednesday,
 marrying during the full moon, beginning studies with the new month,
@@ -2499,7 +2499,7 @@ is not to be impudent, that is, to make full use of all possibilities,
 but while remaining within the bounds of morality.
 
 <!--
-And the complete opposite of the chutzpan is the *shlimazl* —
+And the complete opposite of the chutzpan is the *shlimazel* —
 one whom Satan torments with particular intensity.
 And nothing remains for him but to submit
 to his fate as an unlucky one and suffer Satan's blows without complaint.
@@ -2685,7 +2685,7 @@ from the world (as with the Haredim) moral development does not occur
 Therefore it is unsurprising that such a problem affected Moshe,
 who spent much time in the wilderness without human companionship,
 <!-- as David later lived in prolonged solitude in the wilderness and in the mountains
-(Shemuel I [23:14](https://www.sefaria.org/I_Samuel.23.14)) and Eliyahu
+(Shmuel I [23:14](https://www.sefaria.org/I_Samuel.23.14)) and Eliyahu
 (Melakhim I [19:4,8](https://www.sefaria.org/I_Kings.19.4-8)) -->
 when he received thoughts directly from G‑d not in verbal form,
 but on a conceptual level.  As it is said in Bemidbar
@@ -3323,7 +3323,7 @@ This hell was for nothing — in childhood I was an exemplary Jewish boy,
 well-educated and intellectually developed, had a wide range of interests,
 did not use profanity, tried to befriend everyone — for example,
 in school everyone divided into rival factions, but I was
-a peacemaker between them, as it is said in Tehilim
+a peacemaker between them, as it is said in Tehillim
 [34:15](https://www.sefaria.org/Psalms.34.15): “Seek peace and pursue it”.
 
 And after returning from school each day, a nightmare awaited me at home,
@@ -3351,7 +3351,7 @@ after such terrible abuse?  I assert that not only can one, but one must.
 Despite all these horrors, I forgave my mother everything, and when later
 she fell ill with an incurable disease and lay in the hospital, bidding
 farewell to life, when the doctors had already measured out the precise number
-of remaining weeks, I beseeched G‑d that G‑d would not punish my mother, but
+of remaining weeks, I besought G‑d that G‑d would not punish my mother, but
 would heal her.  And a miracle occurred: my mother recovered — to the amazement
 of the doctors, and then continued to live at home, and I visited her, as is
 proper according to the commandments of the Torah.
@@ -3359,7 +3359,7 @@ proper according to the commandments of the Torah.
 But when several years before this my father fell ill with the same disease,
 instead of turning to G‑d with a request for help in recovery, I bought up
 scientific books on medicine and biology, and during the several weeks while my
-father was slowly dying, I strived to understand how to defeat cancer.
+father was slowly dying, I strove to understand how to defeat cancer.
 <!-- The problem is that the program breaks down, and cells begin to multiply uncontrollably. -->
 But I did not manage to come up with anything in time.  Therefore, the
 following conclusion follows from this: we must strive to utilize all
@@ -3591,7 +3591,7 @@ such a scene that the majority had overslept, and for a long time stragglers
 gradually arrived, sleepy and sleep-deprived after New Year's night.  But
 I don't blame anyone.  The only thing I wanted to note is that in this matter
 I am more devoted to Judaism, since for decades already I have not followed this
-ritual. <!-- since *avoda zara* -->  But I observed all the Jewish holidays —
+ritual. <!-- since *avodah zarah* -->  But I observed all the Jewish holidays —
 not Novigod, but our Jewish Rosh ha‑Shanah.
 <!-- And instead of “Na zdorovie” → “Lehaim!” -->
 
@@ -3738,7 +3738,7 @@ For in the *Laws of Forbidden Intercourse*
 it is clearly stated that before conversion they carefully examine whether the
 gentile requests to be accepted among the Jews because he has set his eye upon
 a Jewish woman.  And a gentile woman is examined whether she has set her eye
-upon a Jewish man.  And in the Shulchan Aruch
+upon a Jewish man.  And in the Shulchan Arukh
 Yoreh De'ah [268](https://www.sefaria.org/Shulchan_Arukh,_Yoreh_De'ah.268.12)
 all the same is stated.
 Or perhaps they meant that I should marry a gentile woman?
@@ -4054,7 +4054,7 @@ as steward, he could also have been a physician, just as, for example,
 Rambam simultaneously fulfilled the duties of a physician and was the head
 of the community.
 
-But the midrash Pirkei de‑Rabbi Eliezer
+But the midrash Pirkei DeRabbi Eliezer
 [29:2](https://www.sefaria.org/Pirkei_DeRabbi_Eliezer.29.2) asserts that Avraham
 summoned Shem, son of Noach, and on Yom Kippur Shem performed circumcision upon
 Avraham and upon his son, Ishmael.  In any case, the circumcision was performed
@@ -4073,8 +4073,8 @@ The formation of the Jewish people continued only through Yitzchak
 (Beresheet [17:19](https://www.sefaria.org/Genesis.17.19),
 [21:12](https://www.sefaria.org/Genesis.21.12)),
 because he was the first Jew through his father.
-And the formation of the foundation of the Jewish people was completed by Ya'akov
-who was the first Jew through his grandfather.  Ya'akov received the name Yisrael
+And the formation of the foundation of the Jewish people was completed by Yaakov
+who was the first Jew through his grandfather.  Yaakov received the name Yisrael
 (Beresheet [32:29](https://www.sefaria.org/Genesis.32.29)),
 therefore for his descendants the concept *zera Yisrael* (seed of Yisrael)
 was subsequently used.
@@ -4607,7 +4607,7 @@ uncircumcised male who does not circumcise the flesh of his foreskin — that so
 shall be cut off from his people, for he has broken My covenant.
 (Beresheet [17:10-14](https://www.sefaria.org/Genesis.17.10-14))
 
-Here it is stated with utmost clarity at the level of *pshat* that the
+Here it is stated with utmost clarity at the level of *peshat* that the
 obligation to observe the commandment of circumcision applies to all Jews who
 are *of your seed* — *mi‑zarakha*.  One who is of your seed — these are Jews,
 while those purchased from foreign nations who are not of your seed must undergo
@@ -4648,7 +4648,7 @@ therefore choose life, so that you may live, you and your seed
 (Devarim [30:19](https://www.sefaria.org/Deuteronomy.30.19))
 
 > Seed of Avraham, His servant, children of Yaakov, His chosen ones!
-(Tehilim [105:6](https://www.sefaria.org/Psalms.105.6))
+(Tehillim [105:6](https://www.sefaria.org/Psalms.105.6))
 
 > Seed of Yisrael, His servant, sons of Yaakov, His chosen ones!
 (Divrei ha‑yamim I [16:13](https://www.sefaria.org/I_Chronicles.16.13))
@@ -4846,17 +4846,17 @@ Rabbi Nehemiah that the sons of Yaakov had wives from the daughters of Canaan.
 (Beresheet [41:45](https://www.sefaria.org/Genesis.41.45))
 
 > And unto Yosef were born two sons, whom Asenat the daughter of the priest
-of On bore unto him.  And Yosef called the name of the firstborn Menasheh.
+of On bore unto him.  And Yosef called the name of the firstborn Manasseh.
 And the second he called Efraim.
 (Beresheet [41:50-52](https://www.sefaria.org/Genesis.41.50-52))
 
-> And unto Yosef were born in the land of Egypt Menasheh and Ephraim,
+> And unto Yosef were born in the land of Egypt Manasseh and Ephraim,
 whom Asenat the daughter of Poti-phera priest of On bore unto him
 (Beresheet [46:20](https://www.sefaria.org/Genesis.46.20))
 
 The progenitors of the tribes were born to a non-Jewish mother, but were Jews
 through their father.  Their mother, though she was the daughter of an Egyptian
-priest, did not turn them away from Judaism.  One of the sons of Menashe was
+priest, did not turn them away from Judaism.  One of the sons of Manasseh was
 born of an Aramean concubine
 (Divrei ha‑yamim I [7:14](https://www.sefaria.org/I_Chronicles.7.14)),
 but he was a Jew.  <!-- by grandfather -->
@@ -5123,14 +5123,14 @@ rather specific names are cited for those who devised this connection to words
 from the Torah.  Such retrofitting of new prohibitions and stringencies after
 the fact (a posteriori) is called
 *[asmachta](https://en.wikipedia.org/wiki/Asmachta_(Talmudical_hermeneutics))* —
-searching for vague allusions at the level of drash in the text of the Torah
+searching for vague allusions at the level of derash in the text of the Torah
 to justify some halakhic ruling, in order to establish for it the status of
 *de'oraita* — a law of the Torah.  Yet allegory does not nullify the plain meaning;
-*drash* cannot nullify *peshat*, that is, the text of the Written Torah cannot be
+*derash* cannot nullify *peshat*, that is, the text of the Written Torah cannot be
 interpreted in such a way as to nullify the plain meaning.  Transmission of
 Jewishness through the father is *peshat*, the plain meaning in its direct sense.
 The claim of transmission through the mother is an attempt to find a hidden
-meaning at the level of drash, and this constitutes additions to the Torah.
+meaning at the level of derash, and this constitutes additions to the Torah.
 This is confirmed in Shabbat [63a](https://www.sefaria.org/Shabbat.63a.14):
 *ein mikra yotze mi‑yedei pshuto* — Scripture does not depart from its plain
 meaning.  <!-- It is also interesting that Rav Kahana remarks in this very
@@ -5354,7 +5354,7 @@ as this would complicate matters even further. -->
 Also it must be noted that in an analogous situation, grandchildren through
 a Jewish son and a non-Jewish mother were called sons of a Jew in Beresheet
 [48:5](https://www.sefaria.org/Genesis.48.5): “And now your two sons are mine”.
-Thus spoke Yaakov to Yosef concerning his grandchildren Ephraim and Menasheh,
+Thus spoke Yaakov to Yosef concerning his grandchildren Ephraim and Manasseh,
 who were born of a non-Jewish mother.  <!-- And in the book of Ruth, a grandson
 through a Jewish father and a Moabite mother was called the son of Naomi. -->
 
@@ -5548,7 +5548,7 @@ who is born in your house and him who is bought with money of any foreigner
 who is not of your seed.  But the Orthodoxes violate this commandment when they
 refuse to circumcise zera Yisrael.
 
-The Shulchan Aruch in Yoreh De'ah
+The Shulchan Arukh in Yoreh De'ah
 [266:13](https://www.sefaria.org/Shulchan_Arukh,_Yoreh_De'ah.266.13) states that
 a child born to a Jewish father and a non-Jewish mother is not circumcised on
 the Sabbath.  This means that on other days one must circumcise him as a Jew.
@@ -5581,9 +5581,9 @@ ancestors, they thereby take upon themselves the prerogative of G‑d, for it is
 written in the Torah that only G‑d may punish the children and grandchildren of
 Jews, but only those who hate Him.
 
-But even Shulchan Aruch Even ha‑Ezer
+But even Shulchan Arukh Even ha‑Ezer
 [16](https://www.sefaria.org/Shulchan_Arukh,_Even_HaEzer.16.1)
-based on Hilchot Issurei Biah
+based on Hilkhot Issurei Biah
 [12](https://www.sefaria.org/Mishneh_Torah,_Forbidden_Intercourse.12.1) makes
 no distinction between cases of marriage between a Jewish man and a non-Jewish
 woman and marriage between a Jewish woman and a non-Jewish man.  In both cases
@@ -5726,7 +5726,7 @@ But Jews through the father had no such problem, because Jews by paternal lineag
 retained their affiliation with their tribe.
 
 The situation then unfolded as follows: a proselyte from the camp of *erev rav*
-came to the camp of b'nei Yisrael, i.e. <!-- *ezrachim* --> the native
+came to the camp of bnei Yisrael, i.e. <!-- *ezrachim* --> the native
 inhabitants, and attempted to pitch his tent in the camp of his mother in the
 tribe of Dan.  But the Israelites from the tribe of Dan told him that after
 undergoing conversion his father is considered to be Avraham, and not the
@@ -5832,7 +5832,7 @@ further said that it is better for a letter to be torn from the Torah than for
 the Heavenly Name to be profaned publicly.  And when Orthodoxes consider it
 their sacred duty to terrorize Jews by paternal lineage, using the Torah
 to justify their actions, this is the very essence of the desecration
-of the Name of the Most High — *chilul ha‑Shem*.
+of the Name of the Most High — *chillul ha‑Shem*.
 
 Besides the proof of transmission of Jewish identity through the father's house,
 the determination of Jewish identity through the father is also indicated by the
@@ -5850,8 +5850,8 @@ by all Jews.
 When a Jew only through the mother says “G‑d of my father”, he refers to his
 idolatrous father, and this is already paganism.  Therefore in this case
 a conversion would be needed, so that the non-Jewish father would be replaced
-by Avraham Avinu.  But even in this case they cannot mention Yitzchak and Ya'akov
-as fathers — Yitzchak and Ya'akov are in a different genealogical line of
+by Avraham Avinu.  But even in this case they cannot mention Yitzchak and Yaakov
+as fathers — Yitzchak and Yaakov are in a different genealogical line of
 descendants, when only Avraham is considered the father of converts.
 
 And now such an absurdity has been adopted, that when a person is Jewish through
@@ -5871,7 +5871,7 @@ generation, counting from Avraham Avinu.
 Therefore I deeply sympathize with Jews only through the maternal line, for whom
 such a problem exists.  I cannot imagine what they feel when reciting this
 prayer.  To eliminate their discrimination, it should be permitted to add
-mentions of the Matriarchs to the prayer — *imoteinu* Sarah, Rivka, Rachel, Leah.
+mentions of the Matriarchs to the prayer — *imoteinu* Sarah, Rivkah, Rachel, Leah.
 
 Generally, the history of discussions on this topic revolves around the
 following Torah passages concerning the festive bringing of *bikkurim*
@@ -5992,8 +5992,8 @@ a truth established and earned through my sufferings: -->
 
 **BY THE MOTHER — DE‑RABBANAN — LAW OF THE SAGES**
 
-Through the father — peshat, through the mother — drash.
-But drash does not nullify peshat
+Through the father — peshat, through the mother — derash.
+But derash does not nullify peshat
 (Shabbat [63a](https://www.sefaria.org/Shabbat.63a.14)).
 Therefore a Jew is one who is either a patrilineal descendant of a Jew,
 or a matrilineal descendant of a Jewess, or both.
@@ -6179,7 +6179,7 @@ I distinctly sensed how an additional Jewish soul sat firmly inside me. -->
 <!-- And over time the Jewish part of my personality became dominant -->
 
 The fact that the Jewish soul is transmitted through the paternal chromosome
-is confirmed in Yehezkel [18:4](https://www.sefaria.org/Ezekiel.18.4):
+is confirmed in Yechezkel [18:4](https://www.sefaria.org/Ezekiel.18.4):
 “As the soul of the father, so also the soul of the son — they are Mine”.
 
 The problem is that due to profound ignorance in the Middle Ages,
@@ -6511,7 +6511,7 @@ and the Torah G‑d wrote by the hand of Moshe.
 
 In *Moreh Nevukhim* [1:65-66](https://www.sefaria.org/Guide_for_the_Perplexed,_Part_1.65.4)
 Rambam, in the vein of rationalism, raises the question of comparing the
-creation of the heavens and the tablets.  Evidently, the words of Tehilim
+creation of the heavens and the tablets.  Evidently, the words of Tehillim
 [33:6](https://www.sefaria.org/Psalms.33.6) “By the word of the L‑rd were the
 heavens made” can be understood to mean that the Universe was created by G‑d's
 program, i.e., referring to the program of evolution by which the world
@@ -6650,7 +6650,7 @@ regarding the laws arose for him, and after Moshe's death, due to grief,
 Yehoshua forgot another 3000 halakhot.
 
 And later even more important laws were forgotten.
-For example, in the entire Tanakh there was not a single case where
+For example, in the entire TaNaKh there was not a single case where
 a complete prohibition of military action made it impossible to defend on the Sabbath,
 and this would have led to the defeat of the defending Jews.  The only case
 was described in the book of Yehoshua [10](https://www.sefaria.org/Joshua.10),
@@ -6895,7 +6895,7 @@ where absolute power belongs to the rabbis.
 
 And in the times of the kings it took the form of a theocratic monarchy.
 Nevertheless, in that social order, as described in the book of Devarim
-and realized in Shofetim, there was
+and realized in Shoftim, there was
 a [separation of powers](https://en.wikipedia.org/wiki/Separation_of_powers).
 Executive power belonged to the king as the secular ruler.
 Legislative power — to the sages.  Judicial power — to the priesthood.
@@ -7215,6 +7215,6 @@ Temple a gradual detachment from reality occurred, which reached its apogee in
 Rashi's aggadic commentaries.  Already the very first commentary demonstrates
 a purely utilitarian attitude toward the Torah — from the Torah are expected not
 instructive stories for spiritual development, but only a detailed program of
-actions to be performed daily, like a list of rules in the Shulchan Aruch with
+actions to be performed daily, like a list of rules in the Shulchan Arukh with
 detailed instructions.
 {: #midrash title="midrashim"}

@@ -553,6 +553,7 @@ thought through.  So both in terms of execution deadlines and quality,
 there are no complaints.  And since everything works well, it is better
 not to change anything.
 
+<!--
 The commandment to walk in the ways of G‑d and to emulate Him
 in all things is closely connected with the theme of
 [postmodernism](https://en.wikipedia.org/wiki/Postmodernism).
@@ -565,16 +566,16 @@ exterior.  As spirituality manifests when one endeavors to see the world through
 the eyes of one's neighbor in order to better understand their worldview, so too
 does an outside perspective on our world help one to better comprehend it.
 
-The opposite of postmodernism is immediacy, i.e., immediate participation
-in real life.  This opposition of “practice vs theory” is evident in the
-example of the dichotomy of parts of tradition:
+The opposite of postmodernism is directness, immediacy, i.e., immediate
+participation in real life.  This opposition of “practice vs theory”
+is evident in the example of the dichotomy of parts of tradition:
 
 - halakhic: when one directly practices the observance of traditions;
 - aggadic: when one studies from the outside, e.g. the study of religion
   and its history is also one of the manifestations of postmodernism.
 
-We cannot say that only one part should be retained while the other must be
-avoided.  Living as an active player in real life, people can be both
+We cannot say that only one part should be retained while the other must
+be avoided.  Living as an active player in real life, people can be both
 compassionate and cruel — whereas in the past people were primarily cruel.
 And viewing life from the sidelines as a detached observer, one can be both
 compassionate and cruel, when irony reaches the point of cold cynicism.
@@ -591,7 +592,6 @@ as the ability to view one's problems with detachment and impartiality and the
 readiness to laugh at them.  And through laughter and irony it becomes easier
 to cope with the “unbearable lightness of being”.
 
-<!--
 When the Haredim withdraw from life and
 [seclude themselves](https://en.wikipedia.org/wiki/Escapism)
 in their ghetto, when even in Israel they live as in galut, which corresponds to
@@ -601,11 +601,10 @@ presupposes.  And when they attempt to apply historically obsolete
 customs in the present time, this is not postmodernism, but simply
 [historical reenactment](https://en.wikipedia.org/wiki/Historical_reenactment)
 and [cosplay](https://en.wikipedia.org/wiki/Cosplay).
--->
 
 Therefore it is desirable to maintain a balance between immediacy and
 postmodernism.  The level of postmodernism needs to be self-regulated,
-so that it remains moderate, so that it does not reach cynicism and denial of
+so that it remains moderate and does not reach cynicism and denial of
 moral values.  Through responsible actions in relationships between people,
 the emotional and physical sefirot are primarily filled — just as tragicomedies
 realize *tiferet*, which organically unites the *gevurah* of tragedies and the
@@ -616,7 +615,7 @@ understanding of problems and situations, and with the filling of the
 sefirah *Chokmah* comes the solution to problems.
 
 In recent times, people weary of postmodernist irony strive to return
-to the beautiful era of simple human relationships through
+to the beautiful era of simple-hearted human relationships through
 *[new sincerity](https://en.wikipedia.org/wiki/New_sincerity)*.
 All of this occurs within the framework of a new concept called
 *[metamodernism](https://en.wikipedia.org/wiki/Metamodernism)*, which represents
@@ -624,6 +623,7 @@ an oscillation like the swinging of a pendulum between the earnest sincerity of
 modernism and the mocking irony of postmodernism, and even their synthesis
 into ironic sincerity.  This is what I have attempted to maintain throughout
 this book.
+-->
 
 <!--
 In this book I often provide links to Wikipedia, as it is a good
@@ -741,9 +741,10 @@ For what purpose was such enormous redundancy created?
 First of all, it's beautiful.  The bottomless heavens with countless
 myriads of stars overwhelm us with their beauty — Carl Sagan calculated
 that in the entire Universe there are more stars than grains of sand on Earth.
-<!-- And the number of cells in living organisms (10<sup>30</sup>) exceeds
-the number of grains of sand on Earth by a trillion times, and is a million
-times greater than the number of stars in the Universe. -->
+<!-- And the number of cells in living organisms 10<sup>30</sup>
+(the human body alone contains 100 trillion cells) exceeds the number
+of grains of sand on Earth by a trillion times, and is a million times
+greater than the number of stars in the Universe. -->
 It strikes the imagination by the abundance of diverse forms of life
 on Earth, where the most resilient differ in size from the largest
 polar bears, capable of swimming hundreds of kilometers in icy water,
@@ -1107,7 +1108,7 @@ for the soul life is like a dream, after which the soul awakens, remembers
 and analyzes the content of the “dream”, that is, the life that was lived.
 And according to the results comes the Judgment.
 
-The Sages held that the Heavenly Court judges a human on the day of their death.
+The sages held that the Heavenly Court judges a human on the day of their death.
 The righteous one, whose good deeds outweigh their sins, is immediately received
 into *Gan Eden*.  And the sinner, whose sins outweigh, is sent to *Gehinnom*.
 
@@ -1372,7 +1373,7 @@ the program's source code.  Using small font, I managed to fit the entire text
 of the program that needed to be completed onto the screen.  Thus, I could
 look at the screen without touching the keyboard, which even according to
 the strictest opinions is not considered work and does not fall into any of the
-39 categories of *melachot*.  For example, in precisely the same way synagogues
+39 categories of *melakhot*.  For example, in precisely the same way synagogues
 have computer screens hanging on the walls showing information about prayer
 times, and these screens continue displaying content during Shabbat, and everyone
 can look at them and receive information from the screen.  For this same reason
@@ -1395,7 +1396,7 @@ displeasing to G‑d.
 
 After this I began to analyze what exactly constitutes the essence of that
 undesirable action.  Why, despite the fact that this action was not in the
-list of melachot compiled by the sages, G‑d nonetheless forbids engaging
+list of melakhot compiled by the sages, G‑d nonetheless forbids engaging
 in it on Shabbat.
 
 Everything becomes clear when we recall the words of the Torah that
@@ -1541,7 +1542,7 @@ burdens on the Sabbath day. <!-- including from houses and through gates -->
 During the time of the Second Temple, on Shabbat it was forbidden not only to
 wage war, but also to conduct peace negotiations (Josephus, *The War of the
 Jews* IV [2:3](https://www.sefaria.org/The_War_of_the_Jews.4.2.3)), despite the
-fact that this is not included in the list of 39 melachot recorded later by the
+fact that this is not included in the list of 39 melakhot recorded later by the
 sages in the Mishnah.  And here too it is clear that already then it was known
 that conducting negotiations is connected with making decisions.
 
@@ -1589,7 +1590,7 @@ I emerged from there to the parking lot, the sun had already set.
 
 Then I thought that nothing terrible would happen if, in such an exceptional
 situation, I were to drive a car just once immediately after the onset of
-Sabbath.  All the more so, since in the list of 39 melachot there is no
+Sabbath.  All the more so, since in the list of 39 melakhot there is no
 prohibition against driving a car.  Moreover, I recalled that even in
 Conservative communities, driving a car on Sabbath is permitted.
 <!-- at least for traveling to synagogue -->
@@ -3319,11 +3320,11 @@ with her nails, tear hair from my head — such unbearable torture and beatings
 continued every day.  I went to school with bruises and scars
 on my body all the time, trying to hide the wounds.
 
-This hell was for nothing — in childhood I was an exemplary Jewish boy,
-well-educated and intellectually developed, had a wide range of interests,
-did not use profanity, tried to befriend everyone — for example,
-in school everyone divided into rival factions, but I was
-a peacemaker between them, as it is said in Tehillim
+This hell was for no reason — in my childhood I was an exemplary Jewish boy,
+educated and intellectually developed, well-behaved, did not use profanity,
+had a wide range of interests, tried to befriend everyone —
+for example, in school everyone divided into rival factions,
+but I was a peacemaker between them, as it is said in Tehillim
 [34:15](https://www.sefaria.org/Psalms.34.15): “Seek peace and pursue it”.
 
 And after returning from school each day, a nightmare awaited me at home,
@@ -4176,8 +4177,8 @@ a little — and from 7 o'clock in the morning came earlier than anyone and
 continued studying.  And all night I was so alert that I could even quickly
 calculate the years of shemitah in my mind. -->
 
-Ruth became a Jewess, despite being a Moabite — a representative of a nation
-whose kinship was so strictly forbidden by the Torah that even their descendants
+Ruth became a Jewess, despite being a Moabite — a member of a nation whose
+kinship was so strictly forbidden by the Torah that even their descendants
 in the tenth generation were not accepted:
 
 > An Ammonite or a Moabite shall not enter into the assembly of the L‑rd
@@ -5038,13 +5039,13 @@ the child a mamzer.
 
 Later another rabbi proposed to consider children of a non-Jew and a Jewess “tainted”,
 <!-- as in the expression “tainted reputation” — “pagum”, -->
-<!-- genetically --> “spoiled”, “defective”,
+<!-- genetically --> “flawed”, “defective”,
 and such defective children are forbidden marriages with kohanim.
 
 The general framework within which the discussions proceeded is as follows:
 when there exists a prohibition on certain types of relations, do children born
 as a result of such forbidden relations have the status of mamzer, and do they
-inherit from the mother her status: the status of being in bondage, is there
+inherit from the mother her status: the status of being in slavery, is there
 an obligation of levirate marriage, etc.
 
 In Mishnah Kiddushin [3](https://www.sefaria.org/Mishnah_Kiddushin.3.12) by the
@@ -5687,7 +5688,7 @@ Though many by mother have nothing Jewish at all. -->
 
 One of the confirmations that a son is raised by the father is brought
 in Pesachim [49](https://www.sefaria.org/Pesachim.49a.12).
-The Sages taught that a man should strive to take as wife the daughter of
+The sages taught that a man should strive to take as wife the daughter of
 a Torah scholar, but under no circumstances the daughter of an *am‑ha'aretz*
 (here this is a synonym for ignoramus).  For if the children lose their father,
 then the mother will undertake the education of the children, and then it depends
@@ -6407,7 +6408,7 @@ the Orthodoxes train prospective converts to violate the Sabbath by asking them
 to work on Shabbat as *shabbos goyim*, thereby transgressing the Torah's
 prohibition against permitting strangers to work within a Jew's domain.
 Therefore, when they asked me to violate the Sabbath, I became frightened that
-perhaps they were testing me in this way, as in an examination, to see whether
+perhaps they were testing me in this way, like during an exam, to see whether
 I was truly capable of violating the Sabbath.
 
 Then I said that I would go look for a cleaning woman to turn off the air
@@ -7048,11 +7049,11 @@ his grandfather, turned the mezuzot horizontally.  Therefore as a compromise
 (based on the opinion of Ramo in Shulchan Arukh Yoreh De'ah
 [289:6](https://www.sefaria.org/Shulchan_Arukh,_Yoreh_De'ah.289.6))
 the intermediate orientation of the mezuzah is now accepted:
-neither vertical nor horizontal, but tilted —
+neither vertical nor horizontal, but on an angle in a slanted position —
 <!-- as [italic](https://en.wikipedia.org/wiki/Italic_type) -->
 just as after the rabbis' dispute in
 Bava Metzia [59b](https://www.sefaria.org/Bava_Metzia.59b.3)
-the wall remained in a tilted position.
+the wall remained in a slanted position. <!-- tilted, inclined, leaning -->
 
 <!-- Why not combine the two opinions in exactly the same way and make one
 tefillin with two sets of passages, or simply duplicate one passage:
@@ -7106,9 +7107,9 @@ Therefore, this joke should more accurately look something like this:
 Moshe was transported from his own time several centuries into the future and
 found himself in Rabbi Akiva's beit midrash at a lesson on studying Halakhah.
 Moshe sat in the back row and began listening to the teacher's explanations.
-Examinations were approaching, and it was necessary to learn all the new laws
+Exams are approaching, and it was necessary to learn all the new laws
 in time, but the reasoning about deriving new laws “from the crowns above the
-letters” was incomprehensible.  Then he felt weak, and his strength left him.
+letters” is incomprehensible.  Then he felt weak, and his strength left him.
 So he raises his hand and asks where such an enormous multitude of new laws
 came from.  And they answer him that this is Halakhah received by Moshe at Sinai.
 And then Moshe replies with resignation: “You know what?  Have it your way.”
@@ -7119,7 +7120,7 @@ he would be even more astounded by the innovations of the Orthodoxes. -->
 Only this is not a joke but rather an aggadah — from the Talmudic tractate
 Menachot [29b](https://www.sefaria.org/Menachot.29b.3), where it states
 that Moshe reconciled himself to these additions.  But if we attempt to
-impartially imagine Moshe's feelings, his indignation is understandable when
+impartially imagine Moshe's feelings, his confusion is understandable when
 from his words “You shall not boil a kid in its mother's milk” many laws are
 derived in the beit midrash concerning the separation of meat and dairy.
 Therefore we can continue this joke further so that as in the telephone game
@@ -7212,9 +7213,3025 @@ And the light that illuminates the world and Israel is the Written Torah. -->
 
 Based on written sources, we can observe how after the destruction of the
 Temple a gradual detachment from reality occurred, which reached its apogee in
-Rashi's aggadic commentaries.  Already the very first commentary demonstrates
-a purely utilitarian attitude toward the Torah — from the Torah are expected not
-instructive stories for spiritual development, but only a detailed program of
-actions to be performed daily, like a list of rules in the Shulchan Arukh with
-detailed instructions.
+Rashi's aggadic commentaries.  Already the very first commentary discusses
+a purely utilitarian attitude toward the Torah where from the Torah are expected
+not instructive stories for moral development, but only a detailed program of
+household activities to be performed daily, like a list of rules in the
+Shulchan Arukh with detailed instructions.
 {: #midrash title="midrashim"}
+
+When I began to familiarize myself with Rashi's commentaries on the Torah,
+I approached the matter impartially and with full seriousness.  Until then
+I had heard only positive reviews that extolled Rashi's commentaries as the
+pinnacle of wisdom.  Everyone advised that if one had the opportunity to study
+the commentaries of a single author, one should prefer Rashi, whose commentaries
+should suffice for a complete understanding of the Torah.  These approving
+statements created such an impression that these commentaries form an
+inseparable whole with the text of the Torah.  Therefore it is understandable
+with what reverential awe I began to study them.  I had not even a thought of
+criticizing or attempting to seek out flaws in them.  My sole aim was to
+understand and remember.
+
+Therefore, after beginning to read, I was not even troubled by such immoral
+passages where Adam was accused of bestiality with every moving creature until
+he was satisfied with Eve.  Or the commentary where Rashi in the parashah about
+the flood wrote that when after the flood Noah became drunk and uncovered
+himself, Ham either castrated his father, or raped him, or both together.
+Such a spectacular conclusion was drawn from the words that Ham saw his father's
+nakedness, called his brothers, and for this his descendants were cursed.
+
+However, by reading this passage according to peshat, it is clear that
+what actually happened was that the son exposed his father's shame to mockery,
+ran to call his brothers, so they could laugh together at their father's disgrace,
+i.e., he displayed an extreme degree of disrespect toward parents.  As is
+clearly seen, this incident was simply an illustration of the important
+commandment to honor parents — Ham's brothers demonstrated how this commandment
+should be fulfilled: when they learned what had happened, they approached
+without looking at their father, covered him, and for fulfilling the commandment
+received a blessing.  But the descendant of the insolent Ham, Canaan, was cursed
+for violating this commandment.
+
+But regarding commentaries that defile the memory of ancestors, the question
+arises whether such commentaries constitute a manifestation of disrespect toward
+ancestors and consequently a violation of the commandment to honor them.  The
+same question arises upon reading commentaries asserting that avimelech saw all
+the intimate details of the Patriarchs' and Matriarchs' relations, etc.  Do not
+such perverted conceptions <!-- (exhibitionism) --> of situations constitute
+a sin of disrespect toward ancestors akin to the sin of the moral degenerate
+Ham, who mocked his father's nakedness?  Does this not violate the commandment
+“Their nakedness you shall not uncover”? <!-- and the corresponding rebuke
+of the prophet in Yehezkel [22:10](https://www.sefaria.org/Ezekiel.22.10):
+“The nakedness of a father they have uncovered in you” -->
+(Though in a figurative sense this acquired another meaning as relations
+with one's father's wife or concubine, etc.)
+<!-- Likewise in Vayikra [18:9](https://www.sefaria.org/Leviticus.18.9)
+it is said: “Do not uncover the nakedness of your sister, daughter of your
+father or daughter of your mother”, i.e., descent through the father and
+mother are equated.  The same equality of father and mother is in Devarim
+[27:22](https://www.sefaria.org/Deuteronomy.27.22): "Cursed be he who lies
+with his sister, the daughter of his father or the daughter of his mother".
+Also in Vayikra [18:11](https://www.sefaria.org/Leviticus.18.11):
+“Do not uncover the nakedness of the daughter of your father's wife —
+she is your father's offspring, she is your sister”, i.e., through
+the father in any case she is called a sister. -->
+
+Nevertheless, such unbridled comments did not provoke any indignation in me.
+Even such immoral acts as the case described in Berakhot
+[62a](https://www.sefaria.org/Berakhot.62a.3), when a student of a rabbi hid
+under his teacher's bed and spied on what he was doing with his wife at night,
+did not evoke condemnation.  It's possible to find an explanation for such
+improper behavior.  Perhaps he wanted to learn how to fulfill the commandment
+to be fruitful and multiply.  Or perhaps he wanted to observe
+a practical example of using the hole in the sheet
+(JT Yevamot [1:1](https://www.sefaria.org/Jerusalem_Talmud_Yevamot.1.1.6)).
+In such cases, it might be agreed that for self-education,
+the end justifies the means.  <!-- In the modern world, an analogous act would
+be, for example, a violation of copyright, when a paid textbook is illegally
+downloaded for free for self-education, etc. -->
+“The timid person can not learn”, as Pirkei Avot
+[2:5](https://www.sefaria.org/Pirkei_Avot.2.5) instructs, therefore sometimes
+chutzpah is needed to acquire knowledge.  In general, I treated all these cases
+of aberrations with tolerance as long as they remained logical and meaningful.
+
+But the turning point came while reading the commentaries after stumbling
+upon a completely meaningless and illogical comment.  The last straw
+<!-- when quantity transformed into quality, -->
+was reading the commentary on the passage from
+Beresheet [19:3](https://www.sefaria.org/Genesis.19.3?with=Rashi),
+when before the destruction of Sodom the angels came to Lot, and Lot baked
+unleavened bread for them.  It would seem everything was perfectly clear:
+Lot was hurrying to feed his guests, and therefore quickly made matzah
+in 18 minutes.  In the TaNaKh such cases occur repeatedly: for example,
+in Shmuel I [28:24](https://www.sefaria.org/I_Samuel.28.24) it is recounted
+how due to lack of time bread had to be baked urgently, and matzah resulted.
+A similar case was described in Shoftim [6:19](https://www.sefaria.org/Judges.6.19)
+etc.  Just as during the hasty Exodus from Egypt there was no time
+to prepare leavened bread, so they baked matzah.
+
+But in his commentary on this verse, Rashi wrote utterly absurd words: “It was Pesach”.
+Many years remained until the Exodus from Egypt and Pesach, yet Lot already had Pesach!
+Like the joke: everywhere else it's Sabbath, but for us it's still Friday.
+It resembled a children's game of word associations — one child says “matzah”,
+and the other continues by association: “Pesach”.  It was unexpected to receive
+such a primitive set of words from an authoritative commentator.
+<!-- This is as if a respected author were delivering a serious lecture, and
+suddenly in the middle performed an irresponsible stunt — put on a clown's cap
+and shouted out: “It was Pesach, hee-hee”.  -->
+
+In modern internet etiquette, this problem is resolved by using emoticons,
+which are added to warn that the author intends to entertain the reader with
+jokes.  Therefore, it would be understandable if the phrase looked like this:
+“It was Pesach ;-)”. <!-- or “LOL” -->  Then everyone would see that the author
+is trying to joke, hinting that the comment is not serious, and therefore we
+should not take this comment literally.  <!-- In this book, such statements
+are placed separately from the main text in comments.  -->
+In this case, it would be possible to be more lenient toward such joking.
+
+I could understand it even if the very same comment had been expressed in
+slightly different words, for example: “Lot baked matzot, as later done in the
+Exodus”.  But instead, it was unequivocally stated that Lot observed a festival
+celebrated in honor of the Exodus from Egypt.
+
+I could devise various justifications for this absurd commentary.  Had the
+Orthodoxes not rejected me, I would defend the sages against the attacks of
+critics, and I would explain this commentary as follows: the word *Pesach*
+literally means “passed over”, “passed by” in the sense that G‑d passed over the
+Jewish houses when He destroyed the firstborn of Egypt — and in exactly the same
+way Lot and his family were saved from destruction when, with the help of the
+sent angels, they hastily departed from Sodom.  But the fact remains — in the
+form in which it was recorded, this commentary was formulated nonsensically.
+
+After that senseless commentary, it became impossible to take the remaining
+commentaries seriously, and I continued to enjoy the contrast between the wisdom
+of the Torah and the absurdity of the commentaries.  It affected me like
+a contrast shower — the warmth of the Torah alternating with the cold stream of
+commentaries: first receiving pleasure (*oneg*) from the warm wise words of the
+Torah, which I joyfully read each time as if for the first time, while the
+commentaries after each verse were like immersion in a mikveh with ice-cold water.
+
+Such were, for example, statements about teleportation, when Rashi
+claimed in his commentary on Beresheet
+[28:17](https://www.sefaria.org/Genesis.28.17?with=Rashi) that Mount Moriah was
+transported from Jerusalem to Luz.  Of course, it would be pleasant to fantasize
+that in our time the mosques would likewise be transported from Mount Moriah to
+Medina.  But unfortunately, this has nothing to do with reality, unlike the
+Torah.  The Torah is the truth of life, but midrashim are mere fabrications.
+Therefore, that is how we should read them: the Torah with complete
+seriousness, and midrashim simply as entertainment.  The Torah is from G‑d —
+no author could have written such a brilliant book on his own, whereas
+midrashim are human inventions, conceived without prophetic gift.
+
+Such commentaries can appeal only to those for whom the Torah is too boring,
+who have grown sated with the Torah — for them such exotic commentaries
+work like sharp seasoning added to a bland, inedible dish.  They fail to
+understand that the Torah needs no adornment with their meaningless
+trinkets, they do not recognize the purity of the Torah without additional
+chaff thrown in for good measure.
+
+Here all such midrashic commentaries will not be examined, and such commentaries
+constitute the majority, despite the fact that at the very beginning, in his
+commentary to Beresheet [3:8](https://www.sefaria.org/Genesis.3.8?with=Rashi),
+Rashi himself promised to follow strictly the peshat.  But at the same time,
+we must acknowledge that Rashi's grammatical observations are presented with
+linguistic precision and erudition, which adds contrast with the midrashic
+elaborations.  Also not discussed here are Rashi's commentaries on the Talmud,
+which help clarify the meaning of what was written by the authors of the Talmud.
+
+It might seem that here I am criticizing such an authoritative and respected
+rabbi.  Honestly, it's not me!  His own grandson, having read Rashi's commentary
+on the Torah, disputed with his grandfather, reproaching him for departing from
+the plain meaning.  And in the end, Rashi acknowledged that he had been wrong,
+and that if he had had more time, he would have rewritten his commentary in
+accordance with peshat (see Rashbam's commentary on Beresheet
+[37:2](https://www.sefaria.org/Genesis.37.2?with=Rashbam)).
+<!-- Rashbam also criticized his grandfather for anachronisms in the spirit of
+“It was Pesach”, such as Rashi's reference to Shimshon when Dan is mentioned
+in Beresheet [49:16](https://www.sefaria.org/Genesis.49.16?with=Rashbam). -->
+
+What does this admission mean?  Rashi was primarily just a compiler.
+From the entire vast corpus of texts by his predecessors, for his commentaries
+he selected the most shocking.  These days, that's how editors of tabloid and
+sensationalist press put together material to entertain their readers.
+For example, the commentaries about Adam's bestiality were taken
+from Yevamot [63a](https://www.sefaria.org/Yevamot.63a.5).
+The commentaries in the case of Noah were taken
+from Sanhedrin [70a](https://www.sefaria.org/Sanhedrin.70a.18),
+where Rav “castrated” Noah, and Rabbi Shmuel “raped” him.
+One commentary “It was Pesach” Rashi simply copied blindly from the midrash
+Beresheet Rabbah [48:12](https://www.sefaria.org/Bereshit_Rabbah.48.12),
+and another such commentary on
+Beresheet [27:9](https://www.sefaria.org/Genesis.27.9?with=Rashi)
+about how two kids of the goats were needed for Yitzchak's meal
+because it was Pesach, Rashi took from Pirkei DeRabbi Eliezer
+[32](https://www.sefaria.org/Pirkei_DeRabbi_Eliezer.32).
+
+Hence the meaning of Rashi's admission is clear: had he time remaining after
+his grandson's remark, he would have supplemented his commentaries with such
+references to the texts of predecessors that would more closely correspond to
+the plain meaning of the Torah.
+
+Many subsequent commentators attempted to correct this mistake of Rashi, and
+therefore approached the interpretation of the text responsibly, striving in
+their commentaries to adhere more closely to the peshat.  In my opinion, the
+closest adherence to peshat was maintained by the undeservedly undervalued Torah
+commentator David Kimchi — Radak.  Like Rashi, he was a great expert in Hebrew
+grammar, but his commentaries differed from Rashi's fanciful commentaries in
+their greater rationalism, possibly under the influence of Rambam.  Rambam's
+influence can also be traced in the commentaries of Joseph ibn Kaspi, who called
+for not deviating from the peshat and protested against conclusions that reverse
+the meaning of the Torah's words into their opposite.
+
+<!-- Many authors of midrashim lacked conscience, and accordingly lacked the
+fear of G‑d.  There are many unconscionable commentaries in the Talmud,
+just as there are now many unconscionable comments on social media.
+These unconscionable statements migrated from the Talmud into Rashi's
+commentaries.  But Radak did have conscience — he is distinguished
+by honesty and responsibility in his commentaries. -->
+
+Many of Ramban's commentaries appear as polemics with Rashi.  And the renowned
+peshat exegete Ibn Ezra not only criticized the irrationality of Rashi's
+commentaries, but even considered midrashim to be interesting for small
+children, i.e., as fairy tales.  On the other hand, there is a problem — when
+children study aggadic stories, they develop a distorted worldview according
+to which these tales are an integral part of the Torah.  Such conflation is
+dangerous in that some believe in the truth of both the Torah and the midrashim
+simultaneously, while others reject the truth of the midrashim, and then proceed
+further, and consequently also reject the truth of the Torah.  But the truth
+lies in the middle, therefore maintaining balance<!-- tiferet -->, we must stop
+in time: not extend the truth of the Torah to the midrashim, nor the inventions
+of the midrashim to the Torah.
+
+Aggadic stories in the Talmud cause no surprise, because there they appear
+organically in accordance with the time of the Talmud's composition.  Midrashim
+are a rich treasury of Jewish folklore.  But the problem is that often the
+additions are not marked in any way.  Therefore it is necessary to explicitly
+separate the midrashim from the Torah.  And when mentioning an aggadic tale,
+we must always clarify that the story is not from the Torah, so as not to
+transgress the commandment not to place a stumbling block before the blind.
+
+<!-- Midrashim have as little in common with the actual stories from the Torah
+as film adaptations often have little in common with the events on which they
+are based.  That is, midrashim are like works of fantasy, often with a moral. -->
+
+Already in the times of Rambam many refused to accept aggadic stories on faith.
+Therefore he had to analyze this problem and draw the following conclusions in
+his commentary on Mishnah Sanhedrin
+[10](https://www.sefaria.org/Rambam_on_Mishnah_Sanhedrin.10.1.12),
+where he divided the readers of aggadot into three groups.
+
+<!-- The Hasidim divide people into only two types: a fool — one
+who believes all the tales about tzaddikim, and an apostate — one
+who wholesale rejects their authenticity. -->
+
+In the first (most numerous) group, Rambam included excessively credulous people
+who understood all the allegories of the sages literally.  Even when the sages
+in midrashim invented incredible tall tales, embedding additional meaning in
+them, despite the fact that the events in these stories violated the laws of
+nature, such gullible people still understood them in their literal sense,
+as if all these surrealistic stories actually occurred in the real world.
+Therefore, for members of this group, it is necessary to immediately
+provide explanation of their hidden meaning, so that the reader would understand
+what exactly the authors had in mind.
+
+To the second (also numerous) group, Rambam assigned all those who considered
+the sages to be ignoramuses, believing that the sages wrote these aggadot —
+which do not conform to the laws of nature — simply out of foolishness.
+Like the first group, members of the second group believed that the
+sages intended only the literal meaning.  But unlike the first group, they did
+not believe in the scientific reliability of these legends and ridiculed them
+in every way.
+
+All the more unsurprising is that many modern readers find such ancient
+statements — so distant from contemporary scientific views — laughable.
+For example, the website *[Daat Emet](https://daatemet.org.il/en/)* publishes
+articles with skeptical analyses of the sages' statements.  I have read articles
+from this site, but I did not like their mocking tone — for me it is impossible
+to accept such disrespectful treatment of our ancestors.  I believe we must be
+more forgiving toward the attempts of ancient peoples to express various
+thoughts that concerned them at the time.
+
+The third group according to Rambam consists of those few readers who realize
+that the sages did not invent aggadic tales arbitrarily, but rather sought to
+embed hidden meaning and moral lessons in their allegorical parables.
+
+Such a classification with regard to aggadah resembles the classification
+mentioned in the Passover Haggadah.  Just as Rambam divided people into three
+groups, similarly in the Passover Haggadah children are divided into four
+groups, the so-called “four sons”:
+
+1. *tam* — simple-hearted, naïve, a simpleton;
+2. *rasha* — wicked, heretic, evildoer;
+3. *eino yodea lishol* — one who does not know how to ask;
+4. *chakham* — sage.
+
+If we apply this classification by types of sons to the division into groups
+according to their attitude toward the aggadah, we can obtain the following
+correspondence:
+
+1. simpletons — they have no questions whatsoever about fantastic stories;
+   they silently accept everything literally on faith, i.e., they correspond
+   to Rambam's first group;
+
+2. heretics — reject the aggadah, declaring the sages ignorant and foolish,
+   i.e., correspond to Rambam's second group;
+
+3. not asking questions, not inquiring —
+   without questioning the authority of all past rabbis,
+   they simply memorize all their explanations concerning the intended meaning,
+   i.e., this is the third group according to Rambam;
+
+4. the wise — they understand what the authors of aggadah wished to convey,
+   but at the same time see that not all the stories told came across effectively;
+   nevertheless, they regard sympathetically the attempts of their ancestors
+   to invent supernatural tales to unfold their thoughts.
+
+Unlike the third group, which believes that all statements of the sages were
+truly wise, the members of the even smaller fourth group recognize that
+not all predecessors could possess equal abilities.  Even the results of one
+author's intellectual labor can vary greatly.  Therefore, it is clear that in
+some midrashim deep meaning was successfully conveyed, but not in all.  That is,
+the fourth group consists of those who recognize that although the authors
+strove to express their thoughts in the form of parables, to add new meaning,
+not all attempts were successful.  Different authors achieved this with varying
+success, with different degrees of moral content, which is why most midrashim
+do not evoke the same admiration as the most brilliant text of the Torah itself.
+In fact, the truth as usual lies in the middle: some statements were quite
+profound, while others were empty — this must be remembered both by those who
+defend absolutely all statements of the sages and by those who criticize them.
+
+Therefore we must avoid extremes, where some believe in all sorts of fairy
+tales like the midrashim, while others believe in nothing at all.  The golden
+mean <!-- tiferet --> is to believe only in the Torah, interpreting the text in
+accordance with contemporary scientific understanding and moral principles.
+
+If we attempt to draw parallels with the modern world, it is easy to notice
+that in essence the Talmud is the first social network in history.  Numerous
+users/rabbis with an extensive social graph had the ability to exchange
+information on the pages of the Talmud, to give likes and leave comments.
+And when the Talmud records that one rabbi speaks in the name of
+another, this is none other than using the \[Share\] button to repost.
+
+On the other hand, in our time reading the Talmud resembles scrolling through
+a social media feed — the same captivating activity as an intellectual game.
+So engrossing that it is hard to stop, that you always want to scroll
+further to learn something more, the next interesting thoughts and opinions.
+Just as a social network has registered users with various backgrounds, and
+therefore their posts and comments vary in content, so too in the Talmud the
+comments in discussions are uneven in intellectual level, and the halakhic
+rulings likewise came from authors of varying levels of ability.
+<!-- In his commentary on Mishnah Sanhedrin
+[10](https://www.sefaria.org/Rambam_on_Mishnah_Sanhedrin.10.1.1), Rambam
+mentioned differences of opinion arising from varying intellectual levels. -->
+
+Just as many consider all Jews intelligent, Orthodoxes consider all
+statements of the sages intelligent.  But in reality, just as Jews vary, so too
+in the Talmud statements also vary in quality.  Rambam himself in *Moreh Nevukhim*
+[3:54](https://www.sefaria.org/Guide_for_the_Perplexed,_Part_3.54.2) noted that
+we should distinguish between experts in law and sages.
+{: #sages title="Sages and Erudites"}
+
+Therefore, it is impossible to call every commentator on the Talmud a sage.
+When people are undeservedly honored as “sages” merely for diligence and
+obedient study of classical works, such self-appointed sages were
+denounced by the prophets, for example, Yeshayahu
+[5:21](https://www.sefaria.org/Isaiah.5.21): “Woe unto them that are wise
+in their own eyes, and prudent in their own sight!”
+Also Yirmeyahu [8:8-9](https://www.sefaria.org/Jeremiah.8.8-9):
+“How can you say: ‘We are wise and the Torah of G‑d is with us’?  But behold, —
+the lying pen of the scribes has distorted it.  The wise are put to shame,
+they are dismayed and trapped; behold, they have rejected the word of G‑d —
+what wisdom is theirs?”
+
+A true sage may be called one to whom the interconnections between the
+phenomena of the world and their place on the path of drawing near to G‑d are
+clear.  Therefore, they are capable of making profound conclusions that fit
+organically into the picture of the world and set the proper direction of
+development.
+
+But those rabbis who in the Talmud cemented changes in the laws for ages pursued
+only momentary interests, and did not endeavor to lay the foundation for
+[sustainable development](https://en.wikipedia.org/wiki/Sustainable_development).
+Lawmakers who did not foresee the consequences of their decisions in the future
+laid a time bomb and became the cause of many modern problems.  For example,
+when they decided to remove the law defining Jewishness through the paternal
+line, by that ill-considered decision they destroyed more Jews than all the
+enemies of the Jewish people, and continue to destroy them by the hands of
+present-day rabbis.
+
+About such “sages” it is said in the TaNaKh and Talmud that they lack
+the ability to discern the times.  In Nedarim
+[20b](https://www.sefaria.org/Nedarim.20b.10) it was noted that despite the
+command in Devarim [1:13](https://www.sefaria.org/Deuteronomy.1.13):
+“Pick wise, discerning, and known men”, later in Devarim
+[1:15](https://www.sefaria.org/Deuteronomy.1.15) it says: “So I took wise and
+known men”.  On this basis it was concluded that among the wise and
+known, none were found who were discerning.  That is, even the Talmud
+acknowledges that a sage may lack discernment.  The discerning here refers
+to people of insight who know how to foresee the consequences of their
+decisions in the future, of whom it is said in Divrei ha‑Yamim I
+[12:32](https://www.sefaria.org/I_Chronicles.12.33) thus: “And of the sons of
+Yissakhar, who had understanding of the times”.  This same matter is addressed
+in Tamid [32a](https://www.sefaria.org/Tamid.32a.7), that a sage is one who
+foresees consequences, i.e., is far-sighted — according to the words of Rabbi
+Shimon in Pirkei Avot [2:9](https://www.sefaria.org/Pirkei_Avot.2.9).
+
+In general, throughout history there were only three greatest Jewish sages
+endowed with wisdom and the capacity for profound understanding of the times —
+past, present, and future.  And they were born precisely once every millennium.
+
+The first sage was King Shlomo.  His great wisdom is known to all
+from numerous testimonies preserved in written sources.
+<!-- (including Melachim I [5](https://www.sefaria.org/I_Kings.5)) -->
+
+The second great sage appeared a thousand years later and, in addition to
+numerous wise rulings, formulated the fundamental principle of human existence:
+“What is hateful to you, do not do to another — that is the whole Torah”
+(Shabbat [31a](https://www.sefaria.org/Shabbat.31a.6)).  Many other
+manifestations of Hillel's wisdom are also widely known.
+
+The third great sage was born a thousand years later and provided answers to
+many theological and philosophical questions.  The inscription on his tomb
+reads: “From Moshe to Moshe, there arose no one like Moshe”, referring to Moshe
+Rabbeinu and Moshe ben Maimon.  Moshe Rabbeinu was the greatest prophet,
+and the title of great sage was earned by the one who comprehended his
+prophecies more deeply than all others.
+
+Extrapolating this sequence of the appearance of the greatest sages at 1000-year
+intervals, we can calculate that the next great sage will be born 1000 years
+after Rambam, i.e., in our time.
+
+And for those rabbis whom it is customary to call sages for their participation
+in Talmudic discussions and commentaries, but who lack wisdom, a more precise
+definition applies — Talmudic scholars.  Or a more general definition —
+erudites.
+<!-- Therefore, for example, Rashi is an erudite, while Rambam is a sage. -->
+
+We can say that in erudites only the sefirah of knowledge, Da'at, is filled
+to the brim, and to varying degrees the sefirah of understanding, Binah,
+<!-- as requested in the blessing before the Shema --> whereas in true sages
+all the sefirot are evenly filled: Da'at, Binah, and Chokhmah. <!-- as we must ask
+with kavanah in the blessings of the Shemoneh Esrei -->  The sefirah Binah
+corresponds to the capacity for deep understanding, the ability to conduct
+a comprehensive **analysis** of accumulated knowledge, establishing all
+patterns, analogies, and associations.  The sefirah Chokhmah corresponds
+to the capacity to draw wise conclusions, to produce a **synthesis**
+of reasoned and far-sighted decisions.  In Pirkei Avot
+[3:17](https://www.sefaria.org/Pirkei_Avot.3.17) it is said: “If there is no
+understanding (i.e., insight into the essence of things), then there is no
+knowledge; if there is no knowledge — there is no understanding”.  Indeed,
+it is impossible to be wise without accumulating sufficient knowledge
+through the sefirah Da'at with deep understanding through the sefirah Binah,
+and correspondingly, reasonableness.  On the other hand, the accumulation of
+knowledge must always be accompanied by reflection upon the information
+received, so that all sefirot are filled evenly — and then it becomes
+possible to make wise decisions. <!-- e.g., as King Shlomo -->
+
+In general, a person with an excessive baggage of knowledge rarely has the
+ability to draw reasonable conclusions from acquired knowledge.  We can imagine
+such an erudite wearing a vest with many little pockets.  And just as this
+erudite stuffs various trifles into the vest's pockets, so too does he cram
+diverse information into the cells of his brain.  And all these scattered pieces
+of knowledge and fragments of accumulated facts lie in the pockets of his brain
+as dead weight — disconnected and unsystematic — adding neither reason nor wisdom
+to him.  And this is unsurprising — when brain cells are employed to store the data
+itself, but not the connections between them, no capacity remains to construct
+logical conclusions based on remembered facts.  Having snatched up random
+information and crammed it into all the free cells of the brain, one loses the
+possibility of analyzing the acquired volumes of what remains useless knowledge.
+In this case, people are capable only of blindly repeating all received
+information and unquestioningly executing all memorized instructions like
+computers.
+
+Such erudition resembles how legendary mnemonists under the pseudonym
+[Shas Pollak](https://en.wikipedia.org/wiki/Shas_Pollak) and other individuals
+possessed such photographic memory that they remembered the placement of all
+words on all ≈5000 pages of the Talmud so that by piercing any tractate with
+a pin, they could name all the words through which the needle passed on each
+page.  But none of them could find a more useful application for the memorized texts.
+<!-- Such phenomenal memory is very rare — very few such mnemonists
+are known, like Shereshevsky in Luria's studies in
+*[The Mind of a Mnemonist](https://en.wikipedia.org/wiki/Solomon_Shereshevsky)*.  -->
+
+This shows that the most essential requirement for memorizing the numerous laws
+of Halakha is to have a good memory.  And this was an enormous problem for me,
+because I have an exceptionally poor memory.
+<!-- I remember when I started learning Hebrew, I spent several weeks just
+studying the alphabet.  And learned words are quickly forgotten — for example,
+despite having celebrated Chanukah many times, there were occasions when
+I could not recall the name of the holiday. -->
+When studying Halakha, I had difficulties memorizing details:
+I have an associative memory, while many details of Halakha have no logic,
+so one must memorize various details by rote.
+<!-- It was especially difficult to memorize tables, including food additives —
+it was like trying to memorize trigonometric tables. -->
+For example, if the volume of a product exceeds the size of a knife by 60 times,
+then only 2 centimeters of the surface layer absorbs taste from the knife.
+The thickness of the layer to be cut away, measured to the nearest centimeter,
+is not derived from the Torah, therefore mechanical memorization is required.
+Or why one must stab a meat knife in the ground precisely 10 times to make it
+permissible for cutting bread during a dairy meal.  Likewise, the number of
+hours — that after meat before dairy one must wait 6 hours — is not derived
+from the Torah.
+
+When I studied higher mathematics at university, it was very easy to remember
+the proofs of mathematical theorems, since one theorem necessarily followed from
+other theorems and axioms in accordance with mathematical logic.  For example,
+here is a notable case: instead of attending mathematics lectures, I spent
+all my time at the computer in the university's computer lab, so three exams
+in higher mathematics have piled up unfinished for me.  I put it off until
+the very last moment, and to take advantage of the last opportunity,
+I had to spend three days preparing for all three exams at once — in three days
+I learned the entire course of higher mathematics.  What helped me was that
+in preparing for the exams, I did not cram, i.e., did not rely on mechanical
+memorization, but delved into the meaning.  And only after gaining complete
+understanding of the logic was there no longer any need to burden my memory with
+literal memorization of the words of the proof.  Thus I successfully passed all
+three exams in succession, one after another, in a single day over 6 hours from
+morning to evening, spending 2 hours on each written exam.  And all thanks to
+the fact that having remembered the general logic of the proofs, I could
+reconstruct the course of each proof simply by following the logic.
+
+This example clearly illustrates how Da'at, Binah, and Chokmah differ.  When
+a student merely memorizes the proof of a theorem, only the sefirah Da'at is
+engaged.  When a student understands the proof so deeply that there is no need
+to memorize it word for word, and then during the exam reconstructs the proof
+based on the understanding formed, the sefirah Binah is engaged.  And the
+sefirah Chokmah is rarely engaged by students — but it does happen that
+students who later become outstanding scientists are capable of deriving proofs
+on their own.  I was certainly not capable of devising mathematical proofs,
+but in programming I devise new ways to solve people's problems every day
+(except the Sabbath).  However, filling the sefirah Chokmah should not be
+limited to programming alone — it is simply what I do best.  In general,
+the sefirah Chokmah become filled when you actively engage in finding
+solutions to the problems of any person in all aspects of life.
+
+Just as I once hurried to prepare for a higher mathematics exam,
+so too in yeshiva, when I diligently studied the 190-page textbook
+“Meat and Dairy: An Illustrated Halachic Guide”, I rushed to learn
+everything quickly, so they would perform the necessary circumcision
+for me urgently.  But I could not understand where all these numbers
+and formulas came from, which made them difficult to memorize.
+<!-- “Exams are approaching, but everything is incomprehensible”. -->
+Moreover, I discovered an error in the formulas for calculating
+pot wall thickness, meant to ensure that the absorbed flavor
+would be less than one-sixtieth of the pot's contents.
+<!-- πHX² was missing from the formula for P₂ -->
+Yet if an error crept into the calculations, then all results are worthless,
+and the commandment is violated by the Orthodoxes in the most egregious manner.
+Just as Kabbalah is called a science, so too Orthodox Judaism has been made into
+an exact science, where precision of observance is verified by scientific
+methods.  Only the standards were chosen arbitrarily — unlike physics and
+mathematics, where precise values were set by G‑d.
+
+Generally, when studying halakhic literature, it was difficult to find any logic
+in the halakhic conclusions, so there were problems with memorizing the rules.
+The laws of the Written Torah are well remembered through association with
+instructive stories, but the disconnected laws of Halakhah are difficult to
+commit to memory.  Nevertheless, I still diligently memorized everything
+I read in numerous textbooks.  And only after the Orthodoxes rejected me
+did I begin to ponder where such enormous volumes of halakhic laws came from.
+
+<!-- For example, one of the questions studied in yeshivot: “Is it permissible
+on the Sabbath to wipe oneself with stones while sitting on a neighbor's plowed
+field” (KSA [80:75](https://www.sefaria.org/Kitzur_Shulchan_Arukh.80.75) etc.).
+No, I was not at all outraged by the seemingly absurd formulation of the
+question — the desire was clear to cover all possible even hypothetical
+situations, to regulate behavior in the minutest detail in absolutely all
+possible cases that arise in life.  But the problem is that for all these
+questions of conduct in each case there cannot exist an unambiguous answer
+that would be derived from the traditional 39 melakhot.  And indeed, in many
+cases Halakha is forced to acknowledge that some rabbis think one way,
+and others differently.  In short, complete bardak and balagan. -->
+
+<!--
+I previously studied the Kitzur Shulchan Arukh diligently, read it several
+times, and never once thought to question the laws set forth therein.
+Even when some at the yeshiva dismissively waved their hand at the
+Kitzur Shulchan Arukh and said that it was all hopelessly outdated,
+I did not want to agree with such opinions.
+{: #ocd title="OCD"}
+
+And only after the Orthodoxes rejected me, treated me heartlessly,
+did I begin to examine the reasons, and then I started critically
+rereading halakhic literature.
+
+In general, if one analyzes impartially the content of the requirements of the
+Shulchan Arukh code, one can notice that it is essentially a collection of
+medieval superstitions.
+
+For example, consider the chapter
+Kitzur Shulchan Arukh [162:10](https://www.sefaria.org/Kitzur_Shulchan_Arukh.162.10).
+There is brought the following law that upon leaving the mikvah
+a woman should ensure that the first one to touch her would be
+her friend, so that it should not happen that the first
+thing she sees is something unclean: a dog, a donkey, a pig,
+an *am ha‑aretz* (an unlearned Jew), or a non-Jew.
+If upon leaving the mikvah she saw any of the above,
+she must immerse again.  And so repeat until the nerves calm down.
+
+What does this resemble?  Undoubtedly, these are typical symptoms
+of a nervous disorder
+[OCD](https://en.wikipedia.org/wiki/Obsessive–compulsive_disorder) —
+obsessive-compulsive disorder, also known as obsessional neurosis.
+
+In this neurosis, to relieve nervous tension a person needs to get the feeling
+that routine actions have been performed “perfectly”, i.e., in such a way that
+the person experiences a feeling of satisfaction replacing the sense of anxiety.
+Often achieving such a “perfect outcome” requires several attempts.  An attempt
+is considered “unsuccessful” when it does not proceed as flawlessly as desired,
+when some insignificant interference creates a feeling of discomfort.
+
+For example, symptoms of OCD manifest when a mistake is made in prayer —
+and because of this they recite everything from the beginning.  Or they put on
+shoes in a particular order, etc.  In general, once a habit is formed of doing
+something in a certain way, then it is difficult to rid oneself of it later.
+This is also closely related to an excessive tendency toward
+[perfectionism](https://en.wikipedia.org/wiki/Perfectionism_(psychology)).
+
+Frankly speaking, all of this is a manifestation of religious feeling.
+The general pattern is that one subconsciously sets oneself the task of
+performing certain actions with the rationale that if one does this in an ideal
+manner, one will receive a reward for it.  Such hope often arises in people
+who have many problems, and for them the last resort is to believe that if
+they perform “correctly” the rituals they themselves have invented, all
+their problems will magically resolve themselves, because it might suddenly
+turn out that G‑d requires precisely all these even insignificant actions.
+On the other hand, it is impossible to abandon performing the rituals
+out of fear of subsequent punishment.
+
+This aspect was examined in detail by Freud in his work *Obsessive Actions and
+Religious Practices* (1907).  He defines neurosis as individual religiosity, and
+religion as a shared neurotic obsession.  Quote: “the petty ceremonials of
+religious practice gradually become the essential thing and push aside the
+underlying thoughts.  That is why religions are subject to reforms which work
+retroactively and aim at a reestablishment of the original balance of values”.
+It is quite reasonable to agree that many customs and stringencies of the Orthodoxes
+are symptoms of neurosis, codified in laws that supplant the original moral meaning
+of the commandments.
+
+But these are mainly personal quirks of religion's followers.  Worse is when
+symptoms of autism manifest in attitudes toward other people — and then the
+capacity for compassion disappears.  And indeed, many Orthodoxes behave like
+autistics who lack empathy and are incapable of sympathizing with other people.
+Here it is not accidentally said that they are not autistics, but like autistics
+— because autistics cannot help their autism, whereas Orthodoxes consciously
+choose insensitivity and indifference to the suffering of others, i.e., this is
+a moral problem.
+-->
+
+| in these commandments, which I command you today, there is nothing incomprehensible or inaccessible |
+| (Devarim [30:11-14](https://www.sefaria.org/Deuteronomy.30.11-14)) |
+{: .chapter #addition title="Addition of Commandments"}
+
+“There is nothing incomprehensible” — this means that the Torah assumes there
+can arise no two opinions regarding the details of fulfilling the commandments,
+because the commandments must be performed strictly according to what is written
+in the Torah as understood by everyone, i.e., according to the plain sense, peshat.
+Yet the entire history of the development of Orthodox Judaism demonstrates the
+exact opposite of this principle: there are as many opinions as there are Jews.
+Hence the pairs of legal authorities *zugot*, the numerous disputes on the pages
+of the Talmud, and even there were two Talmuds: the Jerusalem and the Babylonian.
+Therefore the interpretation of the Torah must correspond to the
+requirements of modernity, which resolved contradictions in the past.
+
+“There is nothing inaccessible” — this means that there should be no
+difficulties in fulfilling the commandments.  But the Orthodoxes have burdened
+people with so many stringencies that they have made the fulfillment of the
+commandments inaccessible, which is why many Jews have fled from Judaism.
+<!-- For example, it was inaccessible for me to cook chicken, so I had
+to buy ready-made food.  --> And I wanted to observe all the Orthodox
+stringencies, but I could not.  Just as the Orthodoxes themselves —
+they want to build the Temple, but they cannot.
+
+| When you build a new house, make a parapet for your roof, so that you do not bring bloodguilt upon your house if anyone should fall from it. |
+| (Devarim [22:8](https://www.sefaria.org/Deuteronomy.22.8)) |
+{: .chapter}
+
+This is one of the clearest examples of how Orthodoxes completely ignore the
+plain meaning of Torah, adding instead new laws that derive Halakhah from drash.
+
+The commandment to build a parapet is a commandment of safety precautions.
+But the Orthodoxes have completely perverted the meaning of this commandment,
+and use it to justify their invented stringencies to build a “fence around the
+Torah”.  And while all normal students study safety procedures in educational
+institutions, which also include methods of providing first aid, etc., instead
+the Orthodoxes memorize justifications for their stringencies.
+
+Yet they do not observe one of the most urgent commandments of our time.
+And therefore, for example, they do not care for safety when organizing
+mass gatherings, and as a result such terrible events occur as the
+[crowd crush](https://en.wikipedia.org/wiki/2021_Meron_crowd_crush) on Mount Meron.
+This is the most terrible punishment, when for the Orthodoxes' failure to
+observe the commandments of the Torah, the direct violation of the commandment
+to build a fence around danger brings human sacrifices.  But instead of caring
+for the preservation of life, the Orthodoxes seek the causes of tragedies in
+insufficient observance of their stringencies, in insufficiently careful washing
+of hands before eating, in insufficient concentration when reciting blessings,
+etc. — anything whatsoever, except the real cause, despite the fact that the
+meaning of this commandment was known even in the times of the Temple, where
+even with a million-strong gathering of people it was never crowded.
+
+Here no condemnation is made of the very practice of regularly visiting graves
+of the righteous, though veneration of rabbis resembles idolatry.  I respect
+pilgrims who travel to the graves of the righteous — I myself dreamed of
+visiting all these places.  I respect even more the righteous who are buried
+there.  But I must acknowledge that veneration even of the greatest righteous,
+worshiping their graves as idols and other cultic sites, moreover with the
+kindling of bonfires as among pagans, is akin to idolatry leading to human
+sacrifice.  This resembles how people once worshiped
+[Nehushtan](https://en.wikipedia.org/wiki/Nehushtan) — the bronze serpent
+crafted by Moshe, until King Chizkiyahu destroyed this object of worship that
+had become an idol.  As formerly during festivals the people would stream to the
+Temple to worship G‑d, so now Orthodoxes have replaced this with veneration of
+authorities as idols.  This is genuine personality cult, when one's leader is
+regarded as Mashiach, or when people worship his worn “holy” pants.
+
+| You shall not add to what I command you, nor shall you remove from it |
+| (Devarim [4:2](https://www.sefaria.org/Deuteronomy.4.2)) |
+{: .chapter}
+
+| Everything that I command you, observe to do; do not add to it nor remove from it. |
+| (Devarim [13:1](https://www.sefaria.org/Deuteronomy.13.1)) |
+{: .chapter}
+
+| Add nothing to His words, lest He rebuke you, and you be found a liar. |
+| (Mishlei [30:6](https://www.sefaria.org/Proverbs.30.6)) |
+{: .chapter}
+
+To divert suspicion of violating this commandment, the Orthodoxes explain that
+it is only forbidden to change the quantity of certain objects, e.g., five
+passages in the tefillin instead of four, five species of plants with the lulav
+instead of four, five tzitzit fringes on the corners of the tallit instead of
+four, etc.  But even if one accepts such a limited understanding regarding the
+prohibition only of quantitative changes, and not addition of stringencies,
+then still numerous violations occur even in this regard.
+
+For example, the Torah gives the commandment of the Seder on the night of the
+14th of Nisan.  But the Orthodoxes in the Diaspora add a second Seder on the
+15th of Nisan as well, and not on Pesach Sheni, not on the second Passover
+ordained by the Torah on the 14th of Iyar.  Also it is said, “Seven days you
+shall eat unleavened bread”, not eight.  And other festivals are also
+duplicated, and additional festival days are added.  When in Eretz Yisrael there
+is one schedule of festivals and Torah readings, and outside Eretz Yisrael
+another, this splits the unity between the Jews of Israel and the Diaspora —
+as if in one community each person prayed at home at a different time.
+
+But the people could not have endured fasting on Yom Kippur two days in a row.
+There were other attempts to introduce inhumane stringencies as well.
+For example, the Talmud states that after the destruction of the Temple, rabbis
+wanted to prohibit marriage altogether, but limited themselves to only certain
+periods of the year.  There were also plans to completely forbid the consumption
+of meat and wine (Bava Batra [60b](https://www.sefaria.org/Bava_Batra.60b.11)).
+Because only men suffer for several days after circumcision, they wanted to
+artificially add numerous sufferings to women as well — and to require women
+to fast for an entire month during the process of conversion.  Had all these
+sadistic stringencies been adopted, it would now be claimed that all of this was
+given orally at Sinai.
+
+Further examples of the increase in the number of commandments.  The Torah gives
+the commandment prohibiting the consumption of leavened bread during Passover
+(*chametz*), i.e., fermentable grain products: wheat, rye, barley, oats, spelt.
+Yet the Shulchan Arukh adds a new commandment prohibiting the consumption of
+*kitniyot*, which includes various types of legumes and products made from them,
+including a ban on peas, beans, peanuts, soy, sunflower seeds, buckwheat, hemp,
+chickpeas — consequently hummus and falafel are forbidden, as well as rice and
+rice cakes, corn and cornflakes, plus numerous other plant crops and products.
+Also among Ashkenazim, non-legumes are forbidden during Passover: dried fruits
+such as raisins, figs, dried orange peels, certain vegetables such as radish and
+garlic, mustard from the cabbage family, and Hasidim avoid sugar.  Pickles in
+which unverified salt was used also are not consumed.  According to some opinions,
+even potatoes are included in the prohibition.
+
+This is one of the most egregious examples where stringency reached the point of
+direct violation of Torah law, when to the commandment forbidding leavened bread
+were added commandments forbidding all manner of other types of food — despite
+the fact that the same Shulchan Arukh forbids imposing additional restrictions
+upon oneself.  This prohibition is not a custom, but precisely a new rabbinic
+law.  Customs are optional to observe, a custom can easily be annulled.
+<!-- Customs are usually for pleasure, not a burden, like imposed restrictions. -->
+But kitniyot can no longer be annulled for Ashkenazim.  There is no going back —
+the custom has turned into law, binding for observance, and any attempts to
+annul it or even slightly ease it will be perceived as Reform.
+<!-- This is also an example of radicalization. -->
+
+At the end of the Laws of Vows
+[13:25](https://www.sefaria.org/Mishneh_Torah,_Vows.13.25)
+Rambam cited tractate Nedarim [60b](https://www.sefaria.org/Nedarim.60b.3),
+where it is stated that one who takes upon himself vows, i.e., additional stringencies,
+is like one who has built a personal altar during the time when the Temple stands,
+by analogy: the Temple is the Torah, and the altar is additional stringencies.
+
+In Megillat Esther a non-Jewish custom was described whereby the king's decrees
+cannot be revoked, and only new laws can be issued on top of the old ones.
+In exactly the same way it is customary among the Orthodoxes, when adopted laws
+are not repealed, but new ones are layered on top of them. <!-- like patches -->
+
+Such an accumulation of halakhic stringencies resembles
+a [house of cards](https://en.wikipedia.org/wiki/House_of_cards), where
+the cards of later authorities are placed upon the cards of earlier authorities,
+such that it becomes impossible to correct the conclusions of the earlier ones —
+just as it is impossible to pull out and replace even a single card from the
+middle.  When even one rabbi at the foundation of the pyramid has erred, it
+becomes impossible to correct his error without the collapse of the entire
+structure.  Therefore, one can only pile on top ever new stringencies, until the
+structure collapses under its own weight, and everyone scatters in different
+directions.
+
+Another analogy is a
+[black hole](https://en.wikipedia.org/wiki/Event_horizon#Event_horizon_of_a_black_hole).
+The closer one gets to a black hole, the stronger the pull into the hole from which
+there is no escape.  Falling into the hole is easy, requiring no energy whatsoever,
+and each new stringency pulls one deeper and deeper.
+Just as added commandments can no longer be abolished — for example, it is impossible
+to abolish the new commandment forbidding *kitniyot* — so too it is impossible
+to climb back out of the hole.  Therefore there is no way back —
+all that remains is to continue falling.
+
+Whence comes this rabbinic compulsion to invent stringencies?  The problem is
+that stringencies were invented by rabbis for whom this is their primary
+occupation.  All the stringencies of the Orthodoxes arose as a result of
+[professional deformation](https://en.wikipedia.org/wiki/Professional_deformation)
+among rabbis.  Due to professional deformation, rabbis added complications based
+on their own lives, in which they occupied themselves solely with Talmud study.
+<!-- so that they would not be too bored -->  At the same time, they were not
+bound by other obligations, as most working people are, and therefore gave no
+consideration to the capacities and needs of ordinary people.  That is, rabbis,
+having no concerns of the daily life of working people, constantly pondered:
+“What else might we devise to complicate the lives of Jews”, as antisemites do.
+As upon slaves, so upon working people they loaded an additional burden of
+stringencies, such that many could not endure and scattered.  Thus with the
+self-imposed burden of stringencies, the Orthodoxes destroy Judaism,
+repelling the majority. <!-- and thereby preventing the restoration of the Temple -->
+
+The rabbis have created such a convoluted system that only they themselves
+are experts, and they demand that everyone learn from them to also become experts,
+abandoning all other pursuits.
+The Orthodoxes constantly raise the bar of observance higher and higher, so that
+for most people the height becomes inaccessible, since it is impossible to spend
+the greater part of one's time following all the additions, and therefore the
+majority are forced to abandon Judaism altogether — thus the Orthodoxes are
+destroying Judaism.
+
+<!-- This resembles an overly complex programming language — for the authors,
+adding new features was a natural process, but for newcomers it only causes
+incomprehension regarding the purpose of many language constructs.
+
+And now the situation resembles the state of affairs in many financial
+institutions that still use COBOL on mainframes.  (BTW, in the early 1990s
+I implemented a core-function library for a well-known COBOL compiler
+development company — since then I've retained a deep aversion to that
+pseudo-language.)  And just as it is very difficult to rewrite existing
+functions in more modern programming languages because of the enormous number
+of interconnected details, so too is it difficult to update traditions —
+for social reasons. -->
+
+There are also examples of simultaneous addition and subtraction — during the
+reform transitioning the determination of Jewish identity from the paternal line
+to the maternal line in the Talmudic period, they subtracted from the law of the
+Torah, which teaches that Jewish identity is transmitted through the father, and
+in place of that law added a new law of transmission of Jewish identity through
+the mother.  Often in the Torah, counter-examples of improper behavior are first
+given, and then a law explicitly prohibiting such behavior is prescribed.
+For example, before the giving of the Torah, counter-examples were given of
+relations with close relatives, and then the Torah unambiguously forbade such
+perversions.  In contrast to this, before the giving of the Torah the
+transmission of Jewish identity through the father was practiced, which is
+mentioned repeatedly in the narrative portion of the Torah, but in the
+legislative portion this law was not explicitly annulled — after the giving of
+the Torah an opposite law was not explicitly given that would introduce
+a new principle of determining Jewish identity through the mother.
+And only much later was Jewish identity through the mother added to Halakhah,
+contradicting the Torah.
+
+Since the Torah explicitly gave a law forbidding additions, there must also be
+counterexamples showing how violation of the prohibition against adding caused
+negative consequences.  And indeed, such examples exist: at the very beginning
+of the book of Beresheet, we are told how G‑d gave Adam a single prohibitory
+commandment — the prohibition against eating from the tree of knowledge in Gan Eden.
+After Chavah's appearance, Adam conveyed this commandment to her, but in doing
+so added an additional stringency: also not to touch the tree, lest they die.
+That is, Adam committed precisely the transgression against which the Torah
+warns with its prohibition against adding to G‑d's commands.  Like the
+Orthodoxes, Adam wanted to erect an additional “fence” around the prohibition
+against eating from the tree, so that Chavah would not even desire to touch the
+tree.  And then the inevitable punishment for erecting a “fence” followed: the
+serpent pushed Chavah toward the tree so that she touched it — she saw that
+nothing bad happened from violating the stringency, and then concluded that if
+she ate from the tree, no punishment would follow either.  But the punishment
+for violating the actual prohibition was very severe — its consequences continue
+to bring suffering to people to this day.  Thus stringencies lead to catastrophe.
+
+<!-- BTW, this also shows that oral transmission of information is unreliable —
+had this commandment been written down, Chavah would not have transgressed it. -->
+
+It is no coincidence that
+[Sefer ha‑Bahir](https://www.sefaria.org/Sefer_HaBahir.200) concludes with
+the instruction: “whoever adds, diminishes”.  So too the Orthodoxes add
+stringencies — and thereby diminish the number of observant people.
+
+This teaches what harm is caused by stringencies that lead to violation of the
+commandment of addition, when the fence buries under its weight that which it
+was meant to protect.  Over 2000 years, walls so high were erected around the
+Torah and it was surrounded by dense rows of fences with barbed wire, that as
+a result Judaism was transformed into a dark ghetto.  <!-- They fell into
+slavery to rabbis who oppressed and burdened them with stringencies. -->
+Therefore it is no wonder that in the end many could not endure the confinement,
+and at the first opportunity the majority of Jews went forth
+<!-- from slavery --> into freedom.
+
+Following the tradition of shifting blame onto others, some Orthodoxes claim
+that as punishment for many Jews having departed from Judaism, they were
+destroyed during the Holocaust.  And they shift the blame for the departure from
+Judaism onto the Reformists and directly accuse the Reformists of the Holocaust.
+
+But these are false accusations, and I know this for certain from the example
+of my own ancestors.
+
+My great-great-grandfather Shimshon ben Mordechai (Samson Mordkovich)
+and great-great-grandmother Pesya Yosifovna (– 25.07.1925 ז״ל)
+were fully observant Jews.
+
+<figure>
+  <img src="../../../files/book/linkov_samson_1.jpg" alt="[Linkov Samson]" />
+  <figcaption>Great-great-grandfather Samson</figcaption>
+</figure>
+
+<figure>
+  <img src="../../../files/book/linkova_pesia.jpg" alt="[Linkova Pesia]" />
+  <figcaption>Great-great-grandmother Pesya</figcaption>
+</figure>
+
+But their six sons <!-- and four daughters --> were all completely secular.
+And there were no Reformists anywhere near at that time.
+But still they themselves and their children remained loyal to the Jewish people —
+my grandfather married a Jewish woman.
+And it was not his fault that she was killed during the Holocaust.
+<!-- And after the war, my grandfather traveled to Cherkasy and there received
+forgiveness from the rabbis for having been forced, after losing his Jewish
+wife, to violate his faithfulness to the Jewish people through no fault of his own. -->
+<!-- Thus, unlike the present-day descendants of Holocaust survivors,
+my ancestors were killed during the Holocaust. -->
+
+In reality, the task of the Reformists was not to dissuade the Orthodoxes from
+observance, but on the contrary — to stop the departure of Jews from Judaism,
+to bring back to the fold of Judaism those Jews who were drifting away from
+Judaism, who could not bear the burden of numerous stringencies, to return them
+to original Judaism without artificially added burdensome stringencies,
+Judaism responsive to human needs.
+
+As in the case in the Garden of Eden, when Adam shifted the blame onto his wife,
+whom he had burdened with stringencies, so too some Orthodoxes blame the victims
+of their stringencies for the Holocaust.
+
+Moreover, just as Adam accused G‑d, so too do they accuse G‑d regarding the
+Shoah, following the example of Rabbi Shimon bar Yochai, who based on one
+altered letter of the Torah accused G‑d of not protecting Abel from Cain,
+of not saving him from death (Beresheet Rabbah
+[22:9](https://www.sefaria.org/Bereshit_Rabbah.22.9)).
+
+But on the other hand, just as Chavah blamed only the serpent, who was
+associated with Satan, so too we must denounce only actual evildoers
+who have succumbed to Satan's influence.
+
+As seen in Shemot [7:3](https://www.sefaria.org/Exodus.7.3), initially G‑d
+personally subjected a person to trials when He hardened Pharaoh's heart,
+i.e. placed in Pharaoh's mind the thought not to let the Jews go.  But Pharaoh
+retained free choice.  Knowing Pharaoh's character and his inclinations, G‑d was
+certain that Pharaoh would incline toward the decision not to let the Jews go.
+<!-- See also Sihon, king of Heshbon
+in Devarim [2:30](https://www.sefaria.org/Deuteronomy.2.30). -->
+But punishment followed, because Pharaoh retained the possibility of not
+yielding to evil thoughts, and the Egyptian people retained the possibility of
+not obeying Pharaoh's commands.  As it was said in Beresheet
+[15:14](https://www.sefaria.org/Genesis.15.14), the nation that enslaves
+will be subjected to judgment.
+
+Later the function of instilling evil thoughts to test a person was taken on
+by the satan.  As already mentioned above, the satan often implants various
+criminal thoughts into the neurons of the brain.  But a person always retains
+free will to resist evil impulses, and accordingly, always retains
+responsibility for their actions.  However, not everyone passes such trials.
+The German Führer and all Nazi criminals possessed free will
+<!-- but not in the sense of will according to Nietzsche and Wagner -->
+and the possibility of not obeying the satan's commands.  Had the Germans
+refused to submit to the satan, then the satan would have tried to incline other
+nations.  But many Germans and their accomplices chose not to refuse committing
+crimes at the satan's instigation, and therefore bore responsibility for their
+atrocities.
+
+| Blot out the memory of Amalek from under heaven.  Do not forget! |
+| (Devarim [25:17-19](https://www.sefaria.org/Deuteronomy.25.17-19)) |
+{: .chapter #antisemitism title="Antisemitism"}
+
+The word *amalek* from a proper noun became a common noun — with a lowercase
+letter, as the ideological heir of the Amalekites.  Just as *agag* was the title
+of Amalekite kings, so *amalek* became synonymous with antisemite.  There have
+been many amaleks in history: amaleks attempted to destroy the Jews not only
+during the Exodus, but also during Purim, and during the Holocaust.  But unlike
+the Exodus and Purim, when a savior was found, in the last case the tragedy is
+that there was no one like Moshe who
+in accordance with Yirmeyahu [16:14-15](https://www.sefaria.org/Jeremiah.16.14-15)
+and [23:7-8](https://www.sefaria.org/Jeremiah.23.7-8)
+would lead the Jews out of Germany and Europe altogether into Israel.
+<!-- And the Orthodoxes even opposed, rejecting Zionism. -->
+
+Following the commandment to blot out the memory of Amalek, I endeavor not to
+mention the names of amaleks — just as the name of the Egyptian Pharaoh was
+not mentioned, so too the name of the German Führer should not be mentioned.
+<!-- For the same reason, it is unpleasant when photographs of antisemitic
+criminals are displayed. -->
+
+<!-- If the prohibition were not followed, it would become analogous to the
+[Streisand effect](https://en.wikipedia.org/wiki/Streisand_effect),
+when instead of erasure, it is constantly repeated even more. -->
+
+<!-- BTW, to avoid misunderstandings, it should be clarified that
+unlike evildoers such as Amalek, this book also does not mention the names
+of many good people, but for the completely opposite reason: alongside
+a great number of their good deeds, they also have minor flaws — therefore,
+without mention of their names, the Satan has no foothold to accuse them even
+in small matters. -->
+
+But ultimately Amalek will be forgotten naturally once all causes leading to
+hatred and enmity completely disappear.  Therefore, the commandment to blot out
+the memory of Amalek will be fulfilled in the process of achieving this goal.
+
+Amalek was one of the first antisemites, who attacked the Jews without objective cause.
+Antisemites have only subjective reasons stemming from their evil inclinations.
+Here is an incomplete list of personal problems that come out in antisemitism:
+
+- Inferiority complex.  Some understand the phrase “G‑d's chosen people” not
+as a task assigned to the Jewish people to bring the world closer to G‑d, often
+through immense loss and suffering.  Instead, they understand chosenness not
+as an obligation, but as a privilege — as a declaration of being “superior
+people”, the “world elite”.  Attributing superiority to others evokes a sense
+of one's own inferiority.  To avoid such a feeling, one must understand that
+regardless of nationality, every person has the task of developing their soul.
+Therefore, when a person performs any good deed, that person rises higher than
+one who merely considers himself chosen but does nothing to improve the world.
+The ultimate goal of humanity's existence is achieving equality among people,
+however, not as equally spiritually impoverished, but rather with an equally
+high level of soul development.
+
+- Compensation for one's own deficiencies.  When someone is in slavish
+submission to authorities and lacks freedom, they invent conspiracy theories
+that accuse Jews of enslaving nations and exercising power over the world.
+<!-- Antisemites are so certain that Jews control everything, but in truth G‑d
+governs all, and the distinction of the Jewish people from other nations is that
+G‑d first revealed Himself to the Jewish people and set before the Jews certain
+tasks, which throughout the centuries they have fulfilled with varying success. -->
+Instead, they must fight against their own authorities to establish democracy
+and equal opportunities in their own country.  When someone experiences material
+hardship and lacks money, they suspect that all Jews are too wealthy.
+The only solution here is to develop society such that a person receives
+proper compensation for their labor.  And when a person considers themselves
+insufficiently intelligent, envy arises: some become convinced that all Jews
+are clever, successful, that everything works out for them — this provokes envy.
+Especially when a person is certain that members of their own people are
+deficient in intelligence.  But no nation is inherently more intelligent or more
+stupid than another.  One of the most telling examples: North and South Korea.
+<!-- BTW, North Korea is not actually ruled by the leader, but by
+a military junta that firmly controls the nominal leaders, who vividly
+illustrate the expression “dumb and dumber”. -->
+While North Korea in terms of living standards remains in the Stone Age, South
+Korea is among the most successful countries, improving the lives of millions of
+people throughout the world — yet genetically they are one people with identical
+capabilities.  Therefore, every person has the opportunity to raise their
+intellectual level — for this, one must study diligently.  That same South Korea
+is among the world's leaders in quality of education, on par with Israel.
+<!-- Also the successes of South Korea may also be connected to constant
+existential threats, struggle for survival, and accordingly the aspiration
+to position itself as an indispensable participant in humanity's progress,
+much like Israel, Ukraine, and Estonia.  -->
+
+- Resistance to progress and the development of humanity.  At the very bottom of
+society there are always such savages who drag humanity back into the past.
+They strive to preserve a primitive state with the justification that animals
+experience neither moral suffering nor pangs of conscience.  They envy animals,
+who lack the moral obligations with which G‑d has endowed human beings.
+Therefore they wish to lead a completely animal existence, having only a minimum
+of concerns: obtaining food, reproduction, and seizing neighboring territories —
+that is, the entire limited set of actions performed even by bacteria and simple
+microorganisms.  It is no wonder that such single-celled beings hate Jews — they
+consider it evil that Jews, by their very existence, pull people out of
+an animal state toward the light.
+
+- Personal grievances against G‑d for problems in one's life, and consequently
+the desire to take revenge on G‑d.  Often people become antisemites when
+something goes wrong in life, when failures pursue them — and then resentment
+toward G‑d may arise.  And since it is believed that Jews have a special
+connection with G‑d, by venting their rage on Jews, they think they are
+indirectly avenging themselves on G‑d for their failed lives.  Since they cannot
+reach G‑d, they vent their grievances on those they consider G‑d's
+representatives on Earth.  Even unbelievers and atheists subconsciously harbor
+the thought of Jewish connection to G‑d, and therefore blame them for their own
+misfortunes.  But they must realize that often the source of problems is the
+satan, as was shown in the story of Iyov.  Therefore everyone must strive
+to suppress the influence of the satan.
+
+- National grievances.  For example, the Nazis appealed to the terms of the
+[Treaty of Versailles](https://en.wikipedia.org/wiki/Treaty_of_Versailles),
+and as a result directed the people's bitterness toward defenseless Jews.
+Or in so-called [Third World](https://en.wikipedia.org/wiki/Third_World)
+countries (the very name hints at third-rate status), in
+[developing](https://en.wikipedia.org/wiki/Developing_country)
+countries (and this name hints at underdevelopment), whose populations eke out
+a miserable existence, there is resentment over the low level of societal
+development, over their failure to build decent states in which human rights
+are respected.  Such countries constitute the majority in the UN.  But this
+resentment diminishes as a society's prosperity increases, and accordingly,
+antisemitism decreases in developed societies.  For example, oil trade revenues
+allowed the living standards of the populations of Arabian Peninsula countries
+to rise substantially, and with the achievement of economic prosperity, the
+level of antisemitism consequently decreased.  And now in the enriched Arabian
+Peninsula countries, the decrease in antisemitism has led to the signing of the
+[Abraham Accords](https://en.wikipedia.org/wiki/Abraham_Accords)
+normalizing relations between Israel and four Arab countries,
+including the UAE.  Therefore the overall trend is such that the level of
+antisemitism decreases in those countries whose inhabitants have freedom and
+democracy.  Also in countries with a high standard of living and a predominant
+middle class, when increased material prosperity brings greater overall life
+satisfaction, which fosters the emergence of self-respect — and consequently
+respect for others.  As it is written
+in Yirmeyahu [29:7](https://www.sefaria.org/Jeremiah.29.7):
+“And seek the welfare of the city to which I have exiled you, and pray
+to the L‑rd in its behalf, for in its prosperity you shall prosper”.
+
+- Antisemitic propaganda that incites hatred toward the Jews.
+This includes the “Protocols of the Elders of Zion”, “Mein Kampf”,
+and other Judeophobic fabrications.
+
+Anti-Israel propaganda is one form of antisemitism.  It must be distinguished
+from constructive criticism of Israel, where no less criticism is directed
+proportionally at other parties to the conflict and at other countries having no
+fewer criticized defects.  Thus, criticizing Israel's actions toward Arabs is
+permissible only in parallel with criticizing Arab countries' treatment of Jews
+living there — if Jews were expelled from those countries, then critics have no
+right to speak.  Or when terrorists attack Israel's civilian population, those
+who do not condemn the terror attacks have no right to criticize Israel's
+retaliatory measures.  Likewise, those who do not condemn the actions of
+authoritarian governments oppressing other nations — for example, such as the
+Kurds, etc. — have no right to criticize.  Therefore, only one who also demands the
+establishment of a State of Kurdistan for the Kurds may support the
+establishment of a Palestinian state.  But such bias with double standards, where
+no one cares what Arabs and authoritarian regimes do to other nations, yet at the
+same time condemn Jews for defending themselves against terrorist attacks — this
+is genuine antisemitism.
+
+In general, there is a simple rule: if only the actions of Israel spark outrage,
+then such a bias is a sign of antisemitism.  When at any mention of Israel one
+immediately thinks of the Palestinians, this is latent antisemitism.  And when
+sympathies lie entirely with the terrorists — this is authentic antisemitism.
+
+The methods of conducting antisemitic propaganda do not differ significantly.
+Here are two of the most striking examples that stuck with me most from childhood:
+
+1. In the early 1980s, I read an article in a Soviet journal condemning Israel
+during the Lebanon conflict.  At the very end of the article, the correspondent
+vividly described how on a Beirut street an Arab fighter raised his hand with
+fingers spread in the form of the V symbol, signifying
+[Victory](https://en.wikipedia.org/wiki/V_sign).  At that time I did
+not yet know all the details of the Middle Eastern conflict — I wanted first
+to understand the situation impartially for myself based on all the facts,
+and until then had not decided which side to take.  But this beautiful gesture
+captivated me, and a desire arose to emulate it.
+
+2. In the early 1990s I read an illustrated article in a Western European
+magazine about the demolition of Israeli settlements, and one photograph
+showed a joyful Arab elder with a wide smile on his toothless mouth —
+in front of the ruins of Jewish settlements demolished by bulldozer.
+The obvious purpose of publishing this photograph was to arouse sympathy for
+one side of the conflict.  At that time I was already firmly on Israel's side
+after the attacks by Soviet rockets from Iraq in 1991.  But still doubts
+remained whether it's possible to achieve peace in exchange for land —
+at that time my relatives from Israel were sending letters expressing hope
+for peace with the Arabs, even at the price of territorial concessions.
+<!-- They also sent homemade poetry books on this theme, where
+the title page was at the end of the book, as in Hebrew. -->
+And so this staged photograph nudged to incline opinion in favor of
+one side of the conflict.
+
+Comparing these examples and analyzing them, I realized how covertly
+antisemitic propaganda operates — by manipulating emotions of the
+readers, their sympathies are gradually shifted toward the enemies of the
+Jews, toward those who seek to destroy Israel.  Moreover, it makes absolutely no
+difference whether this propaganda is concocted by Soviet communists or Western
+leftists — their propaganda methods are identical.  This is one example among
+numerous methods of manipulating readers, collectively known as
+[media bias](https://en.wikipedia.org/wiki/Media_bias).
+Currently one of the most egregious examples of bias against Israel is
+[BBC](https://en.wikipedia.org/wiki/Balen_Report) and other such
+ultra-leftist media outlets.
+
+There exist many other sources of propaganda.  The strongest impression on me
+was made by the report of the commission investigating the terrorist attacks of
+[9/11](https://en.wikipedia.org/wiki/9/11_Commission_Report).  In the
+transcripts of dialogues, the organizers of the attacks spent much time
+convincing the perpetrators of the necessity of carrying them out: instructions
+were constantly interspersed with persuasion and the instilling of the thought
+that Allah demands these attacks be committed, and that afterwards the
+terrorists would enter paradise with virgins, etc.
+
+What can be opposed to the propaganda of religious fanatics?
+One of the most effective ways to combat misanthropic ideologies is enlightenment.
+Only enlightenment can help diminish the influence of propaganda in spreading
+antisemitic conspiracy theories and reduce the level of antisemitism —
+for example, when Holocaust lessons are taught in schools at an early age,
+compassion for the victims remains in memory later on.
+I remember how at school, as part of anti-racist education, we had to buy
+school supplies in stores and send them to needy children in Africa.
+I think I would not have become a racist even without this, but warm feelings
+toward black people still remain from memories of my help to those in need in Africa.
+Therefore, both Holocaust lessons and aid to the needy and studying the history of
+peoples who have suffered — all this helps combat xenophobia.  Hatred is born of
+ignorance, and educated people are more tolerant not only toward their neighbor,
+but also toward people who are very different from them — only if antisemitism is
+not deliberately encouraged, as is done by far-left professors in universities.
+
+For the same reason, civilized nations must help Israel bring
+enlightenment and the prosperity accompanying it to Arab countries.
+<!-- First came prosperity from oil, and then enlightenment for the sake of
+recognition by the West.  But in democratic countries it is often the reverse:
+enlightenment leads to prosperity.  --> For example, the monarchies of the
+Arabian Peninsula, as they have developed through progress, have become
+increasingly friendly toward Israel, which made possible the signing of
+Abraham Accords.
+<!-- From the sale of oil they have accumulated considerable wealth; they have
+much to lose, and therefore for their own security it is more advantageous for
+them to befriend Israel against the Iranian threat — just as Western countries
+unite against common threats. -->
+
+Therefore, the Palestinian conflict has the following solution — members of the
+political left from Western countries and Muslims from enlightened Arab nations
+must jointly engage directly in cultivating tolerance among the rising
+generation of Palestinian Arabs.  Among other things, they must finance and
+organize Holocaust lessons in Palestinian schools, in order to eradicate
+hatred toward Jews among Arabs.
+
+In fairness, this is required simply for the sake of symmetry: Israeli schools
+do not call for the destruction of Arabs, therefore Palestinian schools should
+not do so either.  Most Jews regard well those Arabs who do not seek to become
+terrorists.  Arabs should have the same attitude toward Jews.  Not even one
+hundred percent symmetry is required — there is no need to grant Hebrew exactly
+the same special status that Arabic has in Israel.  Arabs are not required to
+grant citizenship to as many Jews as there are Arabs who hold Israeli
+citizenship and have equal rights with Jews.  <!-- In Israel, there are even
+more Muslim citizens than Jews in Europe. -->  What is required is only to
+eliminate today's complete asymmetry: when Israel's desire for peace
+is met from the other side only with hatred.
+
+The same asymmetry is observed in the demand to create a state exclusively
+for Arabs, in which there is no place for Jews.  This is the sole reason why
+left-wing antisemites so fiercely oppose settlement construction — so that the
+new state would be *Judenfrei* from the outset.  If left-wing fanatics
+admitted even a modicum of justice, then according to the “two-state” theory,
+just as the Jewish state has a large percentage of Arab population, so too in
+the Arab state there should remain a Jewish minority in the settlements.
+Therefore, a powerful argument against antisemites protesting settlement
+construction is that the settlements must continue to be developed, because Jews
+must remain in these settlements even in the case of two states.  Thus, the
+first step toward peace is acceptance of a Jewish minority in the settlements.
+Otherwise, all these participants in protests against Israel are simply Nazis.
+
+But the current generation is hopelessly lost, because from childhood
+they were raised to hate Jews, and because of this they grew up as murderers
+who must be kept in cages as animals — and simply liquidated when they
+as zombies, zombified by antisemitic propaganda, as in the film
+*[World War Z](https://en.wikipedia.org/wiki/World_War_Z_(film))*, storm
+the walls and with inhuman cruelty kill everyone: infants, women, the elderly.
+If according to the “two-state” theory for two peoples, a new state were
+created now, the result would be yet another Iran right on the border
+of Israel.  Only antisemites could demand such a thing.  It is absurd that
+instead of bringing enlightenment to inhumane regimes in countries such as Iran,
+the Western left, on the contrary, demands an increase in the number of such
+countries.  Gaza was long ago granted autonomy, but instead of building
+a civilized society there, Western leftists hypocritically encouraged
+the rule of ruthless murderers.
+
+<!-- Otherwise, if no one is willing to take responsibility for fostering
+tolerance among Palestinian Arabs instead of sponsoring terrorism, then another
+solution is for Islamic countries, on their vast expanses that are 1000 times
+larger than the area of Israel, to allocate territory equal in size to the West
+Bank and Gaza Strip — like the majority of Palestinian Arabs have long since
+found refuge in neighboring countries.  Such a population exchange would be
+just: Jews from Muslim countries, forced to leave their places of residence,
+would be compensated and replaced by Palestinian Arabs in their stead.
+
+And likewise for the countries of Europe — as many Jews as were destroyed and
+expelled from there, so many Palestinian Arabs should be accepted as migrants.
+Moreover, they themselves would voluntarily agree to such an exchange,
+especially with additional compensation, if the authorities of these countries
+would permit it — just as millions of migrants from Arab countries have long
+since moved to Europe.  Therefore nothing new is being proposed — for a long
+time now, instead of arranging normal life in Muslim countries, Western
+countries have preferred to accept millions of Arab migrants.  But instead of
+accepting migrants from troubled countries, they must help improve living
+conditions in those countries.  And migrants should be accepted exclusively
+from Palestine only.  As a result, two problems will be resolved at once:
+the standard of living in troubled countries will rise, and peace will be
+established not only in Israel and the Middle East, but throughout
+the entire world. -->
+
+Thus the responsibility for resolving the Palestinian problem falls entirely
+upon everyone who is outraged by any action Israel takes in self-defense.
+The responsibility passes to the majority of UN member states that have grown
+accustomed to always voting against Israel.  Therefore their foremost task is
+not the “establishment of a Palestinian state” but education, i.e.,
+upbringing and teaching of Arabs in the fundamentals of the civilized world.
+This will significantly diminish the degree of antisemitism, thereby bringing
+closer a global peace among nations.
+
+Those who do not consider themselves antisemites and yet support the “two‑state
+solution” must teach the Palestinian Arabs tolerance, just as the neighboring
+Arab states have already learned tolerance toward the Jewish state.  Otherwise,
+the world is obliged to acknowledge that the “two-state” option is unworkable.
+
+<!-- Either they genuinely want to solve this problem,
+and then they begin to work on cultivating tolerance among Arabs.
+Or they take responsibility for the second solution.
+Both of these options will save human lives — instead of endless suffering and wars. -->
+
+<!-- Peace will come when the Arabs renounce the expansionist destruction of
+other peoples, renounce the goal of replacing indigenous populations, as they
+have done in Egypt and other countries, and as they plan to do in Palestine,
+appropriating for themselves the Jewish name. -->
+
+In general, antisemitism is a form of racism and xenophobia that can exist even
+in countries where there are no Jews.  Antisemitism is simply the most striking
+indicator of the level of tolerance in a society and respect for other people.
+When there are no Jews nearby, the hatred shifts to members of another group
+of the population that stands out from the general mass such as successful
+and rich business owners, etc.
+
+From an early age, I frequently encountered manifestations of antisemitism.
+I remember how my favorite mathematics teacher, Faina Isaakovna, during school
+vacation traveled by car to visit her relatives in Belarus, got into an accident
+on the road, and perished together with her daughter.  And after this terrible
+incident, other teachers opened her desk and at the bottom of a drawer found
+a note from some pupil with antisemitic curses addressed to the teacher and
+wishes of death.  I do not claim there is a direct connection between these
+events, but for me it was a strong shock.
+
+Even though my Jewish origins were carefully concealed, and even my Jewish
+surname resembled a Russian one, it was impossible to hide my Jewishness
+completely — nothing saved me from antisemitic incidents.
+
+In my childhood I had such a speech impediment that prevented the proper
+pronunciation of R like it was customary to portray a stereotypical Jew in
+jokes.  Therefore when I spoke, my Jewishness would noticeably protrude.
+This continued until age 8, and then a speech therapist came to school with
+speech assessments, discovered this defect and said that circumcision is
+required.  They referred me for tongue-tie surgery, performed without anesthesia,
+it was not painful.  And immediately after the circumcision of tongue
+frenulum ([frenectomy](https://en.wikipedia.org/wiki/Frenectomy))
+I was able to pronounce R the same way as everyone else.
+<!-- Therefore even my tongue is Jewish — circumcised.  -->
+
+But in behavior and worldview I was a typical Jewish child — there was nothing
+non-Jewish about me, my Jewish origin was immediately apparent, so I became
+a victim of antisemitism regardless.  Thus, due to antisemitic attacks against
+me in childhood, I realized that I was a Jew, and that my fate was Jewish.
+
+<!-- In infancy my mother refused to nurse me with her milk, so I had
+a disrupted metabolism (at least, that is how the doctors explained it).
+And in Mishneh Torah, Hilkhot Ishut
+[21:13](https://www.sefaria.org/Mishneh_Torah,_Marriage.21.13)
+it is said that a mother must nurse her child until two years of age. -->
+From infancy, due to an allergy to sugar, I was forbidden to eat sweets.
+Sometimes I couldn't bear being without sweets, especially when everyone
+around me was enjoying delicious chocolate candies, and then I would eat
+a little something sweet — and even from a small candy an immediate severe
+allergic reaction would begin, and inflammation and boils would break out
+on my body: not tzara'at,
+<!-- not white as snow (Bemidbar [12:10](https://www.sefaria.org/Numbers.12.10)), -->
+but like sore boils on Iyov, who was subjected to the trials of Satan
+(Iyov [2:7](https://www.sefaria.org/Job.2.7)).
+<!-- the same as in Devarim [28:35](https://www.sefaria.org/Deuteronomy.28.35) -->
+
+But the most terrible thing was when, during shop class at school, dirt would
+get into the open wounds on my hands — the dirt would eat away at the wounds,
+and this caused unbearable, hellish pain.  Therefore, during shop class this
+physical affliction prevented me from working normally.  And the shop teacher
+ignored my problems and simply stupidly gave me low grades, and thereby spoiled
+my certificate, where otherwise everything was excellent.
+
+And so my defense was taken up by the teacher who taught me in first grade.
+After the start of school this Russian teacher placed first at the head of the
+class a Jewish girl, and next to her me as a Jewish boy.  And as she determined
+the order, so it remained throughout the entire time of study — when the girl
+was promoted, I would take her place at the head of the class, and so on.
+And just as my first teacher regarded me as the best student, so I remained
+an excellent student with all the other teachers.
+
+So my first teacher came to the shop teacher and began asking him not to ruin my
+certificate because of my health problems.  And then this shop teacher pulled
+out the class register (at the end of the register were recorded the pupils' and
+their parents' personal data), spitefully jabbed at my entry and shrilly shrieked:
+“Look here, his father's patronymic is Davidovich.  David is a Jewish name,
+which means this pupil is a Jew!  And all Jews are lazy and don't like to work,
+and this Jew is the same layabout as all Jews, doesn't like to work!”
+
+This was a blatant antisemitic slander — my Jewish grandfather David Judkovich
+loved to work very much.  Even in retirement, every day from early morning until
+late evening he spent his time at the workbench, always making things and
+constructing a lot.  And I inherited from my grandfather a love of labor —
+I never sat idle; in childhood I was always constructing something.
+<!-- For example, built models from miniature to gigantic, etc. -->
+
+This was the same kind of slander as the claims of antisemites that during the
+Second World War in the Soviet Union Jews did not fight as everyone, but stayed
+behind the lines, lying low in Tashkent.  But in reality, among the half-million
+Jews who fought, grandfather heroically battled at the front against the
+German-Fascist invaders: he commanded military transport units (since before
+the war he had graduated from the Kharkiv Automobile and Highway Institute
+[KhADI](https://en.wikipedia.org/wiki/Kharkiv_National_Automobile_and_Highway_University)
+where his diploma project was on the topic: “Underground Mechanized Service
+Station for 350 Taxicabs in Kyiv” with an excellent grade), he directed
+the construction of crossings, forced water barriers under enemy fire, ensured
+the supply of residents of besieged Leningrad across the ice of the lake on the
+[Road of Life](https://en.wikipedia.org/wiki/Road_of_Life),
+rose to the rank of engineer-colonel, and was awarded several medals.
+<!-- Being a veteran, on holidays grandfather would put on his dress naval
+tunic (kittel) with rows of medals, and let me play with his personal dirk. -->
+
+By civilian profession my grandfather was a construction engineer.
+For example, he oversaw the delivery of materials for the construction of the
+television tower — the challenge being that for eight months it was necessary
+to ensure an uninterrupted concrete pour throughout the entire height of three
+hundred meters.  I remember visiting him during his night shifts at the Ministry
+of Construction and seeing how the telephone rang constantly, and he
+continuously issued instructions over the phone.
+
+My grandfather saw in me the continuation of his lineage, and as I recall,
+a special bond formed between us after one amusing incident.  One day we were
+walking in the park.  I was a little over five years old, already able to read
+and write, and I began tracing with a stick on the ground the letters of my
+surname: L I N K O V.  When I finished, grandfather asked what I had written.
+I replied that it was my surname.  But grandfather inquired whether perhaps
+I had written his surname.  And then I exclaimed in amazement:
+“What?!  You're Linkov TO-O-OO?!”
+<!-- It would be no less amusing if I had exclaimed: “You're Jewish too?!” -->
+My grandfather laughed joyfully at my naiveté,
+and then often recalled this amusing incident with laughter.
+<!-- At that age I already knew that this surname was mine and my father's,
+but I did not yet know about my grandfather. -->
+
+![Linkov David](../../../files/book/linkov_david.jpg){:.center}
+
+Though the surname resembles a Russian one,
+our surname is Jewish,
+and derives from the name of a Jewish shtetl
+[Linkuva](https://en.wikipedia.org/wiki/Linkuva)
+in Lithuania in the Panevėžys region.
+
+It was very offensive when the Orthodoxes mocked my Jewish surname.  As soon
+as they learned my surname, the Orthodox rabbis began reproaching me for this
+surname they considered non-Jewish, saying how I should be ashamed to intrude
+among Jews with such a gentile surname — as Ashkenazim with German surnames told me.
+<!-- And it's even worse with Russian surnames inherited from non-Jewish fathers. -->
+When the Orthodoxes trampled on my Jewish surname and shamed me for
+my Jewish surname, it was an insult to all my Jewish ancestors.
+
+I wonder if those Orthodox rabbis with German surnames would not be ashamed
+to approach my Jewish ancestors with a Litvak surname and present to them
+directly all these accusations about an insufficiently Jewish surname?
+
+My great-great-grandfather Shimshon (Samson) Linkov ז״ל was a religious Jew.
+He was shot by Russian antisemitic Armed Forces of South Russia during a
+[pogrom](https://en.wikipedia.org/wiki/Pogroms_during_the_Russian_Civil_War)
+in Cherkasy on August 6/(19), 1919.
+
+Could the Orthodoxes with German surnames have approached my
+great-great-grandfather praying in the synagogue and reproached him for his
+“insufficiently Jewish”, “Russian” surname?  Not only do the Orthodoxes mock
+the memory of my Jewish ancestors, but like antisemites they also demand that
+they be completely forgotten.  When a Jew through the paternal line takes pride
+in his Jewish ancestors — it triggers the same outraged reaction from both
+antisemites and Orthodoxes.
+
+<!-- At the time I did not yet resent the Orthodoxes for this, but I recalled
+it only after the Orthodoxes rejected me.  In general, I suffered both from
+antisemites and from the Orthodoxes. -->
+
+Even worse is what the Orthodoxes do when in their prayers they demand the
+destruction of all non-Orthodox Jews.  In one of the blessings of the *Shmoneh
+Esreh* prayer, in *Birkat ha‑Minim*, they demand that “all apostates perish
+in an instant”.  <!-- It is strange that the possibility of their teshuvah is
+excluded. -->  Here “apostates” *minim* refers to all Jews who do not submit
+to Orthodox rabbis.  Formerly these were the Karaites and other opponents of
+the Rabbanites — in the *[Kuzari](https://www.sefaria.org/Kuzari.3.65)*
+it is clearly stated that the Sadducees and Boethusians are considered
+apostates *minim* who are cursed in the prayers.
+{: #brachot-klalot title="Blessings and Curses"}
+
+And now the Orthodoxes count as *minim* the Reformists, the Traditionalists
+*masortim*, and all the more so secular Jews.  And the Kitzur Shulchan Arukh
+even instructs everyone to rejoice at the death of Jews who do not observe
+in full all the ordinances of the rabbis.
+
+Though it is called a blessing, it is in fact a curse.  And thus three times
+a day, six days a week, the Orthodoxes curse not only antisemites but also
+Zionists.  Just as antisemites wish to wipe Jews off the face of the Earth, so
+too the Orthodoxes wish to wipe non-Orthodox Jews off the face of the Earth.
+
+I remember in the 1990s, a thought experiment was discussed online for
+identifying antisemites: if there existed a button, pressing which would destroy
+all members of a particular nationality, the question was asked: would you be
+able to press such a button?  And depending on the answer, a definition was given:
+in case of a positive answer, the respondent was identified as an antisemite
+if it concerned Jews, etc.
+
+Since three times a day in prayer the Orthodoxes recite an antisemitic petition
+for the destruction of Jews: “may all apostates perish in an instant”, where the
+word “apostates” refers to Jews who do not observe all Orthodox stringencies
+(*[chumrot](https://en.wikipedia.org/wiki/Chumra_(Judaism))*) — not only
+Reformists, but all non-Orthodoxes in general, all Jews who do not follow
+all the precepts of the Shulchan Arukh, and certainly all patrilineal Jews,
+about whom the Orthodoxes are constantly preoccupied with how to rid themselves
+of them as quickly as possible, as if they had never existed, according to the
+principle of idolaters: “no person — no problem”.  Does it follow that if the
+Orthodoxes had a button that would destroy Jews who do not fully observe all
+the ordinances of the Orthodoxes, they would press it, so that all apostates
+would “perish in an instant”, as they constantly pray for?
+
+The following question necessarily follows from this: if the Orthodoxes prayed
+with curses for the destruction of “apostate” Jews before the Holocaust,
+could this have influenced the destruction of Jews during the Holocaust?
+After all, regarding the majority of Jews in territories that fell under Nazi
+rule, it could be said that they were apostates, i.e., those who had left
+the Orthodox ghetto and abandoned the observance of all stringencies.
+
+Curses do not operate directly.  When G‑d is displeased with the behavior of
+people, He does not punish them immediately <!-- as it is said in Yechezkel
+[22:4](https://www.sefaria.org/Ezekiel.22.4) “therefore have I given you” --> —
+the punishment is carried out by the satan.  And curses point out to the satan
+whom to focus upon, and further spur the satan on, compelling the satan to more
+actively subject them to trials and to influence the minds of their enemies for
+their punishment.  And then for a time G‑d may weaken the protection from the
+consequences of the satan's influence upon the enemies, who completely submit
+their will to the satan's sway.  On the other hand, blessings are petitions
+to G‑d to strengthen His protection.
+
+Adam and Chavah were subjected to their first trial by the satan-serpent.
+When they failed to withstand this trial, as a result of the curse their level
+of protection was lowered, whereby they and their descendants became subject
+to a greater number of trials from the satan.
+
+When the Torah states that the iniquity of the fathers is visited upon the
+children and grandchildren to the third and fourth generation, this curse does
+not mean that protection is completely removed from the children, because it is
+said that children are not punished for the sins of their fathers (Devarim
+[24:16](https://www.sefaria.org/Deuteronomy.24.16), Yirmeyahu
+[31:29](https://www.sefaria.org/Jeremiah.31.29), Yechezkel
+[18:20](https://www.sefaria.org/Ezekiel.18.20)).  Rather, it means that the
+intensity of Satan's trials increases for these generations of descendants,
+to determine which among them continue to hate G‑d.
+<!-- and are punished for this alone -->  And when it is said that mercy is
+preserved for thousands of generations, this blessing means that for the
+descendants the level of protection from Satan's attacks is raised.  But only
+for those who continue to love G‑d.  Therefore they will not remain unpunished
+if their sins increase.
+
+In the Torah, examples were shown of how blessings and curses operate.
+<!-- *brakhot* and *klalot* -->  Balak and Bilam had antisemitic inclinations,
+but Bilam refused to curse the Jewish people out of fear of punishment, since
+an undeserved curse returns to the one who curses, as is known from the Torah:
+
+> And I will bless those who bless you, and those who curse you I will curse,
+and through you all the families of the earth shall be blessed.
+(Beresheet [12:3](https://www.sefaria.org/Genesis.12.3),
+[27:29](https://www.sefaria.org/Genesis.27.29))
+
+> How shall I curse whom G‑d has not cursed?
+How shall I invoke wrath upon whom G‑d is not wroth?
+(Bemidbar [23:8](https://www.sefaria.org/Numbers.23.8))
+
+<!-- And Makkot [11a](https://www.sefaria.org/Makkot.11a.14) draws attention to
+Mishlei [26:2](https://www.sefaria.org/Proverbs.26.2): “an undeserved curse will
+not come to pass” where “undeserved” is in the sense that the Satan has difficulty
+gaining a foothold. -->
+
+Bilam knew that if G‑d is not wrathful toward the people, He continues to protect
+the people from the attacks of the satan, and then the satan cannot cause harm.
+When the satan realizes the futility of his attempts, out of desperation he
+redirects his fury back upon the one who incited the satan with his curses.
+And then that person receives from the satan in full measure all that the satan
+typically does: subjects him to trials, based on the results of the trials shows
+his deficiencies to G‑d with a request to diminish the protection, and uses
+enemies for punishment.
+
+As Balak and Bilam sought to curse the Jews, so too do the Orthodoxes demand to
+curse non-Orthodox Jews.  But since curses may return upon the curser, it's
+important to pronounce blessings instead of curses.
+
+Therefore, following this example from the Torah, I bless the traditionalists,
+I bless the reformists, I bless the progressive Jews, I bless the liberal Jews,
+I bless all non-Orthodoxes in general, and the Orthodoxes as well, despite everything.
+
+During my tribulations and prolonged wanderings through numerous synagogues,
+I had occasion to pray from various siddurim with different nusachim and
+different translations.  I must note that the compilers of certain siddurim
+recognized the gravity of the consequences of this destructive curse and left
+only the curse against antisemites, while removing the curse against apostates.
+Here I will not enumerate which siddurim of which nusachim retained the curse
+against “wrong” Jews and which removed it — this is publicly available
+information.
+
+The only thing that saves non-Orthodox Jews from destruction is the fact that
+the Orthodoxes pray without kavanah, so their requests in prayer to destroy
+non-Orthodox Jews have no effect.  It is even for the best that the Orthodoxes
+pray without kavanah, otherwise non-Orthodox Jews could suffer greatly as
+a result of their prayers.
+{: #kavanah title="Kavanah"}
+
+Indeed, the Orthodoxes do not immerse themselves sufficiently in prayer, and
+therefore their prayers have no effect.  For example, when someone occasionally
+walks past Orthodoxes at prayer, they become distracted from their prayers and
+express displeasure at having been interrupted, reacting to the movements of people
+around them.  This happens when they are not concentrated on prayer, when they
+pray without kavanah.  If they prayed with kavanah, they would notice nothing
+of what happens around them during prayer.
+
+In my life there have been instances when I was so engrossed in an activity that
+I paid no attention to external distractions.  The following example may seem
+insignificant, but I can no longer recall any other occupation that so strongly
+captivated me and completely seized all my attention.  It was a computer game
+called *[Civilization](https://en.wikipedia.org/wiki/Civilization_(video_game))*.
+Playing *Civilization* is like a chess match unfolding on a board with an enormous
+number of squares, across which chess pieces move, representing different groups
+of people.
+Due to stress I was highly sensitive to even the slightest distracting sounds,
+but for the entire day <!-- all 12 hours --> that a gaming session of
+*Civilization* lasted, the game so completely absorbed my attention that not
+only could I not tear myself away from the computer screen, not only could
+I not be distracted even for a second, but I also absolutely did not notice any
+disturbances.  Once, while playing, my neighbors were moving, and it was very
+noisy: all day long they were dragging furniture around, loudly bumping against
+my front door, etc.  Usually such noises would have bothered me greatly.
+But when I was fully absorbed in the process, I noticed none of it at all.
+And only after finishing the game, retrieving subconscious memories,
+did I realize how loud the noise had been.
+
+For me this became the standard of immersion in an activity — by this standard
+it's possible to measure the level of immersion in prayer and strive for such
+complete immersion that nothing could distract from prayer and Torah study, not
+a single source of [loud sound](https://en.wikipedia.org/wiki/Loudness):
+neither loud conversation, nor noisy neighbors, nor even the roar of a jet
+engine turbine (or the equivalent in decibels of a rock concert's thunder), etc.
+
+<!-- To test the quality of one's prayer, one can, for example, turn on the
+radio at full volume during prayer and try to understand how well the
+meaning of the prayer remains comprehensible. -->
+
+Therefore, just as G‑d is focused on the development of human civilization,
+we on our part must achieve the same level of focus during prayer in order
+to establish a continuous connection with G‑d.
+
+<!-- If we continue the comparison with computer games, *Civilization* is
+a prime example of a highly intellectual game, while at the other end of the
+spectrum are mindless shooters like *DOOM* and similar ones.  In precisely
+the same way, highly intellectual prayers and slaughterhouse sacrifices
+are diametrically opposed. -->
+
+Instead of trying to compensate for the absence of kavanah with a larger
+quantity of prayers, it is better to pray less, but with higher quality —
+with kavanah, with complete concentration of attention on the prayer,
+i.e., it's necessary to focus in such a way that nothing can distract.
+And when we pray with kavanah, then prayer helps.
+
+Also the Ashkenazic pronunciation does not add persuasiveness to the prayer.
+<!-- When angels, trained in understanding prayers in Hebrew,
+hear distorted phonetics, they cannot comprehend anything,
+and therefore do not transmit further the report of the recited prayers,
+as stated in Shabbat [12b](https://www.sefaria.org/Shabbat.12b.2).
+Thus Ashkenazic pronunciation distances them even further from G‑d. -->
+Moreover, adherents of the Ashkenazic pronunciation demonstratively separate
+themselves from all Jews: during prayers in any minyan there is always such
+a preacher of Ashkenazic pronunciation who, after everyone together in chorus
+says “Amen!”, he loudly after everyone else, so that all may hear, cries out
+“O-O-Omey-y-yn!”, as if insisting on his exclusively correct pronunciation and
+thereby reproaching others for not following him.  This destroys the unity of
+the Jewish people.  Precisely the same pattern of behavior is demonstrated by
+Orthodoxes toward non-Orthodox Jews.
+
+| And when you harvest your field, do not reap all the way to the edges, and do not gather the gleanings.  Do not strip your vineyard bare, nor gather the fallen grapes — leave them for the poor and the stranger. |
+| (Vayikra [19:9-10](https://www.sefaria.org/Leviticus.19.9-10), [23:22](https://www.sefaria.org/Leviticus.23.22)) |
+{: .chapter #hundred-percent title="100 percent"}
+
+| When you gather in your harvest and forget a sheaf in the field, do not go back for it — let it remain for the stranger, the orphan, and the widow…  When you beat your olive tree, do not strip what is left behind — let it remain for the stranger, the orphan, and the widow.  When you gather the grapes of your vineyard, do not glean what remains behind — let the stranger, the orphan, and the widow take them. |
+| (Devarim [24:19-21](https://www.sefaria.org/Deuteronomy.24.19-21)) |
+{: .chapter}
+
+| And from the bundles of grain pull out for her and leave them, — that she may glean, and you shall not rebuke her. |
+| (Ruth [2:16](https://www.sefaria.org/Ruth.2.16)) |
+{: .chapter}
+
+As a counterexample to the observance of this commandment in recent history,
+the communist idolaters enacted a law directly opposite to the Torah — the
+[Law of Three Spikelets](https://en.wikipedia.org/wiki/Law_of_Spikelets) —
+whereby watchtowers with armed guards were erected at the edges of fields,
+so that not a single ear of grain, not a single kernel would reach the starving.
+And the punishment for each spikelet picked up from the edge of a field was
+the most severe, including the death penalty.
+
+The main meaning of this commandment is not to strive to cover everything 100
+percent as the Nazis did when they attempted to destroy all Jews without
+exception, and then declared a territory 100 percent
+[Judenfrei](https://en.wikipedia.org/wiki/Judenfrei).
+
+As the Nazis attempted to identify Jews with one hundred percent coverage,
+so now the Orthodoxes have stooped so low as to carry out inspections
+by DNA testing with German thoroughness and meticulousness — the same kind
+of infiltration is being carried out, diminishing the number of Jews,
+and once again defenseless Jews are suffering from this.
+
+Each time an investigation into Jewishness began, scenes from numerous films
+would come to mind — how the Nazis searched for Jews.  Certainly, the difference
+in purpose between the verifications is immense: in one case, the checks were
+conducted with the intent to kill, while in the other — merely to expel.
+But even in this case, it's impossible to say that a person continues to live,
+because his life has been broken — he remains not to live, but merely to exist.
+
+Perhaps the Orthodoxes take their example from the Talmud, which also attempted
+to cover absolutely all possible cases 100 percent with laws.  But in the
+same Talmud in the tractate Peah, a limit to filtration is defined, and
+<!-- unlike the Karaites --> it's required to leave no less than 1/60
+of the entire volume, which amounts to approximately 2 percent.
+
+<!-- I noticed that approximately 20 percent of the remaining work (e.g.,
+morphological analysis of natural language words) requires 80 percent of the
+time and effort due to the need to consider increasingly complex non-standard
+cases and exceptions to the rules, 10% — 90%, 5% — 95%.  This pattern is known
+as the [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle). -->
+
+Therefore, following this rule, it would be possible to spare 2 percent
+from humiliating inspections by limiting them to the
+[98th percentile](https://en.wikipedia.org/wiki/98th_percentile).
+This is an absolute maximum, but for greater mercy toward the needy
+it would be reasonable to move the indicator needle left or right
+on the chesed–gevurah scale from 0 to 100.  But not too far left —
+so that concern for the gleaner would not cause great harm to the field's owner.
+Or on a national scale — so that excessive aid to the socially vulnerable would
+not become an unbearable burden on working citizens.
+<!-- This is a vivid example of the numbers that must be dealt with in Kabbalah. -->
+
+<!-- And in general, everywhere exceptions must be left, not covered 100%:
+there should not be 100% digital currency, 100% electronic voting, especially
+with the help of computers and AI (biometric data, facial recognition,
+scanning of correspondence, …) -->
+
+The sole reason the Orthodoxes now manifest an extreme degree of gevurah,
+failing to help strangers as the Torah and even Halakhah insistently demand,
+but instead oppress them with nitpicking and humiliations — all this is because
+the Orthodoxes are attempting to preserve racial purity, so that as little
+“genetic refuse” as possible seeps through the impenetrable filters of
+[artificial selection](https://en.wikipedia.org/wiki/Selective_breeding)
+and other forms of [eugenics](https://en.wikipedia.org/wiki/Eugenics).
+
+Just as the Nazis strove to guard the German nation from the penetration of
+Jewish genes, so now the Orthodoxes guard the Jewish gene pool from the entry of
+non-Jewish genes.  Just as the Nazis fought for the purity of Aryan blood,
+including by suppressing half-bloods, whom they called
+[Mischlinge](https://en.wikipedia.org/wiki/Mischling), so in the present time
+the Orthodoxes are preoccupied with suppressing racially inferior “Mischlinge”
+as undesirable elements of society: by forbidding marriage (*psulei hitun*)
+to limit the birthrate of patrilineal Jews, i.e., by means resembling
+sterilization, such as refusing to perform the necessary circumcision,
+and thereby denying the possibility of continuing the lineage, leaving them
+childless and thus taking away the right to existence.
+
+<!-- This is not only a prohibition against Jews fulfilling the commandment
+“be fruitful and multiply”, but also “it is not good for man to be alone”
+(Beresheet [2:18](https://www.sefaria.org/Genesis.2.18)).  This can even be
+called genocide in the sense of “deliberately creating for any group such living
+conditions as are intended for its complete or partial physical destruction”. -->
+
+Jewish genes formed in me a 100% Jewish brain, but not the shape of the skull.
+But for the Orthodoxes the form of the skull is more important than its
+content/contents.
+
+Everything pertaining to the body, the Orthodoxes strictly observe, while
+they do not develop the soul.  For them, it does not matter that a person
+has a Jewish soul — the determining factor is only the body, built according
+to certain genes.  Thus, instead of fulfilling the task set by the Torah of
+spreading the Divine light, the Orthodoxes have degenerated into a struggle
+for racial purity.
+
+But I do not blame the Orthodoxes.  The desire to preserve Talmudic Judaism in
+precisely the same state as it existed many centuries ago is understandable:
+both genetically and at the level of all accumulated traditions, to maintain
+a kind of a “[nature reserve](https://en.wikipedia.org/wiki/Nature_reserve)”,
+where a special protection regime is established,
+in order to safeguard and preserve endangered species listed in the
+[Red List](https://en.wikipedia.org/wiki/IUCN_Red_List), as a heritage of
+humanity.  And all this has long existed in the form of closed
+ultra-Orthodox communities, where genetic homogeneity is maintained.
+<!-- But this is a reserve of the Middle Ages, not of original, pristine Judaism. -->
+The ultra-Orthodox drove themselves into these reservations, and even
+after the end of galut they retained the habit of dwelling in a ghetto.
+
+Therefore, it is from these premises that we must seek a solution to the
+problem.  Since on the one hand the purity of blood is so important to the
+Orthodoxes, and on the other hand they should not bring suffering upon the
+descendants of those Jews who chose to dilute Jewish genes with the genes of
+other nations, then the only solution to the problem is to follow the example of
+the Torah and formalize the existing division into communities.  In the Torah
+all these problems were long ago resolved in the form of dividing the people
+into tribes.  And modern communities correspond to the tribes.  Therefore, just
+as according to the Torah there existed a restriction on intertribal marriages:
+{: #tribes title="Tribes"}
+
+> Here is what G‑d has commanded concerning the daughters of Tzelofchad: they
+may marry whomever they please, but only within a family of their father's tribe
+(Bemidbar [36:6](https://www.sefaria.org/Numbers.36.6))
+
+In exactly the same way, restrictions on marriages between communities within
+one nation will now help preserve genetic purity in those Haredi communities
+for whom this is important — just as genetic purity used to concern mainly the
+Kohanim.  If they wish, they can maintain genealogical records of lineages
+(*sifrei yuchasin*) — the same way as genealogies were formerly kept through the
+father for priests (Josephus Flavius, *Against Apion*
+[1:7](https://www.sefaria.org/Against_Apion.1.7.1)).  And when preserving
+their gene pool will be guaranteed with 100% security, they will then regard
+members of other communities more kindly, who will no longer pose a threat to them.
+
+<!-- In earlier times, Jews through the mother were considered mamzerim in order
+to restrict marriages with them and thereby preserve racial purity.  Later this
+restriction was lifted, and now many Orthodox communities permit violations of
+blood purity.  Therefore, to preserve a genetically pure race, the
+ultra-Orthodox could exclude from their ranks also Jews only through the
+maternal line.  And indeed, such discrimination against Jews through the mother
+has long been taking place. -->
+
+And for those communities that already include descendants of intermarriages,
+racial purity is no longer important; therefore, it makes sense for them to unite
+Jews who do not possess 100% Jewish genes within non-Orthodox communities.
+
+The aforementioned law of the Torah was abolished in the era of Shoftim, but
+at present the restoration of this law of the Torah would help alleviate the
+suffering of those Jews who are unable to change their “flawed” genetic
+inheritance: both Jews from mixed families and mamzerim.
+
+I'm not inventing anything new — the prophets spoke of this two and a half
+thousand years ago.  Yehezkel ([47:22](https://www.sefaria.org/Ezekiel.47.22))
+proposes to divide Israel with the strangers who have borne children among the
+children of Israel, and as native-born inhabitants they shall divide the
+inheritance with all the tribes of Israel.
+
+> And it shall be: within the tribe where the stranger resides,
+there shall you give him his inheritance, — declares the L‑rd G‑d
+(Yehezkel [47:23](https://www.sefaria.org/Ezekiel.47.23))
+
+And Jews through the paternal line are not even strangers, but genuine Jews.
+Yet the Orthodoxes do everything they can to keep them out of the community
+of Israel.  When the Orthodoxes will recognize patrilineal Jews, then
+the baseless hatred among Jews will cease.
+
+In a general sense, modern Israel constitutes one large community.
+Nevertheless, there exists a division into smaller communities within Israel,
+each with its own traditions.  This division manifests most clearly among Haredi
+communities — marriages between members of these communities are almost
+entirely excluded, and even with baalei teshuvah, who are considered
+second-class people, and all the more so with newly converted Jews,
+who are considered third-class people.
+<!-- The secular are also considered of lower class, and this manifests
+itself, for example, in the prohibition against wine that a secular person
+has touched. -->
+
+There also exists a matrimonial division among immigrants from different
+countries.  For example, according to various surveys, the overwhelming majority
+of respondents are willing to marry only within their own community.
+<!-- Moroccans — with Moroccans, Ethiopians — with Ethiopians, etc. -->
+
+There is nothing wrong with this — the most important thing is that despite
+differences, mutual respect must be maintained between communities, guaranteeing
+unity.  But not unity as uniformity of identical views and opinions, but unity
+as [togetherness](https://en.wikipedia.org/wiki/Sense_of_community).
+Whereas the tribes/camps/communities must be equal — there must
+be no division into second-class Jews, third-class Jews, and so forth.
+
+Then if a Jewish man or woman from a non-Orthodox tribe wishes to marry a member
+of an ultra-Orthodox tribe, they must undergo a process of conversion to
+ultra-Orthodox Judaism <!-- sect --> and afterward join their community.
+Just as Yehezkel in [44:22](https://www.sefaria.org/Ezekiel.44.22) counseled
+preserving the purity of the blood of the kohanim, so too now the purity of
+blood can be maintained within ultra-Orthodox communities.
+
+In the Temple each tribe has its own gate: there were 13 gates according to the
+Mishnah Middot [2:6](https://www.sefaria.org/Mishnah_Middot.2.6), and there will
+be 12 gates as foretold in Yehezkel [48:31-34](https://www.sefaria.org/Ezekiel.48.31-34),
+that is, everyone has its own path of development within one people.
+Just as each tribe had its own purpose, so too all contemporary communities
+are significant, enriching Judaism through their diversity.
+
+It is important that friendship and respect be maintained among the tribes.
+The unity of the people does not consist in everyone being alike as clones,
+nor in everyone behaving identically as programmed robots, but the unity of
+the people must consist in mutual respect for one another, despite differences.
+<!-- There should be no such enmity as when Litvaks scorn Hasidim, and all
+together they hate the Reformists, etc. -->  And this will serve as a good
+example for the entire world.
+
+The TaNaKh teaches to what the enmity between the tribes leads, when after the
+division into the Northern Kingdom of Israel and the Kingdom of Judah both were
+defeated, unable individually to withstand external threats.  Therefore in
+Yehezkel [37:22](https://www.sefaria.org/Ezekiel.37.22) a prohibition was given:
+“And they shall never again be divided into two kingdoms” —
+as a loving mother refused to divide her child at the court of Shlomo.
+Consequently, ideas of dividing into two states are unacceptable,
+as, for example, the Kahanists proposed to create a separate
+[State of Judea](https://en.wikipedia.org/wiki/State_of_Judea).
+
+A possible symbiosis could be such that while Orthodox communities constantly
+pray, observe all the details of stringencies and continuously study the Talmud,
+at the same time non-Orthodox Jews, without departing from the observance of
+Torah commandments, spend their time and energy performing work to improve
+the world and pay taxes.
+
+For example, according to tradition there existed a division of duties between
+the neighboring tribes of Issachar and Zebulun: the tribe of Issachar sat in
+tents and occupied itself with the study of Torah, while the tribe of Zebulun
+worked and provided for the sustenance and material support of the tribe of
+Issachar.  In modern times such a division of duties appears as follows:
+like the tribe of Issachar, the Orthodoxes preserve the traditions, and like
+the tribe of Zebulun, non-Orthodox Jews work diligently for the betterment
+of the world.
+
+When all parties consent, a portion of taxes may go toward supporting the
+Haredi communities.  According to Rambam, this is one of the 613 commandments
+([M﬩6](https://www.sefaria.org/Sefer_HaMitzvot,_Positive_Commandments.6)).
+In Sifrei Devarim [49:2](https://www.sefaria.org/Sifrei_Devarim.49.2), the
+Torah's words “cling to Him” are equivalent to the words “cling to the sages”
+as G‑d's representatives on earth; therefore, everyone is required to provide
+for the sustenance of yeshiva students.
+
+But on the other hand, it should be noted that the tribe of Naphtali,
+which combined Torah study with labor, achieved significantly greater
+success in Torah study than the tribe of Issachar (Divrei ha‑Yamim I
+[12:32,34](https://www.sefaria.org/I_Chronicles.12.33-35); Shir ha‑Shirim
+Rabbah [8:11](https://www.sefaria.org/Shir_HaShirim_Rabbah.8.11)).
+And subsequently, in the time of the compilation of the Talmud,
+the rabbis established such a consensus in Berakhot
+[35b](https://www.sefaria.org/Berakhot.35b.8), that one can achieve
+success in Torah study only by combining Torah study with labor.
+
+Therefore, a more suitable model of conduct for ultra-Orthodox communities
+could be the tribe of Levi:
+{: #levites title="Levites"}
+
+> And to the sons of Levi I have given every tithe in Israel for their work,
+which they perform in the service of the Tent of Meeting
+(Bemidbar [18:21](https://www.sefaria.org/Numbers.18.21))
+
+<!-- Later in Devarim [14:23](https://www.sefaria.org/Deuteronomy.14.23)
+it is said to eat the tithe in the Temple oneself — such difference is caused
+by the increase in the people's numbers in a later historical period: i.e.,
+when there were few people, the Levites could eat the tithe, but when the
+people became more numerous, the Levites could no longer eat it all. -->
+
+As is evident from the Torah, the Levites did not sit idle, occupied only with
+the study of Torah, but constantly applied the knowledge they had acquired in
+practice, not distancing themselves from the people, but working for the benefit
+of the entire community and receiving appropriate compensation for it.
+Moreover, besides their work, they simply had nothing else to occupy themselves
+with, since they did not need to read much — the many thick volumes of the
+Talmud had not yet been written, and they were too conscientious to idle away
+their time.
+
+Bemidbar [8:24-25](https://www.sefaria.org/Numbers.8.24-25) establishes that
+Levites must serve from the age of 25 (though in the census they were counted
+from age 30 in Bemidbar [4:3](https://www.sefaria.org/Numbers.4.3)) and retire
+at 50, thereafter continuing to guard the Temple instead of serving.
+Therefore those ultra-Orthodox who refuse to serve in the army,
+just as the fainthearted are exempted from military service
+(Devarim [20:8](https://www.sefaria.org/Deuteronomy.20.8)), could perform
+alternative civilian service *sherut leumi*, which in principle corresponds
+to the service of the Levites.
+<!-- Despite the fact that Rambam in Laws of Shemittah and Yovel
+[13:12](https://www.sefaria.org/Mishneh_Torah,_Sabbatical_Year_and_the_Jubilee.13.12),
+with reference to Devarim [33:10](https://www.sefaria.org/Deuteronomy.33.10),
+equates all who study Torah with Levites and exempts them from service, which
+contradicts the TaNaKh, where the Levites both taught Torah to the people and
+themselves served. -->
+
+What did the Levites do?  What work did they perform?
+Divrei ha‑Yamim I [23:3-5](https://www.sefaria.org/I_Chronicles.23.3-5) reports
+that in the time of King David a total of 38,000 Levites were counted: of these,
+24,000 worked in the Temple, 6,000 were judges and overseers, 4,000 served as
+Temple guards, and another 4,000 sang in the Temple, accompanying on musical
+instruments.  In the era of the Second Temple they also participated in the
+preparation of sacrifices.
+
+Since in our time sacrifices have been replaced by prayers, the new function
+accordingly must be to provide the people with various services: to conduct
+prayers, perform rituals, and carry out other forms of worship service.
+This is precisely what rabbis now do — the ancient Levites correspond to modern
+rabbis, who not only study themselves but also teach others, and work
+extensively providing religious services.  This also includes numerous
+specialized occupations, such as mohalim, gabbaim, chazzanim, sofrim, etc.
+
+I have had the opportunity to witness firsthand the tremendous work that rabbis
+perform for their communities: disseminating their knowledge, organizing Jewish
+life, and finding time not only for teaching, conducting prayers and festivals,
+but also for resolving the diverse problems of the community.
+
+Many sages of antiquity combined work with the study of Torah.  Hillel the Elder
+worked by day as a woodcutter, and devoted his nights to the study of Torah
+(see Rambam's commentary on Pirkei Avot
+[4:5](https://www.sefaria.org/Pirkei_Avot.4.5?with=Rambam)).  Rambam himself
+spent much time working as a physician, and in his remaining hours led a large
+community, yet at the same time wrote numerous books of wisdom — G‑d grants
+wisdom to one who works much.
+
+On the other hand, those who only study but do not apply the knowledge gained in
+practice and do not share knowledge with others are egoists, appropriating the
+accumulated Divine light and obstructing its dissemination.
+
+But why then do not all ultra-Orthodox Jews work, actively engaging in the
+rectification of the world?
+
+| Six days you shall labor, but the seventh day is Shabbat to the L‑rd, your G‑d; do not perform any work |
+| (Shemot [20:9-10](https://www.sefaria.org/Exodus.20.9-10)) |
+{: .chapter #work-six-days title="Work Six Days"}
+
+| Six days you shall do your work, but on the seventh day you shall cease |
+| (Shemot [23:12](https://www.sefaria.org/Exodus.23.12)) |
+{: .chapter}
+
+| Six days shall work be done, but the seventh day is Shabbat, a day of rest |
+| (Shemot [31:15](https://www.sefaria.org/Exodus.31.15)) |
+{: .chapter}
+
+| Six days shall you work, but on the seventh day you shall cease from labor; even during plowing and harvest you shall rest. |
+| (Shemot [34:21](https://www.sefaria.org/Exodus.34.21)) |
+{: .chapter}
+
+| Six days you shall do work, but the seventh day shall be holy for you, a Shabbat of rest |
+| (Shemot [35:2](https://www.sefaria.org/Exodus.35.2)) |
+{: .chapter}
+
+| Six days you shall do your work, but on the seventh day is the Sabbath of rest |
+| (Vayikra [23:3](https://www.sefaria.org/Leviticus.23.3)) |
+{: .chapter}
+
+| Six days you shall labor and do your work, but the seventh day is Shabbat for the L‑rd, your G‑d — you shall not do any work |
+| (Devarim [5:13-14](https://www.sefaria.org/Deuteronomy.5.13-14)) |
+{: .chapter}
+
+I write only about what concerns me personally.  If Orthodox rabbis had approved
+my repatriation to Israel under the Law of Return, and I had come to live in
+Israel, then I would have the right to criticize and be outraged that my money
+via taxes goes to support non-working ultra-Orthodox who sit all day
+in yeshivas reading books.
+
+I don't know whether I would really be outraged, like many taxpayers.
+Most likely not, because I always sympathized with the Orthodoxes and for
+religious reasons sought support from Orthodox rabbis.  And when I looked upon
+yeshiva students diligently working through the Talmud, such a sight filled me
+with warm feelings.  But since the Orthodoxes did not let me into Israel,
+these remain only speculative suppositions.
+
+Yet I have the right to raise the problem of idleness among the ultra-Orthodox, for
+it is a tragedy of our family.  I have a relative with almost the same name and age.
+In childhood we were friends.  Pleasant memories remain of when he would come to
+visit during summer holidays, and we would go to the sea together.
+He and I were alike not only in name and age — he also became a programmer.
+But then our paths diverged: I began working in my field, while he made aliyah
+to Israel, joined an ultra-Orthodox community, and has not worked since.
+He could resume working at any moment, since he hadn't lost his
+professional skills.  For example, recently his community needed to implement
+a web service, and he created it using a modern programming language,
+but then he stopped working again.
+
+Because he left the society, our relatives constantly mourn for him.
+When an Orthodox leaves the community, they sit shiva and recite Kaddish for him.
+Likewise, our relatives are in constant mourning for him as for one departed from life.
+They had hoped that when he grew up, he would benefit society.
+But instead he shut himself off from the world, wasted his talents,
+and refused to work toward the betterment of the world.  It pains me
+to see how much grief this has brought to our family.
+
+<!-- The non-use of abilities given by G‑d and the refusal to work in the field
+of one's calling is tantamount to suicide, and the encouragement of such
+a decision is incitement to suicide. -->
+
+In our family there have never been idlers.
+My great-great-grandfather Shimshon (Samson) Linkov was fully observant,
+attended synagogue, but worked his entire life in an insurance company.
+<!-- He lived in Cherkasy in his house on Peschany Lane.
+And another great-great-grandfather, Peisakh, also lived in Cherkasy
+at 4 Vladimirskaya Street. -->
+
+<figure>
+  <img src="../../../files/book/linkov_samson_2.jpg" alt="[Linkov Samson]" />
+  <figcaption>Great-great-grandfather Samson</figcaption>
+</figure>
+
+{: .page-break}
+
+His six sons also all worked:
+
+Eliahu was an insurance company employee,  
+Judko (my great-grandfather) was a photographer,  
+Jonah was a physician,  
+Aizik <!-- Uncle Shura's father --> was a photographer,  
+Avram and Max were physicians.
+
+![Linkov brothers](../../../files/book/linkov_brothers.jpg){:.center}
+
+Aizik's son was a well-known architect, a State Prize laureate in architecture.
+And his daughter is a piano teacher who trained a famous composer.
+<!-- [1](https://www.imdb.com/name/nm7971505/) -->
+<!-- [2](https://www.forumdaily.com/en/kompozitor-dmitrij-gordon-ob-obuchenii-v-amerike-i-planax-pokorit-gollivud/) -->
+
+{: .page-break}
+
+My great-grandfather Judko Samsonovich (1875 – 15.03.1941 ז״ל)
+and Esther-Malka Peysakhovna (17.09.1881 – 04.1959 ז״ל) married in 1909.
+
+<figure>
+  <img src="../../../files/book/linkov_judka_malka.jpg" alt="[Linkov Judka & Malka]" />
+  <figcaption>Great-grandfather Judko and great-grandmother Esther-Malka</figcaption>
+</figure>
+
+{: .page-break}
+
+The great-grandfather was a photographer in Cherkasy (he studied in Warsaw),
+and the great-grandmother was a midwife (she graduated in Kyiv in May 1908).
+She also assisted the great-grandfather in the photographic laboratory.
+<!-- on Paradnaya street 12 -->
+
+<figure>
+  <img src="../../../files/book/linkov_family.jpg" alt="[Linkov family]" />
+  <figcaption>Great-grandfather Judko, great-grandmother Esther-Malka, grandfather David
+  and his sister Tafilia (05.12.1910 – 02.1989 ז״ל) <!-- her husband was
+  Shteinberg Naum Samoilovich (06.08.1909 – 10.11.1968 ז״ל) --></figcaption>
+</figure>
+
+{: .page-break}
+
+I too wanted to do something useful for people, but just as the ultra-Orthodox
+turn away from work many capable people, so too was I deprived of the
+opportunity to work at full strength due to the suffering inflicted upon me by
+the Orthodoxes.  And so much good I could have done.  But when the Orthodoxes
+persecuted me, from despair I had no strength to work, and I was constantly in
+chronic stress.  And this not counting the lost time when I could do nothing due
+to health problems, when the Orthodoxes refused to perform circumcision on me,
+and balanoposthitis led to pathological damage to internal organs.
+But even when I had no strength to work and I suffered from lack of money,
+G‑d compelled me to work through need, thereby communicating about the sin
+of parasitic existence.
+
+Why then do many ultra-Orthodox not work, and even as seen in my case
+cause obstacles for others?  <!-- They themselves do not work,
+and they prevent others from doing so. -->
+What do the sages say about this?
+
+Rabbi Yishmael in JT Peah
+[1:1](https://www.sefaria.org/Jerusalem_Talmud_Peah.1.1.21) teaches that
+the words of Devarim [30:19](https://www.sefaria.org/Deuteronomy.30.19)
+“Choose life” refer to the requirement to work, since work is necessary
+for sustaining life.
+
+Rabbi Yehudah in Kiddushin [29a](https://www.sefaria.org/Kiddushin.29a.10) says
+that anyone who does not teach his son a trade teaches him robbery.
+For without a profession he will be forced to resort to obtaining
+his livelihood through criminal means.
+
+Rabban Gamliel, son of Rabbi Yehudah ha‑Nasi, in Pirkei Avot
+[2:2](https://www.sefaria.org/Pirkei_Avot.2.2) instructs that it is good
+to combine the study of Torah with some craft, because this distances one
+from sin.  By sin here is meant the necessity of seeking unlawful or
+corrupt ways of obtaining a livelihood.
+
+And the Or HaChaim commentary on Shemot
+[35:2](https://www.sefaria.org/Exodus.35.2?with=Or%20HaChaim) states explicitly
+that work during the six days is a mitzvah, a positive commandment.
+
+Why then, according to statistical data, do half of the ultra-Orthodox violate
+this commandment and not work, but instead spend all their time reading books?
+
+The problem is that the list of literature recommended for reading among
+Orthodoxes is too extensive.  In addition to the TaNaKh, which reading
+was confined to more than 2000 years ago, present-day Orthodoxes need to know
+thoroughly the contents of all the numerous volumes of the Talmud with
+commentaries, with commentaries on those commentaries (called *supercommentaries*),
+with commentaries on commentaries on commentaries, and so on to unlimited depth.
+<!-- This is often called *supercommentaries*, though the more correct synonym
+would be *subcommentaries*. -->  They must also read many books written
+by rabbis of the past, even though many topics that concerned people
+at that time have long since lost their relevance.  Therefore,
+the [perpetual students](https://en.wikipedia.org/wiki/Perpetual_student)
+of yeshivot have no time left for work.
+
+The great sage Shlomo taught: “Beware of making many books, my son —
+there is no end to them, and much reading is weariness of the flesh”
+(Kohelet [12:12](https://www.sefaria.org/Ecclesiastes.12.12)).
+
+Thus Shlomo was the first to warn of the emergence of such a modern problem as
+[information overload](https://en.wikipedia.org/wiki/Information_overload),
+when there is insufficient time to absorb the increasing flows of information.
+
+On the one hand, when the rabbis express all possible opinions, this increases
+the likelihood that one of the opposing views is true.  And indeed, if we
+imagine theoretically that an infinite number of sages over an infinitely
+long period of time were recording all possible opinions, then sooner or later,
+amidst the infinite stream of opinions, true statements might also be emerge.
+
+But on the other hand, since none of them can understand which of all the
+opinions is the true one, the Orthodoxes are required to study and fulfill
+all these opinions.
+
+The most lamentable thing is that such egotism of graphomaniacs leads them to
+violate the commandment “Thou shalt not steal”, when for the satisfaction of
+their own vanity they produce multitudes of books, and thereby steal time
+from future generations, who are forced to study all these endless opinions.
+<!-- Such contradictory opinions only increase entropy. -->
+And descendants are forced to engage in activity with zero efficiency —
+no work is performed to improve the world, while all energy is expended
+on following outdated traditions.
+
+How to achieve moderation?
+Shlomo taught: “Whatever it is in your power to do, do with all your might”
+(Kohelet [9:10](https://www.sefaria.org/Ecclesiastes.9.10)).
+This means that we must do everything to work
+toward fulfilling G‑d's will in perfecting the world.
+But when the ultra-Orthodox only study Torah instead of working
+on applying it in practice, it is the same as if a person bought,
+for example, some equipment and spent all his time only studying
+the user manual, but never actually started using it.  The problem is
+that the Orthodoxes forget that religion is not an end in itself, but
+a means of drawing near to G‑d for building a worthy human civilization.
+This is required for the development of the soul.
+
+When the ultra-Orthodox do not work six days, then in order to distinguish
+the Sabbath from other days, it is not sufficient for them simply to cease work,
+as working Jews do.  The ultra-Orthodox must further impose upon themselves
+a multitude of additional restrictions so that the Sabbath would be
+distinguished from other days.  In brief, the scheme is as follows: the
+non-Orthodox work on weekdays and do not work on the Sabbath.  But the
+ultra-Orthodoxes do not work even on weekdays, i.e., they spend their time
+as on the Sabbath; therefore, when the Sabbath arrives, they are compelled
+additionally to further complicate their lives with such stringencies as
+avoiding electricity, not carrying keys in their pockets, etc.
+
+Only a portion of our time must be devoted to G‑d, while the rest is for work.
+When we speak of “Shabbat kodesh” — “holy Shabbat”, it means that this day is
+set apart for dedication to G‑d.  A portion of all that we receive from G‑d
+must be returned.  For example, in Vayikra
+[27:30,32](https://www.sefaria.org/Leviticus.27.30-32) it is stated that every
+tithe of the land and every tithe of cattle and sheep is consecrated to G‑d.
+In modern terms, this corresponds to a tenth of our income, which is given
+to charity for the sanctification of G‑d's Name — *kiddush ha‑Shem*.
+
+If we apply this same principle to the time granted us by G‑d, it means that
+one-tenth of our time should be dedicated to G‑d.  Indeed, we can observe that
+if the 24*7 hours of each week, i.e., 168 hours, are divided into 10 parts,
+it turns out that the tithe of time is the 16–17 waking hours of the Sabbath.
+
+<!-- This assumes that 7–8 hours are spent on sleep.
+This time is sufficient to sleep well.
+We need to sleep well in order to establish a connection with G‑d,
+including to pray with kavanah, as stated in one blessing.
+Then sleep is counted as service to G‑d
+(KSA [71:4](https://www.sefaria.org/Kitzur_Shulchan_Arukh.71.4)).
+But when a person does not get enough sleep, he acts like a robot.
+KSA [71:2](https://www.sefaria.org/Kitzur_Shulchan_Arukh.71.2)
+states that six hours of sleep are sufficient.
+Perhaps this is why among the Orthodoxes there are only erudites,
+but no sages.  For example, Einstein slept no less than 10 hours. -->
+
+> And the seventh day is the Sabbath unto the L‑rd, your G‑d
+(Shemot [20:10](https://www.sefaria.org/Exodus.20.10),
+[31:15](https://www.sefaria.org/Exodus.31.15),
+Devarim [5:14](https://www.sefaria.org/Deuteronomy.5.14)).
+
+Therefore the Sabbath was made for G‑d, not for man.  At minimum, what is
+required on the Sabbath — is not to work, i.e. it suffices simply to rest.
+But to confirm that the Sabbath is dedicated to G‑d, it would be ideal
+on the Sabbath to study Torah (Kitzur Shulchan Arukh
+[77:24](https://www.sefaria.org/Kitzur_Shulchan_Arukh.77.24)) —
+in gratitude for G‑d having endowed us with freedom.  Six days we make use of
+freedom, including freedom of choice in making decisions, and on the seventh day
+we voluntarily renounce freedom of choice, so as to remember the tremendous
+freedom G‑d has given us, and for this we dedicate one day to G‑d.
+
+In general, two rationales were given for observing the Sabbath:
+{: #shabbat title="Meaning of Shabbat"}
+
+1. for G‑d rested on that day after the creation of the world
+   (Shemot [20:11](https://www.sefaria.org/Exodus.20.11));
+2. for G‑d freed from slavery and granted freedom
+   (Devarim [5:15](https://www.sefaria.org/Deuteronomy.5.15)).
+
+By His own example, G‑d showed what must be done on Shabbat.  For six days G‑d
+made decisions concerning the creation of the world, and on the seventh day He
+ceased.  Therefore, for the duration of Shabbat we must relinquish the freedom
+of decision-making with which G‑d has endowed us.
+
+Let us examine this in more detail.
+
+| For six days G‑d made the heavens and the earth, the sea and all that is in them, and rested on the seventh day.  Therefore G‑d blessed the seventh day and sanctified it. |
+| (Shemot [20:11](https://www.sefaria.org/Exodus.20.11)) |
+{: .chapter}
+
+The previously mentioned examples demonstrate that in ancient times already
+known was the law of refraining from activity involving freedom of choice and
+decision-making on Shabbat.  This law was given to Moshe on Mount Sinai as part
+of the oral traditions.  But later the sages forgot this law, and instead began
+seeking a replacement for it, and through numerous convoluted explanations
+attempted to devise justifications for prohibitions, and heaped up many
+additions and stringencies — figuratively speaking, suspending mountains
+by a hair, as was precisely noted in Mishnah Chagigah
+[1](https://www.sefaria.org/Mishnah_Chagigah.1.8), in the sense that numerous
+details of halakhot were accumulated upon brief passages of Torah.
+
+And finally it came to the point where, in order to observe the Sabbath,
+they must read through numerous thick books.  And not only read them, but also
+memorize all the details down to the multitudinous conflicting opinions about
+following every minor detail.
+
+It would be a reductio ad absurdum for a complete understanding of the meaning
+of the Sabbath prohibitions to require the reading and memorization in full of
+such thick volumes as the Shulchan Arukh, when the Torah's idea was to give laws
+in a scope accessible to all.
+
+When I was studying a thick book about the Sabbath, there were difficulties in
+retaining what I had read, since the definitions and rules governing the
+applicability of the melakhot contained little logic, and much had to be
+memorized.  The only thing that helped was that I had never encountered most of
+the situations under consideration, for example: plowing a field, sowing seeds,
+and other agricultural labors; sifting flour, baking bread, and other baking
+activities; trapping a deer and shearing wool — all this was very far removed
+from me.  Therefore I tried to commit to memory only those situations familiar
+to me.  At that time I studied all this diligently and carefully.  And only
+after the Orthodoxes rejected me did I begin to reread it critically, and each
+time I was struck how could the Orthodoxes have come to this — that they so
+tangled and complicated simple matters that before a person can simply move his
+hand on Shabbat, he must read hundreds of pages — often containing contradictory
+opinions.
+
+Everything should be much simpler, because the Torah is accessible to everyone's
+understanding.  There is nothing incomprehensible or inaccessible in the Torah.
+Everything is simple and clear — it follows from the text of the Torah that all
+Sabbath prohibitions reduce to one simple rule: G‑d programmed this world for
+six days, and on the seventh He rested Himself and commanded us to do likewise.
+Programming is a process of continuously making numerous decisions.  Therefore
+on Shabbat any activity involving decision-making is forbidden.
+
+Due to an incorrect understanding of the meaning of the Sabbath prohibitions,
+on the one hand the Orthodoxes have added numerous superfluous prohibitions, while
+on the other hand in certain cases the Orthodoxes permit themselves to violate
+the Sabbath.
+
+Of all the violations of the Sabbath permitted by Orthodox rabbis, the most
+flagrant is the permission to play chess on Shabbat.  Many cases are known in
+which Orthodox rabbis not only permitted Jews to do this, but themselves had the
+custom of playing chess on Shabbat, setting only the restriction not to play for
+money and not to record the moves.
+
+It is hard to conceive of a more flagrant violation of the Sabbath.  For playing
+chess, more than other forms of intellectual activity, demands enormous mental
+effort and intensive work of the brain, and this fully contradicts both the
+letter and the spirit of the Torah: G‑d blessed and sanctified the seventh day
+because on that day G‑d rested from programming this world, i.e., from making
+decisions about how to arrange this world in the best possible way.  And
+thinking through chess combinations to choose the best move is an exact parallel
+to that activity.  Both types of activity involve searching among possible
+options and making a decision to select the most preferable among them.
+There is even a well-known comparison of the entire world to a chessboard —
+and in this sense it is a very fitting analogy, showing how similar these
+conceptions are.
+
+<!-- When all known options have been exhausted and the solution is still not
+found, intuition comes into play.  Therefore computers only win against humans
+when they have the ability to examine significantly more options, such that even
+intuition does not help. -->
+
+Why then do Orthodox rabbis permit this work on Shabbat?  The reasons are
+material: only mundane aspects are considered.  First and foremost, attention
+is given to physical actions, and it is permitted if the action does not fall
+within the list of 39 melakhot and does not bring monetary gain.  Therefore
+they permit violating the Sabbath with chess playing and other games, when the
+manifestation of free choice during Sabbath rest introduces indeterminacy into
+the world.
+
+Thus the Orthodoxes are fixated solely on the purely materialistic aspect of the
+world, on the mechanical interpretation of commandments, but they ignore the
+sphere of the soul.  Yet the soul participates in decision-making and,
+consequently, in changing the direction of the world's development.  That is,
+they see only the “body” of the Torah, not the soul of the Torah.  Because of
+such spiritual blindness, the Orthodoxes violate certain important commandments
+of the Torah, and therefore they move further and further away from G‑d.
+
+Chess is the most prominent example of games of the type
+[game of skill](https://en.wikipedia.org/wiki/Game_of_skill),
+when decisions during the game are made by the player.
+The opposite of this are board games of the type
+[game of chance](https://en.wikipedia.org/wiki/Game_of_chance),
+when during the game decisions are made in Heaven.
+Examples of such games: lottery, dice, roulette — when from Heaven influence
+is exerted upon the human mind, to affect which lottery ball a person will draw,
+to what height one will toss the die or coin, in which direction and at what
+speed one will launch the ball over the roulette wheel, etc.  Many games are
+a combination of these two types.
+
+It is clear that since on the Sabbath one may not make any decisions,
+any *games of skill* are forbidden on the Sabbath, but on other days
+they are very much encouraged — for the development of skills.
+
+But may one play *games of chance* on the Sabbath?
+May one compel G‑d to make decisions on the Sabbath?
+Strictly speaking, on any day one may not test G‑d without a valid reason,
+as it is said in Devarim [6:16](https://www.sefaria.org/Deuteronomy.6.16).
+Therefore in childhood I only rarely performed such an experiment:
+I would name the exact suit and rank of a card, and then from a thoroughly shuffled
+deck draw a random card — and each time that card matched the one I had named.
+But I strove not to repeat such experiments, so as not to test G‑d needlessly,
+and so that such fortune through chutzpah would be better directed
+toward more substantial needs.
+
+Therefore, with *games of chance*, the situation is as follows.
+When a game carries no obligation, when it is not
+[gambling](https://en.wikipedia.org/wiki/Gambling#Religious_views) for money
+but, for example, playing with children — then it is ok.  But when a person's
+future fate depends on the outcome of a game, G‑d is required to make a decision
+about what to do with that person — to determine by their past deeds what should
+befall them in the future.  For example, when a person in a casino stakes all
+their money, and the result determines whether they become destitute or wealthy,
+then demanding such a serious decision from G‑d is forbidden not only on the
+Sabbath, but on any day of the week whatsoever.
+
+All the above rules were recorded before studying the Mishnah Shabbat
+[23](https://www.sefaria.org/Mishnah_Shabbat.23.2). <!-- and JT Shabbat
+[23:2](https://www.sefaria.org/Jerusalem_Talmud_Shabbat.23.2.1) -->
+And there all this is confirmed: that a lottery with children is indeed ok,
+e.g., when equal portions of food are being drawn, and nothing depends
+on the outcome of the lot.
+
+Playing musical instruments on Shabbat is forbidden by Orthodoxes with the
+justification that performers might begin tuning musical instruments.  And here
+the Orthodoxes are absolutely right — tuning instruments indeed requires making
+decisions: using a [tuning fork](https://en.wikipedia.org/wiki/Tuning_fork),
+a sound of standard pitch is produced, and the tuner must adjust the
+instrument's sound by ear, deciding based on this sound whether it is necessary
+to decrease or increase the tension of the string, etc.  But after the
+appearance of [electronic tuners](https://en.wikipedia.org/wiki/Electronic_tuner),
+the musician no longer needs to decide whether the pitch matches — the program
+does this for him.  Also, not all instruments require tuning — many instruments
+have no parts that can go out of tune at all.  Therefore, the argument for
+prohibition of performance due to possible tuning loses its force.
+
+The actual performance of memorized melodies requires absolutely no
+decision-making.  I have experience playing musical instruments, so from
+personal experience I can confirm with complete certainty that there is
+no problem in this — the reproduction of sounds is done without thinking,
+all movements are performed mechanically, unconsciously, and thus
+the brain rests and does not work.
+
+History confirms that the Jewish people have long been aware of this principle.
+Josephus reports that according to tradition going back to King David,
+the Levites sang in the Temple both on Sabbath days and on festivals, and
+accompanied themselves on musical instruments: they played stringed and plucked
+instruments, sounded wind instruments, struck cymbals, etc.
+(Divrei ha‑yamim I [15:16](https://www.sefaria.org/I_Chronicles.15.16),
+Divrei ha‑yamim II [5:12-13](https://www.sefaria.org/II_Chronicles.5.12-13))
+<!-- In the modern world, among stringed instruments the guitar
+has become the most popular. -->
+
+Yet now all this is forbidden by the Orthodoxes in synagogues, i.e., they have
+destroyed the magnificent tradition established by King David himself.  They
+have also prohibited sounding the shofar during Shabbat, even on Rosh HaShanah,
+despite the fact that Moshe himself decreed the blowing of silver trumpets on
+Shabbat to summon the people to assembly, which was done until the destruction
+of the Second Temple, and there is a commandment to sound the shofar on Rosh
+HaShanah, and this violates not one of the 39 melakhot.  Yet another fence
+around the Torah — so barricaded themselves that even light can no longer
+get through.
+
+Let us now examine various cases and compare them with how the Orthodoxes
+understand them.  We shall not consider absolutely every possible case, as the
+Orthodoxes attempt to do, writing them out over thousands of pages, so that it
+is unrealistic for a normal busy person to read and follow everything written.
+
+For example, when dragging a chair across the ground is forbidden due to the
+prohibition against plowing — this is a completely absurd association.  But what
+if we consider the context of this action?  Imagine that a person dines daily on
+a summer terrace with an earthen floor and before eating slides his chair to the
+table along the ground.  Can this be done on Shabbat as well?  Certainly, it can,
+since the person does it automatically, without thinking.  However, if the
+chairs needed to be moved in order to arrange them and seat guests, that becomes
+problematic.  But the ground is no longer relevant here — it is problematic to
+do even indoors.  Therefore beforehand, before Shabbat, one must arrange the
+chairs in the room before the table, so that on Shabbat one need not consider
+where the guests will sit, as Orthodoxes permit themselves to do.  Orthodoxes
+consider it permissible to violate Shabbat by moving furniture in the house,
+whereas arranging furniture is an activity involving decision-making.
+Therefore, on Shabbat it's permissible to perform only habitual,
+long-practiced actions.
+
+And in general, large objects cannot be carried either in the street or in
+a private domain, since to grasp them more conveniently one must think and make
+decisions — and an eruv changes nothing.  In pockets, on the contrary, one may
+carry everything needed: both keys and handkerchiefs — both in a private domain
+and in the street — there is likewise no difference due to the eruv.
+
+Another example: the Orthodoxes permit both cracking nuts and peeling seeds on
+the Sabbath, seeing no difference between these actions.  Yet cracking nuts is
+precisely the same type of activity as gathering firewood: one must decide how
+best to grip it so as not to strike one's fingers with the hammer, etc.
+Therefore it is *muktze*.
+Peeling seeds, by contrast, consists of mechanical actions requiring no
+decision-making, which can be performed without looking — for example,
+while reading.  It is permitted to perform habitual automatic actions
+like robots, according to pre-programmed algorithms.
+Likewise there is no problem if one has previously opened a package of some
+product — e.g., a jar or bottle — and already knows how to do it automatically.
+But if one must devise a new unusual method and perform some action in a special
+manner instead of the habitual one, that constitutes a violation of the Sabbath.
+
+But the worst violation of the Sabbath occurs during the transgression of their
+own arbitrarily established self-imposed restrictions.  Then the Orthodoxes
+frantically attempt to find a way out of the situation that has arisen,
+but as a result a real violation of the Sabbath occurs, when they are compelled
+to make decisions about what actions must be taken to rectify violations of
+their own stringencies.
+
+Therefore, just as a wise person learns not from their own mistakes but from
+the mistakes of others, non-Orthodox Jews have the opportunity not to repeat
+the errors of the Orthodoxes, but rather, knowing the main principle of Sabbath
+observance, to practice it precisely as follows from the contemporary
+understanding of the Torah, adding nothing and subtracting nothing — even better
+and more accurately than the Orthodoxes, following the spirit of the Torah.
+
+All the lengthy descriptions of Sabbath prohibition details with often strained
+and unfounded explanations can be replaced by one general principle, the meaning
+of which can be expressed in one phrase —
+**ON SHABBAT, ANY ACTIVITY INVOLVING DECISION-MAKING IS FORBIDDEN**.
+All 39 melakhot are covered by this Torah principle, and on its basis it's
+possible to answer any question concerning the prohibition of any action on
+Shabbat.  And even such a vague concept with unclear definitional criteria as
+the prohibition on creative and generative activity on the Sabbath, which
+the Orthodoxes attempted to introduce as a supplement to the insufficient
+39 melakhot — this too is covered by this same principle.
+
+On one hand, although the Orthodoxes do not grasp the essence of Shabbat and
+its restrictions, they have created such an enormous quantity of additional
+stringencies “just in case” that in many types of activity Shabbat is
+nonetheless not violated.  But on the other hand, as punishment for adding
+unnecessary restrictions, they pay with suffering from the tremendous
+inconveniences they have created for themselves.  On the Sabbath, the Orthodoxes
+must strain greatly, expending too much strength and nerves to fulfill their
+multitude of needless restrictions and stringencies — instead of resting.
+For example, in multistory buildings they are forced to expend a lot of effort
+while climbing stairs — instead of using an effortless elevator, etc.
+
+And the most terrible thing is that many Jews could not bear the burden of
+artificial stringencies and the enormous number of details for their observance
+with which the rabbis burdened them, and completely abandoned the observance of
+the Sabbath.  And all this because of the violation of the prohibition against
+adding new laws.
+
+For example, on one hand, the Orthodoxes are absolutely right when they assert
+that driving cars is forbidden on the Sabbath.  But on the other hand, driving
+is forbidden for a completely different reason, not the one the Orthodoxes cite.
+It makes no sense to offer such an inappropriate explanation that pressing
+a button to start the engine is like kindling fire, etc.  Citing this explanation
+is precisely the same misunderstanding as the prohibition against
+using electricity on Shabbat.
+
+One of the greatest harms inflicted upon Judaism by the Orthodoxes is the
+recently introduced prohibition on using electrical devices on Shabbat.
+G‑d gave the opportunity to use electricity so that all Jews — even those who
+have departed from religion — would better observe Shabbat.  But the Orthodoxes
+completely perverted G‑d's design, rejected G‑d's gift (as the scouts
+faint-heartedly rejected G‑d's gift of the land of Canaan), and added a new
+commandment forbidding the use of electricity on Shabbat.  Because of this
+unfounded and senseless stringency, many Jews have abandoned Sabbath observance
+altogether.
+{: #electricity title="Electricity"}
+
+Until the 19th century, the primary source of heat in households was fire,
+mainly in various types of stoves, for which the fuel was wood and kindling.
+Then gas stoves began to appear, with heating also accomplished by means of
+an open flame.  The Torah's prohibition on kindling fire on the Sabbath is
+quite unambiguous, so there are no questions here.
+
+Gradually, heating over an open flame began to be replaced by electric stoves.
+The operating principle of an electric stove consists in the release of thermal
+energy when electric current passes through a heating element in the burner.
+Induction cooktops went even further — they heat iron cookware placed upon them
+by means of eddy currents created by a magnetic field.  Microwave ovens have
+a somewhat different operating principle — microwave ovens heat food by means of
+high-frequency electromagnetic radiation.  The main thing all these electrical
+appliances have in common is that fire plays no part whatsoever in their
+operation.
+
+Therefore, there is no problem with using such electric kitchen appliances to
+warm up food.  But cooking on the Sabbath is certainly forbidden, because
+[food preparation](https://en.wikipedia.org/wiki/Outline_of_food_preparation)
+involves making decisions — how much of each ingredient to add, in what order
+according to the recipe, then periodically tasting to check how ready it is
+(similar to tuning musical instruments), etc.  On the other hand, reheating food
+prepared on a weekday in either a microwave or on an electric stove presents
+no problem, since no law of the Torah is thereby violated, just as the manna
+gathered on weekdays in the wilderness could be consumed on the Sabbath.
+
+By analogy, one could theoretically also turn on an electric washing machine,
+but one may not decide which laundry to put in it, how much detergent to add,
+or which wash program to set.
+
+There is likewise no justification for the prohibition against using hot water
+from a boiler on Shabbat, whose operating principle is analogous to that of
+an electric stove.  Moreover, washing with cold water diminishes *oneg Shabbat* —
+the delight of the Sabbath.
+<!-- And the Orthodox prohibition on flushing the toilet altogether defiles the Sabbath. -->
+Orthodoxes forbid using an electric boiler because it heats water above 45
+degrees, which for them is equivalent to cooking.  Interestingly, before
+I learned about the 45 degrees, I selected the most comfortable water
+temperature and set the boiler to 40 degrees — this is the optimal temperature
+when hot water from the tap is not diluted with cold.  At the same time,
+energy is not wasted unnecessarily.
+<!-- It's important not to forget to periodically perform the anti-legionella
+procedure at 60 degrees, but not on the Sabbath.  -->
+
+And when the Orthodoxes accidentally turn on the hot water, they leave the water
+running until the end of the Sabbath.  And when they open a refrigerator in
+which they forgot to unscrew the light bulb before the Sabbath, they leave it
+open all day.
+<!-- Although according to Rambam (Mishneh Torah Hilkhot Shabbat
+[1:19](https://www.sefaria.org/Mishneh_Torah,_Sabbath.1.19)),
+one may close a refrigerator door that was opened by mistake.
+Or, for example, after punishment in the form of a punctured tire
+for driving on the Sabbath, since the Sabbath has already been violated,
+G‑d permits repairing the car and transporting it home that same Sabbath,
+sparing one from having to pay a fine for overnight parking.
+Or when one erred regarding programming on the Sabbath, one may complete it.
+But one must not be brazen, and must endeavor to ensure such things do not recur. -->
+Continuously moving elevators also waste energy needlessly.  But worst of all is
+when lights are left burning in all rooms day and night throughout all Sabbaths
+and festivals.
+<!-- This was especially noticeable in the ultra-Orthodox quarter of London,
+where brightly lit windows of houses shone everywhere throughout the nights. -->
+All this needlessly wastes natural resources.  Though it is a small drop in
+the scale of the entire planet, the principle itself matters here — whether
+a person follows the commandment to care for the Earth even in small things.
+Wastefulness, the pointless squandering of resources gifted by G‑d — this is not
+the Jewish way.  In accordance with the ecological commandment of Devarim
+[20:19](https://www.sefaria.org/Deuteronomy.20.19), this principle bears the
+name “Baal Tashchit”.  The sages in many places in the Talmud teach not to
+resemble idolaters who waste material resources needlessly.  Rambam included
+the prohibition against wastefulness in the list of 613 commandments
+([M−57](https://www.sefaria.org/Sefer_HaMitzvot,_Negative_Commandments.57)).
+And Sefer HaChinukh [529](https://www.sefaria.org/Sefer_HaChinukh.529.2)
+instructs not to waste even a grain of mustard.
+
+Whence then came the prohibition against turning electrical lighting
+on and off on the Sabbath?
+
+Until the 19th century, candles were primarily used for illuminating spaces.
+After the invention of the electric light bulb, some rabbis apparently thought
+that the incandescent filament resembled a candle in a glass bulb, although in
+reality there is no flame there — when electric current flows through the metal
+filament, electromagnetic thermal waves are emitted.  Recent innovations
+contain no filaments at all: in fluorescent lamps, ultraviolet radiation
+from an electric discharge in mercury vapor is converted into light by means of
+a phosphor, while LED (light-emitting diode) lamps emit photons when electrons
+recombine as current passes through a semiconductor
+[n–p junction](https://en.wikipedia.org/wiki/P–n_junction).
+
+Richard Feynman in his memoirs writes about a discussion with Orthodoxes.
+They asked him whether electricity is fire.  To which Feynman answered that
+electricity is not fire.  It is not a chemical process — unlike fire.  And even
+electrical sparks that may appear when pressing an elevator button are also not
+fire at all.  And if they were so concerned about sparks, he proposed placing
+a capacitor in parallel with the switch — and there would be no sparks.
+But they silently ignored this proposal.
+
+Thus, due to ignorance and lack of knowledge in the field of physics among
+*poskim*, some Jews are forced to turn the Sabbath into an extremely difficult
+quest with enormous inconveniences, while others have completely abandoned
+Sabbath observance altogether.
+<!-- The ultra-Orthodox do not know the laws of physics, did not study them
+in school — and suffer because of this.  But the non-Orthodox know the laws
+of physics, therefore they can use electricity on the Sabbath. -->
+
+But progress cannot be stopped.  More and more, electronics enter our lives,
+and it becomes impossible to refrain from using electricity even for one day.
+For example, on the way to synagogue it becomes impossible to walk down the
+street without entering the field of view of surveillance cameras,
+<!-- only the webcam [Aish](https://aish.com/w) on Sabbaths
+is redirected to [Ezrat Israel](https://ezratisrael.com) -->
+without triggering motion sensors that activate lighting or automatic door
+opening, without passing through a metal detector frame; it becomes impossible
+to enter a building or room without an electronic key or biometric
+identification, etc.
+
+And further, the integration of electronics will continue to accelerate.
+Voice control of computerized devices is increasingly coming into use.
+Hearing aids have been in use for a long time.  Myoelectric prosthetics have
+become a reality, in which sensors read the electrical potential of muscles and
+transmit it to a microprocessor, which converts the signal into corresponding
+movement of the prosthetic's motors.  Other bionic prosthetics receive signals
+directly from the brain.  In the future, there will be an increasingly close
+integration of humans with electronics.
+
+The most absurd prohibition one could possibly devise is the ban on using
+low-voltage microelectronics on account of kindling fire.  Even the explanation
+based on the prohibition of building (*boneh*), as well as the prohibition of
+creating a new object (*molid*), during closing a circuit makes no sense in
+semiconductor devices.  By the same reasoning, one should also prohibit using
+plumbing: in one case a faucet is opened and water flows, while in the other —
+the gate of a field-effect transistor is opened and electric current flows.
+<!-- The flow of water molecules through pipes resembles the flow of electrons
+through wires, though they operate on different principles. -->
+
+And it seems utterly absurd to prohibit the use of a computer on the grounds
+that computer terminology has adopted the word *write*, and then to cite
+the prohibition of *writing* as one of the 39 melakhot.  But the operating
+principle of computer memory and writing on paper are completely different.
+Therefore, when using other possible terms, e.g., *save*, *store*, the problem
+resolves itself, and there is no longer any use of “writing”, but only of
+*storing* information on a medium in the form of various voltage levels
+corresponding to discrete values of 0 and 1 in memory, or in the form of
+a magnetization vector on disks.  Just as nobody can prohibit storing
+information received on the Sabbath in the brain, so too the memory cells of
+a computer for practical purposes are nothing other than an extension of the
+human brain.
+
+Therefore, neither the use of a computer nor a smartphone is forbidden by the
+laws of the Torah.  But just as one and the same instrument can be used both to
+heal and to harm, one instrument can be used both to fulfill commandments and to
+violate them.  So too with a computer: anyone can both better observe Shabbat and
+violate it.  Everything depends on the specific actions: on one hand, it is
+commendable to study Torah on a computer on Shabbat, while on the other hand,
+composing texts, programs, and other creative works violates the Sabbath.
+
+But it should be noted that the Orthodox rabbis acted correctly when they
+completely prohibited the use of computers and smartphones on the Sabbath — it
+was necessary to err on the side of caution, since it was unclear which specific
+actions on a computer violate the Sabbath.  They prohibited it for the same
+reason they prohibit playing musical instruments: due to the fear that a person
+might wish to engage in tuning the instrument, which indeed constitutes
+a violation of the Sabbath.
+Therefore, immediately upon the invention of the computer, they erected
+a fence around it — “pending clarification of the circumstances”.  And this is
+understandable: a new phenomenon appeared, and despite the many-volumed
+discussions of the Talmud and numerous commentaries, it is completely unclear
+what obligations the use of the new device imposes.
+
+And only humanity's recent achievements in understanding the surrounding world
+have made it possible to comprehend which actions with these devices are
+permissible from the Torah's perspective, corresponding to the spirit of the
+Torah.  Only now, when the general principle of Sabbath prohibitions has been
+clarified, can it be applied to evaluate specific actions.
+
+As has already been noted, G‑d forbids programming on the Sabbath.  Programming
+consists in the continuous making of decisions.  Therefore, it is quite simple
+to apply this criterion to various actions performed on a computer or
+smartphone, and depending on this, we can easily understand what violates
+the Sabbath and what does not.
+
+Undoubtedly, the process of reading does not require making decisions.  No rabbi
+can forbid reading the Torah on Shabbat, especially when a person works much all
+the rest of the time, so that free time for studying Torah remains only on
+Shabbat.  At present, the transition from paper information carriers
+(which are now often called by the term
+*[dead-tree](https://en.wiktionary.org/wiki/dead_tree)*) to digital equivalents
+of printed books is being completed.  Paper books are completely going out of
+use.  For example, I have not bought paper books for 20 years now — there is
+simply no longer any need for this, everything is available in electronic form.
+And it is not so much about preserving trees, <!-- and in the case of parchment
+from animal skin also preserving the lives of animals, as well as the rejection
+of sacrifices --> but rather about convenience — there is no need to constantly
+carry suitcases with a weighty library.  Even carrying a heavy siddur on trips
+and to the place of prayer is very burdensome, while a mobile phone is always
+at hand.  This is what progress exists for — it is part of the process of
+perfecting the world.  Therefore, it is praiseworthy to study Torah
+from a computer screen, and also read prayers from a smartphone screen.
+
+<!-- When the eyes grew unaccustomed to printed type, they would begin to hurt
+when reading books.  Therefore, there remained no other option but to read
+prayers from a mobile phone. -->
+
+<!-- Who is engaged in a more G‑dly pursuit: Orthodoxes who spend the Sabbath reading
+secular literature from paper, or non-Orthodoxes who study Torah from a computer
+screen on Shabbat?  The answer is obvious. -->
+
+Reading news on the Internet, on social media, differs in no way from the verbal
+exchange of weekly news during conversations at Sabbath meals.  Moreover, in
+emergency situations it is often necessary to stay informed of vitally important
+news.  Reading news for entertainment also accords with the spirit of the Sabbath.
+
+Likewise, voice communication by telephone is analogous to direct communication,
+as is video communication via [Zoom](https://en.wikipedia.org/wiki/Zoom_(software))
+or [Jitsi](https://en.wikipedia.org/wiki/Jitsi).  It would seem that communication
+on social networks should also be unproblematic.  But there are nuances.
+
+Giving likes presents no problem when one immediately knows whether one likes a post
+or comment, and no reaction needs to be chosen.  But one cannot post non-trivial
+posts when the process of writing a new post requires selecting the right words
+and composing complex sentences.  This resembles composing a new book.
+Likewise, formatting a post often requires making decisions.  For the same
+reason, even for synagogue addresses permitted by the Orthodoxes, one must
+prepare one's speech in advance rather than allow improvisation on the Sabbath.
+<!-- One may share, since it is the same post that need not be composed anew. -->
+
+Whether one may reply to a post and leave comments depends on whether the words
+of the response immediately come to mind, as in face-to-face conversation.  One
+may not deliberate at length over a response to a post or comment, but one may
+send comments when the text of the reply appears in one's mind at once.  There
+is no difference whether the text of the reply is typed on a keyboard or swiped
+on a touchscreen, because this is analogous to voice input using a dictaphone.
+But one may not edit photographs, and indeed one may not photograph at all when
+choosing an angle or camera settings is required.
+
+A deterministic universe resembles a film, where souls do not participate in
+altering a predetermined sequence of states.  Consequently, watching preselected
+films also does not violate the Sabbath — when playing films, as with listening
+to music or audiobooks, no choice is made among several options, just as no
+problem of choice arises when reading a book.  Therefore, besides reading,
+an ideal activity for full rest, to take one's mind off daily routine,
+is to watch a good film or series in the evening.
+
+May one visit shops?  Yes, if one walks through shops as through an exhibition.
+But purchasing decisions must be postponed until the end of the Sabbath.
+
+The problem of Sabbath transportation is also easily solved.
+If the synagogue is not within walking distance,
+there are several ways to get from home to the synagogue
+using transportation:
+
+- Public transportation.  There is no violation in using public transportation —
+  one may freely board a bus, trolleybus, tram, or subway, and sit in
+  a passenger seat, or stand holding the handrails.  Upon entry, a contactless
+  card is validated, such as *[Rav-Kav](https://en.wikipedia.org/wiki/Rav-Kav)*.
+
+As has already been said, including by the example of the tree of knowledge
+in Gan Eden, stringencies lead to the violation of commandments.  Because the
+Orthodoxes violate the prohibition against adding and also mix commandments with
+stringencies — because of this, the difference is not visible between the
+commandment forbidding driving a vehicle and the stringency of rabbis forbidding
+riding as a passenger.  As a result, when one needs to reach the synagogue on
+the Sabbath, from these two prohibitions they choose the one whose violation
+is more convenient and comfortable, and therefore get behind the wheel of
+a vehicle, violating the Sabbath.  But only riding as a passenger on all types
+of transport does not violate the Sabbath.  <!-- The only minor drawback in
+diaspora countries — the non-Jewish bustle accompanying the journey may weaken
+the sense of the Sabbath spirit. -->
+
+- A taxi with a non-Jewish driver is the most acceptable solution to the problem,
+  especially for residential areas
+  with insufficient public transportation coverage.
+  In any case, one may ride as a passenger in a car,
+  or in any vehicle whatsoever.
+
+- In the near future, the problem will be solved by the widespread adoption of
+  [self-driving cars](https://en.wikipedia.org/wiki/Self-driving_car)
+  and autonomous public transportation — trains with automatic control
+  have already been implemented in many countries around the world.
+
+Even the use of autonomous vehicles with only partial automation would suffice,
+because in dangerous situations one could take control manually for
+*pikuach nefesh* — in cases where human life is threatened, the Torah suspends
+all Sabbath restrictions.  <!-- Although in many cases a computer responds more
+quickly in resolving a dangerous situation — a computer has faster reaction time. -->
+
+One of the problems hindering the widespread adoption of driverless vehicles is
+that they are forced to drive simultaneously in the same traffic flow with the
+majority of existing vehicles driven by unpredictable drivers.  If there were
+only vehicles on the road operating by known algorithms and exchanging data
+among themselves, it would be much simpler.  Israel has a unique situation
+in that on Shabbat, only driverless transport could be permitted to operate.
+Such an experiment would help facilitate the transition to automated control
+throughout the world.
+
+To understand which actions do not violate the Sabbath, various heuristics may
+be applied.  For example, a good heuristic is that one may perform actions
+during which a person is completely absorbed in some thought — for instance,
+contemplating the content of the weekly Torah portion.  In such cases, one may
+perform all actions during which the person is focused on other thoughts
+unrelated to the actions being performed.  This ensures that decisions for
+carrying out these actions will not be made.  When the mind is occupied with
+listening to auditory information or contemplating some thought, it is highly
+unlikely that actions requiring decision-making can be performed at the same time.
+
+All this presupposes a higher level of consciousness and responsibility, when
+a person honestly acknowledges the degree to which a given action corresponds to
+this criterion.  Because no rabbi can get inside one's head and monitor whether
+a person is mentally violating the Sabbath — for example, making plans in his
+thoughts for the coming week or mentally solving everyday problems.  Therefore,
+all of the above is inapplicable to a situation where all physical actions of
+the congregation are controlled, when the Sabbath is observed under coercion,
+out of fear of condemnation, punishment, excommunication from the community,
+etc.  Since rabbis have no means of verifying whether a person makes decisions
+on the Sabbath, observance must rest upon the personal responsibility of each
+individual.  G‑d-pleasing observance must be sustained by conscience alone —
+that it may go well with oneself and one's loved ones.  In this lies the meaning
+of the entire Torah — the transition from coerced adherence to the Torah to
+voluntary adherence.
+
+For example, the Orthodoxes do not forbid programming on Shabbat,
+i.e., thinking through program design, etc., yet this violates the Sabbath.
+Therefore, the only solution is individual responsibility for one's actions.
+Just as in a democracy a person takes responsibility for their actions,
+so too here one must fear only G‑d alone, and not the rabbis.
+
+Modern technologies were given by G‑d for better observance,
+so that even those who do not observe would not violate the commandments.
+And those who do observe would do so with greater comfort,
+restoring the possibility to rest on the day of rest.
+
+In earlier times, observance was burdened by many hardships, which caused many
+to give up and abandon observance altogether.  Therefore G‑d provided the
+possibility to observe Shabbat without toil, without excessive strain.  All
+electrical appliances fulfill the role of a Shabbos goy (and in the future will
+extend to Shabbos androids with voice interface).  Both electric lighting and
+the ability to warm food on an electric stove and in a microwave, and water in
+an electric kettle — all these possibilities were provided so that fire would
+not be kindled on the Sabbath.  In many buildings, candles with open flame are
+forbidden to be left burning unattended in observance of fire safety regulations
+— so as not to play with fire on the Sabbath.  For such cases, for example, the
+Zomet Institute sells electric Sabbath candles with an incandescent bulb powered
+by batteries.  Also, for more thorough searching for chametz, it is better to
+use a flashlight.
+<!-- Also smoking is not recommended, but if someone cannot break this habit,
+then on the Sabbath one can smoke electronic cigarettes.  -->
+Replacing candles with electricity makes sense, since the main thing is not fire
+but light.  For example, Chanukah is a festival of light, not of fire, as among
+pagans.  On the first day of Creation G‑d created photons of light, therefore
+it's possible to use them on Shabbat as well.
+
+It is interesting to compare how various denominations of Judaism interpret
+Sabbath prohibitions.  The Karaites forbade using candlelight on the Sabbath,
+and therefore sat in darkness for a full day.  The Orthodoxes, unlike the
+Karaites, act more reasonably and permit the use of both candlelight and
+electric light.  But because they forbid switching on lights, they are compelled
+to suffer from constantly illuminated lighting, or when they failed to turn on
+the light beforehand, they too sit in darkness like the Karaites.  That is, due
+to the prohibition against touching switches, they are forced either to waste
+electricity needlessly or to sit in darkness like the Karaites.
+
+According to the schema “thesis → antithesis ⇒ synthesis”: the Karaite thesis is
+that fire should not be used at all.  In opposition to the Karaites, the
+Orthodox antithesis is that fire may be used if kindled beforehand.  And the
+non-Orthodox synthesis of these opposites is as follows: fire is replaced with
+electricity, thus satisfying both thesis and antithesis — fire is neither used
+nor kindled.  Therefore, non-Orthodoxes, as the cleverest ones, can freely use
+electricity, observing even better than Karaites and Orthodoxes, while not
+violating the plain meaning of the 39 melakhot.
+
+<!-- To distinguish themselves from the Karaites, who fear using candles on the
+Sabbath, the Orthodoxes adopted the custom of lighting candles for the Sabbath.
+In exactly the same way, to distinguish oneself from the Orthodoxes, who fear
+turning on electricity on the Sabbath, one can turn on electric lighting.
+Thus, Shabbat is observed better than among the Orthodoxes — on the Sabbath
+fire is not used at all, whatsoever.  At the same time, such inconveniences as
+the Karaites experience are not created.  There is no problem in lighting fire
+before the onset of the Sabbath, and on the Sabbath continuing to use it, since
+none of this is connected with making decisions.  But if someone doubts whether
+there is a grain of truth in the traditions of the Karaites, who do not use fire
+at all on the Sabbath, then one can turn on electric candles.  -->
+
+Another example: Shemot [16:29](https://www.sefaria.org/Exodus.16.29)
+commands one to remain in place and not go out from one's location.
+Although this was said concerning the gatherers of manna who went out into the
+field on the Sabbath, the Karaites interpreted this commandment literally and
+did not leave their dwellings at all, or went out only to the kenesa.
+The Orthodoxes, however, derived a law that forbids going beyond
+the boundaries of a settlement for a distance exceeding 2000 cubits (about
+a kilometer), i.e., they invented an arbitrary restriction.  By combining these
+restrictions, non-Orthodox Jews have the ability to travel even outside the city
+for any distance, but the main thing is — not behind the wheel, but, for
+example, on public transport or in self-driving electric vehicles.  Because
+following the principle of relativity, if one sits in a passenger seat,
+then such a frame of reference remains stationary relative to the body of the
+vehicle, and no movement occurs.  Therefore, the person does not leave their
+place, but the place moves together with the person.
+
+<!-- The Karaites also abstain from marital relations on the Sabbath, claiming
+that this is work (*melakhah*).  But in this case, a person need not make any
+decisions — a new human being is not designed from scratch, but simply begins
+to execute a pre-programmed genetic code. -->
+
+In all these examples, we see how, unlike the Karaites who observe only the
+letter of the law, the non-Orthodox must follow the spirit of the Torah,
+adapting all achievements of civilization for better observance.  But the
+Orthodoxes do neither: they follow neither the letter nor the spirit,
+but invent their own new laws.
+
+If we briefly summarize:
+
+- Karaites: literal understanding of the Torah, with their own traditions;
+- Orthodoxes: numerous added oral laws that have become an additional (oral) Torah;
+- non-Orthodoxes: interpretation of the Torah in accordance with contemporary
+  needs, and preservation of rabbinic traditions, observance of which is
+  optional but desirable for continuity and respect for ancestral heritage,
+  i.e. following traditions accepted by all the Jewish people, e.g., such as
+  the celebration of Purim and Hanukkah, which are not in the Written Torah,
+  but are an important part of Judaism.
+
+By literal understanding, the Karaites mean their following only the peshat when
+it describes in detail the particulars of fulfilling a commandment.  When the
+peshat allows for multiple interpretations, they choose the strictest one, as,
+for example, in the case of the prohibition against using fire kindled
+beforehand.  And when the peshat does not contain detailed particulars,
+it is then understood metaphorically, in order to avoid inventing new oral laws,
+such as the innovations of the Rabbanites.
+
+Honestly, in worldview I am much closer to the Orthodoxes than to the Karaites,
+because the formalistic interpretation of Torah laws by the Karaites accords
+poorly with the constantly changing demands of the times.  Despite their
+rejection of oral laws, the Karaites have their own primitive oral
+interpretation, and it does not evolve.  In all the polemics with Karaites
+known to me, I have sided with the Orthodoxes.  My worldview <!-- *һashkafah* -->
+coincides in many ways with the Orthodox one.  But the problem with the
+Orthodoxes is that, just as with the Karaites, among the Orthodoxes too the oral
+laws have ceased developing, and all the accumulated errors can no longer be
+corrected.
+
+Like the Sadducees, the Karaites rejected oral traditions and insisted on
+literal adherence to the Written Torah, and in this they repeated the error of
+the Sadducees, which led to their disappearance.  In our time, the same error is
+repeated by the Orthodoxes, who deny the necessity of developing oral traditions
+to meet the new demands of the modern world.

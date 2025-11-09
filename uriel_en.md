@@ -10273,3 +10273,1040 @@ literal adherence to the Written Torah, and in this they repeated the error of
 the Sadducees, which led to their disappearance.  In our time, the same error is
 repeated by the Orthodoxes, who deny the necessity of developing oral traditions
 to meet the new demands of the modern world.
+
+<!--
+One of the many areas where stringencies have been added is the determination of
+the times for the commencement and conclusion of the Sabbath, festivals, and fasts.
+{: #zmanim title="Zmanim"}
+
+If we adhere to common sense, it is clear that the beginning and end of the
+Sabbath occur at the moment of sunset, i.e., when the solar disk disappears
+below the horizon.  Indeed, it is precisely at this moment that the light of the
+sun's direct rays ceases.  Otherwise, if we were to account for light reflected
+from Earth's atmosphere, we would have to acknowledge that the Sabbath cannot
+end while the Moon is visible, since it shines with reflected sunlight
+(moreover, no stars are visible around the bright Moon, just as no stars
+are visible in cities with street lighting).
+
+But the sages added a stringency that the following day begins only
+when three medium-sized stars appear in the firmament
+(Shabbat [35b](https://www.sefaria.org/Shabbat.35b.2)), which occurs
+considerably later than sunset during the period called *bein ha‑shmashot*
+(twilight).  According to this logic, it would follow that the beginning of the
+Sabbath on Friday evening and the end of the Sabbath should occur at the same
+time after sunset.  However, the rabbis ruled in Shabbat
+[34b](https://www.sefaria.org/Shabbat.34b.4) that during twilight the
+restrictions of both days apply: the preceding and the following.  Therefore,
+it is held that the laws of the Sabbath take effect immediately after sunset
+before twilight on Friday evening, while the Sabbath ends upon the appearance
+of three stars.
+
+There were other attempts to define the precise moment of date change during
+the indeterminate period of twilight.  For example, in that same place in the
+Talmud, it was proposed to rely on the reddish tint of the sky's color at
+sunset.  It was also proposed to count the time it takes to walk three-quarters
+of a mil (some walk one mil in 18 minutes, others in 24 minutes — personally
+I walk one mil in 12 minutes).
+
+And Pesachim [94a](https://www.sefaria.org/Pesachim.94a.6) defines the length of
+twilight altogether as four mil — as the time it takes for the sun to emerge
+“outward from the thickness of the firmament”.  Therefore, Rabbenu Tam ruled
+that the day continues for the time it takes to walk three and a quarter mil,
+in addition to the already accepted twilight period in Shabbat
+[34b](https://www.sefaria.org/Shabbat.34b.6) of three-quarters of a mil, i.e.,
+totaling 72 minutes after sunset (four mil, which one walks in 18*4=72 minutes).
+This stringency is explained by the fact that Rabbenu Tam lived in northern
+latitudes, where twilight lasts longer.  And indeed, on the graph of twilight
+duration as a function of latitude, we can clearly see that 72 minutes is the
+maximum at latitude 60–70, which explains the choice of this number.
+
+In Shulchan Arukh Orach Chayim
+[261](https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.261.2) it is stated
+that one who relies on the opinion of Rabbenu Tam justifies this by the
+necessity of adding from the weekday to the sacred.  But does not postponing
+havdalah after sunset and the conclusion of the Sabbath constitute a violation
+of the commandment to work six days and the requirement to separate the sacred
+from the weekday?  Therefore, it would be more proper to rely on the opinion of
+the Geonim and the Vilna Gaon, who held that 72 minutes is the time when all the
+stars appear, which need not be awaited at all; rather, it suffices to add only
+13.5–18 minutes (13.5 = ¾ of 18, and 18 = ¾ of 24, if taking the most stringent
+opinion that a mil is 24 minutes).
+
+If one determines the time of Sabbath's onset not by a clearly defined moment of
+sunset, but by an arbitrary time during the twilight period, it is impossible to
+choose a precise moment in this grey area.  Depending on the angle of the
+sun's disk below the horizon, twilight is divided into civil (from sunset
+to an angle of −6°, when bright stars are visible), nautical (−6° to −12°), and
+astronomical (−12° to −18°).  It is impossible to choose a random number in the
+range from 0° to −18°.  Thus the aforementioned 13.5–18 minutes are given for
+the latitude of Jerusalem and Babylonia (modern Baghdad).  For other latitudes,
+one must calculate the time for an angle of −3.5°, when according to
+astronomical data three stars are visible.
+
+As is now well known to all, the
+[duration of twilight](https://en.wikipedia.org/wiki/Twilight#Duration)
+depends not only on geographical latitude but also on the time of year (due to
+the changing angle of the Earth's axis relative to the Sun).  Likewise, the
+height of the “visible horizon” depends on the observer's elevation above the
+Earth's surface: if on high ground, the sun disappears below the horizon later
+than if the observer were in a lowland, or if there were high mountains on the
+horizon, to say nothing of numerous other obstructions along the line of sight.
+This shows that relying on observations is an unreliable method.  Therefore, it
+makes sense to take into account only the concept known as the “true horizon”.
+And in order to avoid a situation where by calculation the Sabbath has already
+begun yet the sun is still visible, eighteen minutes are added before and after
+the Sabbath. -->
+
+<!--
+As often happens when rules are defined under ideal conditions, the entire
+orderly system begins to collapse when entering boundary conditions that were
+not originally anticipated.  So too the halakha was originally created for life
+in Israel.  And after the beginning of the galut, as people moved northward,
+more and more laws of halakha began to become inapplicable in the new
+conditions.  Let us briefly examine some of the problems connected with living
+in northern latitudes:
+{: #north title="Northern Latitudes"}
+
+- White nights
+
+In summer, the Sabbath does not end during the white nights, so among the
+Orthodoxes it is customary to conclude it at astronomical midnight.
+
+And in winter, conversely: the Sabbath begins at 3 o'clock in the afternoon
+and also ends early.
+
+- The longest fast of the 17th of Tammuz
+
+While the most important fasts are Yom Kippur and 9th of Av,
+the strictest one turned out to be the fast of 17th of Tammuz.
+
+Thus it turns out that during this less important fast one cannot eat or drink
+for nearly a full day, whereas on Yom Kippur and the 9th of Av the fast lasts
+only 12 hours, i.e., exactly half as long.  Unfair?  Unfair indeed.
+
+How does this come about?  We can examine this.
+
+The fast of the 17th of Tammuz begins at sunrise and, as is customary among the
+Orthodoxes, ends with the appearance of stars in the sky.  The problem is that
+in northern latitudes at this time of year there are white nights, and therefore
+the sun hardly sets.  In such cases, the official end of the fast is considered
+to be around midnight.
+
+For example, in 2021 the fast began at 01:23 in the morning, and the fast ended
+at 00:12 at night.  Thus one eats dinner in the evening before the fast and goes
+to sleep, and then fasts the entire following day.  Now, the most terrible thing
+is that after a whole day of fasting one must go to sleep on an empty stomach,
+which is absolutely unbearable.  And only after the fast ends deep in the night
+can one break the fast upon waking the following morning, i.e., exactly a day
+and a half after the previous meal in the evening before the fast began.
+
+Now for comparison, the daily schedule of the fast on Yom Kippur.  Although it
+is considered that the fast lasts a full day, in fact the fast begins to be felt
+only after the missed breakfast.  And the fast ends around seven in the evening,
+just in time for the evening meal, i.e., only one breakfast and one lunch are skipped.
+Even the 9th of Av fast ends around ten at night, which is harder than the fast
+on Yom Kippur, but still not as extreme as the day-and-a-half fast of the 17th
+of Tammuz.
+
+Why then do Orthodoxes fast on the 17th of Tammuz?  Only because on this day
+the daily sacrifices ceased?  But this can in no way be a cause of mourning
+for those who do not desire the restoration of sacrifices.  Therefore on the
+anniversary of the last sacrifice there is no sense in fasting for one who
+does not mourn the abolition of sacrifices and does not desire the resumption
+of sacrifices in the future.
+
+Since this fast is less significant, it is known that in hot countries women
+fasted not on the 17th of Tammuz, but on the 10th of Tevet.  However,
+the 10th of Tevet is an even less significant day than the 17th of Tammuz.
+On the 17th of Tammuz the walls of Jerusalem were breached during the Second
+Temple, while on the 10th of Tevet the siege of Jerusalem was begun during
+the First Temple.  But none of this compares to the truly tragic date of the
+destruction of both Temples on the 9th of Av.
+
+Also on the 10th of Tevet, mourning is observed for the completion of the
+translation of the Torah into Greek.  Here is how Josephus Flavius describes
+this in the book *The Antiquities of the Jews*
+[XII](https://www.sefaria.org/The_Antiquities_of_the_Jews.12.2.5-15).  Ptolemy
+Philadelphus freed about 100,000 Jews from Egyptian slavery in exchange for the
+creation of the [Septuagint](https://en.wikipedia.org/wiki/Septuagint),
+to expand the collection of the
+[Library of Alexandria](https://en.wikipedia.org/wiki/Library_of_Alexandria).
+The High Priest delegated six sages from each tribe, i.e., 72 in total.  Upon
+their arrival, the sages were invited to the island of Pharos, where each day
+they began by performing *netilat yadayim* in the sea, and then set to work
+together.  After 72 days, the translation was completed.  Yet not a word of
+the legend from Megillah [9a](https://www.sefaria.org/Megillah.9a.11) concerning
+the miraculous concordance of the texts of independent translations.
+
+Thus, with the translation of the Torah into Greek, a beginning was given
+to the spreading of the light of the Torah to other nations.
+It is completely incomprehensible why one should fast over the Greek
+translation, when its purpose is to bring light to the nations.  Would it not
+also be necessary to fast every day over the “tragedy” of each translation of
+sacred texts into other languages?
+Yet Rashi himself, with reference including to Sotah
+[32a](https://www.sefaria.org/Sotah.32a.13), in his commentaries on Devarim
+[1:5](https://www.sefaria.org/Deuteronomy.1.5?with=Rashi) and
+[27:8](https://www.sefaria.org/Deuteronomy.27.8?with=Rashi),
+said that Moses taught the Torah in 70 languages.
+
+Therefore, in accordance with Zekhariah
+[8:19](https://www.sefaria.org/Zechariah.8.19), the secondary fasts
+are gradually abolished when people begin to love truth and peace.
+
+- Three weeks *bein ha‑metzarim* (“between the straits”)
+
+Several warm days of the bathing season, when it is possible to bathe
+in the sea only once a year, typically fall during the 3 weeks of mourning.
+Disappointing?  Disappointing.
+
+- Sukkot in the autumn
+
+In Vayikra [23:42](https://www.sefaria.org/Leviticus.23.42) it is said that
+every inhabitant of the land in Israel must dwell in a sukkah.  Indeed, in
+Israel there is no problem dwelling in sukkot, because at this time of year
+it is warm and there are no rains.  But unlike Israel, in many lands of the
+diaspora with colder climates it is often problematic to erect a sukkah for
+dwelling.  And the farther north, the greater the problems.
+
+For the preservation of health (*pikuach nefesh*) it is required to sleep in
+a dry space at an air temperature of no less than 20°C (68°F).  Therefore
+the obligation of dwelling in a sukkah in autumn is not applicable under
+conditions of cold climate.
+
+For this reason, the Kitzur Shulchan Arukh
+[134:9-10](https://www.sefaria.org/Kitzur_Shulchan_Arukh.135.9-10) permits not
+sleeping in the sukkah during cold weather and not sitting in the sukkah during
+rainy periods — “when the rainwater exceeds the soup in one's bowl”.
+-->
+
+| You shall not cook a kid in its mother's milk |
+| (Shemot [23:19](https://www.sefaria.org/Exodus.23.19), [34:26](https://www.sefaria.org/Exodus.34.26), Devarim [14:21](https://www.sefaria.org/Deuteronomy.14.21)) |
+{: .chapter #kashrut title="Kashrut"}
+
+Traditionally this is understood as a prohibition on mixing meat and milk,
+despite the fact that nothing was known of such a tradition in the times of Avraham.
+When in Beresheet [18:8](https://www.sefaria.org/Genesis.18.8)
+angels came to Avraham in the guise of people, he fed them meat with milk.
+<!-- For it is said “you shall not cook”, but it is not said “you shall not eat”. -->
+
+The outstanding peshatist Rashbam came closer than other commentators to the true
+meaning of this proverb, which in ancient times was known to everyone.  In his
+[commentary](https://www.sefaria.org/Exodus.23.19?with=Rashbam) he explains the
+meaning thus: when a goat gives birth to two kids, there was a custom to
+slaughter one of them and cook it in the milk which the mother had in abundance
+to feed two kids, i.e., the kid was cooked in the milk that was intended for its
+sustenance.  The logic of this savage custom of the pagans was as follows: since
+abundance has been received, let us gorge ourselves immoderately.
+
+The Torah, however, changed the logic to the following: all abundance was given
+by G‑d, therefore one must thank G‑d for it.  Thus one must not be selfish, like
+the pagans.  And indeed, if we replace the phrase “do not cook a kid in its
+mother's milk” with the phrase “do not act like the pagans”, the meaning becomes
+clear:
+
+- “The first fruits of your land you shall bring to the House of the L‑rd,
+  your G‑d — do not act as the pagans do.”
+- “You shall not eat any carcass; to the sojourner who is within your gates,
+  give it, or sell it to a foreigner; for you are a holy people to the L‑rd,
+  your G‑d — do not act as the pagans do”.
+
+To avoid being like pagans, one must become similar to G‑d, and one of the chief
+attributes of G‑d is mercy.  Therefore this commandment teaches mercy above all,
+so as not to be cruel like pagans.  Shemot
+[22:29](https://www.sefaria.org/Exodus.22.29) and Vayikra
+[22:27-28](https://www.sefaria.org/Leviticus.22.27-28) command the same in other
+words: a newborn must remain with its mother no less than seven days, and the
+mother must not be slaughtered on the same day as her offspring.  And Devarim
+[22:6-7](https://www.sefaria.org/Deuteronomy.22.6-7) forbids taking the mother
+from the nest together with her young.  That is, these commandments teach
+how to manifest the category of chesed.
+<!-- Thus we did — when finding a nest that had fallen to the ground in the
+forest, we would take the chicks but release the bird.  Even if these were
+a cuckoo's eggs, still the brooding bird thinks they are her own.  This is also
+connected to the prohibition against cutting down trees during the bird nesting
+season. -->
+
+None of this exists among the Karaites and Rabbanites.  The Karaites understand
+this commandment literally and only forbid cooking meat in milk.  And there is
+certainly no mention of chicken, because chicken is not meat but poultry
+that is *pareve*.  Moreover, a chicken has no milk — otherwise it would
+sound like a profanation: “You shall not cook a chick in the
+[bird's milk](https://en.wikipedia.org/wiki/Ptasie_mleczko) of its hen”.
+
+It is known when the meat of fowl was equated with the meat of animals: in Zohar
+[Mishpatim](https://www.sefaria.org/Zohar,_Mishpatim.28.568) it is said that
+Rabbi Yosei HaGelili permitted eating chicken meat with cheese (Shabbat
+[130a](https://www.sefaria.org/Shabbat.130a.10)), but Rabbi Shimon said that
+henceforth it is forbidden, lest it arouse “evil inclinations” — thus he
+invented a new stringency out of nothing.  This is confirmed by the opinion of
+Rabbi Akiva in Chullin ([104a](https://www.sefaria.org/Chullin.104a.2),
+[113a](https://www.sefaria.org/Chullin.113a.17),
+[116a](https://www.sefaria.org/Chullin.116a.10)),
+<!-- Shulchan Arukh Yoreh De'ah [87:3](https://www.sefaria.org/Shulchan_Arukh,_Yoreh_De'ah.87.3) -->
+that the prohibition on chicken is a rabbinic prohibition,
+not a prohibition of the Torah.
+<!-- By the same logic, one could also invent a prohibition
+against mixing chicken meat with scrambled eggs. -->
+
+As can be seen, regarding this commandment the Rabbanites acted even worse than
+the Karaites — they invented a multitude of new laws concerning kitchen utensils
+instead of following the fundamental meaning of the commandment, i.e., they not
+only added new laws, but also diminished the Torah's commandments about showing
+mercy.
+
+How this came about can be traced in the discussions of the Talmud.  In tractate
+Berakhot [33b](https://www.sefaria.org/Berakhot.33b.16), it is discussed why the
+Mishnah instructed to silence the one who in prayer requests the same mercy as
+toward a bird in its nest.  As a result, the development of rabbinic Judaism
+was directed toward diminishing mercy, which led to customs contrary to the
+commandments of the Torah: the Torah requires showing mercy to birds, but among
+the Orthodoxes, conversely — a barbaric custom was adopted of tormenting poor
+birds by whirling them round and round over one's head during the *kapparot*
+ritual.  And this is a direct violation of the mitzvah *issur tzaar baalei hayim* —
+the prohibition against causing suffering to animals.
+<!-- Here is an example of how I personally fulfill this commandment: after
+witnessing the terrible suffering of polar bears in a cramped cage with a tiny
+pool at the zoo, I donated my last money as a contribution toward building them
+a spacious habitat in the form of a rocky territory with a large body of water. -->
+Moreover, such cruelty resembles the behavior of idolaters — the same way Bilam
+was beating the donkey (Bemidbar [22:21-35](https://www.sefaria.org/Numbers.22.21-35)).
+<!-- While they require kosher slaughter of chickens, they themselves abuse
+animals in kapparot. -->
+
+Some rabbis recognized the problematic nature of this custom, and therefore
+encouraged replacing the chicken with money, so that banknotes would be waved
+over one's head.  More conservative rabbis, however, continued to cling to this
+outdated custom and even censored the Shulchan Arukh, removing from it the
+author's opinion condemning it and calling it a foolish custom.
+
+If the purpose of this rite was to rid oneself of sins before Yom HaKippurim,
+as a prefiguration of sending the scapegoat into the wilderness to release sins,
+then this task is excellently fulfilled by the rite of *tashlikh*.
+
+Unlike the Orthodoxes, for non-Orthodoxes the primary concern should be to
+follow the spirit of the commandments.  In this case, the meaning of the
+commandment “do not cook a kid in its mother's milk” is the manifestation
+of mercy, chesed, so as not to follow the customs of the idolaters.  But
+additionally, the plain sense (peshat) of not cooking meat in milk should be
+fulfilled, as among the Karaites, and useful Orthodox traditions are preserved
+in moderation — not washing down meat with milk.
+<!-- *win-win* -->
+
+Some rabbis advised replacing birds with money in the *kapparot* ceremony
+because of its resemblance to sacrificial offerings, which were to be performed
+only in the Temple.  Therefore, just as in the *kapparot* ceremony the sacrifice
+of birds is replaced with money, so too the Temple sacrifices, which can no
+longer be performed, should be replaced with money donated to tzedakah.
+
+| Is it really burnt offerings and sacrifices that are as pleasing to G‑d as obedience to the voice of G‑d?  For obedience is better than sacrifice; compliance is better than the fat of rams. |
+| (Shmuel I [15:22](https://www.sefaria.org/I_Samuel.15.22)) |
+{: .chapter #korban title="Sacrifices"}
+
+| To what purpose is the multitude of your sacrifices unto Me? — says the L‑rd. — I am sated with burnt offerings of rams and the fat of fed beasts; the blood of bulls, sheep, and goats I do not desire. … Bring no more vain offerings; incense is an abomination to Me … and though you multiply prayer, I will not hear … cease to do evil.  Learn to do good, seek justice, relieve the oppressed, judge the orphan rightly, plead for the widow. |
+| (Yeshayahu [1:11,16-17](https://www.sefaria.org/Isaiah.1.11-17)) |
+{: .chapter}
+
+| Your burnt offerings are not acceptable, and your sacrifices are not pleasing to Me. …  I did not speak to your fathers nor command them on the day I brought them out of the land of Egypt concerning burnt offerings and sacrifices.  But this is what I commanded them, saying: hearken to My voice … and walk in all the way that I command you |
+| (Yirmeyahu [6:20](https://www.sefaria.org/Jeremiah.6.20), [7:22-23](https://www.sefaria.org/Jeremiah.7.22-23)) |
+{: .chapter}
+
+| For I desire mercy and not sacrifice, and knowledge of G‑d more than burnt offerings. … and instead of bulls we shall offer the words of our lips |
+| (Hoshea [6:6](https://www.sefaria.org/Hosea.6.6), [14:3](https://www.sefaria.org/Hosea.14.3)) |
+{: .chapter}
+
+| if you offer Me burnt offerings and your grain offerings, they shall not be acceptable to Me…  Let justice well up like water, and righteousness like an ever-flowing stream |
+| (Amos [5:22-24](https://www.sefaria.org/Amos.5.22-24)) |
+{: .chapter}
+
+| Will the L‑rd be pleased with thousands of rams…  It has been told to you, O human, what is good and what the L‑rd requires of you: only to do justice, and to love mercy, and to walk humbly before your G‑d. |
+| (Mikhah [6:7-8](https://www.sefaria.org/Micah.6.7-8)) |
+{: .chapter}
+
+| I will not take a bull from your house, nor goats from your pens…  Do I eat the flesh of bulls or drink the blood of goats? |
+| (Tehillim [50:9,13](https://www.sefaria.org/Psalms.50.9-13)) |
+{: .chapter}
+
+| The sacrifice of the wicked is an abomination to G‑d, but the prayer of the righteous is His favor. |
+| (Mishlei [15:8](https://www.sefaria.org/Proverbs.15.8), [21:27](https://www.sefaria.org/Proverbs.21.27)) |
+{: .chapter}
+
+| To do justice and righteousness is more acceptable to G‑d than sacrifice. |
+| (Mishlei [21:3](https://www.sefaria.org/Proverbs.21.3)) |
+{: .chapter}
+
+The general meaning of all these pronouncements of the prophets in the TaNaKh
+is one — when a person does not strive to develop within himself the most
+essential qualities of G‑d: both mercy and justice as the balance of chesed and
+gevurah, then his sacrifices are in vain.  And in our time, when sacrifices have
+been replaced with prayers, this means that even when one prays three times a day,
+the prayers are not accepted if one does not at the same time strive to perform
+good deeds and does not aspire to justice.  That is, now these words sound thus:
+“To what purpose is the multitude of your prayers unto Me?”
+
+The historical sequence was as follows: first, idolaters brought sacrifices,
+including human ones, to their deities.  The Torah was given to the Jewish
+people for the eradication of idolatry and drawing near to G‑d.  Liberation from
+human sacrifice was the first manifestation of mercy, as was told in the story
+of the sacrifice of Yitzchak.  But regarding animals there remained the
+necessity of consuming livestock for food, requiring the slaughter of animals.
+Part of the sacrifices was ritual slaughter, i.e., the sacralization of the
+necessity of killing animals for human sustenance.  And part of the sacrifices
+was burned.
+
+After the acceptance of monotheism, sacrificial offerings continued, but the
+primary purposes of the sacrificial rituals became atonement for sins before G‑d
+and the expression of gratitude to G‑d, including for the sustenance provided.
+Among idolaters, gratitude was poured out upon idols, while among the Jewish
+people this gratitude was redirected to the one G‑d.  This is unequivocally
+stated in the Torah:
+
+> One who offers sacrifices to deities must be destroyed — only to the L‑rd alone!
+(Shemot [22:19](https://www.sefaria.org/Exodus.22.19))
+
+That is, at that time for many people sacrifices were the only comprehensible
+way of worship.  All that was required was that this worship be to the one G‑d.
+At that time sacrifices had to be retained in order to distinguish ourselves
+from the idolaters: when idolaters brought sacrifices to idols, Jews did the
+same thing for the one G‑d.  But now no one brings sacrifices to idols.
+If at the present time idolaters were to do something in honor of idols, then
+Jews would have to do exactly the same thing, only in honor of the one G‑d.
+
+Over time, the routine sacrificial offerings degenerated into a mechanically
+performed ritual, devoid of kavanah — the intention to perform actions directed
+toward drawing closer to G‑d in order to develop within oneself the moral
+qualities of justice and compassion.  It was precisely this absence of
+connection with G‑d and the corresponding moral values that the prophets
+denounced.  So too today the Orthodoxes have lost their connection with G‑d,
+showing no compassion to those in need, replacing it with mechanical performance
+of rituals and endless recitation of prayer texts, like a broken record.
+
+As civilization has developed, animal sacrifices have receded into the past.
+At present, the restoration of ritual animal slaughter as the primary mode
+of Divine service would cast humanity back several millennia.  This would
+constitute a direct violation of the prophets' teachings.  The prophets demanded
+the elevation of moral standards, and at the current level of moral development,
+public executions of animals are perceived as cruel customs of idolaters.
+Initially, idolaters sacrificed animals to their idols, and then the vector of
+development was redirected toward G‑d for the increase of compassion.  But now
+a return to the savage customs of animal sacrifices would turn the vector of
+development backward — into the primeval past, to an era of widespread idolatry
+with a diminishment of the general level of compassion and estrangement from G‑d.
+
+Rambam held
+(*Moreh Nevukhim* [3:32](https://www.sefaria.org/Guide_for_the_Perplexed,_Part_3.32.3))
+that the centralization of worship was a transitional stage on the path to
+replacing sacrifices with more civilized forms of worship within monotheism.
+In Rambam's view, sacrifices were not the primary purpose of the commandments,
+but only a temporary means necessary for renouncing idolatry.
+<!-- And even earlier, this was stated in
+Vayikra Rabbah [22:8](https://www.sefaria.org/Vayikra_Rabbah.22.8). -->
+Service, however, can be performed through prayers and supplications.
+Therefore, in synagogues today prayers are recited at precisely
+those hours when sacrifices were offered in the Temple.
+
+And those who advocate for the return of sacrifices would actually revert to the
+level of morality that existed millennia ago.  Therefore, what is needed is not
+the abolition of sacrifices altogether, but the replacement of animals with
+other morally equivalent offerings.  By now, sacrifices have been completely
+replaced with prayers (both communal and individual), the study of Torah,
+and financial donations.
+
+Sacrifices filled the physical sefirot of the lower level, while prayers fill
+the intellectual sefirot of the higher level, closer to G‑d.  Therefore the
+transition from sacrifices to prayers is a process of drawing near to G‑d.
+An attempt to restore sacrifices would reverse the process and become the
+beginning of distancing.  The lower sefirot must be filled through the
+perfection of the world, the improvement of material conditions of life, which
+now occurs through progress.  And the higher sefirot are filled through the
+study of Torah, which is equivalent to the fulfillment of all the commandments.
+
+In the tractate Shabbat [30a](https://www.sefaria.org/Shabbat.30a.9)
+it is said that one day devoted to the study of Torah
+is preferable to a thousand sacrifices.  And in other places in the Talmud
+this same thought is repeated, e.g.,
+in Eruvin [63b](https://www.sefaria.org/Eruvin.63b.7)
+it is stated that the study of Torah is better than daily sacrifices.
+And in Megillah [3b](https://www.sefaria.org/Megillah.3b.1)
+it is confirmed that the study of Torah is a greater thing
+than the daily sacrifice.
+
+Also Midrash Tanchuma Beha'alotcha
+[5](https://www.sefaria.org/Midrash_Tanchuma,_Beha'alotcha.5.1) teaches that the
+words of Bemidbar 8:2 “Speak unto Aharon and say unto him: When you light the lamps”
+are understood thus: when Aharon was grieved that all the tribes brought
+offerings except the tribe of Levi, G‑d said that the commandment to light the
+lamps of the Menorah is more important than all the offerings.  And indeed,
+in Hanukkah the first thing they did was light the lamps of the Menorah.
+
+Different types of sacrifices have different types of replacement.  Primarily,
+what is sacrificed is time and money: time — for prayers, Torah study, and
+performance of good deeds, and money — for tzedakah to those in need and
+for good deeds.  As Rabbi Avardimos ben Rabbi Yose noted in Sifra Emor
+[13:11](https://www.sefaria.org/Sifra,_Emor,_Chapter_13.11), the commandment of
+aiding the poor is placed between the commandments concerning festivals, to
+teach that helping those in need is accounted as sacrifices in the Temple.
+
+Prayers were recited even in the times of sacrificial offerings, because through
+sacrificial offerings it is impossible to express requests — this can only be
+done with words.  For example, when rain is needed, it is impossible to express
+this need through sacrificial offerings — one must recite a prayer with
+a request for rain, etc.  Therefore, here we are speaking only of those prayers
+that replaced the sacrificial offerings.
+
+Atonement sacrifices are replaced with prayer.  For deliverance from the burden
+of sins and obtaining forgiveness, many different prayers are provided:
+penitential prayers *tachanun* and *vidui*, *selichot*, etc.  The *kaparot* ritual
+was also intended for atonement of sins, and in the course of the ritual's
+development, atonement sacrifices are replaced with monetary compensation.
+The *tashlikh* ritual also handles this task well.  But we must not forget
+the teachings of the prophets that all these actions in themselves do not
+guarantee purification from sins, but only help prepare one for repentance
+and correction of one's own shortcomings.  The Temple was destroyed because
+sacrifices came to be perceived by many as a way to buy themselves off
+and then calmly continue sinning.  Therefore sacrifices were abolished —
+so that correction of one's sins would not be reduced to a routine action
+in which no development of the soul occurs.
+
+Thanksgiving offerings are replaced with both prayer and the dedication of
+a portion of our income to tzedakah.  When in the past the primary income was
+in the form of meat and grain, it was a portion of such income that was offered.
+Now income is received in monetary equivalent, therefore we must give money,
+acknowledging G‑d's help in obtaining our material prosperity.
+
+The concept of *maaser kesafim* is a tithe from money, i.e., a tenth part of
+income set aside for charity (*tzedakah*).  Maaser is paid (KSA
+[34:4](https://www.sefaria.org/Kitzur_Shulchan_Arukh.34.4)) from the portion of
+profit that remains after deducting all taxes, withholdings, mandatory expenses
+such as monthly utility payments, etc.
+<!--
+*[personal consumption expenditures](https://en.wikipedia.org/wiki/Personal_consumption_expenditures_price_index)*,
+*[household final consumption expenditure](https://en.wikipedia.org/wiki/Household_final_consumption_expenditure)*
+-->
+Usually, the amount of maaser given as a donation is tax-deductible.
+
+The word *sacrifice* here is not used in its common meaning of “giving something
+up from oneself”, although sacrifices could only be brought from personal
+property — therefore captured wild animals were not suitable for sacrifices.
+The word *korban* derives from a root with the meaning “to draw near”
+(Sefer HaBahir [109](https://www.sefaria.org/Sefer_HaBahir.109)), i.e.,
+it signifies actions that bring one closer to G‑d.  As the prophets clarify,
+these are actions that teach the manifestation of mercy and justice.  When money
+is donated to charity, mercy is thereby manifested — it was for the development
+of this quality that sacrifices existed.
+
+Throughout the development of society, the means of drawing near to G‑d have
+been continually refined: first this occurred through sacrifices, then through
+prayer and tzedakah, and in our time, after the previous means helped to elevate
+the level of morality to great heights, the primary way has become the direct
+performance of actions for the perfection and repair of the world, including aid
+to those in need as a manifestation of mercy and the building of a society
+founded on justice.
+
+In Avot DeRabbi Natan [4:5](https://www.sefaria.org/Avot_DeRabbi_Natan.4.5),
+it is recounted that when Rabban Yochanan ben Zakkai saw the destroyed Temple,
+he comforted his companion with these words: that now the atonement of sins
+through sacrifices is replaced with showing mercy to one's neighbor —
+*gemilut chasadim*.  As it is written in Tehillim
+[89:3](https://www.sefaria.org/Psalms.89.3): “The world is built on mercy” —
+*olam chesed yibaneh*.
+
+In earlier times of limited possibilities, prayer held great significance,
+when nothing else remained but to hope for the mercy of G‑d.
+But now, when more possibilities have appeared for improving living conditions,
+we must take greater responsibility for our own welfare, rather than
+casting upon G‑d those concerns which we are capable of handling ourself.
+For example, in the past the only possibility to avoid famine was prayer for rain,
+whereas in the present time various irrigation solutions have become possible
+for watering fields and gardens, etc.
+
+> of all that You give me, I shall set apart a tenth for You
+(Beresheet [28:22](https://www.sefaria.org/Genesis.28.22))
+
+The Torah teaches that we must donate from everything received from G‑d,
+and not only from that small portion obtained from the increase of
+livestock and harvest.
+
+In ancient times the primary source of increasing material prosperity was
+agriculture, including the raising of livestock and the cultivation of grains
+for baking bread.  Therefore in agrarian society part of the income received was
+offered in sacrifice in the form of raised animals, as well as bread offerings.
+
+In the modern world, the share of agriculture tends to decline, averaging
+[6](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_sector_composition)
+percent of [GDP](https://en.wikipedia.org/wiki/Gross_domestic_product)
+globally, and in developed countries ranging from 3.5% to 0.7%.  That is,
+it has completely lost all meaning, and even worse — to sacrifice that which
+constitutes a negligible portion of income would be as much of a mockery as the
+ritual slaughter of fish caught in the sea (as in the story in Bemidbar Rabbah
+[19:3](https://www.sefaria.org/Bamidbar_Rabbah.19.3) about Yaakov of Kfar
+Niburaya, who received a portion of lashes for such foolishness).
+
+> They shall not hurt nor destroy in all My holy mountain
+(Yeshayahu [65:25](https://www.sefaria.org/Isaiah.65.25))
+
+Sacrifices were a manifestation of human imperfection, when people could not
+refrain from consuming animal flesh.  In the future, the transition to
+artificial meat will be completed, and then the slaughter of livestock
+will be entirely halted.  It would be cynicism in such times to attempt
+to open a slaughterhouse in the Temple.
+Indeed, sacrifices resembled a slaughterhouse far more than modern picnics
+with grilled meat and bonfire-jumping — Rambam in *Moreh Nevukhim*
+[3:45](https://www.sefaria.org/Guide_for_the_Perplexed,_Part_3.45.12) asserted
+that the smell of butchering carcasses was countered by the pleasant scent
+of burning incense, i.e., the grain offerings were an incidental necessity.
+And even sacrificing artificially grown meat would be a mockery.
+For this same reason, despite the fact that no living being is slain,
+even grain offerings were abolished by the prophets:
+
+> He who slaughters an ox is as one who slays a man,
+he who sacrifices a lamb is as one who breaks a dog's neck,
+he who offers a grain offering is as one who offers swine's blood,
+he who burns incense is as one who blesses an idol
+(Yeshayahu [66:3](https://www.sefaria.org/Isaiah.66.3))
+
+That is, the immorality of public executions of animals in the modern world is
+only one of the safeguards to ensure that no offerings whatsoever are performed anymore.
+<!-- So meal offerings became obsolete for an entirely different reason. -->
+
+The first sacrifice described in the Torah was in the story of Cain and Abel
+(Beresheet [4](https://www.sefaria.org/Genesis.4)).
+<!-- In Chullin [60a](https://www.sefaria.org/Chullin.60a.7)
+it is stated that Adam first sacrificed a unicorn-ox. -->
+G‑d accepted Abel's sacrifice, but did not accept Cain's.  Subsequently,
+Cain killed his brother.  Thus the first sacrifice led to the first
+crime.  This story is related to the story of the final sacrifices.
+In the story of [Kamtza and Bar Kamtza](https://en.wikipedia.org/wiki/Kamsa_and_Bar_Kamsa),
+after Bar Kamtza was expelled in disgrace, offended at the sages who
+permitted his humiliation, he decided to take revenge: he proposed that
+the Romans send a calf as a sacrifice, and himself damaged it so that
+the calf became unfit for sacrifice.  As related in tractate Gittin
+[56a](https://www.sefaria.org/Gittin.56a), this caused war with the Romans,
+and the Temple was destroyed.  This story teaches that if there had been
+no sacrifices, this incident would have become impossible,
+and the Temple would not have been destroyed.
+
+The legend of Bar Kamtza has its foundation in Josephus Flavius's book
+*The Jewish War* II [17](https://www.sefaria.org/The_War_of_the_Jews.2.17.2),
+which recounts that the war against the Romans began after the Zealots
+decided to no longer accept sacrificial offerings from the Romans.
+<!-- The Zealots even forbade the Jews whom they considered their
+enemies from bringing wood for the altar on the 15th of Av. -->
+
+The first sacrifice led to the murder of the first man's son, and the final
+sacrifices led to the destruction of the Temple.  The first sacrifice became
+the occasion for the first crime, but the real cause was hatred toward one's
+brother.  And in the destruction of the Temple, the occasion was also
+a sacrifice, and the cause was also hatred — baseless hatred toward one's
+brother.
+
+As the first offering caused enmity between brothers, so too did the last
+offerings — due to enmity among Jews — lead to the destruction of the Temple.
+
+Already at the end of the Second Temple era, sacrifices had become an
+anachronism.  This led to a decline in moral standards, which resulted
+in the hardening of hearts and the intensification of hatred among Jews.
+Just as they slaughtered animals, in the same manner the Zealots-Sicarii
+slaughtered their Jewish brothers, thereby offering human sacrifices
+as idolaters do.  Josephus Flavius in *The Jewish War*
+[V](https://www.sefaria.org/The_War_of_the_Jews.5.1.3) testifies that the
+strife among Jews reached such a point that in the Temple human sacrifices
+lay at the altar in lakes of blood together with animals.  The Temple was
+destroyed when enmity among Jews reached the point of human sacrifice.
+
+Therefore G‑d abolished sacrifices for all time.
+
+After the paschal sacrifices were permitted on the Sabbath,
+<!-- and among the Karaites the paschal sacrifices remained forbidden on the Sabbath -->
+Pesachim [64b](https://www.sefaria.org/Pesachim.64b.2)
+describes what this looked like.  In order not to carry the paschal sacrifices
+from the Temple home, all the pilgrims divided into three groups:
+<!-- according to Shemot [12:6](https://www.sefaria.org/Exodus.12.6)
+“the assembly of the congregation of Israel”: *kahal*, *adat*, Israel -->
+one group went out with the paschal sacrifices and sat on the Temple Mount,
+the second group went out with the paschal sacrifices and sat outside the courtyard,
+<!-- on the surrounding rampart before the wall of the women's court -->
+and the third group with their paschal sacrifices stood in the Temple courtyard.
+And they waited thus until the end of the Sabbath.  And at night they went and began
+to roast the meat on fire.
+<!-- Despite the fact that according to the peshat
+Devarim [16:6](https://www.sefaria.org/Deuteronomy.16.6)
+commands to offer the paschal sacrifice after sunset, the sages determined
+that the sacrifice should be offered during the day and eaten at night. -->
+
+The same tractate of the Talmud states that these groups must contain no fewer
+than 30 persons.  How many were there in reality?  Once King Agrippa decided
+to count the number of pilgrims.  To this end, they took one kidney from each
+animal and counted them: there were 600,000 pairs — in sum, twice the number
+of those who came forth from Egypt.  Moreover, each sacrifice was partaken
+of by more than 10 persons.
+<!-- This case was called *Pesach Meuvin* — the “Pesach of the Crowded”. -->
+
+According to Josephus's testimony in *The Jewish War*
+[VI](https://www.sefaria.org/The_War_of_the_Jews.6.9.3), when the sacrifices
+were counted in the year 65, they numbered 256,500.  Each sacrifice represented
+9–20 people, i.e., on average there were approximately 2,700,000 participants.
+In *The Jewish War* [II](https://www.sefaria.org/The_War_of_the_Jews.2.14.3)
+Josephus gives a similar approximate figure of 3 million.
+
+If we combine this information with the Talmud's account of the three groups,
+it follows that pilgrims would go to offer sacrifices in small groups of
+a million persons each.
+
+The sages assert that in such an enormous crowd in the Temple courtyard there was
+never a crush — except for one Passover, when one old man was trampled to death.
+<!-- This incident was called *Pesach Meuchin* — “Passover of the Crushed”. -->
+
+Suppose hypothetically, just imagine, that if sacrifices were to return in our
+time, then by this arithmetic for 13 million participants it would be necessary
+to slaughter simultaneously more than a million lambs.  That is, the Temple was
+a gigantic slaughterhouse, in which work continued unceasingly on Sabbaths and
+festivals.
+
+The First Temple was destroyed for violation of the Sabbath.  On the eve of the
+destruction of the First Temple, G‑d sent the prophet Yirmeyahu to declare that
+the fate of Yerushalayim depended upon the observance of the Sabbath (Yirmeyahu
+[17:19-27](https://www.sefaria.org/Jeremiah.17.19-27)).
+<!-- The Temple was destroyed because they brought sacrificial animals through
+the gates of Yerushalayim on the Sabbath day.  -->
+It is further stated in tractate Shabbat
+[119b](https://www.sefaria.org/Shabbat.119b.6) that Yerushalayim was destroyed
+because even the priests violated the Sabbath, as it is said in Yechezkel
+[22:26](https://www.sefaria.org/Ezekiel.22.26): “Her priests have violated
+My Torah, … and from My Sabbaths they have hidden their eyes”.
+
+And the Second Temple was destroyed for violation of the Sabbath.  In the Second
+Temple, the sacrifices were associated with performing labor and making
+decisions, thereby violating the Sabbath and festivals, which led to the
+Temple's destruction, after which G‑d forever abolished all sacrifices.
+
+For example, in Pesachim [64a](https://www.sefaria.org/Pesachim.64a.15) it is
+stated that contrary to the opinion of the sages, the priests in the Temple
+would wash the floor on the Sabbath, which was not required at all for
+performing the sacrifices.  They did this work out of habit, because
+that was their routine of work on weekdays.
+
+In Mishneh Torah, Paschal Offering
+[1:16](https://www.sefaria.org/Mishneh_Torah,_Paschal_Offering.1.16)
+Rambam presents such a justification for this violation of the Sabbath,
+that the Sabbath prohibitions of *shevut* are not obligatory to observe in the
+Temple, therefore even labors not required for the Temple service are permitted.
+According to this logic, after the building of the Third Temple one will be able
+on the Sabbath to sit in the Temple courtyard, for example, with a laptop and
+calmly work, performing tasks for the Temple service or any other work —
+in reality it's the opposite, so as not to bring about the destruction of
+yet another Temple.
+
+<!-- In punishment for failure to observe the Sabbaths, in
+Vayikra [26:33-35](https://www.sefaria.org/Leviticus.26.33-35)
+G‑d threatened exile, during which the desolate land would make up for
+all the violated Sabbaths, when the land did not rest in the sabbatical years.
+In his commentary, [Rashi](https://www.sefaria.org/Leviticus.26.35?with=Rashi)
+provides such calculations that the 70 years of Babylonian exile precisely correspond
+to the 70 sabbatical and jubilee years during the period when they provoked G‑d's wrath.
+
+In the same manner, it's possible to calculate how many violated Sabbaths
+accounted for the second exile, which continued until 1948, when the
+State of Israel was restored.
+
+If we assume that each year of exile was a punishment for each violated Sabbath
+up until the destruction of the Temple, then we need to calculate what date
+marks the beginning of the period that ended on August 3, 70 CE and contained
+exactly 1948 Sabbaths.  That date is the beginning of Pesach in the year 33 CE.
+
+This date is known for G‑d having sent a prophet
+(Yirmeyahu [29:19](https://www.sefaria.org/Jeremiah.29.19))
+to warn of the consequences of violating the Sabbath through work in the Temple.
+During the Sabbath and festivals in the Second Temple various
+violations were committed: currency exchange was performed when pilgrims brought money
+(Devarim [14:24-26](https://www.sefaria.org/Deuteronomy.14.24-26)),
+and with this money they selected and purchased animals for offerings —
+that is, near the Temple they violated the Sabbath and festivals
+by selecting and purchasing animals.
+
+But the rabbis ignored this warning.  Therefore the Temple was destroyed
+and the sacrifices were abolished.
+
+The warning was given by an Essene, the leader of the Zealots, since the
+Essenes did not defile the Sabbath with work connected to sacrifices.
+As a result, the Essene was condemned by the Sadducees and executed by the
+Romans, but subsequently the ones who suffered from antisemitic slanders
+were Pharisees.
+
+Why was it necessary to attempt to rid themselves of a person mistakenly believed
+to be the Messiah, when later Bar Kokhba was likewise mistakenly believed to be
+the Messiah even by Rabbi Akiva, and he was not condemned for this.  Perhaps the
+Sanhedrin wished to safeguard itself from accusations of supporting a rebellion
+— at the cost of surrendering to the Romans the leader of a rebellion
+against Rome.
+
+Yeshu ha‑Notzri fell victim to baseless hatred among Jews.
+I feel sorry for all Jews who suffered because of strife at the end of the
+Second Temple period, but this case is special, because it caused far more Jews
+to suffer from Christian persecutions over the course of two millennia.
+
+In these years 33 and 70, the first day of Pesach fell on the Sabbath.
+So it was also in the year 73, when Masada fell, and during Pesach the last
+inhabitants of Masada slaughtered one another like paschal sacrifices —
+a tragic finale to the enmity among Jews that had flared up due to the
+radicalization of the Zealot-Sicarii.
+
+The Temple was destroyed after a known number of Sabbaths following the warning,
+since the sacrifices on the Sabbath were connected with performing work
+directly in the Temple.  This is the cause, while the occasion was the story
+of Bar Kamtza with the damaging of sacrificial animals as a metaphor for
+baseless hatred among Jews.  After this, sacrifices were abolished
+for all time — sacrifices are no longer required by G‑d. -->
+
+By analogy with the construction of the Second Temple 70 years after the
+destruction of the First Temple, we can understand how it will become possible
+to build the Third Temple 2000 years after the destruction of the Second Temple.
+Whatever preconditions led to the possibility of the first restoration of the
+Temple, the same conditions must be fulfilled to open the way to the
+construction of the Third Temple.
+
+<!-- The Bar Kokhba revolt was timed to the 70th anniversary after the
+destruction of the Second Temple, because they hoped to restore the Temple
+after the same number of years that had passed between the destruction of the
+First Temple and the construction of the Second Temple.  But the hopes were not
+fulfilled.  -->
+
+After the first exile, Jews began returning to Eretz Yisrael, and after the
+second exile many Jews have already returned to Eretz Yisrael and re-established
+Medinat Yisrael.  One condition has already been fulfilled.  Moreover, this was
+accomplished by the will of G‑d through the permission of the nations of the
+world, represented by the League of Nations and the United Nations.
+
+What other obstacles remain?  To hold the holy site, various structures were
+erected on the Temple Mount that in reality hold little value for Muslims.
+
+<!-- The archetype, the prototype of the Third Temple is the cave of Machpelah —
+when reconciliation comes to the cave of Machpelah, then it will be possible to
+advance in the building of the Third Temple. -->
+
+Therefore, to solve this problem, we must recall how it became possible to
+build the Second Temple under foreign rule and in a hostile environment.
+Now the conditions are exactly the same: the Temple Mount is under Arab control,
+and it is likewise surrounded by hostile Muslim countries.  Yet under the same
+conditions the Second Temple was nevertheless built.
+
+Here is how the preconditions for the restoration of the Temple are described
+in the book of Ezra:
+
+> In the first year of the reign of Cyrus, king of Persia, in fulfillment of the
+word of G‑d from the mouth of Yirmeyahu, **G‑d stirred the spirit of Cyrus,
+king of Persia**, and he proclaimed throughout all his kingdom, both orally
+and in writing, as follows: “Thus said Cyrus, king of Persia: All the kingdoms
+of the earth has G‑d, the L‑rd of heaven, given me, and He has commanded me to
+build Him a house in Yerushalayim, which is in Judea.  Whosoever there is
+among you of all His people, let them go up to Yerushalayim, which is in Judea,
+and build the house of G‑d, the L‑rd of Yisrael, that L‑rd who is in Yerushalayim —
+may their L‑rd be with them!” (Ezra [1:1-3](https://www.sefaria.org/Ezra.1.1-3))
+
+This story teaches that G‑d acts through people.  When the period of punishment
+had ended, as was conveyed through the prophets in Yirmeyahu
+[29:10](https://www.sefaria.org/Jeremiah.29.10), G‑d moved the Persian king to
+good deeds, and then Cyrus, king of Persia, by the will of G‑d gave permission
+to build the Temple.
+
+By analogy with this story, when baseless hatred — which caused the destruction
+of the Second Temple — is replaced with baseless love, not only among Jews, but
+when Jews will be loved even by antisemites and by their Muslim cousins,
+<!-- “bnei dodim” -->
+<!-- Or are Muslim brothers second cousins?
+For bnei Yisrael, only the descendants of Esav can be called cousins,
+so the descendants of Yishmael would be second cousins.
+On the other hand, if the descendants of Esav are fraternal nations,
+then the descendants of Yishmael are indeed cousins. -->
+then a direct path to the Temple will open.
+
+<!-- The Emirates could help build the Temple right now, but the problem is
+that there remain problematic countries, such as Iran. -->
+
+The Third Temple will be built when Muslim rulers persuade the Arabs and
+Persians to treat Jews well.  Conditions must be created such that even the
+ayatollahs of Iran — a nation that has strayed far from G‑d — will come to love
+Jews so much that they themselves will wish to clear the site for the Temple and
+remove the mosque from the Temple Mount.
+<!-- For example, relocate it to Medina — on the Temple Mount all the stones of
+the mosque are already numbered, since the Muslims themselves have already been
+preparing to relocate the mosque. -->
+
+The construction of the First Temple became possible during the reign of Shlomo,
+when peace was established with the surrounding nations.  And in our time, the
+prospering countries of the Arabian Peninsula are striving to establish peaceful
+relations with Israel.  Similarly, Iran, freed from religious fanaticism, will
+begin to aspire to become part of the civilized world, because this will help
+solve their problems and significantly improve the quality of life through
+progress and scientific achievements.
+
+<!-- For example, at the height of the coronavirus pandemic, when Iran was among
+the first to suffer from this virus, spiritual leaders awaited a vaccine from Israel. -->
+
+> And many peoples and mighty nations shall come to seek the L‑rd
+in Yerushalayim and to entreat the favor of the L‑rd.
+(Zechariah [8:22](https://www.sefaria.org/Zechariah.8.22))
+
+> In those days ten people from all the nations of different tongues shall
+take hold of the corner of the garment of a Jew, saying: Let us go with you,
+for we have heard that G‑d is with you.
+(Zechariah [8:23](https://www.sefaria.org/Zechariah.8.23))
+
+Thus under conditions of peace and friendship among the nations, when all draw
+closer to G‑d, when Iran and the Arab countries free themselves from egoism or
+at least do not let their egoism obstruct others, then they will understand
+how much they need the Temple and will remove the mosque from the Temple Mount,
+clearing the place for the building of the Temple.  Tractate Sukkah
+[55b](https://www.sefaria.org/Sukkah.55b.11) laments that if the nations of the
+world knew how much they lose, for without the Temple who will purify them.  And
+the midrash Bamidbar Rabbah [1:3](https://www.sefaria.org/Bamidbar_Rabbah.1.3)
+expresses hope: “If the nations of the world knew how much they need the Temple,
+they would surround it with guards and protect it from all dangers.”
+
+Following the example of Cyrus, who permitted the building of the Second Temple,
+on behalf of all Muslims the construction of the Third Temple will be authorized
+by the ruler of Iran — an Iranian woman.  She will reach agreement with all
+Muslims and permit the building of the Third Temple.
+
+Just as the United Nations gave permission for the establishment of the State of
+Israel, so in the future the Iranian ruler will permit the construction of the
+Third Temple.
+
+Therefore, upon hearing news that a woman has come to power in Iran,
+we must put on non-Sabbath work clothes and not remove them until
+the completion of the Temple's construction.
+
+<!-- For example, Mohammed Reza Pahlavi dreamed of being like the Persian king Cyrus. -->
+
+Yet the actual construction of the Second Temple was carried out by the Jews.
+Other nations offered their assistance, <!-- Josephus Flavius, *The Antiquities
+of the Jews* [XI](https://www.sefaria.org/The_Antiquities_of_the_Jews.11.4.3) -->
+but the Jews responded that they must build it themselves, and politely
+invited the nations of the world to visit the Temple after the completion of
+construction.
+
+<!-- Therefore, a mandatory prerequisite for accepting the “two-state” plan must
+be the construction of a Temple for three religions.  That is, the primary
+question on the agenda should be an agreement on building a Temple for three
+religions.  All other questions are secondary and can be easily resolved after
+the construction of the Temple on the Temple Mount.  In the discussion of this
+question, besides the people of Israel, the peoples of Christian and Muslim
+countries should also participate. -->
+
+The Temple did not descend from the heavens.  All who place their hope in the
+Third Temple itself “descending from the heavens” — these people are simply lost
+to the world.
+
+Therefore the Temple will be built by non-Orthodox Jews after correcting the
+errors of the Orthodoxes, just as non-Orthodox Jews revived the State of Israel
+without waiting for it to magically “descend from the heavens”.  We must use
+every opportunity that G‑d gives us, rather than wait for problems to resolve
+themselves — we must exercise chutzpah ourselves.  That is, we must take example
+from how Kalev and Yehoshua were confident in their own strength and G‑d's help
+in achieving their goal, rather than wait for a miracle.
+
+| My house shall be called a house of prayer for all nations |
+| (Yeshayahu [56:7](https://www.sefaria.org/Isaiah.56.7)) |
+{: .chapter}
+
+The Third Temple will be confirmation that a lasting peace has reigned
+throughout the entire world, founded upon the recognition by all nations
+of the purpose of humanity's existence.  Then the Temple will be perceived
+as the primary symbol of connection with G‑d.
+
+After the renewal of the service in the Temple, there will be only prayers,
+without sacrifices.  That is, the Third Temple will be the chief synagogue of
+the world.  Also, in accordance with the TaNaKh
+<!-- and the Talmud (Arakhin [11a](https://www.sefaria.org/Arakhin.11a.2)) -->
+songs will be sung with accompaniment on musical instruments.  This will be
+called *avodah* (service).
+
+<!-- In the Third Temple,
+[silver trumpets](https://en.wikipedia.org/wiki/Chazozra)
+will be used, including for summoning the people to prayers (Bemidbar
+[10:1-10](https://www.sefaria.org/Numbers.10.1-10)) instead of the shofar
+(in Shabbat [36a](https://www.sefaria.org/Shabbat.36a.2) it is said that
+after the destruction of the Second Temple they exchanged roles).  A clear
+example is their presence in the depiction of the Temple vessels on the
+so-called [Arch of Titus](https://en.wikipedia.org/wiki/Arch_of_Titus).
+
+But caution must be exercised in this matter, since on that same relief
+animals are also depicted in the lower part of the base of the Temple Menorah.
+Josephus Flavius mentioned nothing of the sort when describing the Menorah in
+*Antiquities of the Jews* III
+[6:7](https://www.sefaria.org/The_Antiquities_of_the_Jews.3.6.7).  It is
+possible that the Romans could have made alterations to the captured Menorah
+before its display, as Josephus Flavius noted regarding visual differences in
+*The Jewish War* VII [5:5](https://www.sefaria.org/The_War_of_the_Jews.7.5.5).
+But most likely the depictions of animals were added by order of Herod.
+
+Just as Herod's menorah with animal images was non-kosher, so too is
+Rabinovich's menorah non-kosher.  Although it bears no animal images, the
+ruscist and collaborator Rabinovich is an immoral monster as Herod, who
+defiled the Temple with his filthy hands.  His golden menorah, like the
+golden calf, was cast in flagrant violation of the laws of the Torah.
+He alone sponsored his own glorification, thereby flaunting his egotism,
+instead of collecting a half-shekel from everyone — just as the oil
+for kindling the *ner tamid* is accepted from all benei Yisrael (Shemot
+[27:20](https://www.sefaria.org/Exodus.27.20)). -->
+
+Just as even idolaters were formerly permitted to bring sacrifices in the Temple
+(Vayikra [22:25](https://www.sefaria.org/Leviticus.22.25)),
+<!-- and also the commentary of Chizkuni on Vayikra
+[22:18](https://www.sefaria.org/Leviticus.22.18?with=Chizkuni), -->
+so too in the Third Temple will prayers be conducted for
+representatives of all monotheistic religions.
+
+<!-- Future generations will decide for themselves how this will appear:
+either joint prayers, or separately,
+e.g., on Friday — Muslims (Sunnis and Shiites together),
+on Sabbath — Jews of all denominations of Judaism,
+on Sunday — Christians of all confessions, but Orthodox without icons.
+Or as it is said in Yeshayahu [66:23](https://www.sefaria.org/Isaiah.66.23),
+that all together will pray at each new moon and each Sabbath. -->
+
+The main obstacle, why G‑d hardens the hearts of the nations against the
+building of the Temple — is the unwillingness of the Orthodoxes to renounce
+sacrificial offerings.  At present, the error of the Orthodoxes is that they do
+not renounce the resumption of sacrificial offerings.  Therefore G‑d does not
+permit the building of the Third Temple.
+
+Currently, the absence of the Temple serves as an indicator that the errors have
+not yet been corrected.  The accumulated errors do not permit the commencement
+of the Temple's construction.  Only after their correction will it be possible
+to rebuild the Temple without sacrifices, since the dreams of the Orthodoxes
+about renewing sacrifices are themselves one of the errors that hinder the
+arrival of the era of the Third Temple.
+
+In order to rebuild the Third Temple and prevent the immediate destruction of
+yet another Temple due to the resumption of sacrifices, it is necessary to reach
+an agreement with the Orthodoxes that no one would attempt to restore the
+sacrificial offerings immediately after the construction of the Third Temple.
+There must be at least a temporary renunciation of the intention to continue
+sacrifices in the Temple.  Burnt offerings must not be brought until G‑d
+confirms that this may be done in the Third Temple.
+
+The plan is as follows: after the construction of the Third Temple, permit only
+prayer but not the bringing of sacrifices.  Then observe how much this improves
+the situation.  If peace and universal redemption arrive, then change nothing
+further!  And only if things become worse, then they could move to plan B:
+first try introducing only vegetable offerings, and if things become still
+worse, then animal sacrifices as well.  Thus the will of G‑d could be
+unambiguously understood.
+
+<!-- Verifiability of a hypothesis: e.g., a patient is treated
+with one medicine — if it does not help, another should be tried. -->
+
+In general, the primary meaning of sacrifices was to wean people away from
+egoism.  Previously, part of one's property was symbolically given to G‑d
+through burning.  Now one donates materially to help those in need.  Therefore,
+the only morally acceptable form of sacrifice in a restored Temple would be
+donations of the monetary equivalent of income received.  Sacrifices are not
+abolished, only the offerings are replaced in accordance with the modern level
+of morality.  Such adaptations of commandments to modernity are nothing new —
+in the past there were many similar examples.
+
+Let us consider historical examples of modifications to commandments, when
+commandments that came into conflict with the development of civilization
+were not abrogated, but rather modernized.
+{: #obsolete title="Obsolete Commandments"}

@@ -33,7 +33,7 @@ random values can be imagined as chaotically flickering
 on a screen in the absence of signal: <!-- so-called “snow” -->
 <!-- Snow is mentioned in Pirkei DeRabbi Eliezer
 [3:8](https://www.sefaria.org/Pirkei_DeRabbi_Eliezer.3.8)
-and in Sefer ha‑Zohar Beresheet
+and in Sefer HaZohar Beresheet
 [4:17](https://www.sefaria.org/Zohar,_Bereshit.4.17). -->
 
 ![white noise image](../../../files/book/white_noise.jpg){:.center}
@@ -48,7 +48,7 @@ but the operating system has not yet loaded:
 
 ![black square image](../../../files/book/black_square.jpg){:.center}
 
-<!-- For example, in RGB the value of the black color is 0. -->
+<!-- For example, in RGB the value of the black color is (0, 0, 0). -->
 
 Whereas a computer contains memory with cells having different states,
 the display of memory contents can be represented as pixels on
@@ -157,7 +157,7 @@ through three derivatives of one foundation (books — *sefarim*):
 2. *sefer* — scripture
 3. *sfar* — number
 
-As explained by [Yehuda ha‑Levi](https://en.wikipedia.org/wiki/Judah_Halevi)
+As explained by [Yehuda Halevi](https://en.wikipedia.org/wiki/Judah_Halevi)
 in the book *[Kuzari](https://www.sefaria.org/Kuzari.4.25)*: *sippur* is
 speech activity that determines the purpose and properties of the entities
 being created, “language in action”; *sefer* is the action representing the
@@ -168,7 +168,7 @@ numbers lie at the foundation of the Universe, that the Universe is built
 upon numbers, where numbers are the values of memory cells upon which the
 Universe is based.
 <!-- As the mathematician Kronecker observed: “G‑d created the
-whole numbers, everything else is the work of man,” in the sense that the
+whole numbers, everything else is the work of man”, in the sense that the
 Universe is founded upon numbers, while man has the ability
 to perform further operations. -->
 
@@ -214,13 +214,13 @@ of evolution the earth brings forth grass, trees, and so forth),
 but rather the order of the stages of programming the Universe.
 
 <!-- In the commentary of Tosafot on
-Rosh Hashanah [27a](https://www.sefaria.org/Rosh_Hashanah.27a.15?with=Tosafot),
+Rosh HaShanah [27a](https://www.sefaria.org/Rosh_Hashanah.27a.15?with=Tosafot),
 to reconcile the two opinions whether the world was created
-in Tishrei or in Nisan, Rabbeinu Tam said that the creation of the world
+in Tishrei or in Nisan, Rabbenu Tam said that the creation of the world
 was conceived in the month of Tishrei, yet in reality the world was created
 in the month of Nisan.  So it is possible that the world was programmed in Tishrei,
 while the program was launched in Nisan.
-And in Rosh Hashanah [11a](https://www.sefaria.org/Rosh_Hashanah.11a.2)
+And in Rosh HaShanah [11a](https://www.sefaria.org/Rosh_Hashanah.11a.2)
 it is said that in Nisan not only was the world created and forefathers were
 redeemed from Egypt, but the final Redemption shall also come to pass in Nisan. -->
 
@@ -265,7 +265,7 @@ by the famous painting of the renowned Israeli artist:
 The Kabbalistic book *[Zohar](https://en.wikipedia.org/wiki/Zohar)*
 reveals that the point of the word *light*, that is,
 the capacity received through this light for humans to perceive
-and depict this concept — this itself is light (Sefer ha‑Zohar,
+and depict this concept — this itself is light (Sefer HaZohar,
 Beresheet [5:34](https://www.sefaria.org/Zohar,_Bereshit.5.34)).
 The image visually illustrates this thought.
 <!-- The point is an infinitely small magnitude
@@ -439,11 +439,11 @@ refutation.  For Kabbalah to be considered a science, one would need to
 devise such experiments whereby one could obtain results that would
 confirm or refute the theory.
 
-In general, the original title *chokhmát ha‑kabbalah* can be translated in
+In general, the original title *chokhmat ha‑kabbalah* can be translated in
 various ways: “science of receiving”, “wisdom of receiving”, “teaching of
 receiving”, etc.  Therefore, the use of the term “science” may be
 explained by peculiarities of translation — after all, in Hebrew it
-corresponds not to *madá*, but to *chokhmáh*.
+corresponds not to *mada*, but to *chokhmah*.
 
 The same problem exists with regard to the aforementioned book — the word
 “science” in the title is justified only when there exists the possibility
@@ -612,7 +612,7 @@ realize *tiferet*, which organically unites the *gevurah* of tragedies and the
 postmodernism, which helps to rise above different situations in order to look
 from the outside — and then with the filling of the sefirah *Binah* comes
 understanding of problems and situations, and with the filling of the
-sefirah *Chokmah* comes the solution to problems.
+sefirah *Chokhmah* comes the solution to problems.
 
 In recent times, people weary of postmodernist irony strive to return
 to the beautiful era of simple-hearted human relationships through
@@ -707,9 +707,9 @@ does not cancel and does not even diminish
 a system of values that figuratively places humans at the center of Creation.
 For humanity, Earth remains the center of the Universe despite the fact
 that it revolves around the Sun, and the star called Sun revolves around
-the center of the Milky Way galaxy. <!-- It is interesting to note that
+the center of the Milky Way galaxy.  It is interesting to note that
 the plane of rotation of the Solar System does not coincide with
-the plane of rotation of the Milky Way, but is inclined at a 60° angle -->.
+the plane of rotation of the Milky Way, but is inclined at a 60° angle.
 
 Especially unreasonable is belief in the existence of extraterrestrial
 intelligence.  Faith in contact with alien civilizations, in various
@@ -741,10 +741,10 @@ For what purpose was such enormous redundancy created?
 First of all, it's beautiful.  The bottomless heavens with countless
 myriads of stars overwhelm us with their beauty — Carl Sagan calculated
 that in the entire Universe there are more stars than grains of sand on Earth.
-<!-- And the number of cells in living organisms 10<sup>30</sup>
+And the number of cells in living organisms 10<sup>30</sup>
 (the human body alone contains 100 trillion cells) exceeds the number
 of grains of sand on Earth by a trillion times, and is a million times
-greater than the number of stars in the Universe. -->
+greater than the estimated number of stars in the Universe.
 It strikes the imagination by the abundance of diverse forms of life
 on Earth, where the most resilient differ in size from the largest
 polar bears, capable of swimming hundreds of kilometers in icy water,
@@ -957,7 +957,11 @@ As stated in Beresheet [1:20,21,24,30](https://www.sefaria.org/Genesis.1.20-30),
 all animals have a soul (*nefesh chayah*),
 and Beresheet [2:7](https://www.sefaria.org/Genesis.2.7)
 mentions the existence of a soul in the human being.
-But unlike animals, the human has a soul of a higher level.
+Therefore, animals also have a soul, though less developed than
+that of humans (interestingly, some animals <!-- including magpies -->
+are even capable of recognizing themselves in a
+[mirror](https://en.wikipedia.org/wiki/Mirror_test)).
+Unlike animals, the human has a soul of a higher level.
 
 <!-- Observing animals, we can notice in them manifestations of the soul.
 I remember how it surprised me when I observed how before a crow, her
@@ -965,12 +969,7 @@ suitor traced intricate pirouettes in parabolic flight before his beloved.
 The soul manifests most fully in love, and he was demonstrating
 manifestations of true love.  Manifestations of the soul in corvids are found
 in the Torah: “the raven went forth to and fro, until the waters were dried
-up from off the earth” (Beresheet [8:7](https://www.sefaria.org/Genesis.8.7)).
-
-Therefore, animals also have a soul, though less developed than
-that of humans.  Interestingly, some animals, including ravens and magpies,
-are even capable of recognizing themselves in a
-[mirror](https://en.wikipedia.org/wiki/Mirror_test). -->
+up from off the earth” (Beresheet [8:7](https://www.sefaria.org/Genesis.8.7)). -->
 
 If we draw an analogy with a computer and a computer user, then the human body
 and the brain correspond to the *hardware*, while the mind is the *software*,
@@ -1001,13 +1000,13 @@ in different realms of the soul's development:
   relation to people — corresponding to the sefirot *Chesed-Gevurah-Tiferet*;
 - the higher corresponds to intellectual development, knowledge of G‑d and the
   created world, including through religion and science — corresponds to the
-  sefirot *Chokmah-Binah-Da'at*.
+  sefirot *Chokhmah-Binah-Da'at*.
 
 Also through the sefirah *Keter* occurs the spiritual connection with G‑d,
 and through *Malkhut* — low-level quantum connections from the outside.
 
-There are two additional higher levels: *chayah*
-received by Adam, who was created according to the model of *Adam Kadmon*,
+There are two additional higher levels: *chayah*, received by Adam,
+who was created according to the model of *Adam Kadmon*,
 and *yechidah*, which manifests upon achieving singularity
 with its Divine source.
 This level of soul can be received by Mashiach, when his mind
@@ -1353,8 +1352,8 @@ religion and science is as follows:
 - science without religion is like a body without a soul;
 - religion without science is like a soul without a body.
 
-<!-- Or as Einstein said: “science without religion is lame,
-and religion without science is blind”. -->
+Or as Einstein said: “science without religion is lame,
+religion without science is blind”.
 
 Only thus can we approach G‑d through science —
 conducting experiments with attention to guidance from G‑d.
@@ -1411,12 +1410,12 @@ But in general, an important rule concerning programmers,
 admins and all devops: under no circumstances should one
 perform [deployment to production](https://en.wikipedia.org/wiki/Software_deployment)
 on a Friday evening, because with a probability close to 100%,
-errors that cannot be fixed for more than a day will inevitable surface
-during Shabbat.
+errors that cannot be fixed for more than a day will inevitable
+surface during Shabbat.
 
-By analyzing the essence of programming, we can understand from what precisely
-G‑d rested on the seventh day, and from what one must rest on Shabbat,
-following the commandment to walk in the ways of G‑d
+So by analyzing the essence of programming, we can understand from what
+precisely G‑d rested on the seventh day, and from what one must rest
+on Shabbat, following the commandment to walk in the ways of G‑d
 (Devarim [8:6](https://www.sefaria.org/Deuteronomy.8.6),
 [10:12](https://www.sefaria.org/Deuteronomy.10.12)) and to be like Him in all
 matters (Devarim [28:9](https://www.sefaria.org/Deuteronomy.28.9)).
@@ -1529,9 +1528,9 @@ In the days of Nehemiah the Sabbath was being profaned by the following actions
 - loaded upon donkeys wine, grapes, figs and other burdens;
 - traded in fish and other wares.
 
-And Nechemiah commanded to lock all the gates, so that no burden would pass
+And Nehemiah commanded to lock all the gates, so that no burden would pass
 through on the Sabbath day.  And he told the Levites that they should guard the
-gates on Sabbaths.  Nechemiah added nothing to the Torah with this prohibition
+gates on Sabbaths.  Nehemiah added nothing to the Torah with this prohibition
 on trade, for both the selection of goods and haggling over prices involve
 making decisions, when they negotiate at what price to sell and buy.  He simply
 confirmed how the commandment of Shabbat observance should be fulfilled.
@@ -1726,7 +1725,7 @@ easily fixed, thus avoiding unnecessary troubles.
 <!-- When the Sabbath is violated unintentionally, it is permitted
 to continue the violation until the end of the Sabbath, but only on condition
 that one strives not to permit such occurrences in subsequent Sabbaths.
-In Shulchan Arukh Orach Chaim
+In Shulchan Arukh Orach Chayim
 [568](https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.568.1) this is called
 by the word איבד — when the violated Sabbath is lost. -->
 This means that this incident was not a punishment, but only a warning.
@@ -1813,7 +1812,7 @@ For example, in the case when three humans came to Avraham, the matter appeared
 thus: G‑d required to convey information to Avraham and Sarah.  For this He sent
 ministering angels.  Angels are autonomous entities, acting according to a given
 program and sent to humans to carry out G‑d's assignments, that is, angels are
-G‑d's messengers, executing commands.  In the TaNaKh the word מלאך (*mal'ákh*)
+G‑d's messengers, executing commands.  In the TaNaKh the word מלאך (*mal'akh*)
 has the primary meaning of *messenger*.
 <!-- Decades ago I was already explaining to my beloved girl
 that angels are subroutines. -->
@@ -1960,8 +1959,8 @@ That is, angels governed the cattle.
 do not be troubled about them, for they have been found.
 (Shmuel I [9:20](https://www.sefaria.org/I_Samuel.9.20))
 
-The donkeys were lost also by the will of the angels, so that Saul would go to
-seek them, and Saul himself was directed by an angel to the city of Samuel.
+The donkeys were lost also by the will of the angels, so that Shaul would go to
+seek them, and Shaul himself was directed by an angel to the city of Shmuel.
 -->
 
 > But they mocked the messengers of G‑d, and despised His words,
@@ -1987,7 +1986,7 @@ who carries out the punishment, executes the sentence.
 
 > And G‑d will go forth to smite the Egyptians, and will see the blood upon the
 lintel and on the two doorposts, and G‑d will pass over the door, and will not
-suffer the destroyer to come into your houses to smite.
+let the destroyer to come into your houses to smite.
 (Shemot [12:23](https://www.sefaria.org/Exodus.12.23))
 
 When G‑d saw that the door was not marked, He allowed the destroying angel to
@@ -2057,7 +2056,7 @@ This speaks to the fact that any person is subject to the influence of Satan.
 But every person has free will to resist the influence of Satan.
 
 Satan is mentioned in several places in the TaNaKh.
-In Zechariah [3:1-2](https://www.sefaria.org/Zechariah.3.1-2)
+In Zekhariah [3:1-2](https://www.sefaria.org/Zechariah.3.1-2)
 Satan stood at the right hand to accuse the priest (הַשָּׂטָ֛ן לְשִׂטְנֽוֹ).
 And in Iyyov [1-2](https://www.sefaria.org/Job.1-2)
 Satan was permitted to subject Iyyov to trials,
@@ -2165,7 +2164,7 @@ or an enchanter, or one who calls upon spirits
 (Devarim [18:10-11](https://www.sefaria.org/Deuteronomy.18.10-11))
 
 <!-- This prohibition also extends to such a form of divination as
-[goral ha‑Gra](https://he.wikipedia.org/wiki/גורל_הגר"א)
+[goral HaGra](https://he.wikipedia.org/wiki/גורל_הגר"א)
 (“the lot of the Gaon Rabbi Eliyahu”), one variant of which appears such
 that notes are placed in the books of the Lubavitcher Rebbe.  Interestingly,
 after I wrote this down, the following night I had a dream that classmates came
@@ -2189,6 +2188,10 @@ In the mid‑1980s, it was popular to write programs for calculating so-called
 This was one of my first programs, and programming the calculation of physical,
 emotional, intellectual cycles was good practice.  But the program's result had
 no meaning.
+
+Incidentally, what the rabbis say about gradually diminishing joy and then
+increasing joy each day resembles the sinusoidal curve of the emotional cycle
+in biorhythms.
 -->
 
 In the Talmud it was long observed that the evil eye (*ayin ha‑ra*) can affect
@@ -2231,8 +2234,8 @@ One example of these are
 [speech errors](https://en.wikipedia.org/wiki/Speech_error), such as the so-called
 [Freudian slips](https://en.wikipedia.org/wiki/Freudian_slip).  Well-known
 are instances when, due to such errors, prominent political figures became
-objects of ridicule, and their careers suffered as a result.  I too have had
-occasions when the first impulse was to take an ill-considered action,
+objects of ridicule, and their careers were affected as a result.  I too have
+had occasions when the first impulse was to take an ill-considered action,
 but then came the realization that the initial reaction is not always correct.
 The initial impulse is often false due to the influence of Satan, especially
 when a person is in a state of stress.
@@ -2561,7 +2564,7 @@ The galut in medieval Europe was necessary as a catalyst for the advancement of
 Christian nations toward G‑d.  Satan constantly created situations where, as
 with litmus paper, the direction in which nations were moving could be seen by
 their attitude toward the Jews.  When crimes were committed against the Jews,
-the morality of these states also suffered, so that ultimately they fell into
+the morality of these states also eroded, so that ultimately they fell into
 decline and disintegrated.  At the cost of enormous sacrifices, this task was
 accomplished in Europe, and at present the nations of European countries have
 achieved a high level of spirituality.
@@ -2660,7 +2663,7 @@ Not only Moshe, but other prophets as well had this problem.
 For example, it affected Yirmeyahu ([1:6](https://www.sefaria.org/Jeremiah.1.6)).
 At the time when he was an inexperienced youth, he attempted to refuse
 becoming a prophet.  But G‑d helped him, suggesting what he needed to say,
-placing thoughts directly into the mind in the form of words.
+placing thoughts directly into the mind.
 
 The following concepts, employed in computational linguistics and representing
 opposing processes, may help better understand the essence of the problem:
@@ -2818,7 +2821,7 @@ safely came ashore, rejoicing in our deliverance.
 Before this event, yet another incident occurred.  We built a raft and floated
 down the river toward the sea.  Suddenly, at the estuary, Soviet border patrol
 swooped down upon us and broke apart our raft before our very eyes.  Meanwhile,
-their commander spoke cruel words to his soldiers: “Break it apart, search
+their commander spoke absurd words to his soldiers: “Break it apart, search
 for weapons and drugs!”  It was deeply offensive.  This was done to prevent
 attempts to escape from the Soviet Union by sea, just as Pharaoh would not let
 the Jews go.
@@ -2828,7 +2831,7 @@ It's possible to draw numerous parallels between the Egyptian and Soviet empires
 the gematria of the word *USSR* equals the gematria of the word *Mitzrayim* = 380.
 For example, in Shemot [10:10-11](https://www.sefaria.org/Exodus.10.10-11)
 Pharaoh refused to let the children go with their parents,
-and in the Soviet Union they likewise demanded that children be left as hostages
+and in the Soviet Union they likewise demanded that children be left as hostages even
 when parents traveled to neighboring socialist countries.  Therefore in childhood
 I was deprived of the opportunity to visit these countries, and lost a great deal
 because of this.
@@ -3228,7 +3231,7 @@ considerable time to it — the ancient Greeks were certain that eels
 [spontaneously](https://en.wikipedia.org/wiki/Spontaneous_generation)
 arise from mud.  Jewish sages also believed in the possibility of animals
 originating through non-sexual means in mold and even designated separate
-commandments concerning insects born from mud (*Sefer ha‑Mitzvot*
+commandments concerning insects born from mud (*Sefer HaMitzvot*
 [177-179](https://www.sefaria.org/Sefer_HaMitzvot,_Negative_Commandments.177-179)).
 
 And only toward the end of the twentieth century, with the emergence of new
@@ -3435,7 +3438,7 @@ himself stood beside the cave.
 -->
 
 In Jerusalem I went each day to
-*[ha‑Kotel ha‑Ma'aravi](https://en.wikipedia.org/wiki/Western_Wall)*
+*[HaKotel HaMa'aravi](https://en.wikipedia.org/wiki/Western_Wall)*
 (the Western Wall, the Wailing Wall), <!-- and listened to the sound of shofar -->
 trying to understand what could be done so that it might become possible
 to establish peace and build the Third Temple.
@@ -3477,8 +3480,8 @@ the compulsory showing films they disliked on airplanes, and news portals
 criticized them for this, this greatly angered me — if people don't want to
 watch films, then why force them upon them?  <!-- And now the civilized way
 of resolving such conflicts are individual screens on the backs of seats. -->
-I have personally found myself in such situations, when during lengthy bus journeys
-I suffered from the forced screening of videos with the silliest films.
+I have personally found myself in such situations, when during lengthy bus
+journeys I endured the forced screening of videos with the silliest films.
 <!-- Of those films, only one was enjoyable — about the shlimazel —
 *[Meet the Parents](https://en.wikipedia.org/wiki/Meet_the_Parents)*. -->
 <!-- And only when the journeys became routine was I able to sleep, paying no
@@ -3526,7 +3529,7 @@ I was not offended.  I thought that the problem was with me, that I was somehow
 to somehow correct myself.
 
 And then I departed to live in London, as sung in the well-known song
-by Chava Alberstein *London lo mekhaka li* (*London does not await me*).
+by Chava Alberstein *London lo mekhaka li* (London does not await me).
 
 I hoped that there, at least, everything would work out.  It seemed to me
 the most preferable option since it was one of the countries where
@@ -3566,10 +3569,9 @@ The Jewish center LJCC was located in Ivy House, where the famous ballerina
 Anna Pavlova had previously lived.  Such a fitting place for a Jewish center
 was chosen because of her Jewish origins.
 
-<!--
 I have a personal story connected to this place: as a child I was captivated by
 the film shot in this house.  The film about Anna Pavlova showed her London house
-and the pond with swans, and I fell so in love with her that I dreamed of
+and the pond with swans, and I fell so in love with this that I dreamed of
 visiting her house.  But in Soviet times this was an unattainable dream.
 It is impossible to imagine greater surprise than I would have had if someone
 had told me in 1983 that I would not only visit this house, but would go there
@@ -3577,8 +3579,9 @@ every week to study Hebrew.  Each time I came there, I could not believe that
 dreams come true, that I was walking through the same rooms where Anna Pavlova
 had lived, looking from the balcony at her beloved pond where swans swam.
 And precisely during the time when I was there, a new statue was unveiled
-in her former home:
+in her former home.
 
+<!--
 ![Anna Pavlova](../../../files/book/anna_pavlova.jpg){:.center}
 -->
 
@@ -3593,7 +3596,7 @@ gradually arrived, sleepy and sleep-deprived after New Year's night.  But
 I don't blame anyone.  The only thing I wanted to note is that in this matter
 I am more devoted to Judaism, since for decades already I have not followed this
 ritual. <!-- since *avodah zarah* -->  But I observed all the Jewish holidays —
-not Novigod, but our Jewish Rosh ha‑Shanah.
+not Novigod, but our Jewish Rosh HaShanah.
 <!-- And instead of “Na zdorovie” → “Lehaim!” -->
 
 Once during Hanukkah, I even experienced a Hanukkah miracle.  Before Hanukkah
@@ -3606,16 +3609,17 @@ And so, when I was already approaching home hopelessly with empty hands,
 on the street a little boy in a black suit suddenly approached me,
 and extending a small box, asked:
 
-— *Do you want Hanukkiah?*
+“Do you want Hanukkiah?”
 
 This was precisely what I had been lacking, therefore I joyfully replied:
 
-— *Yes, I need Hanukkiah!* — and then added with despair: — *But I have no candles* :-(
+“Yes, I need Hanukkiah!” and then added with despair: “But I have no candles” :-(
 
 Then the boy exclaimed with consolation:
 
-— *There are candles inside!*  
-— *Thank you very much!* :-)
+“There are candles inside!”
+
+“Thank you very much!” :-)
 
 <!--
 This case shows an example of how Orthodoxes should proactively make the world
@@ -3656,7 +3660,7 @@ a dead end, I was too drained even to go to work.  And by that time all my
 saved money had run out — on all these useless trips because of the Orthodoxes
 I had wasted about 40 thousand euros (mainly on hotels and long-term housing rental).
 And so without work and without money I spent all my time sitting in a tiny
-kitchenette measuring 2x2 meters: by one wall there was a sink and stove,
+kitchenette measuring 2*2 meters: by one wall there was a sink and stove,
 by the other wall a table with a chair, and right in the middle of the kitchen
 on the floor a folding bed.
 <!-- And it was impossible to go into the room, because to save on expenses
@@ -3829,8 +3833,8 @@ And so in this terrible state, in a hopeless situation, I began seeking in the
 Torah answers to the questions of how such a thing could have happened, that
 despite the fact that I tried very hard to do everything that the Orthodoxes
 required, instead of performing a good deed and saving me by doing circumcision,
-they so cruelly punished me, destroyed my life, brought me to unbearable
-suffering, undermined my health and left me to die.
+they so cruelly punished me, undermined my health, destroyed my life and
+brought me to unbearable suffering.
 
 <!-- During each attack, writhing in pain and sobbing, repeated:
 “Why are the Orthodoxes such atheists?!  Why are the Orthodoxes such atheists?!” -->
@@ -3870,6 +3874,8 @@ As an angel is directly connected to G‑d, the soul of my beloved was like an
 angel drawn near to G‑d.  When I gazed into her deep eyes, as an angel from G‑d
 on one side looks through the eyes, looking from the other side, I could draw
 near to G‑d.
+
+<!-- Love is the highest manifestation of the soul's immortality. -->
 
 The greatest love is given towards the simple-hearted person, when I loved
 in my girl only the soul.  Through her soul connected to our world through
@@ -3992,6 +3998,16 @@ and have left the orphan, the widow and the stranger in torment.
 
 The Orthodoxes acted precisely as the prophets predicted:
 
+> the stranger, the orphan, and the widow — oppress them not,
+neither rob them, and innocent blood shed not in this place
+(Yirmeyahu [22:3](https://www.sefaria.org/Jeremiah.22.3))
+
+> Woe unto the shepherds who destroy and scatter the sheep of My pasture
+(Yirmeyahu [23:1](https://www.sefaria.org/Jeremiah.23.1))
+
+> you have scattered My sheep and driven them away, and have not attended to them
+(Yirmeyahu [23:2](https://www.sefaria.org/Jeremiah.23.2))
+
 > The stranger suffered oppression in your midst,
 the orphan and the widow have been wronged within you
 (Yechezkel [22:7](https://www.sefaria.org/Ezekiel.22.7))
@@ -4005,18 +4021,9 @@ the scattered, nor have you looked for the lost
 the weak with your horns, until you drive them away
 (Yechezkel [34:21](https://www.sefaria.org/Ezekiel.34.21))
 
-> the stranger, the orphan, and the widow — oppress them not,
-neither rob them, and innocent blood shed not in this place
-(Yirmeyahu [22:3](https://www.sefaria.org/Jeremiah.22.3))
-
-> Woe unto the shepherds who destroy and scatter the sheep of My pasture
-(Yirmeyahu [23:1](https://www.sefaria.org/Jeremiah.23.1))
-
-> you have scattered My sheep and driven them away, and have not attended to them
-(Yirmiyahu [23:2](https://www.sefaria.org/Jeremiah.23.2))
-
+<!--
 > They slay the widow and the stranger and murder the orphan
-(Tehillim [94:6](https://www.sefaria.org/Psalms.94.6))
+(Tehillim [94:6](https://www.sefaria.org/Psalms.94.6)) -->
 
 And so in such a terrible state, in solitude, spurned by the Orthodoxes,
 without money and without work, suffering from deteriorating health
@@ -4225,7 +4232,7 @@ each time visiting a concentration camp site.  <!-- Since 1984, when
 40 years had passed since the extermination of the prisoners of
 the Klooga concentration camp, I have visited this place. -->
 And a few years ago I made a series of photographs of Holocaust memorials, and
-these photographs were selected for exhibition in the Holocaust museum in Berlin.
+these photographs were selected for exhibition in the Holocaust museum in Germany.
 <!-- ![Klooga Memorial](../../../files/book/klooga_memorial.jpg){:.center} -->
 
 The conversion of Ruth did not require the adoption of a new name.  Ruth
@@ -4281,7 +4288,7 @@ Nehemiah to expel foreign wives.  Formally this appeared such that their
 marriages were annulled, therefore having lost their husbands, like Orpah, they
 were compelled to return each to her mother's house.  But unlike Ruth, they did
 not undergo conversion, despite the fact that in those times the prophet
-Zechariah spoke of the joining of entire nations in
+Zekhariah spoke of the joining of entire nations in
 [2:15](https://www.sefaria.org/Zechariah.2.15).  Therefore the Book of Ruth is
 the most illustrative example of the category of *chesed*, while the actions
 of Ezra and Nehemiah are of the category of *gevurah*.
@@ -4316,7 +4323,7 @@ for the fear of the Jews had fallen upon them.
 
 This is an example of conversions from the book of Esther, but without details.
 Also unknown are the details of how there were accepted into the Jewish people
-those who served in the army of King David: Uriah the Hittite (*Uriah ha‑Hitti*),
+those who served in the army of King David: Uriah the Hittite (*Uriah HaHitti*),
 Zelek the Ammonite (Shmuel II
 [23:37](https://www.sefaria.org/II_Samuel.23.37)), Ithmah the Moabite (Divrei
 ha‑yamim I [11:46](https://www.sefaria.org/I_Chronicles.11.46)), etc.
@@ -4416,7 +4423,7 @@ conversion”, even when the converted Jew returns to idolatry. -->
 
 An important observation was made by Rambam in the Laws of Circumcision
 [3:7](https://www.sefaria.org/Mishneh_Torah,_Circumcision.3.7), repeated
-in Shulchan Arukh Yoreh Deah
+in Shulchan Arukh Yoreh De'ah
 [268](https://www.sefaria.org/Shulchan_Arukh,_Yoreh_De'ah.268.9), that when
 an idolater comes and requests circumcision solely for medical reasons, it is
 forbidden, because he has no intention of renouncing idolatry, and in accordance
@@ -4485,7 +4492,7 @@ Therefore the present-day Orthodox rabbis are even worse than Shammai.
 WORSE THAN SHAMMAI!
 
 We live at the end of the very last times — never before has it happened that
-a true believer came to the Orthodoxes, and bleeding out, for many years
+a person who loves G‑d came to the Orthodoxes, and bleeding out, for many years
 begged them to accept him and perform circumcision.  But instead they looked
 upon his sufferings with indifference, and in the end, after all humiliations,
 cast him out.
@@ -4734,10 +4741,10 @@ too Soviet Jews were *[anusim](https://en.wikipedia.org/wiki/Anusim)*
 who in Hebrew are called *haredim anusim* — “Haredim under duress”. -->
 
 Many sages also repeatedly mentioned the term *zera Yisrael*.  For example,
-Rambam in *Sefer ha‑Mitzvot* specified as a separate additional commandment number
+Rambam in *Sefer HaMitzvot* specified as a separate additional commandment number
 [M−362](https://www.sefaria.org/Sefer_HaMitzvot,_Negative_Commandments.362)
 that a king and indeed any leader must be *zera Yisrael*.
-The same is found in *Sefer ha‑Chinukh* under number
+The same is found in *Sefer HaChinukh* under number
 [498](https://www.sefaria.org/Sefer_HaChinukh.498.2?with=Mishneh%20Torah,%20Kings%20and%20Wars)
 with the explanation that the compassion inherent in Jews
 is transmitted from a Jewish father to his children.
@@ -4835,7 +4842,7 @@ Jewish mother Dinah was a Canaanite, notwithstanding that she grew up among Jews
 
 Yehudah took as wife a Canaanite woman, daughter of Shua, despite the existing
 tradition in their family not to marry Canaanite women.  Later in the times of
-Zechariah <!-- [14:21](https://www.sefaria.org/Zechariah.14.21) --> the word
+Zekhariah <!-- [14:21](https://www.sefaria.org/Zechariah.14.21) --> the word
 *kenaani* came to denote merchants.  But in Divrei ha‑yamim I
 [2:3](https://www.sefaria.org/I_Chronicles.2.3) it is explicitly stated that
 the daughter of Shua was a Canaanite woman — “Bat Shua, knaanit”.
@@ -5144,7 +5151,7 @@ determining Jewishness through the mother is widely prevalent among Orthodoxes,
 someone would suddenly say, for greater persuasiveness, that this is the opinion
 of one contemporary rabbi and name him.  In his commentary on Bava Metzia
 [33b](https://www.sefaria.org/Bava_Metzia.33b.1?with=Rashi), Rashi reported that
-when Rabbi Yehudah ha‑Nasi was recording the Mishnah, he did not mention the
+when Rabbi Yehudah HaNasi was recording the Mishnah, he did not mention the
 author's name if he agreed with him.  Otherwise, he would indicate the name of
 the author of the disputed opinion, which was not included in the Halakha.
 
@@ -5244,7 +5251,7 @@ On this very matter, Ezra and Nehemiah warn:
 > Do not give your daughters to their sons, and do not take their daughters for
 your sons or for yourselves.  For in this did Shlomo, king of Yisrael, sin… —
 and even he was led into sin by foreign wives!
-(Nechemyah [13:25](https://www.sefaria.org/Nehemiah.13.25))
+(Nehemiah [13:25](https://www.sefaria.org/Nehemiah.13.25))
 
 As can be seen, this recurring theme runs through the entire TaNaKh.
 First, the Jewess Dinah risked acquiring a non-Jewish husband, and then
@@ -5281,9 +5288,9 @@ to whom the words “his daughter” refer, that is, the father of that daughter
 And in relation to “your son” he is the father-in-law.  So this heathen
 father-in-law will turn away his son-in-law — the son of a Jew.  All is simple
 and clear.  This is precisely how this passage was explained by one of the most
-reasonable rabbis, Rabbeinu Tam.
+reasonable rabbis, Rabbenu Tam.
 
-<!-- Unfortunately Rabbeinu Tam went further and said that since
+<!-- Unfortunately Rabbenu Tam went further and said that since
 “will turn away” is stated only in relation to your son, but not your grandson,
 the grandson is not called your son, i.e., a Jew.  In reality the grandson is
 not called a Jew only in the case where the heathen father-in-law turned away
@@ -5503,7 +5510,7 @@ the book of Moshe, that an Ammonite and a Moabite shall never enter into the
 congregation of G‑d (Devarim [23:4](https://www.sefaria.org/Deuteronomy.23.4)).
 Therefore Jewish men had to divorce their Ammonite and Moabite wives.
 
-Yehudah ha‑Levi explained plainly in his book
+Yehuda Halevi explained plainly in his book
 *[Kuzari](https://www.sefaria.org/Kuzari.3.63)*
 that Jewish husbands divorced the mothers of their children.  THEIR CHILDREN!
 <!-- *imot bneyhem* -->
@@ -5582,7 +5589,7 @@ ancestors, they thereby take upon themselves the prerogative of G‑d, for it is
 written in the Torah that only G‑d may punish the children and grandchildren of
 Jews, but only those who hate Him.
 
-But even Shulchan Arukh Even ha‑Ezer
+But even Shulchan Arukh Even HaEzer
 [16](https://www.sefaria.org/Shulchan_Arukh,_Even_HaEzer.16.1)
 based on Hilkhot Issurei Biah
 [12](https://www.sefaria.org/Mishneh_Torah,_Forbidden_Intercourse.12.1) makes
@@ -5658,7 +5665,7 @@ This teaches that Jewishness through the mother brings many problems.
 <!-- In Devarim [13:7](https://www.sefaria.org/Deuteronomy.13.7)
 the danger of sons turning away through their mothers is especially emphasized. -->
 It is noteworthy that the Torah emphasizes that only a Jew through the mother
-could permit himself such blasphemy (*chillul ha‑Shem*), because in
+could permit himself such blasphemy (*chillul HaShem*), because in
 those times the son's education was the responsibility of the father.
 <!-- While the mother mainly worked in the household. -->
 Among the Jews in all times, a son was taught Torah by his father,
@@ -5689,11 +5696,11 @@ Though many by mother have nothing Jewish at all. -->
 One of the confirmations that a son is raised by the father is brought
 in Pesachim [49](https://www.sefaria.org/Pesachim.49a.12).
 The sages taught that a man should strive to take as wife the daughter of
-a Torah scholar, but under no circumstances the daughter of an *am‑ha'aretz*
+a Torah scholar, but under no circumstances the daughter of an *am ha‑aretz*
 (here this is a synonym for ignoramus).  For if the children lose their father,
 then the mother will undertake the education of the children, and then it depends
 solely upon her what heritage she will transmit to the child: either upbringing
-as a Torah scholar, or as an *am‑ha'aretz*.  This is also one of the reasons
+as a Torah scholar, or as an *am ha‑aretz*.  This is also one of the reasons
 for attempts to transition to matrilineality, when many Jewish children
 had no fathers, and their upbringing came to be undertaken by mothers.
 
@@ -5833,7 +5840,7 @@ further said that it is better for a letter to be torn from the Torah than for
 the Heavenly Name to be profaned publicly.  And when Orthodoxes consider it
 their sacred duty to terrorize Jews by paternal lineage, using the Torah
 to justify their actions, this is the very essence of the desecration
-of the Name of the Most High — *chillul ha‑Shem*.
+of the Name of the Most High — *chillul HaShem*.
 
 Besides the proof of transmission of Jewish identity through the father's house,
 the determination of Jewish identity through the father is also indicated by the
@@ -5934,7 +5941,7 @@ In Mishneh Torah Yibbum va‑Chalitzah
 a Jewish woman are not considered Jews at all, of whom it could be said in the
 words of Devarim [25:10](https://www.sefaria.org/Deuteronomy.25.10): “And his
 name shall be called in Israel”.  Therefore they are forbidden to participate
-in the ceremony of chalitzah.  On the other hand, in Shulchan Arukh Even ha‑Ezer
+in the ceremony of chalitzah.  On the other hand, in Shulchan Arukh Even HaEzer
 [169](https://www.sefaria.org/Shulchan_Arukh,_Even_HaEzer.169.2), the opinion is
 brought that one whose father is Jewish may participate in the ceremony, i.e.,
 he is considered Jewish through his father.
@@ -6090,7 +6097,7 @@ But unlike the main genome, which is located in the cell nucleus, the
 mitochondrial DNA genome is found in tiny organelles outside the cell nucleus
 and contains auxiliary genes (only 37 genes compared to 20,000 main genes,
 i.e., just 0.1%).  Therefore, to assert the transmission of Jewishness through
-insignificant mitochondrial DNA is akin to wishing on Rosh ha‑Shanah to be
+insignificant mitochondrial DNA is akin to wishing on Rosh HaShanah to be
 at the tail rather than at the head.
 <!-- If one imagines humanity's development as the movement of a train
 with many cars, then the Orthodoxes prefer to ride in the last car
@@ -6607,16 +6614,14 @@ were later designated and activated by Yehoshua bin-Nun
 
 Undoubtedly, besides the Written Torah, an oral interpretation of the laws was
 also given, with detailed explanations of all particulars of their observance
-and moral-ethical foundations. <!-- despite the fact that some assert all this
-was already known to the patriarchs, though not all observed it -->
+and moral-ethical foundations. <!-- Despite the fact that some assert all this
+was already known to the patriarchs, though not all observed it. -->
 This was like a [User Manual](https://en.wikipedia.org/wiki/User_guide) —
 without such instructions, it would be impossible to observe the
 commandments, whose brief exposition was recorded in the Written Torah.
 For example, in Shemot [27:8](https://www.sefaria.org/Exodus.27.8)
 it was said: “Make it as you were shown on the mountain”, i.e.,
 not only oral instructions, but also visual illustrations.
-
-<!-- Torah and Halakha relate to each other as theory and practice. -->
 
 Later the term “Oral Torah” — *Torah she‑be'al peh* — was introduced to
 designate the oral laws, in contrast to the Written Torah — *Torah she‑bikhtav*.
@@ -6720,7 +6725,7 @@ In Pesachim [66a](https://www.sefaria.org/Pesachim.66a.3) and JT Pesachim
 [6](https://www.sefaria.org/Jerusalem_Talmud_Pesachim.6.1.1) it was told that
 the elders <!-- *zikney/bnei Batira* --> forgot whether one may perform the
 Passover sacrifice on the Sabbath of the 14th of Nisan. <!-- on *Shabbat
-ha‑Gadol* -->  And then Hillel ruled that one may.  But then Hillel himself
+HaGadol* -->  And then Hillel ruled that one may.  But then Hillel himself
 forgot whether one may bring a knife for the Passover sacrifice on the Sabbath.
 And so he delegated the resolution of this question to the entire people: though
 prophets are no more, they are children of prophets (*bnei nevi'im*, sons of
@@ -6941,8 +6946,8 @@ a person lives under round-the-clock surveillance, every action regulated down
 to the smallest detail by draconian laws, and the slightest deviation from the
 Party's general line is mercilessly punished.  It is therefore unsurprising that
 at the first opportunity, at the first weakening of total control, the majority
-broke free from slavery into freedom.  This serves as an indicator that
-due to fundamental errors the development went down the wrong path.
+broke free from slavery into freedom.  This serves as an indicator that due
+to fundamental errors <!-- time bomb --> the development went down the wrong path.
 
 Whence, then, came such an enormous quantity of directives and instructions in
 the oral laws, shackling free will and dragging the Orthodoxes down like
@@ -6956,6 +6961,17 @@ links increases, distortion of the original message inevitably occurs — in the
 process of retelling from one participant to another, errors accumulate such
 that the message of the last participant differs substantially from the message
 of the first, because each link in the chain introduces its own changes.
+
+<!-- [Video-illustration](https://www.youtube.com/watch?v=ByG8ZldkLAg). -->
+
+A similar figurative comparison to the game of telephone was offered by
+Rabbenu Bahya in [Chovot HaLevavot](https://en.wikipedia.org/wiki/Chovot_HaLevavot),
+*Gate of the Divine Unity*,
+[2:6](https://www.sefaria.org/Duties_of_the_Heart,_First_Treatise_on_Unity.2.6),
+where a chain of blind people, each placing a hand on the shoulder of the one
+before, wander until they deviate from the path established by the single
+sighted person at the head of the column, <!-- Moshe Rabbeinu and prophets -->
+and then the blind fall into a pit.
 
 <!-- To understand how information absent from the original formulation gets
 added, let us consider an example.  Imagine that in the beginning, the word
@@ -6988,15 +7004,6 @@ just as in banks a substantial sum can accrue when errors accumulate,
 if no measures are taken against it.  Therefore, it becomes impossible
 to know that an error has occurred, and consequently, impossible to correct
 errors made by previous generations.
-
-A similar figurative comparison to the game of telephone was offered by Rabbeinu
-Bachya in [Chovot HaLevavot](https://en.wikipedia.org/wiki/Chovot_HaLevavot),
-*Gate of the Divine Unity*,
-[2:6](https://www.sefaria.org/Duties_of_the_Heart,_First_Treatise_on_Unity.2.6),
-where a chain of blind people, each placing a hand on the shoulder of the one
-before, wander until they deviate from the path established by the single
-sighted person at the head of the column, <!-- Moshe Rabbeinu and prophets -->
-and then the blind fall into a pit.
 
 But no such protective systems existed, and nothing prevented the transmitted
 information from being altered, because two main factors exerted their influence.
@@ -7037,10 +7044,10 @@ also differences in the contents of the boxes: for example, some contained
 the text of the Ten Commandments. -->
 
 The medieval authority Rashi ruled that the passages should be arranged in one
-order, but his grandson Rabbeinu Tam did not heed his grandfather and devised
+order, but his grandson Rabbenu Tam did not heed his grandfather and devised
 a different order for arranging the passages in the tefillin.  Therefore today
 some Orthodoxes <!-- Chabad Hasidim --> are compelled to acquire an additional
-set of tefillin according to the opinion of Rabbeinu Tam, and to repeat the prayer
+set of tefillin according to the opinion of Rabbenu Tam, and to repeat the prayer
 once more, removing one tefillin and donning the other in its place.
 
 A similar story occurred with *mezuzot*: Rashi commanded that mezuzot be hung
@@ -7144,14 +7151,15 @@ Incidentally, in that very same aforementioned place in the Talmud,
 a new term is introduced unambiguously: “the Torah of Rabbi Akiva”.
 As has already been clearly shown, this dogma cannot withstand any criticism
 that modern Halakhah, including the contents of the Shulchan Arukh, and aggadic
-stories were given at Sinai and have reached us in the unchanged form in which
-they now exist, with all recent additions.  Belief in this postulate is akin to
-blind faith that the world was created complete with buried dinosaur bones.
-But here something else is being asserted — that in reality, modern Halakhah
-is the Torah of Rabbi Akiva.
+stories were given at Sinai
+<!-- [Halakhah le‑Moshe mi‑Sinai](https://en.wikipedia.org/wiki/Law_given_to_Moses_at_Sinai) -->
+and have reached us in the unchanged form in which they now exist, with all
+recent additions.  Belief in this postulate is akin to blind faith that the
+world was created complete with buried dinosaur bones.  But here something else
+is being asserted — that in reality, modern Halakhah is the Torah of Rabbi Akiva.
 And this means nothing other than recognizing the fact that he
 <!-- a descendant of the Canaanites who hated the Torah of Moshe until age 40, -->
-<!-- (i.e., until age 40 he destroyed the Torah from without,
+<!-- (i.e., until age 40 he was destroying the Torah from without,
 and then continued to destroy the Torah from within) -->
 <!-- and also believed in the false Messiah (Bar Kokhba), -->
 <!-- and subsequently became a role model for the Orthodoxes, -->
@@ -7195,12 +7203,12 @@ from the Torah and common sense only continued to worsen.
 Therefore, based on this, we can make the following generalization: The Torah
 of Moshe is the Written Torah of the Land of Israel.  The Torah of Rabbi Akiva
 is the oral Torah of exile, which began after the destruction of the Temple
-under Roman conquerors and continued in the medieval dispersion.  But after the
+under Roman conquerors and continued in the medieval diaspora.  But after the
 restoration of Israel, the Torah of galut must yield to the restored Torah of
 Moshe, adapted to the contemporary conditions of life both for the entire
 country and for each individual.
 
-<!-- In Sefer ha‑Bahir [149](https://www.sefaria.org/Sefer_HaBahir.149)
+<!-- In Sefer HaBahir [149](https://www.sefaria.org/Sefer_HaBahir.149)
 an excellent comparison is brought.  Based on what is said in Mishlei
 [6:23](https://www.sefaria.org/Proverbs.6.23), that Torah is light and the
 commandment is a lamp, the conclusion is drawn that the light is the Written
@@ -7254,13 +7262,13 @@ for violating this commandment.
 But regarding commentaries that defile the memory of ancestors, the question
 arises whether such commentaries constitute a manifestation of disrespect toward
 ancestors and consequently a violation of the commandment to honor them.  The
-same question arises upon reading commentaries asserting that avimelech saw all
+same question arises upon reading commentaries asserting that avimelekh saw all
 the intimate details of the Patriarchs' and Matriarchs' relations, etc.  Do not
 such perverted conceptions <!-- (exhibitionism) --> of situations constitute
 a sin of disrespect toward ancestors akin to the sin of the moral degenerate
 Ham, who mocked his father's nakedness?  Does this not violate the commandment
 “Their nakedness you shall not uncover”? <!-- and the corresponding rebuke
-of the prophet in Yehezkel [22:10](https://www.sefaria.org/Ezekiel.22.10):
+of the prophet in Yechezkel [22:10](https://www.sefaria.org/Ezekiel.22.10):
 “The nakedness of a father they have uncovered in you” -->
 (Though in a figurative sense this acquired another meaning as relations
 with one's father's wife or concubine, etc.)
@@ -7460,7 +7468,8 @@ his commentary on Mishnah Sanhedrin
 where he divided the readers of aggadot into three groups.
 
 <!-- The Hasidim divide people into only two types: a fool — one
-who believes all the tales about tzaddikim, and an apostate — one
+who believes all the tales about tzaddikim, and
+[epikoros](https://en.wikipedia.org/wiki/Epikoros) — one
 who wholesale rejects their authenticity. -->
 
 In the first (most numerous) group, Rambam included excessively credulous people
@@ -7499,7 +7508,7 @@ mentioned in the Passover Haggadah.  Just as Rambam divided people into three
 groups, similarly in the Passover Haggadah children are divided into four
 groups, the so-called “four sons”:
 
-1. *tam* — simple-hearted, naïve, a simpleton;
+1. *tam* — simple-hearted, naive, a simpleton;
 2. *rasha* — wicked, heretic, evildoer;
 3. *eino yodea lishol* — one who does not know how to ask;
 4. *chakham* — sage.
@@ -7608,7 +7617,7 @@ known men”.  On this basis it was concluded that among the wise and
 known, none were found who were discerning.  That is, even the Talmud
 acknowledges that a sage may lack discernment.  The discerning here refers
 to people of insight who know how to foresee the consequences of their
-decisions in the future, of whom it is said in Divrei ha‑Yamim I
+decisions in the future, of whom it is said in Divrei ha‑yamim I
 [12:32](https://www.sefaria.org/I_Chronicles.12.33) thus: “And of the sons of
 Yissakhar, who had understanding of the times”.  This same matter is addressed
 in Tamid [32a](https://www.sefaria.org/Tamid.32a.7), that a sage is one who
@@ -7616,12 +7625,14 @@ foresees consequences, i.e., is far-sighted — according to the words of Rabbi
 Shimon in Pirkei Avot [2:9](https://www.sefaria.org/Pirkei_Avot.2.9).
 
 In general, throughout history there were only three greatest Jewish sages
-endowed with wisdom and the capacity for profound understanding of the times —
-past, present, and future.  And they were born precisely once every millennium.
+endowed with wisdom and the capacity for profound discerning and understanding
+of the times — past, present, and future.  And they were born precisely once
+every millennium.
 
 The first sage was King Shlomo.  His great wisdom is known to all
 from numerous testimonies preserved in written sources.
-<!-- (including Melachim I [5](https://www.sefaria.org/I_Kings.5)) -->
+In Melakhim I [3:12](https://www.sefaria.org/I_Kings.3.12) it is stated
+explicitly that G‑d gave him a wise and discerning mind.
 
 The second great sage appeared a thousand years later and, in addition to
 numerous wise rulings, formulated the fundamental principle of human existence:
@@ -7631,8 +7642,8 @@ manifestations of Hillel's wisdom are also widely known.
 
 The third great sage was born a thousand years later and provided answers to
 many theological and philosophical questions.  The inscription on his tomb
-reads: “From Moshe to Moshe, there arose no one like Moshe”, referring to Moshe
-Rabbeinu and Moshe ben Maimon.  Moshe Rabbeinu was the greatest prophet,
+reads: “From Moshe to Moshe, there arose no one like Moshe”, referring to
+Moshe Rabbeinu and Moshe ben Maimon.  Moshe Rabbeinu was the greatest prophet,
 and the title of great sage was earned by the one who comprehended his
 prophecies more deeply than all others.
 
@@ -7650,7 +7661,7 @@ We can say that in erudites only the sefirah of knowledge, Da'at, is filled
 to the brim, and to varying degrees the sefirah of understanding, Binah,
 <!-- as requested in the blessing before the Shema --> whereas in true sages
 all the sefirot are evenly filled: Da'at, Binah, and Chokhmah. <!-- as we must ask
-with kavanah in the blessings of the Shemoneh Esrei -->  The sefirah Binah
+with kavanah in the blessings of the Shmoneh Esrei -->  The sefirah Binah
 corresponds to the capacity for deep understanding, the ability to conduct
 a comprehensive **analysis** of accumulated knowledge, establishing all
 patterns, analogies, and associations.  The sefirah Chokhmah corresponds
@@ -7697,7 +7708,7 @@ of Halakha is to have a good memory.  And this was an enormous problem for me,
 because I have an exceptionally poor memory.
 <!-- I remember when I started learning Hebrew, I spent several weeks just
 studying the alphabet.  And learned words are quickly forgotten — for example,
-despite having celebrated Chanukah many times, there were occasions when
+despite having celebrated Hanukkah many times, there were occasions when
 I could not recall the name of the holiday. -->
 When studying Halakha, I had difficulties memorizing details:
 I have an associative memory, while many details of Halakha have no logic,
@@ -7731,18 +7742,18 @@ morning to evening, spending 2 hours on each written exam.  And all thanks to
 the fact that having remembered the general logic of the proofs, I could
 reconstruct the course of each proof simply by following the logic.
 
-This example clearly illustrates how Da'at, Binah, and Chokmah differ.  When
+This example clearly illustrates how Da'at, Binah, and Chokhmah differ.  When
 a student merely memorizes the proof of a theorem, only the sefirah Da'at is
 engaged.  When a student understands the proof so deeply that there is no need
 to memorize it word for word, and then during the exam reconstructs the proof
 based on the understanding formed, the sefirah Binah is engaged.  And the
-sefirah Chokmah is rarely engaged by students — but it does happen that
+sefirah Chokhmah is rarely engaged by students — but it does happen that
 students who later become outstanding scientists are capable of deriving proofs
 on their own.  I was certainly not capable of devising mathematical proofs,
 but in programming I devise new ways to solve people's problems every day
-(except the Sabbath).  However, filling the sefirah Chokmah should not be
+(except the Sabbath).  However, filling the sefirah Chokhmah should not be
 limited to programming alone — it is simply what I do best.  In general,
-the sefirah Chokmah become filled when you actively engage in finding
+the sefirah Chokhmah become filled when you actively engage in finding
 solutions to the problems of any person in all aspects of life.
 
 Just as I once hurried to prepare for a higher mathematics exam,
@@ -8105,7 +8116,7 @@ to bring suffering to people to this day.  Thus stringencies lead to catastrophe
 had this commandment been written down, Chavah would not have transgressed it. -->
 
 It is no coincidence that
-[Sefer ha‑Bahir](https://www.sefaria.org/Sefer_HaBahir.200) concludes with
+[Sefer HaBahir](https://www.sefaria.org/Sefer_HaBahir.200) concludes with
 the instruction: “whoever adds, diminishes”.  So too the Orthodoxes add
 stringencies — and thereby diminish the number of observant people.
 
@@ -8241,9 +8252,10 @@ Antisemites have only subjective reasons stemming from their evil inclinations.
 Here is an incomplete list of personal problems that come out in antisemitism:
 
 - Inferiority complex.  Some understand the phrase “G‑d's chosen people” not
-as a task assigned to the Jewish people to bring the world closer to G‑d, often
-through immense loss and suffering.  Instead, they understand chosenness not
-as an obligation, but as a privilege — as a declaration of being “superior
+as a task assigned to the Jewish people to bring the world closer to G‑d,
+often through immense loss and suffering.  Instead, they understand
+[chosenness](https://en.wikipedia.org/wiki/Jews_as_the_chosen_people)
+not as an obligation, but as a privilege — as a declaration of being “superior
 people”, the “world elite”.  Attributing superiority to others evokes a sense
 of one's own inferiority.  To avoid such a feeling, one must understand that
 regardless of nationality, every person has the task of developing their soul.
@@ -8287,7 +8299,7 @@ much like Israel, Ukraine, and Estonia.  -->
 - Resistance to progress and the development of humanity.  At the very bottom of
 society there are always such savages who drag humanity back into the past.
 They strive to preserve a primitive state with the justification that animals
-experience neither moral suffering nor pangs of conscience.  They envy animals,
+experience neither moral discomfort nor pangs of conscience.  They envy animals,
 who lack the moral obligations with which G‑d has endowed human beings.
 Therefore they wish to lead a completely animal existence, having only a minimum
 of concerns: obtaining food, reproduction, and seizing neighboring territories —
@@ -8306,8 +8318,7 @@ reach G‑d, they vent their grievances on those they consider G‑d's
 representatives on Earth.  Even unbelievers and atheists subconsciously harbor
 the thought of Jewish connection to G‑d, and therefore blame them for their own
 misfortunes.  But they must realize that often the source of problems is the
-satan, as was shown in the story of Iyov.  Therefore everyone must strive
-to suppress the influence of the satan.
+satan.  Therefore everyone must strive to suppress the influence of the satan.
 
 - National grievances.  For example, the Nazis appealed to the terms of the
 [Treaty of Versailles](https://en.wikipedia.org/wiki/Treaty_of_Versailles),
@@ -8455,8 +8466,8 @@ terrorists.  Arabs should have the same attitude toward Jews.  Not even one
 hundred percent symmetry is required — there is no need to grant Hebrew exactly
 the same special status that Arabic has in Israel.  Arabs are not required to
 grant citizenship to as many Jews as there are Arabs who hold Israeli
-citizenship and have equal rights with Jews.  <!-- In Israel, there are even
-more Muslim citizens than Jews in Europe. -->  What is required is only to
+citizenship and have equal rights with Jews — in Israel there are even
+more Muslim citizens than Jews in Europe.  What is required is only to
 eliminate today's complete asymmetry: when Israel's desire for peace
 is met from the other side only with hatred.
 
@@ -8495,7 +8506,7 @@ larger than the area of Israel, to allocate territory equal in size to the West
 Bank and Gaza Strip — like the majority of Palestinian Arabs have long since
 found refuge in neighboring countries.  Such a population exchange would be
 just: Jews from Muslim countries, forced to leave their places of residence,
-would be compensated and replaced by Palestinian Arabs in their stead.
+would be compensated and replaced with Palestinian Arabs in their stead.
 
 And likewise for the countries of Europe — as many Jews as were destroyed and
 expelled from there, so many Palestinian Arabs should be accepted as migrants.
@@ -8521,7 +8532,7 @@ upbringing and teaching of Arabs in the fundamentals of the civilized world.
 This will significantly diminish the degree of antisemitism, thereby bringing
 closer a global peace among nations.
 
-Those who do not consider themselves antisemites and yet support the “two‑state
+Those who do not consider themselves antisemites and yet support the “two-state
 solution” must teach the Palestinian Arabs tolerance, just as the neighboring
 Arab states have already learned tolerance toward the Jewish state.  Otherwise,
 the world is obliged to acknowledge that the “two-state” option is unworkable.
@@ -8580,12 +8591,12 @@ it is said that a mother must nurse her child until two years of age. -->
 From infancy, due to an allergy to sugar, I was forbidden to eat sweets.
 Sometimes I couldn't bear being without sweets, especially when everyone
 around me was enjoying delicious chocolate candies, and then I would eat
-a little something sweet — and even from a small candy an immediate severe
+a little something sweet.  But even from a small candy an immediate severe
 allergic reaction would begin, and inflammation and boils would break out
-on my body: not tzara'at,
-<!-- not white as snow (Bemidbar [12:10](https://www.sefaria.org/Numbers.12.10)), -->
-but like sore boils on Iyov, who was subjected to the trials of Satan
-(Iyov [2:7](https://www.sefaria.org/Job.2.7)).
+from head to foot —
+<!-- not tzara'at, not white as snow (Bemidbar [12:10](https://www.sefaria.org/Numbers.12.10)) -->
+exactly like sore boils on Iyyov, who was subjected to the trials of Satan
+(Iyyov [2:7](https://www.sefaria.org/Job.2.7)).
 <!-- the same as in Devarim [28:35](https://www.sefaria.org/Deuteronomy.28.35) -->
 
 But the most terrible thing was when, during shop class at school, dirt would
@@ -8651,7 +8662,7 @@ I replied that it was my surname.  But grandfather inquired whether perhaps
 I had written his surname.  And then I exclaimed in amazement:
 “What?!  You're Linkov TO-O-OO?!”
 <!-- It would be no less amusing if I had exclaimed: “You're Jewish too?!” -->
-My grandfather laughed joyfully at my naiveté,
+My grandfather laughed joyfully at my naivety,
 and then often recalled this amusing incident with laughter.
 <!-- At that age I already knew that this surname was mine and my father's,
 but I did not yet know about my grandfather. -->
@@ -8693,11 +8704,11 @@ antisemites and Orthodoxes.
 it only after the Orthodoxes rejected me.  In general, I suffered both from
 antisemites and from the Orthodoxes. -->
 
-Even worse is what the Orthodoxes do when in their prayers they demand the
-destruction of all non-Orthodox Jews.  In one of the blessings of the *Shmoneh
-Esreh* prayer, in *Birkat ha‑Minim*, they demand that “all apostates perish
-in an instant”.  <!-- It is strange that the possibility of their teshuvah is
-excluded. -->  Here “apostates” *minim* refers to all Jews who do not submit
+Even worse is what the Orthodoxes do when in their prayers they demand
+the destruction of all non-Orthodox Jews.  In one of the blessings of the
+*Shmoneh Esrei* prayer, in *Birkat ha‑minim*, they demand that “all apostates
+perish in an instant”.  <!-- It is strange that the possibility of their teshuvah
+is excluded. -->  Here “apostates” *minim* refers to all Jews who do not submit
 to Orthodox rabbis.  Formerly these were the Karaites and other opponents of
 the Rabbanites — in the *[Kuzari](https://www.sefaria.org/Kuzari.3.65)*
 it is clearly stated that the Sadducees and Boethusians are considered
@@ -8760,12 +8771,12 @@ to a greater number of trials from the satan.
 When the Torah states that the iniquity of the fathers is visited upon the
 children and grandchildren to the third and fourth generation, this curse does
 not mean that protection is completely removed from the children, because it is
-said that children are not punished for the sins of their fathers (Devarim
-[24:16](https://www.sefaria.org/Deuteronomy.24.16), Yirmeyahu
-[31:29](https://www.sefaria.org/Jeremiah.31.29), Yechezkel
-[18:20](https://www.sefaria.org/Ezekiel.18.20)).  Rather, it means that the
-intensity of Satan's trials increases for these generations of descendants,
-to determine which among them continue to hate G‑d.
+said that children are not punished for the sins of their fathers
+(Devarim [24:16](https://www.sefaria.org/Deuteronomy.24.16),
+Yirmeyahu [31:29](https://www.sefaria.org/Jeremiah.31.29),
+Yechezkel [18:20](https://www.sefaria.org/Ezekiel.18.20)).  Rather, it means
+that the intensity of Satan's trials increases for these generations of
+descendants, to determine which among them continue to hate G‑d.
 <!-- and are punished for this alone -->  And when it is said that mercy is
 preserved for thousands of generations, this blessing means that for the
 descendants the level of protection from Satan's attacks is raised.  But only
@@ -8820,7 +8831,7 @@ information.
 The only thing that saves non-Orthodox Jews from destruction is the fact that
 the Orthodoxes pray without kavanah, so their requests in prayer to destroy
 non-Orthodox Jews have no effect.  It is even for the best that the Orthodoxes
-pray without kavanah, otherwise non-Orthodox Jews could suffer greatly as
+pray without kavanah, otherwise non-Orthodox Jews could suffer heavily as
 a result of their prayers.
 {: #kavanah title="Kavanah"}
 
@@ -9029,8 +9040,8 @@ In exactly the same way, restrictions on marriages between communities within
 one nation will now help preserve genetic purity in those Haredi communities
 for whom this is important — just as genetic purity used to concern mainly the
 Kohanim.  If they wish, they can maintain genealogical records of lineages
-(*sifrei yuchasin*) — the same way as genealogies were formerly kept through the
-father for priests (Josephus Flavius, *Against Apion*
+(*sifrei yuchasin*) — the same way as genealogies were formerly kept through
+the father for priests (Josephus Flavius, *Against Apion*
 [1:7](https://www.sefaria.org/Against_Apion.1.7.1)).  And when preserving
 their gene pool will be guaranteed with 100% security, they will then regard
 members of other communities more kindly, who will no longer pose a threat to them.
@@ -9053,14 +9064,14 @@ suffering of those Jews who are unable to change their “flawed” genetic
 inheritance: both Jews from mixed families and mamzerim.
 
 I'm not inventing anything new — the prophets spoke of this two and a half
-thousand years ago.  Yehezkel ([47:22](https://www.sefaria.org/Ezekiel.47.22))
+thousand years ago.  Yechezkel ([47:22](https://www.sefaria.org/Ezekiel.47.22))
 proposes to divide Israel with the strangers who have borne children among the
 children of Israel, and as native-born inhabitants they shall divide the
 inheritance with all the tribes of Israel.
 
 > And it shall be: within the tribe where the stranger resides,
 there shall you give him his inheritance, — declares the L‑rd G‑d
-(Yehezkel [47:23](https://www.sefaria.org/Ezekiel.47.23))
+(Yechezkel [47:23](https://www.sefaria.org/Ezekiel.47.23))
 
 And Jews through the paternal line are not even strangers, but genuine Jews.
 Yet the Orthodoxes do everything they can to keep them out of the community
@@ -9093,13 +9104,13 @@ be no division into second-class Jews, third-class Jews, and so forth.
 Then if a Jewish man or woman from a non-Orthodox tribe wishes to marry a member
 of an ultra-Orthodox tribe, they must undergo a process of conversion to
 ultra-Orthodox Judaism <!-- sect --> and afterward join their community.
-Just as Yehezkel in [44:22](https://www.sefaria.org/Ezekiel.44.22) counseled
+Just as Yechezkel in [44:22](https://www.sefaria.org/Ezekiel.44.22) counseled
 preserving the purity of the blood of the kohanim, so too now the purity of
 blood can be maintained within ultra-Orthodox communities.
 
 In the Temple each tribe has its own gate: there were 13 gates according to the
 Mishnah Middot [2:6](https://www.sefaria.org/Mishnah_Middot.2.6), and there will
-be 12 gates as foretold in Yehezkel [48:31-34](https://www.sefaria.org/Ezekiel.48.31-34),
+be 12 gates as foretold in Yechezkel [48:31-34](https://www.sefaria.org/Ezekiel.48.31-34),
 that is, everyone has its own path of development within one people.
 Just as each tribe had its own purpose, so too all contemporary communities
 are significant, enriching Judaism through their diversity.
@@ -9115,7 +9126,7 @@ example for the entire world.
 The TaNaKh teaches to what the enmity between the tribes leads, when after the
 division into the Northern Kingdom of Israel and the Kingdom of Judah both were
 defeated, unable individually to withstand external threats.  Therefore in
-Yehezkel [37:22](https://www.sefaria.org/Ezekiel.37.22) a prohibition was given:
+Yechezkel [37:22](https://www.sefaria.org/Ezekiel.37.22) a prohibition was given:
 “And they shall never again be divided into two kingdoms” —
 as a loving mother refused to divide her child at the court of Shlomo.
 Consequently, ideas of dividing into two states are unacceptable,
@@ -9137,8 +9148,8 @@ like the tribe of Issachar, the Orthodoxes preserve the traditions, and like
 the tribe of Zebulun, non-Orthodox Jews work diligently for the betterment
 of the world.
 
-When all parties consent, a portion of taxes may go toward supporting the
-Haredi communities.  According to Rambam, this is one of the 613 commandments
+When all parties consent, a <!-- tenth --> portion of taxes may go toward supporting
+the Haredi communities.  According to Rambam, this is one of the 613 commandments
 ([M﬩6](https://www.sefaria.org/Sefer_HaMitzvot,_Positive_Commandments.6)).
 In Sifrei Devarim [49:2](https://www.sefaria.org/Sifrei_Devarim.49.2), the
 Torah's words “cling to Him” are equivalent to the words “cling to the sages”
@@ -9147,8 +9158,8 @@ for the sustenance of yeshiva students.
 
 But on the other hand, it should be noted that the tribe of Naphtali,
 which combined Torah study with labor, achieved significantly greater
-success in Torah study than the tribe of Issachar (Divrei ha‑Yamim I
-[12:32,34](https://www.sefaria.org/I_Chronicles.12.33-35); Shir ha‑Shirim
+success in Torah study than the tribe of Issachar (Divrei ha‑yamim I
+[12:32,34](https://www.sefaria.org/I_Chronicles.12.33-35); Shir HaShirim
 Rabbah [8:11](https://www.sefaria.org/Shir_HaShirim_Rabbah.8.11)).
 And subsequently, in the time of the compilation of the Talmud,
 the rabbis established such a consensus in Berakhot
@@ -9195,14 +9206,14 @@ contradicts the TaNaKh, where the Levites both taught Torah to the people and
 themselves served. -->
 
 What did the Levites do?  What work did they perform?
-Divrei ha‑Yamim I [23:3-5](https://www.sefaria.org/I_Chronicles.23.3-5) reports
+Divrei ha‑yamim I [23:3-5](https://www.sefaria.org/I_Chronicles.23.3-5) reports
 that in the time of King David a total of 38,000 Levites were counted: of these,
 24,000 worked in the Temple, 6,000 were judges and overseers, 4,000 served as
 Temple guards, and another 4,000 sang in the Temple, accompanying on musical
 instruments.  In the era of the Second Temple they also participated in the
 preparation of sacrifices.
 
-Since in our time sacrifices have been replaced by prayers, the new function
+Since in our time sacrifices have been replaced with prayers, the new function
 accordingly must be to provide the people with various services: to conduct
 prayers, perform rituals, and carry out other forms of worship service.
 This is precisely what rabbis now do — the ancient Levites correspond to modern
@@ -9354,13 +9365,35 @@ I too wanted to do something useful for people, but just as the ultra-Orthodox
 turn away from work many capable people, so too was I deprived of the
 opportunity to work at full strength due to the suffering inflicted upon me by
 the Orthodoxes.  And so much good I could have done.  But when the Orthodoxes
-persecuted me, from despair I had no strength to work, and I was constantly in
-chronic stress.  And this not counting the lost time when I could do nothing due
-to health problems, when the Orthodoxes refused to perform circumcision on me,
+persecuted me, from despair I had no strength to work, and I was constantly
+in chronic stress.
+And this not counting the lost time when I could do nothing due to health
+problems, when the Orthodoxes refused to perform circumcision on me,
 and balanoposthitis led to pathological damage to internal organs.
 But even when I had no strength to work and I suffered from lack of money,
 G‑d compelled me to work through need, thereby communicating about the sin
 of parasitic existence.
+
+<!--
+On one hand, stress and constant pressure from problems help develop the soul.
+For example, in totalitarian states with strict censorship, the constant
+pressure from authorities forces creative people to develop new forms of
+expression in order to continue conveying truth to people in veiled ways.
+
+Thus, stress promotes development; stress is the engine of progress.
+But stress must be in moderation.
+
+Stress is the opposite of depression.  In depression, a person languishes with
+nothing to do, when nothing appeals to them, whereas in stress, conversely,
+a person is so intensely occupied that an excessive burden falls upon them.
+
+I have never experienced depression, except for a couple of times the morning
+after sweet wine, when, as if in a stupor, I did not even wish to move.
+When stress is soothed with sweets, the sweets diminish stress but increase
+depression.  There is also such a dichotomy: one who is in depression
+drinks coffee to invigorate oneself, whereas one who is in stress
+drinks tea to calm oneself.
+-->
 
 Why then do many ultra-Orthodox not work, and even as seen in my case
 cause obstacles for others?  <!-- They themselves do not work,
@@ -9378,13 +9411,13 @@ that anyone who does not teach his son a trade teaches him robbery.
 For without a profession he will be forced to resort to obtaining
 his livelihood through criminal means.
 
-Rabban Gamliel, son of Rabbi Yehudah ha‑Nasi, in Pirkei Avot
+Rabban Gamliel, son of Rabbi Yehudah HaNasi, in Pirkei Avot
 [2:2](https://www.sefaria.org/Pirkei_Avot.2.2) instructs that it is good
 to combine the study of Torah with some craft, because this distances one
 from sin.  By sin here is meant the necessity of seeking unlawful or
 corrupt ways of obtaining a livelihood.
 
-And the Or HaChaim commentary on Shemot
+And the Ohr HaChaim commentary on Shemot
 [35:2](https://www.sefaria.org/Exodus.35.2?with=Or%20HaChaim) states explicitly
 that work during the six days is a mitzvah, a positive commandment.
 
@@ -9462,7 +9495,7 @@ must be returned.  For example, in Vayikra
 [27:30,32](https://www.sefaria.org/Leviticus.27.30-32) it is stated that every
 tithe of the land and every tithe of cattle and sheep is consecrated to G‑d.
 In modern terms, this corresponds to a tenth of our income, which is given
-to charity for the sanctification of G‑d's Name — *kiddush ha‑Shem*.
+to charity for the sanctification of G‑d's Name — *kiddush HaShem*.
 
 If we apply this same principle to the time granted us by G‑d, it means that
 one-tenth of our time should be dedicated to G‑d.  Indeed, we can observe that
@@ -9744,9 +9777,9 @@ observance, to practice it precisely as follows from the contemporary
 understanding of the Torah, adding nothing and subtracting nothing — even better
 and more accurately than the Orthodoxes, following the spirit of the Torah.
 
-All the lengthy descriptions of Sabbath prohibition details with often strained
-and unfounded explanations can be replaced by one general principle, the meaning
-of which can be expressed in one phrase —
+All the lengthy descriptions of Sabbath prohibition details with often
+strained and unfounded explanations can be replaced with one general principle,
+the meaning of which can be expressed in one phrase —
 **ON SHABBAT, ANY ACTIVITY INVOLVING DECISION-MAKING IS FORBIDDEN**.
 All 39 melakhot are covered by this Torah principle, and on its basis it's
 possible to answer any question concerning the prohibition of any action on
@@ -9759,7 +9792,7 @@ On one hand, although the Orthodoxes do not grasp the essence of Shabbat and
 its restrictions, they have created such an enormous quantity of additional
 stringencies “just in case” that in many types of activity Shabbat is
 nonetheless not violated.  But on the other hand, as punishment for adding
-unnecessary restrictions, they pay with suffering from the tremendous
+unnecessary restrictions, they pay with hardship from the tremendous
 inconveniences they have created for themselves.  On the Sabbath, the Orthodoxes
 must strain greatly, expending too much strength and nerves to fulfill their
 multitude of needless restrictions and stringencies — instead of resting.
@@ -9797,7 +9830,7 @@ Then gas stoves began to appear, with heating also accomplished by means of
 an open flame.  The Torah's prohibition on kindling fire on the Sabbath is
 quite unambiguous, so there are no questions here.
 
-Gradually, heating over an open flame began to be replaced by electric stoves.
+Gradually, heating over an open flame began to be replaced with electric stoves.
 The operating principle of an electric stove consists in the release of thermal
 energy when electric current passes through a heating element in the burner.
 Induction cooktops went even further — they heat iron cookware placed upon them
@@ -9826,14 +9859,14 @@ from a boiler on Shabbat, whose operating principle is analogous to that of
 an electric stove.  Moreover, washing with cold water diminishes *oneg Shabbat* —
 the delight of the Sabbath.
 <!-- And the Orthodox prohibition on flushing the toilet altogether defiles the Sabbath. -->
-Orthodoxes forbid using an electric boiler because it heats water above 45
-degrees, which for them is equivalent to cooking.  Interestingly, before
-I learned about the 45 degrees, I selected the most comfortable water
-temperature and set the boiler to 40 degrees — this is the optimal temperature
-when hot water from the tap is not diluted with cold.  At the same time,
-energy is not wasted unnecessarily.
+Orthodoxes forbid using an electric boiler because it heats water above
+45°C (113°F), which for them is equivalent to cooking.  Interestingly,
+before I learned about the 45°C (113°F), I selected the most comfortable
+water temperature and set the boiler to 40°C (104°F) — this is the optimal
+temperature when hot water from the tap is not diluted with cold.
+At the same time, energy is not wasted unnecessarily.
 <!-- It's important not to forget to periodically perform the anti-legionella
-procedure at 60 degrees, but not on the Sabbath.  -->
+procedure at 60°C (140°F), but not on the Sabbath.  -->
 
 And when the Orthodoxes accidentally turn on the hot water, they leave the water
 running until the end of the Sabbath.  And when they open a refrigerator in
@@ -10138,7 +10171,7 @@ use a flashlight.
 <!-- Also smoking is not recommended, but if someone cannot break this habit,
 then on the Sabbath one can smoke electronic cigarettes.  -->
 Replacing candles with electricity makes sense, since the main thing is not fire
-but light.  For example, Chanukah is a festival of light, not of fire, as among
+but light.  For example, Hanukkah is a festival of light, not of fire, as among
 pagans.  On the first day of Creation G‑d created photons of light, therefore
 it's possible to use them on Shabbat as well.
 
@@ -10147,7 +10180,7 @@ Sabbath prohibitions.  The Karaites forbade using candlelight on the Sabbath,
 and therefore sat in darkness for a full day.  The Orthodoxes, unlike the
 Karaites, act more reasonably and permit the use of both candlelight and
 electric light.  But because they forbid switching on lights, they are compelled
-to suffer from constantly illuminated lighting, or when they failed to turn on
+to endure constantly illuminated lighting, or when they failed to turn on
 the light beforehand, they too sit in darkness like the Karaites.  That is, due
 to the prohibition against touching switches, they are forced either to waste
 electricity needlessly or to sit in darkness like the Karaites.
@@ -10224,7 +10257,7 @@ because the formalistic interpretation of Torah laws by the Karaites accords
 poorly with the constantly changing demands of the times.  Despite their
 rejection of oral laws, the Karaites have their own primitive oral
 interpretation, and it does not evolve.  In all the polemics with Karaites
-known to me, I have sided with the Orthodoxes.  My worldview <!-- *һashkafah* -->
+known to me, I have sided with the Orthodoxes.  My worldview <!-- *hashkafah* -->
 coincides in many ways with the Orthodox one.  But the problem with the
 Orthodoxes is that, just as with the Karaites, among the Orthodoxes too the oral
 laws have ceased developing, and all the accumulated errors can no longer be

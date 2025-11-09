@@ -1977,12 +1977,12 @@ Not all angels are white and fluffy — some are destined to carry out the dirty
 
 Some of them are messengers of death and are called *mal'akhei mavet*
 (Mishlei [16:14](https://www.sefaria.org/Proverbs.16.14)),
-in sing. *mal'ach ha‑mavet*.  In Iyyov [33:22](https://www.sefaria.org/Job.33.22)
+in sing. *mal'akh ha‑mavet*.  In Iyyov [33:22](https://www.sefaria.org/Job.33.22)
 the word *memitim* refers to angels preparing to bring death.
 
-The executor of punishments is called *mashchit*, *mal'ach ha‑mashchit* —
-the destroying angel, exterminator, annihilator,
-who carries out the punishment, executes the sentence.
+The executor of punishments is called *mashchit*, *mal'akh ha‑mashchit* —
+the [destroying angel](https://en.wikipedia.org/wiki/Destroying_angel_(Bible)),
+exterminator, annihilator, who carries out the punishment, executes the sentence.
 
 > And G‑d will go forth to smite the Egyptians, and will see the blood upon the
 lintel and on the two doorposts, and G‑d will pass over the door, and will not
@@ -2014,7 +2014,7 @@ King David commanded a census of the inhabitants of Israel and Judah without
 necessity, <!-- as when collecting a half-shekel --> but simply out of vanity.
 As punishment for this transgression, pestilence began in the land (*dever* —
 epidemic, plague, pestilence), which destroyed 70 thousand people.  And when
-the destroying angel (*mal'ach ha‑mashchit*) began to direct people to spread
+the destroying angel (*mal'akh ha‑mashchit*) began to direct people to spread
 pestilence in Jerusalem, and had already reached the threshing floor of the
 Jebusite, David entreated for mercy, and to halt the epidemic, he purchased
 that place on Mount Moriah, and later the Temple was built upon that site.
@@ -2069,9 +2069,9 @@ the TaNaKh, as in Bemidbar [22:22](https://www.sefaria.org/Numbers.22.22),
 Tehillim [109:6](https://www.sefaria.org/Psalms.109.6),
 Divrei ha‑yamim I [21:1](https://www.sefaria.org/I_Chronicles.21.1),
 this word appears without the article as a generic noun.
-Therefore hereafter *satan* without the definite article meaning
-any accuser and the proper name *Satan* will be used interchangeably
-as a title and a name such as *pharaoh* and *Paro*.
+Therefore hereafter the proper name *Satan* and *satan* without the
+definite article meaning any accuser will be used interchangeably
+as a name and a title akin to *Pharaoh* (*Paro*).
 
 Also this word can be both masculine and feminine in gender,
 therefore the pronouns *he* and *she* may be used interchangeably
@@ -2087,7 +2087,7 @@ to use the pronoun *it*.
 
 In Bava Batra [16a](https://www.sefaria.org/Bava_Batra.16a.8)
 Resh Lakish said that the *yetzer ha‑ra* (evil inclination, base impulses),
-*satan* (obstacle, adversary, accuser) and *mal'ach ha‑mavet*
+*satan* (obstacle, adversary, accuser) and *mal'akh ha‑mavet*
 (angel of death) — these are one and the same angel, who first tempts,
 then accuses, and finally destroys, i.e. in one entity the
 provocateur, prosecutor and punisher.
@@ -3073,7 +3073,7 @@ spanning several pages all the details were thoroughly laid out with maps, and
 with the help of modern technologies the boundaries were established with
 precision to the centimeter.  Quote from the letter: “The deviation in the
 placement of the boundary marker compared to the 1997 measurements was 21
-centimeters, which exceeded the permissible margin of error”.
+centimeters, which exceeded the permissible margin of error.”
 Finally, justice has prevailed.
 
 | If you encounter your enemy's ox or donkey going astray, you shall surely return it to him |
@@ -4064,7 +4064,7 @@ of the community.
 
 But the midrash Pirkei DeRabbi Eliezer
 [29:2](https://www.sefaria.org/Pirkei_DeRabbi_Eliezer.29.2) asserts that Avraham
-summoned Shem, son of Noach, and on Yom Kippur Shem performed circumcision upon
+summoned Shem, son of Noah, and on Yom Kippur Shem performed circumcision upon
 Avraham and upon his son, Ishmael.  In any case, the circumcision was performed
 by non-Jews.
 
@@ -4302,7 +4302,7 @@ Orthodoxes demonstrate completely opposite behavior, not following their own
 halakha and manifesting the highest degree of *gevurah*.  The Orthodoxes read
 the Book of Ruth every year, but do not delve into its meaning, only mechanically
 declaiming the words, ignoring the moral of this story about love of one's
-neighbor.  Instead, they are guided by the saying of Rabbi Ḥelbo from Yevamot
+neighbor.  Instead, they are guided by the saying of Rabbi Chelbo from Yevamot
 [47b](https://www.sefaria.org/Yevamot.47b.5): “Proselytes are as hard for Israel
 as a sore of leprosy”.  <!-- Although now the meaning of this expression
 corresponds more to this: “Ba'alei teshuvah are as hard as a sore.”  -->
@@ -4507,7 +4507,7 @@ Jews, their motivation is entirely different.
 
 I must honestly confess that the only reason I fully immersed myself in Judaism
 is for the return to the faith of my forefathers, for the correction of the
-errors of my Jewish ancestors who departed from Judaism.  The most precise name
+mistakes of my Jewish ancestors who departed from Judaism.  The most precise name
 for this motivation is TESHUVAH.  All else is falsehood and deceit, and I can no
 longer lie and deceive, as the Orthodoxes demand, denying the right to teshuvah.
 
@@ -6530,7 +6530,7 @@ of humanity's moral evolution.
 
 The process of writing down the Written Torah was not completed at once.
 The narrative portion began with the recording of past events: the history
-following the creation of the world, the deeds of the patriarchs, and up to the
+following the creation of the world, the deeds of the Patriarchs, and up to the
 exodus from Egypt had been transmitted orally for many centuries before being
 fixed in the Written Torah.  Subsequently, the narrative portion during the
 wandering in the wilderness was updated with descriptions of events that
@@ -6614,8 +6614,9 @@ were later designated and activated by Yehoshua bin-Nun
 
 Undoubtedly, besides the Written Torah, an oral interpretation of the laws was
 also given, with detailed explanations of all particulars of their observance
-and moral-ethical foundations. <!-- Despite the fact that some assert all this
-was already known to the patriarchs, though not all observed it. -->
+and moral-ethical foundations. <!-- Despite the claim of
+Mishnah Kiddushin [4](https://www.sefaria.org/Mishnah_Kiddushin.4.14) that
+the Patriarchs already fully observed the entire Torah before its reception. -->
 This was like a [User Manual](https://en.wikipedia.org/wiki/User_guide) —
 without such instructions, it would be impossible to observe the
 commandments, whose brief exposition was recorded in the Written Torah.
@@ -7262,8 +7263,8 @@ for violating this commandment.
 But regarding commentaries that defile the memory of ancestors, the question
 arises whether such commentaries constitute a manifestation of disrespect toward
 ancestors and consequently a violation of the commandment to honor them.  The
-same question arises upon reading commentaries asserting that avimelekh saw all
-the intimate details of the Patriarchs' and Matriarchs' relations, etc.  Do not
+same question arises upon reading commentaries asserting that Avimelekh saw all
+the intimate details of the patriarchs' and matriarchs' relations, etc.  Do not
 such perverted conceptions <!-- (exhibitionism) --> of situations constitute
 a sin of disrespect toward ancestors akin to the sin of the moral degenerate
 Ham, who mocked his father's nakedness?  Does this not violate the commandment
@@ -7879,7 +7880,8 @@ can arise no two opinions regarding the details of fulfilling the commandments,
 because the commandments must be performed strictly according to what is written
 in the Torah as understood by everyone, i.e., according to the plain sense, peshat.
 Yet the entire history of the development of Orthodox Judaism demonstrates the
-exact opposite of this principle: there are as many opinions as there are Jews.
+exact opposite of this principle: there are as many opinions as there are Jews,
+and often even more: two Jews, three opinions.
 Hence the pairs of legal authorities *zugot*, the numerous disputes on the pages
 of the Talmud, and even there were two Talmuds: the Jerusalem and the Babylonian.
 Therefore the interpretation of the Torah must correspond to the
@@ -8187,13 +8189,13 @@ who have succumbed to Satan's influence.
 As seen in Shemot [7:3](https://www.sefaria.org/Exodus.7.3), initially G‑d
 personally subjected a person to trials when He hardened Pharaoh's heart,
 i.e. placed in Pharaoh's mind the thought not to let the Jews go.  But Pharaoh
-retained free choice.  Knowing Pharaoh's character and his inclinations, G‑d was
+retained free will.  Knowing Pharaoh's character and his inclinations, G‑d was
 certain that Pharaoh would incline toward the decision not to let the Jews go.
 <!-- See also Sihon, king of Heshbon
 in Devarim [2:30](https://www.sefaria.org/Deuteronomy.2.30). -->
 But punishment followed, because Pharaoh retained the possibility of not
-yielding to evil thoughts, and the Egyptian people retained the possibility of
-not obeying Pharaoh's commands.  As it was said in Beresheet
+yielding to negative thoughts, and the Egyptian people retained the possibility
+of not obeying Pharaoh's commands.  As it was said in Beresheet
 [15:14](https://www.sefaria.org/Genesis.15.14), the nation that enslaves
 will be subjected to judgment.
 
@@ -8471,7 +8473,7 @@ more Muslim citizens than Jews in Europe.  What is required is only to
 eliminate today's complete asymmetry: when Israel's desire for peace
 is met from the other side only with hatred.
 
-The same asymmetry is observed in the demand to create a state exclusively
+<!-- The same asymmetry is observed in the demand to create a state exclusively
 for Arabs, in which there is no place for Jews.  This is the sole reason why
 left-wing antisemites so fiercely oppose settlement construction — so that the
 new state would be *Judenfrei* from the outset.  If left-wing fanatics
@@ -8482,7 +8484,7 @@ Therefore, a powerful argument against antisemites protesting settlement
 construction is that the settlements must continue to be developed, because Jews
 must remain in these settlements even in the case of two states.  Thus, the
 first step toward peace is acceptance of a Jewish minority in the settlements.
-Otherwise, all these participants in protests against Israel are simply Nazis.
+Otherwise, all these participants in protests against Israel are simply Nazis. -->
 
 But the current generation is hopelessly lost, because from childhood
 they were raised to hate Jews, and because of this they grew up as murderers
@@ -8672,8 +8674,10 @@ but I did not yet know about my grandfather. -->
 Though the surname resembles a Russian one,
 our surname is Jewish,
 and derives from the name of a Jewish shtetl
-[Linkuva](https://en.wikipedia.org/wiki/Linkuva)
-in Lithuania in the Panevėžys region.
+[Linkuva](https://en.wikipedia.org/wiki/Linkuva) in Lithuania
+not far from the [Ponevezh Yeshiva](https://en.wikipedia.org/wiki/Ponevezh_Yeshiva).
+<!-- Information from the book
+*[A Dictionary of Jewish Surnames from the Russian Empire](https://www.avotaynu.com/books/DJSRE2.htm)*. -->
 
 It was very offensive when the Orthodoxes mocked my Jewish surname.  As soon
 as they learned my surname, the Orthodox rabbis began reproaching me for this
@@ -8684,7 +8688,7 @@ When the Orthodoxes trampled on my Jewish surname and shamed me for
 my Jewish surname, it was an insult to all my Jewish ancestors.
 
 I wonder if those Orthodox rabbis with German surnames would not be ashamed
-to approach my Jewish ancestors with a Litvak surname and present to them
+to approach my Litvak ancestors with a Litvish surname and present to them
 directly all these accusations about an insufficiently Jewish surname?
 
 My great-great-grandfather Shimshon (Samson) Linkov ז״ל was a religious Jew.
@@ -9892,7 +9896,7 @@ a person follows the commandment to care for the Earth even in small things.
 Wastefulness, the pointless squandering of resources gifted by G‑d — this is not
 the Jewish way.  In accordance with the ecological commandment of Devarim
 [20:19](https://www.sefaria.org/Deuteronomy.20.19), this principle bears the
-name “Baal Tashchit”.  The sages in many places in the Talmud teach not to
+name *Baal Tashchit*.  The sages in many places in the Talmud teach not to
 resemble idolaters who waste material resources needlessly.  Rambam included
 the prohibition against wastefulness in the list of 613 commandments
 ([M−57](https://www.sefaria.org/Sefer_HaMitzvot,_Negative_Commandments.57)).
@@ -10061,7 +10065,7 @@ choosing an angle or camera settings is required.
 
 A deterministic universe resembles a film, where souls do not participate in
 altering a predetermined sequence of states.  Consequently, watching preselected
-films also does not violate the Sabbath — when playing films, as with listening
+films also does not violate the Sabbath — when watching films, as with listening
 to music or audiobooks, no choice is made among several options, just as no
 problem of choice arises when reading a book.  Therefore, besides reading,
 an ideal activity for full rest, to take one's mind off daily routine,
@@ -10139,10 +10143,10 @@ the congregation are controlled, when the Sabbath is observed under coercion,
 out of fear of condemnation, punishment, excommunication from the community,
 etc.  Since rabbis have no means of verifying whether a person makes decisions
 on the Sabbath, observance must rest upon the personal responsibility of each
-individual.  G‑d-pleasing observance must be sustained by conscience alone —
-that it may go well with oneself and one's loved ones.  In this lies the meaning
-of the entire Torah — the transition from coerced adherence to the Torah to
-voluntary adherence.
+individual.  G‑d-pleasing observance must be sustained by conscience alone.
+<!-- that it may go well with oneself and one's loved ones -->  In this is the
+meaning of the entire Torah — the transition from coerced adherence to the Torah
+to voluntary adherence.
 
 For example, the Orthodoxes do not forbid programming on Shabbat,
 i.e., thinking through program design, etc., yet this violates the Sabbath.
@@ -10170,9 +10174,10 @@ by batteries.  Also, for more thorough searching for chametz, it is better to
 use a flashlight.
 <!-- Also smoking is not recommended, but if someone cannot break this habit,
 then on the Sabbath one can smoke electronic cigarettes.  -->
-Replacing candles with electricity makes sense, since the main thing is not fire
-but light.  For example, Hanukkah is a festival of light, not of fire, as among
-pagans.  On the first day of Creation G‑d created photons of light, therefore
+Replacing candles with electricity makes sense, since the main thing is
+not fire but light.
+<!-- For example, Hanukkah is a festival of light, not of fire, as among pagans. -->
+On the first day of Creation G‑d created photons of light, therefore
 it's possible to use them on Shabbat as well.
 
 It is interesting to compare how various denominations of Judaism interpret

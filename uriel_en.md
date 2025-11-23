@@ -151,10 +151,10 @@ life would have been impossible.
 
 *[Sefer Yetzirah](https://www.sefaria.org/Sefer_Yetzirah.1.1)*
 (*Book of Creation*, *Book of Abraham*) says that G‑d created the Universe
-through three derivatives of one foundation (books — *sefarim*):
+through three derivatives of one root (books — *sefarim*):
 
 1. *sippur* — utterance
-2. *sefer* — scripture
+2. *sefer* — writing
 3. *sfar* — number
 
 As explained by [Yehuda Halevi](https://en.wikipedia.org/wiki/Judah_Halevi)
@@ -632,7 +632,9 @@ the topic.  After this introduction, it is advisable to continue
 with the referenced books and other materials to gain deeper
 knowledge.  Also this approach adheres to the principles of the
 [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web).
+-->
 
+<!--
 The text of this book is occasionally interspersed with such comments
 as this that serve as marginalia supplementary to the main theme.
 
@@ -644,7 +646,8 @@ so too do I guarantee the truthfulness of the main text of this book,
 while for the content of the comments I do not answer, bear no responsibility,
 indeed I remove from myself all responsibility whatsoever, and therefore
 in addition to supplementary information I permit myself in the comments
-less serious statements and jokes. -->
+less serious statements and jokes.
+-->
 
 In this book I have not invented anything new, but have only
 endeavored to focus attention upon known facts, connecting them together
@@ -1407,7 +1410,7 @@ and went to rest.
 In G‑d's program, bugs are impossible, therefore there was no problem
 to do this, and on the Sabbath there would be no need to fix any discovered bugs.
 But in general, an important rule concerning programmers,
-admins and all devops: under no circumstances should one
+admins and all DevOps: under no circumstances should one
 perform [deployment to production](https://en.wikipedia.org/wiki/Software_deployment)
 on a Friday evening, because with a probability close to 100%,
 errors that cannot be fixed for more than a day will inevitable
@@ -2043,7 +2046,7 @@ them no heed.  If a human willingly succumbs to Satan's promptings, then they
 must answer for their actions at the Judgment, where Satan appears as the
 accuser.  In any case, priority always remains with the human soul — humans
 always have the ability to resist Satan's pressure, but if there is no
-strength of will, then this is the fault of the humans themselves.
+willpower, then this is the fault of the humans themselves.
 
 > the inclination of the human heart is evil from youth
 (Beresheet [8:21](https://www.sefaria.org/Genesis.8.21))
@@ -2344,7 +2347,7 @@ observant Orthodox Jews. -->  When people find nothing wrong with their
 intentions, which may be caused by Satan's promptings, they begin to perform
 corresponding actions.  This means that we should not be angry at people who,
 without evil intent, do something that we may not like.  Knowing this,
-I constantly strove to resist Satan's influence, so that my actions would not
+I always strive to resist Satan's influence, so that my actions would not
 bring troubles to other people.
 
 It should be noted that here I speak not of cases when Satan drives one to
@@ -2556,12 +2559,12 @@ the sway of antisemitic propaganda.
 What can be undertaken to avoid all of this?
 
 First the bad news — it is impossible to rid oneself of Satan's attacks by any
-means.  Satan constantly attempts to cause problems.  All these obstacles are
+means.  Satan attempts to cause problems again and again.  All these obstacles are
 intended to create situations where there is a choice: to commit evil and make
 the world worse, or to show mercy and advance on the path toward G‑d.
 
 The galut in medieval Europe was necessary as a catalyst for the advancement of
-Christian nations toward G‑d.  Satan constantly created situations where, as
+Christian nations toward G‑d.  Satan repeatedly created situations where, as
 with litmus paper, the direction in which nations were moving could be seen by
 their attitude toward the Jews.  When crimes were committed against the Jews,
 the morality of these states also eroded, so that ultimately they fell into
@@ -2573,7 +2576,7 @@ For the fulfillment of the next task of drawing the Muslim nations closer to
 G‑d, the Jewish people was directed straight into the very center of hostile
 surroundings among Muslim countries for the cultivation within them of tolerance
 — one of the principal spiritual qualities required of a person: “Do not do unto
-another what you would not wish for yourself”.  And now the majority
+another what you would not wish for yourself.”  And now the majority
 of neighboring Arab states have a more tolerant attitude towards Israel.
 
 <!-- Just as Jews were first placed in Christian surroundings, and then in
@@ -2612,7 +2615,7 @@ From all of this, we can draw the main conclusion:
 When I finished typing on the computer the previous line
 about the necessity of ignoring the impediments of Satan,
 suddenly the computer screen unexpectedly went dark.
-But this is not surprising — Satan constantly tries to interfere.
+But this is not surprising — Satan continually tries to interfere.
 So it was in this case as well — Satan gave an impulse to err,
 and instead of the screen recentering button I accidentally
 pressed the screen lock button *Lock Screen*.
@@ -2964,7 +2967,7 @@ in the twentieth century rabbis were fainthearted, resisting Zionism.  -->
 G‑d creates thoughts at the quantum level in the human brain.
 Sometimes directly, sometimes through angels, as it is said in Bemidbar
 [20:16](https://www.sefaria.org/Numbers.20.16): “He sent His messenger and
-brought us forth out of Egypt”.  And the words of Shemot
+brought us forth out of Egypt.”  And the words of Shemot
 [23:21](https://www.sefaria.org/Exodus.23.21) “hearken to his voice” command us
 to follow the thoughts placed by angels in the heads of the prophets.
 <!-- see also *Moreh Nevukhim*
@@ -3328,7 +3331,7 @@ educated and intellectually developed, well-behaved, did not use profanity,
 had a wide range of interests, tried to befriend everyone —
 for example, in school everyone divided into rival factions,
 but I was a peacemaker between them, as it is said in Tehillim
-[34:15](https://www.sefaria.org/Psalms.34.15): “Seek peace and pursue it”.
+[34:15](https://www.sefaria.org/Psalms.34.15): “Seek peace and pursue it.”
 
 And after returning from school each day, a nightmare awaited me at home,
 and I could do nothing to avoid it, because the triggers for beatings
@@ -3557,7 +3560,7 @@ Photo of the synagogue to which I went every Sabbath in London:
 -->
 
 Besides observing Shabbat, I also ate kosher food thanks to the fact that there
-were many kosher stores near my home — I constantly ate kosher dishes of Jewish
+were many kosher stores near my home — all the time I ate kosher dishes of Jewish
 cuisine: chicken broth, kugel, cholent and challah on Sabbaths, drank chalav
 Yisrael.  On the front door hung a mezuzah with the Tower of David
 (*Migdal David*) and the letter **ש** etc.
@@ -3735,7 +3738,7 @@ in my imagination I began to feel sick.
 Then the rabbis advised me to get myself a girlfriend, so that she might prepare
 for me various kosher dishes from chicken meat.  I did not understand this counsel.
 For extramarital relations violate the commandments of the Torah,
-<!-- “thou shalt not commit adultery” -->
+<!-- “you shall not commit adultery” -->
 not to mention the laws of modesty *tzniut* and the prohibition of seclusion *yichud*.
 And since they did not consider me a Jew, how could they advise marrying a Jewish woman?
 For in the *Laws of Forbidden Intercourse*
@@ -3760,10 +3763,10 @@ without blood, but lacking certification from kashrut supervision authorities.
 it is stated that one undergoing giyur must be fed kosher food. -->
 
 Then the rabbis said that I must travel to another country, to train there in
-a yeshiva to eat in a dining hall with completely kosher food.  Therefore
+a yeshiva to eat in a dining-hall with completely kosher food.  Therefore
 I obediently packed and immediately relocated, and began studying in the
-yeshiva, and every day ate in the dining hall.  The only thing I did not
-understand was how eating in the dining hall could help organize kosher eating
+yeshiva, and every day ate in the dining-hall.  The only thing I did not
+understand was how eating in the dining-hall could help organize kosher eating
 at home after completing the conversion.
 
 Then I asked the rabbis how much more time I needed to spend in the yeshiva to
@@ -3772,14 +3775,14 @@ at least another 15 years.  <!-- And they also explained their refusal to
 accept me by citing one case where a convert completely abandoned Judaism. -->
 This sounded like mockery, but I was not offended and continued spending entire
 days in the yeshiva reading various halakhic literature, eating daily in the
-yeshiva dining hall.
+yeshiva dining-hall.
 
-The quality of food in the dining hall was most abhorrent, the food was very
-tasteless and unnutritious. <!-- low-calorie -->  I had long grown accustomed
-to home-style food, and in the dining hall the food was exactly the same as it
-once was in a Soviet student dining hall, when I had the feeling that dirty rags
-had been rinsed in the pots of soup.  Tasty dishes were only for the meals on
-Shabbat, but on other days I had to endure.
+The quality of the food in the dining-hall was most abhorrent — the food was very
+distasteful. <!-- and unnutritious, low-calorie -->  I had long since become
+accustomed to home-style food, but in the dining-hall the food was exactly
+the same as Soviet dormitory food, when I had the feeling that dirty rags
+had been rinsed in the pots of soup.  Tasty dishes were only for the meals
+on Shabbat, but on other days I had to endure.
 
 But the biggest problem was that the state of my health continued to
 deteriorate sharply.  The terminal stage of cicatricial phimosis caused
@@ -3944,7 +3947,7 @@ I did everything possible to win favor from those I loved:
 
 Just as I feared to say an extra word to my mother, lest I give her additional
 cause to beat me, so too I feared to say an unsuitable word to a girl, lest she
-take offense and leave, and in precisely the same way I constantly feared that
+take offense and leave, and in precisely the same way I always feared that
 the Orthodoxes might drive me away — all of them were unpredictable.
 
 The more I loved, the more my beloved ones inflicted upon me not only spiritual
@@ -3952,7 +3955,7 @@ sufferings, condemning me to solitude, but also physical pain bearing the threat
 of death:
 
 1. In response to my love there was cruelty from my mother —
-   she beat me constantly and threatened to kill me.
+   she assaulted me every day and threatened to kill me.
 2. From unrequited love for a girl my heart ached intensely all the time.
 <!-- And upon meeting, the heart ceased to ache —
 I could feel how actively it was healing. -->
@@ -4304,7 +4307,7 @@ the Book of Ruth every year, but do not delve into its meaning, only mechanicall
 declaiming the words, ignoring the moral of this story about love of one's
 neighbor.  Instead, they are guided by the saying of Rabbi Chelbo from Yevamot
 [47b](https://www.sefaria.org/Yevamot.47b.5): “Proselytes are as hard for Israel
-as a sore of leprosy”.  <!-- Although now the meaning of this expression
+as a sore of leprosy.”  <!-- Although now the meaning of this expression
 corresponds more to this: “Ba'alei teshuvah are as hard as a sore.”  -->
 
 If in our time the widowed foreign Moabitess Ruth were to come to the Orthodoxes
@@ -4912,7 +4915,7 @@ In Sanhedrin [82b](https://www.sefaria.org/Sanhedrin.82b.6)
 it is recounted how Pinehas was humiliated with such words:
 “Behold how this grandson of Puti undertakes vigilante executions without trial
 and investigation, which he learned from his mother's father — the idolater Yithro,
-who fattened calves for sacrificial offerings to idols”.  But in response
+who fattened calves for sacrificial offerings to idols.”  But in response
 to these accusations he was vindicated in that on the other side through the
 paternal line Pinehas was a grandson of Aharon.  From the example of this case
 it becomes clear what the difference is: the daughters of Yithro did not turn
@@ -4953,7 +4956,7 @@ And indeed, they inclined the king toward idolatry.
 
 The mother of the first king of Judah, Rehoboam, was Naamah the Ammonitess
 (Melakhim I [14:21,31](https://www.sefaria.org/I_Kings.14.21-31)).  In the responsum
-Noda bi‑Yehudah [1](https://www.sefaria.org/Noda_BiYhudah_I,_Choshen_Mishpat.1),
+Noda BiYehudah [1](https://www.sefaria.org/Noda_BiYhudah_I,_Choshen_Mishpat.1),
 wonder is expressed in connection with the fact that Rambam stated in Mishneh
 Torah Hilkhot Melakhim u‑Milchamot
 [1](https://www.sefaria.org/Mishneh_Torah,_Kings_and_Wars.1.4) that one must
@@ -5151,7 +5154,7 @@ determining Jewishness through the mother is widely prevalent among Orthodoxes,
 someone would suddenly say, for greater persuasiveness, that this is the opinion
 of one contemporary rabbi and name him.  In his commentary on Bava Metzia
 [33b](https://www.sefaria.org/Bava_Metzia.33b.1?with=Rashi), Rashi reported that
-when Rabbi Yehudah HaNasi was recording the Mishnah, he did not mention the
+when Rabbi Yehuda HaNasi was recording the Mishnah, he did not mention the
 author's name if he agreed with him.  Otherwise, he would indicate the name of
 the author of the disputed opinion, which was not included in the Halakha.
 
@@ -5361,7 +5364,7 @@ as this would complicate matters even further. -->
 
 Also it must be noted that in an analogous situation, grandchildren through
 a Jewish son and a non-Jewish mother were called sons of a Jew in Beresheet
-[48:5](https://www.sefaria.org/Genesis.48.5): “And now your two sons are mine”.
+[48:5](https://www.sefaria.org/Genesis.48.5): “And now your two sons are mine.”
 Thus spoke Yaakov to Yosef concerning his grandchildren Ephraim and Manasseh,
 who were born of a non-Jewish mother.  <!-- And in the book of Ruth, a grandson
 through a Jewish father and a Moabite mother was called the son of Naomi. -->
@@ -5375,7 +5378,7 @@ Indeed, in this case a warning is needed, because the upbringing she received
 from her idolatrous father may influence the Jewish husband and the Jewish
 children.  This is precisely why the same admonition is given in Shemot
 [34:16](https://www.sefaria.org/Exodus.34.16): “And when you take their
-daughters for your sons — and they will lead your sons astray”.  The meaning is
+daughters for your sons — and they will lead your sons astray.”  The meaning is
 only one — a non-Jewish mother can turn away a Jewish son and a Jewish grandson.
 But if the son and grandson were not Jewish, then there would be no one to
 turn away, and there would be no need to warn.  Therefore in Shemot
@@ -5487,7 +5490,7 @@ non-Jewish wives — therefore send them away, and do not give your daughters
 in marriage to non-Jews — therefore send away their children. -->
 
 And then Ezra said: “Acknowledge your guilt before the L‑rd G‑d of your
-**fathers** and separate yourselves from the foreign wives”.  But he said nothing
+**fathers** and separate yourselves from the foreign wives.”  But he said nothing
 about the children, because he knew that Jewishness is transmitted through the
 father.  And the priests obligated themselves to send away their wives.  But
 whether they also sent away the children of these wives is not stated.  It is
@@ -5525,8 +5528,9 @@ there even a hint that Jewishness is transmitted through the mother.  If the
 principle of matrilocal settlement had prevailed in those times, and there had
 been such a situation that Jewish women had taken non-Jewish husbands, all the
 more so would those non-Jews have been sent away together with their children.
-But even if there were proof here, it is clearly stated in the very same Talmud
-that the books of Ketuvim cannot serve as a basis for establishing law.
+But even if there were proof here, it is clearly stated in the Talmud that
+the books of Nevi'im and Ketuvim cannot serve as a basis for establishing law
+(Bava Kamma [2b](https://www.sefaria.org/Bava_Kamma.2b.5)).
 Therefore in any case, the reference to the Book of Ezra confirms nothing and
 proves nothing.  And to reject Jews of paternal lineage was forbidden by the
 prophets, as is said in the Book of Yirmeyahu:
@@ -5554,7 +5558,7 @@ Because the most important commandment in Beresheet
 [17:12-13](https://www.sefaria.org/Genesis.17.12-13) requires circumcising him
 who is born in your house and him who is bought with money of any foreigner
 who is not of your seed.  But the Orthodoxes violate this commandment when they
-refuse to circumcise zera Yisrael.
+refuse to circumcise *zera Yisrael*.
 
 The Shulchan Arukh in Yoreh De'ah
 [266:13](https://www.sefaria.org/Shulchan_Arukh,_Yoreh_De'ah.266.13) states that
@@ -5595,7 +5599,7 @@ based on Hilkhot Issurei Biah
 [12](https://www.sefaria.org/Mishneh_Torah,_Forbidden_Intercourse.12.1) makes
 no distinction between cases of marriage between a Jewish man and a non-Jewish
 woman and marriage between a Jewish woman and a non-Jewish man.  In both cases
-the beit-din punishes them with lashes for violating the law of the Torah given
+the beit din punishes them with lashes for violating the law of the Torah given
 in Devarim [7:3-4](https://www.sefaria.org/Deuteronomy.7.3-4).
 
 Yet at the present time the Orthodoxes have added punishment of children from
@@ -5675,7 +5679,7 @@ but not by his mother,
 Yoreh De'ah [245:1](https://www.sefaria.org/Shulchan_Arukh,_Yoreh_De'ah.245.1) -->
 and women were altogether forbidden to study Torah.
 <!-- For example, Sotah [21b](https://www.sefaria.org/Sotah.21b.1):
-“He who teaches his daughter Torah teaches her licentiousness”. -->
+“He who teaches his daughter Torah teaches her licentiousness.” -->
 But the Egyptian father instilled in his son antisemitism
 and hatred against everything Jewish.
 
@@ -5896,7 +5900,7 @@ In his commentary on this passage
 [Rashi](https://www.sefaria.org/Deuteronomy.26.11?with=Rashi)
 notes that a stranger (*ger*, i.e. a proselyte) cannot recite
 the words that G‑d swore to our fathers, because the father of a proselyte
-is by definition a non‑Jew.  This is yet another proof that the Torah
+is by definition a non-Jew.  This is yet another proof that the Torah
 teaches that Jewishness is transmitted through the father: descendants of Jews
 through the paternal line do not require conversion — patrilineal Jews can say
 “to our fathers”.
@@ -5915,7 +5919,7 @@ mother is Jewish, he cannot say “the land which You swore to give us”,
 because converts had no portion in the land of Israel.
 
 Later Rambam noted that the halakhah existing at that time contradicted the
-Mishnah, because according to Rabbi Yehudah's proposal it was accepted that any
+Mishnah, because according to Rabbi Yehuda's proposal it was accepted that any
 proselyte may say “to our fathers”, since when a proselyte has a non-Jewish
 father, the proselyte receives a new father — Avraham, and then the words
 “to our fathers” refer to the Patriarch.  And the words “swore to give us the land”
@@ -5940,7 +5944,7 @@ In Mishneh Torah Yibbum va‑Chalitzah
 [102a](https://www.sefaria.org/Yevamot.102a.3), the children of a convert and
 a Jewish woman are not considered Jews at all, of whom it could be said in the
 words of Devarim [25:10](https://www.sefaria.org/Deuteronomy.25.10): “And his
-name shall be called in Israel”.  Therefore they are forbidden to participate
+name shall be called in Israel.”  Therefore they are forbidden to participate
 in the ceremony of chalitzah.  On the other hand, in Shulchan Arukh Even HaEzer
 [169](https://www.sefaria.org/Shulchan_Arukh,_Even_HaEzer.169.2), the opinion is
 brought that one whose father is Jewish may participate in the ceremony, i.e.,
@@ -6188,7 +6192,7 @@ I distinctly sensed how an additional Jewish soul sat firmly inside me. -->
 
 The fact that the Jewish soul is transmitted through the paternal chromosome
 is confirmed in Yechezkel [18:4](https://www.sefaria.org/Ezekiel.18.4):
-“As the soul of the father, so also the soul of the son — they are Mine”.
+“As the soul of the father, so also the soul of the son — they are Mine.”
 
 The problem is that due to profound ignorance in the Middle Ages,
 matrilineal determination was introduced, because it was believed that the
@@ -6238,7 +6242,7 @@ the paternal line.  It is time to rescind this unjust decree, so as to eliminate
 the discrimination whereby some halves are welcomed, while others are rejected
 with revulsion.
 
-| Do not steal |
+| You shall not steal |
 | (Shemot [20:13](https://www.sefaria.org/Exodus.20.13), Devarim [5:17](https://www.sefaria.org/Deuteronomy.5.17); Vayikra [19:11](https://www.sefaria.org/Leviticus.19.11)) |
 {: .chapter #break title="Transgression of Commandments"}
 
@@ -6247,7 +6251,7 @@ both [kidnapping](https://en.wikipedia.org/wiki/Kidnapping),
 and “theft of knowledge” (*[gneivat da'at](https://en.wikipedia.org/wiki/Geneivat_da'at)*
 from Mekhilta Nezikin [13:14‑15](https://www.sefaria.org/Mekhilta_DeRabbi_Yishmael,_Tractate_Nezikin.13.14-15)),
 i.e. deception — as it is said in Shmuel II [15:6](https://www.sefaria.org/II_Samuel.15.6):
-“And Avshalom stole the hearts of the people of Israel”.
+“And Avshalom stole the hearts of the people of Israel.”
 
 <!-- I became convinced of the necessity of understanding this commandment
 according to peshat in childhood.  Once as a child I was persuaded to go eat
@@ -6339,13 +6343,13 @@ it difficult to begin observing all the stringencies alone, it is a serious
 violation of the commandment to place obstacles in the path of his drawing near
 to the service of G‑d — one must not hinder, but rather help him.
 
-| Do not stand by the blood of your close one — Do not remain indifferent to the blood of your close one |
+| Do not stand by the blood of your fellowman — Do not remain indifferent to the blood of your fellowman |
 | (Vayikra [19:16](https://www.sefaria.org/Leviticus.19.16)) |
 {: .chapter}
 
 When I was in distress and urgently needed help, when chronic phimosis caused
 rupture of the foreskin, causing unbearable pain, and through the forming
-fissures the wounds constantly bled, crying out to the Orthodoxes about the
+fissures the wounds continually bled, crying out to the Orthodoxes about the
 necessity of urgent circumcision, it would have cost them nothing to help me,
 to eliminate the threat to health and life.  But instead of help they only
 indifferently gazed upon my suffering, pretending that my bleeding wounds did
@@ -6472,7 +6476,7 @@ atmosphere of Kafka's book *[The Castle](https://en.wikipedia.org/wiki/The_Cas
 and ending with the schizophrenic situation — I know with certainty that I am Jewish,
 yet the Orthodoxes assert otherwise, demanding I renounce my Jewishness. -->
 
-For example, I was constantly sent in incomprehensible directions: at first
+For example, I was repeatedly sent in incomprehensible directions: at first
 Orthodoxes expelled me from Israel, and then other rabbis kept kicking me back
 to Israel, i.e., the Orthodox rabbis simply lied to get rid of me, which is yet
 another instance of placing a stumbling block before the blind.
@@ -6689,7 +6693,7 @@ self-defense even on the Sabbath day.
 [2:40-41](https://www.sefaria.org/The_Book_of_Maccabees_I.2.40-41). -->
 Later this rule was assigned to the category of *pikuach nefesh*, citing the
 words of Vayikra [18:5](https://www.sefaria.org/Leviticus.18.5): “You shall keep
-My statutes and My laws, which if a person does, he shall live by them”.
+My statutes and My laws, which if a person does, he shall live by them.”
 
 <!-- This rule the Jews continued to follow thereafter.  The book
 *The Jewish War* II describes how an enemy attack was repelled on the Sabbath.
@@ -6765,9 +6769,9 @@ with majority support by the head of the Sanhedrin.  Later in Babylonia,
 decisions were made by the Gaon.  The greater the authority a sage possessed,
 the more fundamental the changes to the laws he could institute.
 
-During the Second Temple period, each of the three Jewish movements existing
-at that time had its own “Oral Torah”, i.e. its own laws.  The
-[Sadducees](https://en.wikipedia.org/wiki/Sadducees) (*Zadokites*)
+During the Second Temple period, each of the three Jewish denominations
+existing at that time had its own “Oral Torah”, i.e. its own laws.
+The [Sadducees](https://en.wikipedia.org/wiki/Sadducees) (*Zadokites*)
 intended to adhere only to the literal interpretation of the Written Torah,
 rejected any deviations from what was written, and denied the legitimacy
 of oral laws.
@@ -6776,10 +6780,10 @@ an “Oral Torah”, because due to the large number of lacunae in the written t
 the necessity remained to restore their meaning, and for this they had to
 choose from multiple variants of interpreting unclear passages.
 
-It is now difficult to trace the history of these movements' origins, but
-apparently for a long time the main movement was the Sadducees, who received
-their name from Zadok.  In fact, they only received this name after the
-founders of another movement — the Perushim — separated from them.
+It is now difficult to trace the history of these denominations' origins,
+but apparently for a long time the main denomination was the Sadducees,
+who received their name from Zadok.  In fact, they only received this name
+after the founders of another denomination — the Perushim — separated from them.
 <!-- The word “Pharisees” is not used here to avoid connotations with antisemitic slanders. -->
 The word *Perushim* means “the separated ones”.  Regarding names, such word
 formation is a natural process: when a division of the whole occurs, each part
@@ -6788,7 +6792,7 @@ name *Rabbanites* was introduced to distinguish from *Karaites*.  Similarly, the
 Litvaks received their name *Mitnagdim* when the *Hasidim* separated from them.
 Later, by the same principle, during the Haskalah, the *Orthodoxes* received
 their current name in opposition to the *Maskilim*.  Recently the name *Haredim*
-appeared after the formation of the *Religious Zionist* movement, as well as
+appeared after the formation of the *Religious Zionist* denomination, as well as
 *Hardal* and *Modernists*, etc.
 
 Unlike the Sadducees, the Perushim regarded the development of oral traditions
@@ -6799,7 +6803,7 @@ The Sadducees, however, clung to long-outdated traditions.  But literal
 adherence to old laws was incompatible with the level of societal development
 at that time.  Therefore, the Sadducees were doomed to disappear.
 
-In the same way, in our time the Orthodox movement has come into conflict with
+In the same way, in our time the Orthodox denomination has come into conflict with
 the contemporary level of societal development, as many traditions of medieval
 Halakhah have become hopelessly outdated.  Therefore, the heirs of the Perushim
 now find themselves in the position of their former opponents the Sadducees,
@@ -6819,7 +6823,7 @@ in the spirit of filling with Divine light.
 
 With the support of the common people, the rabbis participated in legislation.
 As a result of sharp debates between different schools within the Perushim
-movement, many new laws were born.  An exemplary instance of constructive
+denomination, many new laws were born.  An exemplary instance of constructive
 debates is the reconciliation of positions between the school of Shammai
 and the school of Hillel — *Beit Shammai* vs *Beit Hillel*.
 <!-- Often the school of Hillel is credited with always granting their opponents
@@ -7011,7 +7015,7 @@ information from being altered, because two main factors exerted their influence
 First, external *force majeure* circumstances — due to calamities that befell
 the people, details of many laws of the Written Torah were lost, and later a new
 interpretation was invented from scratch for some of them.  Second, the rabbis
-themselves constantly engaged in “improvements” of the oral laws.  After the
+themselves permanently engaged in “improvements” of the oral laws.  After the
 recording of the Mishnah and Talmud, this fact has indisputable written
 evidence, as fierce debates were conducted over even the slightest question.
 These unceasing disputes and the absence of clear understanding of many
@@ -7338,7 +7342,7 @@ In this case, it would be possible to be more lenient toward such joking.
 
 I could understand it even if the very same comment had been expressed in
 slightly different words, for example: “Lot baked matzot, as later done in the
-Exodus”.  But instead, it was unequivocally stated that Lot observed a festival
+Exodus.”  But instead, it was unequivocally stated that Lot observed a festival
 celebrated in honor of the Exodus from Egypt.
 
 I could devise various justifications for this absurd commentary.  Had the
@@ -7614,13 +7618,13 @@ the ability to discern the times.  In Nedarim
 command in Devarim [1:13](https://www.sefaria.org/Deuteronomy.1.13):
 “Pick wise, discerning, and known men”, later in Devarim
 [1:15](https://www.sefaria.org/Deuteronomy.1.15) it says: “So I took wise and
-known men”.  On this basis it was concluded that among the wise and
+known men.”  On this basis it was concluded that among the wise and
 known, none were found who were discerning.  That is, even the Talmud
 acknowledges that a sage may lack discernment.  The discerning here refers
 to people of insight who know how to foresee the consequences of their
 decisions in the future, of whom it is said in Divrei ha‑yamim I
 [12:32](https://www.sefaria.org/I_Chronicles.12.33) thus: “And of the sons of
-Yissakhar, who had understanding of the times”.  This same matter is addressed
+Yissakhar, who had understanding of the times.”  This same matter is addressed
 in Tamid [32a](https://www.sefaria.org/Tamid.32a.7), that a sage is one who
 foresees consequences, i.e., is far-sighted — according to the words of Rabbi
 Shimon in Pirkei Avot [2:9](https://www.sefaria.org/Pirkei_Avot.2.9).
@@ -7670,7 +7674,7 @@ to the capacity to draw wise conclusions, to produce a **synthesis**
 of reasoned and far-sighted decisions.  In Pirkei Avot
 [3:17](https://www.sefaria.org/Pirkei_Avot.3.17) it is said: “If there is no
 understanding (i.e., insight into the essence of things), then there is no
-knowledge; if there is no knowledge — there is no understanding”.  Indeed,
+knowledge; if there is no knowledge — there is no understanding.”  Indeed,
 it is impossible to be wise without accumulating sufficient knowledge
 through the sefirah Da'at with deep understanding through the sefirah Binah,
 and correspondingly, reasonableness.  On the other hand, the accumulation of
@@ -7763,7 +7767,7 @@ so too in yeshiva, when I diligently studied the 190-page textbook
 everything quickly, so they would perform the necessary circumcision
 for me urgently.  But I could not understand where all these numbers
 and formulas came from, which made them difficult to memorize.
-<!-- “Exams are approaching, but everything is incomprehensible”. -->
+<!-- “Exams are approaching, but everything is incomprehensible.” -->
 Moreover, I discovered an error in the formulas for calculating
 pot wall thickness, meant to ensure that the absorbed flavor
 would be less than one-sixtieth of the pot's contents.
@@ -7856,7 +7860,7 @@ Religious Practices* (1907).  He defines neurosis as individual religiosity, and
 religion as a shared neurotic obsession.  Quote: “the petty ceremonials of
 religious practice gradually become the essential thing and push aside the
 underlying thoughts.  That is why religions are subject to reforms which work
-retroactively and aim at a reestablishment of the original balance of values”.
+retroactively and aim at a reestablishment of the original balance of values.”
 It is quite reasonable to agree that many customs and stringencies of the Orthodoxes
 are symptoms of neurosis, codified in laws that supplant the original moral meaning
 of the commandments.
@@ -8049,7 +8053,7 @@ on their own lives, in which they occupied themselves solely with Talmud study.
 <!-- so that they would not be too bored -->  At the same time, they were not
 bound by other obligations, as most working people are, and therefore gave no
 consideration to the capacities and needs of ordinary people.  That is, rabbis,
-having no concerns of the daily life of working people, constantly pondered:
+having no concerns of the daily life of working people, repeatedly pondered:
 “What else might we devise to complicate the lives of Jews”, as antisemites do.
 As upon slaves, so upon working people they loaded an additional burden of
 stringencies, such that many could not endure and scattered.  Thus with the
@@ -8059,7 +8063,7 @@ repelling the majority. <!-- and thereby preventing the restoration of the Templ
 The rabbis have created such a convoluted system that only they themselves
 are experts, and they demand that everyone learn from them to also become experts,
 abandoning all other pursuits.
-The Orthodoxes constantly raise the bar of observance higher and higher, so that
+The Orthodoxes continually raise the bar of observance higher and higher, so that
 for most people the height becomes inaccessible, since it is impossible to spend
 the greater part of one's time following all the additions, and therefore the
 majority are forced to abandon Judaism altogether — thus the Orthodoxes are
@@ -8348,7 +8352,7 @@ satisfaction, which fosters the emergence of self-respect — and consequently
 respect for others.  As it is written
 in Yirmeyahu [29:7](https://www.sefaria.org/Jeremiah.29.7):
 “And seek the welfare of the city to which I have exiled you, and pray
-to the L‑rd in its behalf, for in its prosperity you shall prosper”.
+to the L‑rd in its behalf, for in its prosperity you shall prosper.”
 
 - Antisemitic propaganda that incites hatred toward the Jews.
 This includes the “Protocols of the Elders of Zion”, “Mein Kampf”,
@@ -8407,23 +8411,26 @@ one side of the conflict.
 Comparing these examples and analyzing them, I realized how covertly
 antisemitic propaganda operates — by manipulating emotions of the
 readers, their sympathies are gradually shifted toward the enemies of the
-Jews, toward those who seek to destroy Israel.  Moreover, it makes absolutely no
-difference whether this propaganda is concocted by Soviet communists or Western
-leftists — their propaganda methods are identical.  This is one example among
-numerous methods of manipulating readers, collectively known as
-[media bias](https://en.wikipedia.org/wiki/Media_bias).
+Jews, toward those who seek to destroy Israel.  Moreover, it makes absolutely
+no difference whether this propaganda is concocted by Soviet communists or
+Western leftists — their propaganda methods are identical.
+Even the thesis about “genocide of Palestinians” was invented
+around 1982 in the USSR and now adopted in the West.
+
+This is one example among numerous methods of manipulating readers, collectively known as
+[media bias](https://en.wikipedia.org/wiki/Category:Media_coverage_of_the_Israeli–Palestinian_conflict).
 Currently one of the most egregious examples of bias against Israel is
-[BBC](https://en.wikipedia.org/wiki/Balen_Report) and other such
-ultra-leftist media outlets.
+[BBC](https://en.wikipedia.org/wiki/Criticism_of_the_BBC#Israeli–Palestinian_conflict)
+and other such ultra-leftist media outlets.
 
 There exist many other sources of propaganda.  The strongest impression on me
 was made by the report of the commission investigating the terrorist attacks of
 [9/11](https://en.wikipedia.org/wiki/9/11_Commission_Report).  In the
 transcripts of dialogues, the organizers of the attacks spent much time
-convincing the perpetrators of the necessity of carrying them out: instructions
-were constantly interspersed with persuasion and the instilling of the thought
-that Allah demands these attacks be committed, and that afterwards the
-terrorists would enter paradise with virgins, etc.
+convincing the perpetrators of the necessity of carrying them out:
+instructions were interspersed with persuasion and the instilling of the
+thought that Allah demands these attacks be committed, and that afterwards
+the terrorists would enter paradise with virgins, etc.
 
 What can be opposed to the propaganda of religious fanatics?
 One of the most effective ways to combat misanthropic ideologies is enlightenment.
@@ -8486,9 +8493,9 @@ must remain in these settlements even in the case of two states.  Thus, the
 first step toward peace is acceptance of a Jewish minority in the settlements.
 Otherwise, all these participants in protests against Israel are simply Nazis. -->
 
-But the current generation is hopelessly lost, because from childhood
-they were raised to hate Jews, and because of this they grew up as murderers
-who must be kept in cages as animals — and simply liquidated when they
+But the current generation is hopelessly lost, because from childhood they
+were raised to hate Jews, and because of this they grew up as murderers that
+<!-- must be kept in cages as animals — and simply liquidated when they -->
 as zombies, zombified by antisemitic propaganda, as in the film
 *[World War Z](https://en.wikipedia.org/wiki/World_War_Z_(film))*, storm
 the walls and with inhuman cruelty kill everyone: infants, women, the elderly.
@@ -8587,7 +8594,7 @@ me in childhood, I realized that I was a Jew, and that my fate was Jewish.
 
 <!-- In infancy my mother refused to nurse me with her milk, so I had
 a disrupted metabolism (at least, that is how the doctors explained it).
-And in Mishneh Torah, Hilkhot Ishut
+And in Mishneh Torah Hilkhot Ishut
 [21:13](https://www.sefaria.org/Mishneh_Torah,_Marriage.21.13)
 it is said that a mother must nurse her child until two years of age. -->
 From infancy, due to an allergy to sugar, I was forbidden to eat sweets.
@@ -8652,7 +8659,7 @@ For example, he oversaw the delivery of materials for the construction of the
 television tower — the challenge being that for eight months it was necessary
 to ensure an uninterrupted concrete pour throughout the entire height of three
 hundred meters.  I remember visiting him during his night shifts at the Ministry
-of Construction and seeing how the telephone rang constantly, and he
+of Construction and seeing how the telephone rang repeatedly, and he
 continuously issued instructions over the phone.
 
 My grandfather saw in me the continuation of his lineage, and as I recall,
@@ -8742,8 +8749,8 @@ word “apostates” refers to Jews who do not observe all Orthodox stringencies
 (*[chumrot](https://en.wikipedia.org/wiki/Chumra_(Judaism))*) — not only
 Reformists, but all non-Orthodoxes in general, all Jews who do not follow
 all the precepts of the Shulchan Arukh, and certainly all patrilineal Jews,
-about whom the Orthodoxes are constantly preoccupied with how to rid themselves
-of them as quickly as possible, as if they had never existed, according to the
+about whom the Orthodoxes are preoccupied with how to rid themselves of
+them as quickly as possible, as if they had never existed, according to the
 principle of idolaters: “no person — no problem”.  Does it follow that if the
 Orthodoxes had a button that would destroy Jews who do not fully observe all
 the ordinances of the Orthodoxes, they would press it, so that all apostates
@@ -9137,7 +9144,7 @@ Consequently, ideas of dividing into two states are unacceptable,
 as, for example, the Kahanists proposed to create a separate
 [State of Judea](https://en.wikipedia.org/wiki/State_of_Judea).
 
-A possible symbiosis could be such that while Orthodox communities constantly
+A possible symbiosis could be such that while Orthodox communities frequently
 pray, observe all the details of stringencies and continuously study the Talmud,
 at the same time non-Orthodox Jews, without departing from the observance of
 Torah commandments, spend their time and energy performing work to improve
@@ -9185,8 +9192,8 @@ when there were few people, the Levites could eat the tithe, but when the
 people became more numerous, the Levites could no longer eat it all. -->
 
 As is evident from the Torah, the Levites did not sit idle, occupied only with
-the study of Torah, but constantly applied the knowledge they had acquired in
-practice, not distancing themselves from the people, but working for the benefit
+the study of Torah, but applied the knowledge they had acquired in practice,
+not distancing themselves from the people, but working for the benefit
 of the entire community and receiving appropriate compensation for it.
 Moreover, besides their work, they simply had nothing else to occupy themselves
 with, since they did not need to read much — the many thick volumes of the
@@ -9283,7 +9290,7 @@ I don't know whether I would really be outraged, like many taxpayers.
 Most likely not, because I always sympathized with the Orthodoxes and for
 religious reasons sought support from Orthodox rabbis.  And when I looked upon
 yeshiva students diligently working through the Talmud, such a sight filled me
-with warm feelings.  But since the Orthodoxes did not let me into Israel,
+with admiration.  But since the Orthodoxes did not let me into Israel,
 these remain only speculative suppositions.
 
 Yet I have the right to raise the problem of idleness among the ultra-Orthodox, for
@@ -9298,7 +9305,7 @@ professional skills.  For example, recently his community needed to implement
 a web service, and he created it using a modern programming language,
 but then he stopped working again.
 
-Because he left the society, our relatives constantly mourn for him.
+Because he left the society, our relatives all the time mourn for him.
 When an Orthodox leaves the community, they sit shiva and recite Kaddish for him.
 Likewise, our relatives are in constant mourning for him as for one departed from life.
 They had hoped that when he grew up, he would benefit society.
@@ -9369,7 +9376,7 @@ I too wanted to do something useful for people, but just as the ultra-Orthodox
 turn away from work many capable people, so too was I deprived of the
 opportunity to work at full strength due to the suffering inflicted upon me by
 the Orthodoxes.  And so much good I could have done.  But when the Orthodoxes
-persecuted me, from despair I had no strength to work, and I was constantly
+persecuted me, from despair I had no strength to work, and I was permanently
 in chronic stress.
 And this not counting the lost time when I could do nothing due to health
 problems, when the Orthodoxes refused to perform circumcision on me,
@@ -9410,12 +9417,12 @@ the words of Devarim [30:19](https://www.sefaria.org/Deuteronomy.30.19)
 “Choose life” refer to the requirement to work, since work is necessary
 for sustaining life.
 
-Rabbi Yehudah in Kiddushin [29a](https://www.sefaria.org/Kiddushin.29a.10) says
+Rabbi Yehuda in Kiddushin [29a](https://www.sefaria.org/Kiddushin.29a.10) says
 that anyone who does not teach his son a trade teaches him robbery.
 For without a profession he will be forced to resort to obtaining
 his livelihood through criminal means.
 
-Rabban Gamliel, son of Rabbi Yehudah HaNasi, in Pirkei Avot
+Rabban Gamliel, son of Rabbi Yehuda HaNasi, in Pirkei Avot
 [2:2](https://www.sefaria.org/Pirkei_Avot.2.2) instructs that it is good
 to combine the study of Torah with some craft, because this distances one
 from sin.  By sin here is meant the necessity of seeking unlawful or
@@ -9460,7 +9467,7 @@ opinions is the true one, the Orthodoxes are required to study and fulfill
 all these opinions.
 
 The most lamentable thing is that such egotism of graphomaniacs leads them to
-violate the commandment “Thou shalt not steal”, when for the satisfaction of
+violate the commandment “You shall not steal”, when for the satisfaction of
 their own vanity they produce multitudes of books, and thereby steal time
 from future generations, who are forced to study all these endless opinions.
 <!-- Such contradictory opinions only increase entropy. -->
@@ -9798,7 +9805,7 @@ stringencies “just in case” that in many types of activity Shabbat is
 nonetheless not violated.  But on the other hand, as punishment for adding
 unnecessary restrictions, they pay with hardship from the tremendous
 inconveniences they have created for themselves.  On the Sabbath, the Orthodoxes
-must strain greatly, expending too much strength and nerves to fulfill their
+must strain greatly, expending too much energy and nerves to fulfill their
 multitude of needless restrictions and stringencies — instead of resting.
 For example, in multistory buildings they are forced to expend a lot of effort
 while climbing stairs — instead of using an effortless elevator, etc.
@@ -10020,8 +10027,8 @@ use.  For example, I have not bought paper books for 20 years now — there is
 simply no longer any need for this, everything is available in electronic form.
 And it is not so much about preserving trees, <!-- and in the case of parchment
 from animal skin also preserving the lives of animals, as well as the rejection
-of sacrifices --> but rather about convenience — there is no need to constantly
-carry suitcases with a weighty library.  Even carrying a heavy siddur on trips
+of sacrifices --> but rather about convenience — there is no need to carry
+suitcases with a weighty library.  Even carrying a heavy siddur on trips
 and to the place of prayer is very burdensome, while a mobile phone is always
 at hand.  This is what progress exists for — it is part of the process of
 perfecting the world.  Therefore, it is praiseworthy to study Torah
@@ -10185,7 +10192,7 @@ Sabbath prohibitions.  The Karaites forbade using candlelight on the Sabbath,
 and therefore sat in darkness for a full day.  The Orthodoxes, unlike the
 Karaites, act more reasonably and permit the use of both candlelight and
 electric light.  But because they forbid switching on lights, they are compelled
-to endure constantly illuminated lighting, or when they failed to turn on
+to endure permanently illuminated lighting, or when they failed to turn on
 the light beforehand, they too sit in darkness like the Karaites.  That is, due
 to the prohibition against touching switches, they are forced either to waste
 electricity needlessly or to sit in darkness like the Karaites.
@@ -10509,7 +10516,7 @@ clear:
   your G‑d — do not act as the pagans do.”
 - “You shall not eat any carcass; to the sojourner who is within your gates,
   give it, or sell it to a foreigner; for you are a holy people to the L‑rd,
-  your G‑d — do not act as the pagans do”.
+  your G‑d — do not act as the pagans do.”
 
 To avoid being like pagans, one must become similar to G‑d, and one of the chief
 attributes of G‑d is mercy.  Therefore this commandment teaches mercy above all,
@@ -10588,16 +10595,16 @@ Unlike the Orthodoxes, for non-Orthodoxes the primary concern should be to
 follow the spirit of the commandments.  In this case, the meaning of the
 commandment “do not cook a kid in its mother's milk” is the manifestation
 of mercy, chesed, so as not to follow the customs of the idolaters.  But
-additionally, the plain sense (peshat) of not cooking meat in milk should be
+additionally, the plain sense (*peshat*) of not cooking meat in milk should be
 fulfilled, as among the Karaites, and useful Orthodox traditions are preserved
 in moderation — not washing down meat with milk.
-<!-- *win-win* -->
+<!-- win-win -->
 
 Some rabbis advised replacing birds with money in the *kapparot* ceremony
 because of its resemblance to sacrificial offerings, which were to be performed
 only in the Temple.  Therefore, just as in the *kapparot* ceremony the sacrifice
 of birds is replaced with money, so too the Temple sacrifices, which can no
-longer be performed, should be replaced with money donated to tzedakah.
+longer be performed, should be replaced with money donated to *tzedakah*.
 
 | Is it really burnt offerings and sacrifices that are as pleasing to G‑d as obedience to the voice of G‑d?  For obedience is better than sacrifice; compliance is better than the fat of rams. |
 | (Shmuel I [15:22](https://www.sefaria.org/I_Samuel.15.22)) |
@@ -10615,7 +10622,7 @@ longer be performed, should be replaced with money donated to tzedakah.
 | (Hoshea [6:6](https://www.sefaria.org/Hosea.6.6), [14:3](https://www.sefaria.org/Hosea.14.3)) |
 {: .chapter}
 
-| if you offer Me burnt offerings and your grain offerings, they shall not be acceptable to Me…  Let justice well up like water, and righteousness like an ever-flowing stream |
+| If you offer Me burnt offerings and your grain offerings, they shall not be acceptable to Me…  Let justice well up like water, and righteousness like an ever-flowing stream |
 | (Amos [5:22-24](https://www.sefaria.org/Amos.5.22-24)) |
 {: .chapter}
 
@@ -10641,8 +10648,8 @@ essential qualities of G‑d: both mercy and justice as the balance of chesed an
 gevurah, then his sacrifices are in vain.  And in our time, when sacrifices have
 been replaced with prayers, this means that even when one prays three times a day,
 the prayers are not accepted if one does not at the same time strive to perform
-good deeds and does not aspire to justice.  That is, now these words sound thus:
-“To what purpose is the multitude of your prayers unto Me?”
+good deeds and does not aspire to mercy and justice.  That is, now these words
+sound thus: “To what purpose is the multitude of your prayers unto Me?”
 
 The historical sequence was as follows: first, idolaters brought sacrifices,
 including human ones, to their deities.  The Torah was given to the Jewish
@@ -10691,7 +10698,7 @@ Initially, idolaters sacrificed animals to their idols, and then the vector of
 development was redirected toward G‑d for the increase of compassion.  But now
 a return to the savage customs of animal sacrifices would turn the vector of
 development backward — into the primeval past, to an era of widespread idolatry
-with a diminishment of the general level of compassion and estrangement from G‑d.
+with a diminishment of the general level of compassion, and estrangement from G‑d.
 
 Rambam held
 (*Moreh Nevukhim* [3:32](https://www.sefaria.org/Guide_for_the_Perplexed,_Part_3.32.3))
@@ -10737,7 +10744,7 @@ words of Bemidbar 8:2 “Speak unto Aharon and say unto him: When you light the 
 are understood thus: when Aharon was grieved that all the tribes brought
 offerings except the tribe of Levi, G‑d said that the commandment to light the
 lamps of the Menorah is more important than all the offerings.  And indeed,
-in Hanukkah the first thing they did was light the lamps of the Menorah.
+in Hanukkah the first thing that was done was to light the lamps of the Menorah.
 
 Different types of sacrifices have different types of replacement.  Primarily,
 what is sacrificed is time and money: time — for prayers, Torah study, and
@@ -10756,7 +10763,7 @@ that replaced the sacrificial offerings.
 
 Atonement sacrifices are replaced with prayer.  For deliverance from the burden
 of sins and obtaining forgiveness, many different prayers are provided:
-penitential prayers *tachanun* and *vidui*, *selichot*, etc.  The *kaparot* ritual
+penitential prayers *tachanun* and *vidui*, *selichot*, etc.  The *kapparot* ritual
 was also intended for atonement of sins, and in the course of the ritual's
 development, atonement sacrifices are replaced with monetary compensation.
 The *tashlikh* ritual also handles this task well.  But we must not forget
@@ -10788,7 +10795,7 @@ Usually, the amount of maaser given as a donation is tax-deductible.
 The word *sacrifice* here is not used in its common meaning of “giving something
 up from oneself”, although sacrifices could only be brought from personal
 property — therefore captured wild animals were not suitable for sacrifices.
-The word *korban* derives from a root with the meaning “to draw near”
+The word *korban* derives from the root with the meaning “to draw near”
 (Sefer HaBahir [109](https://www.sefaria.org/Sefer_HaBahir.109)), i.e.,
 it signifies actions that bring one closer to G‑d.  As the prophets clarify,
 these are actions that teach the manifestation of mercy and justice.  When money
@@ -10867,7 +10874,7 @@ he who burns incense is as one who blesses an idol
 
 That is, the immorality of public executions of animals in the modern world is
 only one of the safeguards to ensure that no offerings whatsoever are performed anymore.
-<!-- So meal offerings became obsolete for an entirely different reason. -->
+And grain offerings became obsolete for a different reason.
 
 The first sacrifice described in the Torah was in the story of Cain and Abel
 (Beresheet [4](https://www.sefaria.org/Genesis.4)).
@@ -10897,7 +10904,7 @@ The first sacrifice led to the murder of the first man's son, and the final
 sacrifices led to the destruction of the Temple.  The first sacrifice became
 the occasion for the first crime, but the real cause was hatred toward one's
 brother.  And in the destruction of the Temple, the occasion was also
-a sacrifice, and the cause was also hatred — baseless hatred toward one's
+a sacrifice, but the cause was also hatred — baseless hatred toward one's
 brother.
 
 As the first offering caused enmity between brothers, so too did the last
@@ -10957,8 +10964,8 @@ The sages assert that in such an enormous crowd in the Temple courtyard there wa
 never a crush — except for one Passover, when one old man was trampled to death.
 <!-- This incident was called *Pesach Meuchin* — “Passover of the Crushed”. -->
 
-Suppose hypothetically, just imagine, that if sacrifices were to return in our
-time, then by this arithmetic for 13 million participants it would be necessary
+Let's suppose hypothetically, just imagine, that if sacrifices were to return in
+our time, then by this arithmetic, for 13 million participants it would be necessary
 to slaughter simultaneously more than a million lambs.  That is, the Temple was
 a gigantic slaughterhouse, in which work continued unceasingly on Sabbaths and
 festivals.
@@ -10973,7 +10980,7 @@ It is further stated in tractate Shabbat
 [119b](https://www.sefaria.org/Shabbat.119b.6) that Yerushalayim was destroyed
 because even the priests violated the Sabbath, as it is said in Yechezkel
 [22:26](https://www.sefaria.org/Ezekiel.22.26): “Her priests have violated
-My Torah, … and from My Sabbaths they have hidden their eyes”.
+My Torah, … and from My Sabbaths they have hidden their eyes.”
 
 And the Second Temple was destroyed for violation of the Sabbath.  In the Second
 Temple, the sacrifices were associated with performing labor and making
@@ -10986,7 +10993,7 @@ would wash the floor on the Sabbath, which was not required at all for
 performing the sacrifices.  They did this work out of habit, because
 that was their routine of work on weekdays.
 
-In Mishneh Torah, Paschal Offering
+In Mishneh Torah Paschal Offering
 [1:16](https://www.sefaria.org/Mishneh_Torah,_Paschal_Offering.1.16)
 Rambam presents such a justification for this violation of the Sabbath,
 that the Sabbath prohibitions of *shevut* are not obligatory to observe in the
@@ -10994,7 +11001,7 @@ Temple, therefore even labors not required for the Temple service are permitted.
 According to this logic, after the building of the Third Temple one will be able
 on the Sabbath to sit in the Temple courtyard, for example, with a laptop and
 calmly work, performing tasks for the Temple service or any other work —
-in reality it's the opposite, so as not to bring about the destruction of
+but in reality it's the opposite, so as not to bring about the destruction of
 yet another Temple.
 
 <!-- In punishment for failure to observe the Sabbaths, in
@@ -11027,8 +11034,8 @@ by selecting and purchasing animals.
 But the rabbis ignored this warning.  Therefore the Temple was destroyed
 and the sacrifices were abolished.
 
-The warning was given by an Essene, the leader of the Zealots, since the
-Essenes did not defile the Sabbath with work connected to sacrifices.
+The warning was given by an Essene since the Essenes did not defile
+the Sabbath with work connected to sacrifices.
 As a result, the Essene was condemned by the Sadducees and executed by the
 Romans, but subsequently the ones who suffered from antisemitic slanders
 were Pharisees.
@@ -11047,9 +11054,9 @@ to suffer from Christian persecutions over the course of two millennia.
 
 In these years 33 and 70, the first day of Pesach fell on the Sabbath.
 So it was also in the year 73, when Masada fell, and during Pesach the last
-inhabitants of Masada slaughtered one another like paschal sacrifices —
+inhabitants of Masada slaughtered one another as paschal human sacrifices —
 a tragic finale to the enmity among Jews that had flared up due to the
-radicalization of the Zealot-Sicarii.
+radicalization of the Zealots-[Sicarii](https://en.wikipedia.org/wiki/Sicarii).
 
 The Temple was destroyed after a known number of Sabbaths following the warning,
 since the sacrifices on the Sabbath were connected with performing work
@@ -11077,8 +11084,9 @@ Medinat Yisrael.  One condition has already been fulfilled.  Moreover, this was
 accomplished by the will of G‑d through the permission of the nations of the
 world, represented by the League of Nations and the United Nations.
 
-What other obstacles remain?  To hold the holy site, various structures were
-erected on the Temple Mount that in reality hold little value for Muslims.
+What other obstacles remain?  To maintain control of the holy site,
+various structures were erected on the Temple Mount that in reality
+have little value for Muslims.
 
 <!-- The archetype, the prototype of the Third Temple is the cave of Machpelah —
 when reconciliation comes to the cave of Machpelah, then it will be possible to
@@ -11230,7 +11238,7 @@ after the destruction of the Second Temple they exchanged roles).  A clear
 example is their presence in the depiction of the Temple vessels on the
 so-called [Arch of Titus](https://en.wikipedia.org/wiki/Arch_of_Titus).
 
-But caution must be exercised in this matter, since on that same relief
+But caution must be exercised in this matter, since on that same relief,
 animals are also depicted in the lower part of the base of the Temple Menorah.
 Josephus Flavius mentioned nothing of the sort when describing the Menorah in
 *Antiquities of the Jews* III
@@ -11242,12 +11250,12 @@ But most likely the depictions of animals were added by order of Herod.
 
 Just as Herod's menorah with animal images was non-kosher, so too is
 Rabinovich's menorah non-kosher.  Although it bears no animal images, the
-ruscist and collaborator Rabinovich is an immoral monster as Herod, who
+ruscist and collaborator Rabinovich is a moral deviant as Herod, who
 defiled the Temple with his filthy hands.  His golden menorah, like the
 golden calf, was cast in flagrant violation of the laws of the Torah.
-He alone sponsored his own glorification, thereby flaunting his egotism,
+He alone sponsored his own glorification, thereby flaunting his egoism,
 instead of collecting a half-shekel from everyone — just as the oil
-for kindling the *ner tamid* is accepted from all benei Yisrael (Shemot
+for kindling the *ner tamid* is accepted from all bnei Yisrael (Shemot
 [27:20](https://www.sefaria.org/Exodus.27.20)). -->
 
 Just as even idolaters were formerly permitted to bring sacrifices in the Temple
@@ -11289,7 +11297,7 @@ confirms that this may be done in the Third Temple.
 The plan is as follows: after the construction of the Third Temple, permit only
 prayer but not the bringing of sacrifices.  Then observe how much this improves
 the situation.  If peace and universal redemption arrive, then change nothing
-further!  And only if things become worse, then they could move to plan B:
+further!  And only if things become worse, does this open the way to Plan B:
 first try introducing only vegetable offerings, and if things become still
 worse, then animal sacrifices as well.  Thus the will of G‑d could be
 unambiguously understood.
@@ -11299,7 +11307,7 @@ with one medicine — if it does not help, another should be tried. -->
 
 In general, the primary meaning of sacrifices was to wean people away from
 egoism.  Previously, part of one's property was symbolically given to G‑d
-through burning.  Now one donates materially to help those in need.  Therefore,
+through burning.  Now we donate materially to help those in need.  Therefore,
 the only morally acceptable form of sacrifice in a restored Temple would be
 donations of the monetary equivalent of income received.  Sacrifices are not
 abolished, only the offerings are replaced in accordance with the modern level

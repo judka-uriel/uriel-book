@@ -15342,3 +15342,2108 @@ smaller branches with foliage on the outer part of the tree.  The leaves are
 visible from outside, while the trunk is hidden beneath the leaves — so too
 the deeds of the Orthodoxes are not visible to the external world, while the
 activity of the non-Orthodoxes is open to the world.
+
+When a tree's trunk reaches a certain height, its upward growth ceases.
+So too the Orthodox branches, having reached their maximum, have already
+stopped growing, meaning that Orthodox Judaism has halted in its development.
+The branches no longer grow — among the Orthodoxes nothing new appears.
+But the smaller twigs have freedom in which direction to extend.  Therefore
+only the non-Orthodox branches of Judaism continue to grow toward the light.
+<!-- Like the Hanukkah menorah, where light emanates from the tips of
+the menorah's branches. -->
+
+Such a comparison corresponds to reality, for it is precisely the branches with
+leaves that strive toward the light and direct the trunk toward the light.
+This is especially noticeable, for example, if one transplants a plant so that
+the cardinal directions shift.  Then the branches with leaves begin to reach
+in the new direction of the light and turn the plant in that same direction.
+This phenomenon is called by the scientific term
+[phototropism](https://en.wikipedia.org/wiki/Phototropism).  In exactly the same
+way, Jews of non-Orthodox movements strive toward the Divine light, and their
+task is to indicate to the Orthodoxes the direction of development and to help
+advance in that direction.
+
+For a tree to grow and flourish, both trunk and branches are needed.
+Without a trunk and offshoots there is no tree, and without branches
+the tree cannot exist.
+
+To avoid withering, a tree needs to receive balanced nourishment:
+both from its roots and from the light.
+
+Through its roots and trunk, a tree receives life-giving sap, the material for
+growth.  Through its branches and leaves, a tree receives light, transformed
+through the process of [photosynthesis](https://en.wikipedia.org/wiki/Photosynthesis)
+into nutrients.  In former times, the leaves were the prophets,
+receiving Divine light.  But now the leaves are non-Orthodox Jews.
+<!-- And I am among them.  I am a small leaf on this tree.  Yet for some reason
+the Orthodoxes strive with all their might to tear the leaf off the tree. -->
+<!-- Because the Orthodoxes retain only formal rituals (orthopraxy), but no
+longer possess the aspiration to draw near to G‑d, the Orthodoxes are no longer
+conduits of Divine light into the world.  And they forbid others as well. -->
+
+The roots nourishing from below are heritage and traditions.  
+The light nourishing from above is growth and development.
+
+Orthodox branches — conservative preservation of the existing state:
+medieval customs, accumulated stringencies, all fences and restrictions.
+<!-- in the form of layers of bark -->
+
+Non-Orthodox branches — free movement toward light, development, progress,
+adaptation to modernity, rectification of the world, resolution of humanity's
+problems, continuing improvement of life.
+
+The Orthodoxes study all opinions of past rabbis, i.e., they live in the past.
+The non-Orthodoxes, through continuing revelation, come to know G‑d's purposes,
+so as to build the future.
+
+Therefore all are needed and important: the Orthodoxes — as guardians of
+tradition, the non-Orthodoxes — as drivers of progress and development, of
+repairing the world.
+
+Orthodox offshoots need to receive light from the leaves.
+Non-Orthodox branches must not sever themselves from the roots,
+for if they bud off, they become a separate tree of another religion.
+<!-- As happened with Christianity and Islam, which separated from the tree
+of Judaism. -->  <!-- Such forms of vegetative reproduction occur both through
+cuttings and layering, when branches bending to the ground put down new roots. -->
+
+<!-- I remember being struck by an installation in Jaffa that warns
+against being uprooted from one's roots.  At the time I photographed this
+[suspended tree](https://en.wikipedia.org/wiki/Ran_Morin#Suspended_Orange_Tree),
+torn from the earth, and later this photograph was selected by Google to display
+on the map.  Perhaps the creation of this installation was inspired by
+an incident when, for Churchill's visit, Tel Aviv's mayor Dizengoff ordered
+several palm trees stuck into the sand, and when some trees fell, Churchill
+calmly remarked: “Without roots nothing will succeed.” -->
+
+{::comment}
+TODO: add foto
+{:/comment}
+
+At the same time, ideally preservation and development must be balanced not only
+within the nation as a whole, but also in each person individually.  Both the
+sefirah of preservation Hod, positioned beneath the sefirah Gevurah, as the
+preservation of all accumulated traditions, and the sefirah of development
+Netzach, positioned beneath the sefirah Chesed, as moving forward through
+perfecting the world via progress, must be filled simultaneously.
+
+Both Hod and Netzach are sefirot of action, sefirot of realization and practical
+implementation of conclusions and intentions formulated in the intellectual and
+emotional sefirot positioned above them.  Balance between the sefirah of
+preservation and the sefirah of development can be achieved when development
+occurs while preserving all the moral laws of the Torah — then the sefirah of
+Tiferet, which is connected with all of them, is also filled.  As a result of
+such unification, the sefirah of Yesod is filled, and with it Malkhut —
+and then the Mashiach will come, and Gan Eden will return to Earth.
+
+Peace in society, harmonious coexistence, and mutual respect are achieved only
+when people of opposing views, instead of waging irreconcilable enmity caused
+by radicalization, begin to move toward one another from different ends to meet
+in the middle — just as the builders moved from two ends toward the center when
+excavating the [Siloam Tunnel](https://en.wikipedia.org/wiki/Siloam_tunnel).
+Continually checking the direction of advance so as not to miss each other,
+struggling through the thickness of solid rock, we must exert effort to meet
+in the middle, because the truth is in the middle.  And then life-giving water
+will flow, irrigating all participants — and as a result, all sides will benefit.
+
+Therefore, so that there may be no enmity between left and right, between
+secular and religious, between Orthodoxes and non-Orthodoxes, it is necessary
+to move toward one another for mutual enrichment with each other's virtues:
+some could contribute to the common cause with traditions, and others with
+universal values.  All this is needed to bring people closer to G‑d.
+
+Rambam taught in *Moreh Nevukhim*
+[1:23](https://www.sefaria.org/Guide_for_the_Perplexed,_Part_1.23.3) and
+[3:51](https://www.sefaria.org/Guide_for_the_Perplexed,_Part_3.51.19)
+that the situation where people, by their conscious choice and as a result of
+their actions, lose their connection with G‑d is described by the words
+of Devarim [31:17-18](https://www.sefaria.org/Deuteronomy.31.17-18),
+[32:20](https://www.sefaria.org/Deuteronomy.32.20):
+“and I will hide My face from them”.
+Expounding upon these words in Chagigah [5b](https://www.sefaria.org/Chagigah.5b.2),
+Rava said that although G‑d hid His face,
+nevertheless in Bemidbar [12:6](https://www.sefaria.org/Numbers.12.6)
+He left the possibility of establishing an individual connection:
+“in a vision I make Myself known to him, in a dream I speak with him”.
+And Rav Yosef gave assurance that G‑d continues to protect the Jews,
+as it is said in Yeshayahu [51:16](https://www.sefaria.org/Isaiah.51.16):
+“and in the shadow of My hand I have covered you”.
+And in Yeshayahu [41:17](https://www.sefaria.org/Isaiah.41.17)
+it is said: “I, the G‑d of Israel, will not forsake them”.
+And in Beresheet Rabbah [42:3](https://www.sefaria.org/Bereshit_Rabbah.42.3)
+the words of Devarim [31:21](https://www.sefaria.org/Deuteronomy.31.21)
+are mentioned: “when many evils and troubles befall them, this song shall
+testify before them as a witness, for it shall not be forgotten out of the
+mouths of their seed”.
+
+Therefore, despite the fact that the Orthodoxes have lost their connection
+with G‑d, G‑d has not abandoned the Jewish people, has not left Israel
+without protection. <!-- helps non-Orthodox Jews defend Israel -->
+And indeed, the mercy and patience of G‑d always leaves open the
+possibility to return to the path of drawing near to G‑d.  And then
+G‑d reveals His face, and the connection with G‑d is established.
+
+The Shekhinah remained, and the mission remained — the mission of
+serving G‑d and bringing the ideals of the Torah to life.
+But the mission is not one of withdrawal from the world, as among the
+Orthodoxes, when they create a private men's club with a strict guest list
+and face-control at the entrance, to which it is impossible to obtain
+an invitation, not an exclusive elite club of aristocrats with privileges.
+Rather, the mission is the repair of the world and drawing near to G‑d.
+
+The mission of the Jewish people is not yet complete, despite the
+high level already achieved: both in social development (human rights,
+respect for minority rights) and in political structure (democracy and
+freedoms).  Nevertheless, an enormous number of problems remain that
+require correction.
+
+The mission is not finished and the covenant with G‑d is not annulled,
+as it is said in Vayikra [26:44](https://www.sefaria.org/Leviticus.26.44):
+“I will not reject them, neither will I abhor them, to destroy them utterly,
+and to break My covenant with them.”
+
+But G‑d protects not because a minority of the people, represented by the
+Orthodoxes, follow all their numerous stringencies.  Rather, because the
+majority of the people observe the fundamental commandments through tradition.
+
+According to statistics,
+93–98 percent of Israeli Jews circumcise their sons.
+92–97 percent conduct a Seder on Pesach.
+85 percent hold bar and bat mitzvahs.
+75 percent observe the Torah's commandments of kashrut.
+74 percent fast on Yom Kippur.  Etc.
+
+The welfare of Israel is founded not on the strictness of the Orthodoxes,
+but on the voluntary observance of the principal commandments by the majority
+of the people.  And when the Orthodoxes forcibly compel the people to observe
+more strictly than necessary, they only make matters worse and drive people away
+from Judaism.
+
+G‑d permitted non-Orthodox Jews to establish Israel and preserves Israel
+not because of the dictates of Orthodox rabbis, but because the majority
+of Jews, including even secular ones, themselves strive to observe the
+fundamental commandments.
+
+Also, G‑d protects Israel not because of the gender segregation imposed by
+the Orthodoxes, but rather in spite of it.  G‑d protects Israel only because
+the majority, including traditionalist Masorti Jews and even secular ones,
+observe the commandments without Orthodox stringencies.
+
+The majority observe traditions not by compulsion, as practiced among
+the Orthodoxes, but of their own free will, which is the ideal of the Torah.
+The primary motivation is individual responsibility as in a democracy,
+not fear of punishment as in a theocracy.
+
+<!-- It is crucial to note that this applies only at a high level of
+responsibility and conscious awareness!  When someone merely follows
+*yetzer ha‑ra*, their evil inclination, while claiming that G‑d tells them
+to do so, they are no different from Arab terrorists who commit atrocities under
+the name of Allah, or from Russian terrorists blessed to commit atrocities by
+priests of the Russian Orthodox Church.  On the other hand, just as democratic
+societies rest upon a high level of citizen responsibility, when development
+proceeds further in this direction, it will be possible to reach a state where
+each person follows the moral law of at minimum not doing to another what one
+would not wish for oneself.  -->
+
+The times are coming when the prophecies will be fulfilled that everyone will know G‑d:
+
+> And no longer shall each person teach his neighbor and each his brother,
+saying, “Know the L‑rd”, for they shall all know Me, from the least of them
+to the greatest
+(Yirmeyahu [31:34](https://www.sefaria.org/Jeremiah.31.34))
+
+No longer shall teach one another — this means that instead of sitting all
+day long merely studying rabbinic stringencies, people will clearly perceive
+through signs from G‑d, intuition, and revelations in which direction the Torah
+guides human development, what exactly G‑d expects of people, as it is said:
+
+> After that, I will pour out My spirit upon all
+flesh, and your sons and your daughters shall prophesy, your elders shall
+dream dreams, and your youths shall see visions
+(Yoel [3:1](https://www.sefaria.org/Joel.3.1))
+
+Upon attaining such understanding, it becomes possible to analyze
+all accumulated errors and find paths for their correction.
+
+The fundamental error of the Orthodoxes is that they have become stuck
+at a local maximum — which is a dead end preventing the attainment of
+the global maximum.
+
+To understand concepts such as
+[local maximum](https://en.wikipedia.org/wiki/Backpropagation#Limitations) and
+[global maximum](https://en.wikipedia.org/wiki/Maximum_and_minimum),
+we can imagine a journey through mountains.
+For example, at some point we find ourselves atop a hill.
+In this case, a local maximum is a peak
+that is higher than all the points near it.
+From the hilltop one can see that other peaks around are even lower,
+but somewhere farther away there may be a higher mountain.
+The global maximum, however, is the highest point of all,
+even if one looks at all the mountains around.
+In short: if you stand on a hill — that is a local maximum,
+but if you stand on Everest — that is the global maximum.
+
+This is clearly visible in this graph:
+
+![global maximum](../../../files/book/maximum_en.png){:.center}
+
+Thus the Orthodoxes are stuck in the state of a local maximum.  A local maximum
+is a dead end, since in 2000 years it has not allowed the restoration of the Temple.
+<!-- and didn't prevent assimilation -->
+
+And the global maximum (on the graph above the dashed line) is achieving the
+possibility of building the Third Temple and bringing the Mashiach.
+
+Because of accumulated errors, the development of Orthodox Judaism has reached
+an impasse, and Jews have begun leaving the fold of Judaism in large numbers.
+Therefore, the task of the non-Orthodoxes is to emerge from this impasse
+as from a local maximum.
+
+We must find a way out of this dead end — and the non-Orthodoxes can do this
+by correcting all the mistakes of the Orthodoxes that prevent the coming of
+the Messiah and the building of the Third Temple.
+To achieve this in the search for the global maximum, we must employ heuristics
+through intuition and direct connection with G‑d.
+
+In doing so, it is important to ensure we do not throw the baby out with the
+bathwater, i.e., to carefully watch that in discarding medieval stringencies
+we do not also discard the commandments of the Torah.
+We must separate stringencies from actual commandments, which must be fulfilled
+so that G‑d will provide protection.  The Oral Torah is constantly evolving, but
+the problem is that along with this, errors accumulate that manifest themselves
+as society develops.
+Therefore, what is needed is not leniencies, but only the correction of the
+Orthodoxes' mistakes, which will in turn lead to the repair of the world.
+
+And Orthodox Judaism is simply incapable of resolving problems by definition —
+for the Orthodoxes, the possibility of correcting errors is entirely excluded.
+Therefore, this remains the task of non-Orthodox Judaism.  Just as the mission
+of all Jews is to illuminate defects that require correction, so too is the
+mission of the non-Orthodoxes to participate in correcting those defects.
+
+The Orthodoxes have bound the service of G‑d to backward medieval ignorance —
+because of this, the secular are cut off from religion.
+The task of the non-Orthodoxes is to break this vicious circle,
+to serve G‑d without walling themselves off from the modern world.
+For this, we must cleanse the originally pure vessel of Judaism
+from the shells of medieval stringencies.
+
+Herein lies one of the most essential distinctions between Orthodoxes and
+non-Orthodoxes: Orthodoxes perceive all pronouncements of the ancestors as
+the ultimate truth from unquestionable authorities, while non-Orthodoxes have
+grounds to consider that medieval ancestors were no wiser than contemporaries,
+that the opinions of ancestors are interesting for studying the history of
+Judaism, but it would be unreasonable to base the life of a modern person
+on medieval customs; rather, customs must be adapted to modernity.
+
+The task of the Orthodoxes remains to avoid assimilation by every means —
+for this purpose they must continue observing all the stringencies of exile.
+The task of the non-Orthodoxes is to preserve Jewishness in conditions of
+integration that has already occurred, when Jews live by universal laws rather
+than by Halakhah.  What helps resist assimilation is not so much a fear-based
+religion with all its rituals and stringencies, but rather faith in the vocation
+of the Jewish people to be a conduit of G‑d's will into the world.
+
+Non-Orthodox Jews have much to give to the world.  But the Orthodoxes
+have nothing to teach the nations of the world, except their eccentricities.
+The Torah has already brought light to the nations — all the development of
+modern civilization is founded upon the Torah.  The Talmud, however, has had
+absolutely no influence on the development of civilization and has brought
+no light to the nations.  Therefore, the task of bringing light to the nations
+has passed to non-Orthodox Jews.
+
+But in all honesty, despite the fact that the Orthodoxes can no longer give
+anything more to the world, the Orthodoxes still have a task — simply by their
+existence to serve as a reminder of G‑d.  Also by their presence among the
+nations of the world to advance the idea of tolerance.  And furthermore — not
+to hinder the non-Orthodoxes from making the world better.  That is, the role
+of the Orthodoxes is passive.  While the task of the non-Orthodoxes is, in
+addition, to engage more actively in the repair and improvement of the world.
+
+This book does not call upon the Orthodoxes to cease observing their
+stringencies or to reduce their number — it is clear that the Orthodoxes
+cannot abandon the additional restrictions they have taken upon themselves,
+cannot lower the degree of the obligations they have assumed.
+
+The goal of this book is to define the absolute minimum of necessary
+commandments whose observance G‑d still requires of non-Orthodox Jews.
+Only non-Orthodoxes can achieve such a balance, observing in measure —
+exactly as much as G‑d needs.
+When all non-Orthodox Jews, including patrilineal Jews, observe the minimum
+necessary, rather than the enormous quantity of stringencies demanded by
+Orthodoxes, this will help hasten the moment of building the Third Temple
+and the coming of Mashiach.
+<!-- The process of Geulah includes patrilineal Jews as well —
+this is connected to the possibility of returning to Israel. -->
+
+<!-- Before the destruction of the Second Temple, Jewish identity was
+transmitted through the father, therefore to build the Third Temple
+it is necessary to return to the Torah and restore Jewish identity
+through the father. -->
+
+The covenant continues, which all Jews must observe, including patrilineal Jews,
+yet the Orthodoxes forbid patrilineal Jews from observing the covenant, and
+therefore the Third Temple still cannot be built.  Paraphrasing the midrash
+Bamidbar Rabbah [1:3](https://www.sefaria.org/Bamidbar_Rabbah.1.3):
+“If the Orthodoxes knew how much benefit patrilineal Jews could bring,
+they would surround them with care and shield them from all troubles.”
+
+<!-- The task of the non-Orthodoxes is for all secular Jews to observe the
+minimum required by G‑d, and only if after that it proves impossible to build
+the Temple, it's acceptable to begin adopting stricter practices in the
+direction of the Orthodoxes. -->
+
+Observing the commandments of the Torah can be compared to following traffic
+regulations.  When driving on the roads, one must observe all traffic
+regulations.  One cannot say: “I don't want to observe one particular rule”,
+for example, “I want to drive through intersections on a red light”.
+Unfortunately, such a violation of even one rule leads to tragic consequences
+not only for the violator, but also for other participants in traffic.
+
+But on the other hand, observing more than necessary also leads to huge
+problems for others.  This can be seen by analogy with observing speed limits.
+Those who observe less than required correspond to violators of the rules by
+speeding in dangerous areas.
+And those who observe more than required behave like cautious slowpokes
+driving very slowly — and thereby creating dangerous problems for others.
+<!-- (e.g., did not circumcise me) -->
+For example, if the permitted speed on a highway is 90 km/h (55 mph),
+then by the rules it is forbidden to drive both faster and slower.
+<!-- Even on a driving test, they will not pass the examinee
+if he drives slower than the permitted speed. -->
+
+Therefore, one who violates the commandments is analogous to a driver
+who breaks traffic laws and exceeds the speed limit.
+And those Orthodox rabbis who establish additional restrictions, and the
+Orthodoxes who observe all stringencies, are like those dawdlers who crawl
+along slower than the permitted speed — and thereby force others to crawl
+behind them.  By their actions they create numerous problems for people:
+
+- they take time away from people in a hurry — both from other road users
+  and from those observing the commandments, who could spend that time
+  more productively;
+- they force drivers who lack extra time to violate traffic rules — these
+  drivers must risk speeding when overtaking, which often ends in head-on
+  collisions and other tragic consequences both for road users and for those
+  who wish to observe the commandments.
+
+This comparison vividly demonstrates that additional restrictions bring only
+harm.  Therefore, so that no one would have problems: just as on the road one
+must observe the speed limit and maintain a speed no greater, but also no less
+than permitted — so too in observing the commandments one must not be
+overcautious by adding unnecessary restrictions and stringencies.
+
+It is also important that the volume of commandments for study should not exceed
+the volume of traffic regulations — otherwise, too high a barrier is established
+for learning and observance.
+
+According to the schema “thesis → antithesis ⇒ synthesis” (which has roots in
+Judaism, where it is said: “two verses of Torah, perceived as contradicting one
+another, can be understood by means of a third verse that reconciles them”),
+the history of development can be broken down into the following stages:
+
+- thesis — Orthodoxy with all the burden of stringencies
+  accumulated over the centuries (corresponds to dictatorship);
+- antithesis — complete rejection of observing the commandments
+  (corresponds to anarchy).  These are the secular, who have fully departed
+  from the religion of their ancestors.
+- synthesis — conscious observance of the principal laws with personal
+  responsibility (corresponds to democracy).  These are the non-Orthodoxes,
+  correcting the errors of their ancestors and resolving problems that the
+  Orthodoxes themselves are unable to solve.
+
+At the same time, there is no need to discard what has been accumulated by the
+Orthodoxes.  It's required only to correct all the errors of the ancestors.
+Just as in the case where a program does not work as users need it to,
+it is better not to throw out the program and start from scratch,
+but rather to add patches with bug fixes to the program —
+then the history of changes preserves all the work done by predecessors,
+while at the same time the current version is adapted to the requirements
+of the modern world.
+
+Thus, in order to transition from a coerced covenant to a voluntary one,
+many Jews had to depart from the covenant entirely, and then return
+individually, following the call of conscience, i.e., teshuvah.
+
+Such a return from radicalization to balance corresponds to the sefirah of
+Tiferet.  But now such an absurd situation has developed that, due to the
+gradual slide toward extremes, on one side the Orthodoxes observe more than
+necessary, while on the other side the secular observe less than necessary.
+As a result of this imbalance, polarization occurs, where some observe nothing
+at all, while others compensate with excessive stringencies.
+
+Among the non-Orthodoxes, everything is fair — each observes to the extent
+they can: without extremes either toward stringencies or toward complete
+abandonment of observance.
+
+However, I do not judge anyone.  Many secular, reasonable people are unable to
+observe due to the great number of absurd stringencies inherited from medieval
+ancestors.  Yet it is said in Bava Batra
+[60b](https://www.sefaria.org/Bava_Batra.60b.19) that one does not impose
+upon people stringencies which the majority cannot bear.
+
+All the more do I not condemn those who are sympathetic to the ultra-Orthodoxes.
+To be honest, I understand their motivation, because I myself was a convinced
+admirer of the ultra-Orthodoxes, i.e. sympathetic to the Orthodoxes, and
+I remain so to this day, even after everything.  That is, if the Orthodoxes
+were to accept me now, I would gladly join them.  But it is unlikely that
+they would want to accept me.
+
+<!-- Everything has its pluses and minuses.  The plus of spending a long time
+in the Orthodox milieu was that I learned much from the Orthodoxes — attending
+Orthodox synagogues, I learned all the traditions: how to pray, what to do on
+the Sabbath and festivals, which books to read, etc.  Therefore I strongly
+advise non-Orthodox Jews to read Orthodox texts even though the goals of
+Orthodoxes and non-Orthodox Jews differ: preservation of traditions *vs*
+repairing the world.
+
+In general, studying Judaism is analogous to obtaining another education.
+Few people find within themselves the energy and time to obtain a second
+education in addition to their first primary one, which they use for advancing
+in their professional career and for earning income.  For this same reason,
+most ultra-Orthodoxes are deprived of the opportunity to earn their living
+through skilled labor, since they receive only one education in the form of
+studying Talmud.
+
+And observing all Orthodox stringencies is a full-time job.  If one works
+full-time only to observe all the traditions, too little free time remains
+for additional work in performing good deeds and improving the world. -->
+
+Instead of accepting me into an Orthodox community, the Orthodoxes themselves
+directed me to the non-Orthodoxes and advised me to join a non-Orthodox
+community.  Which I did.
+<!-- I didn't understand at first why, but I nevertheless heeded the Orthodox
+rabbis and joined a non-Orthodox community, and then it turned out that the
+Orthodox rabbis were right, and I am now glad — this is what I need. -->
+
+<!-- My wavering resembles the words of Hoshea
+[2:9](https://www.sefaria.org/Hosea.2.9): “I will go and return to my first
+husband, for then I fared better than now.”  It is as if a husband, having
+a good wife, were to pursue the favor of a mysterious and unattainable beauty,
+and then came to see that she has a wicked character, is mean and cruel, and
+then returned to his good wife — so I too became disillusioned with the
+Orthodoxes and remained with my non-Orthodox community. -->
+
+Visually this can be represented as follows:
+
+![circles](../../../files/book/circles_en.png){:.center}
+
+<!-- chesed → gevurah → tiferet -->
+
+Here it is clearly visible how the ultra-Orthodoxes kicked me out
+from the Orthodox circle into the non-Orthodox one.
+<!-- Moreover, not into any specific denomination, but into what is called
+[post-denominational Judaism](https://en.wikipedia.org/wiki/Non-denominational_Judaism). -->
+Thus the Orthodoxes themselves made me a non-Orthodox.
+<!--
+Because of the antisemites I realized that I am a Jew.  
+Because of the terrorists I became a Zionist.  
+Because of the Orthodoxes I became a non-Orthodox.
+-->
+
+Therefore, I can rightfully declare:
+
+I AM A NON-ORTHODOX JEW.
+
+Finally, I have found my [identity](https://en.wikipedia.org/wiki/Identity_(social_science)),
+and now I am happy because of it.
+
+<!-- Since it is definitively known that I am Jewish, but the Orthodoxes do not
+recognize me as Jewish, this means only one thing — that I am a non-Orthodox Jew.
+Because the Orthodoxes have no authority over non-Orthodoxes. -->
+<!-- Since non-Orthodoxes consider me Jewish, it follows that I am a non-Orthodox Jew. -->
+<!-- The Orthodoxes cannot deny the right of existence to non-Orthodoxes.
+The Orthodoxes cannot forbid me to be Jewish and to serve G‑d,
+rather than the Orthodoxes. -->
+
+Despite the fact that Orthodoxes wish to consider Jews through the paternal line
+as having no religious and consequently no national identity, I am proud to bear
+the honorable designation: a religious, observant, non-Orthodox Jew.
+I am a baal teshuvah.  I have returned to the religion of my ancestors:
+my Jewish ancestors observed, and now I too observe.  I observe absolutely all
+the commandments of the Torah, but without Orthodox stringencies,
+since non-Orthodox Judaism is Judaism without stringencies.  I observe only
+what G‑d requires, not what rabbis require.  And by observing fewer stringencies,
+it becomes possible to observe more commandments.  Therefore I do everything in
+my power to hasten the coming of Mashiach and the building of the Third Temple.
+
+<!-- And when Orthodoxes hate me because I am Jewish, I perceive this as
+a continuation of the baseless hatred among Jews that caused the destruction of
+the Temple.  Therefore, Orthodoxes continue to destroy the Temple. -->
+
+We might say that all of Israel is one large non-Orthodox community.
+Just as [Brighton Beach](https://en.wikipedia.org/wiki/Brighton_Beach)
+bears the nickname “Little Odessa”, so too can our non-Orthodox community
+be called “Little Israel”, because the community admits members on the basis
+of the [Law of Return](https://en.wikipedia.org/wiki/Law_of_Return),
+without discrimination through paternal lineage.
+
+Even more so, while in Israel the Orthodoxes exert their destructive influence
+with excessive severity, extending to flagrant cases of injustice — when even
+Jews by patrilineal descent who fell in battle for Israel are refused burial in
+Jewish cemeteries — unlike this, our community shows greater mercy,
+making the Jewish cemetery accessible to the entire community.
+
+Before, my life was absolutely unbearable.  And only in the non-Orthodox Jewish
+community did I find a sense of belonging to a family, when I was accepted into
+the Jewish family as an equal member of the Jewish community.  Our non-Orthodox
+community is a true family.  The most accurate definition: a family is where you
+are not cast out of the home, but on the contrary, are always welcome.  Now
+I am happy that I have finally found a place from which I am not cast out.
+In childhood my mother cast me out of the house (therefore I was like an orphan).
+In my youth my beloved cast me out (therefore I was like a widow).  And all the
+time the Orthodoxes cast me out as a stranger.  All my life I was subjected to
+persecution.  And now at last I have found a place from which I am not cast out.
+And this is sufficient for happiness.  The only joy remaining in my hopeless
+life is that I was accepted into the non-Orthodox Jewish community.
+
+I wish to express my immense gratitude to our Jewish community.
+I am grateful for the wonderful Hebrew lessons conducted in the community.
+And we had good times after the lessons as well.
+
+Our non-Orthodox Jewish community provides assistance in all needs, including:
+
+- receiving matzah for Passover
+- conducting the Passover Seder with a beautifully arranged Haggadah
+- traditional festivals such as Hanukkah and Purim
+- Hebrew lessons
+- numerous educational programs
+- etc.
+
+Moreover, there is no artificial separation between men and women
+in the community; everyone interacts freely, without the prudishness
+found in Orthodox communities.
+
+I am grateful that the members of our community continually help me with all
+my problems, including legal consultations and transportation services.
+They also helped with work when I was sitting around suffering without money, etc.
+And I too help, as much as I am able.
+
+In line with the general course toward transitioning to electronic services
+(e-services) to make life easier for people, our community provides the
+opportunity to request assistance in an easy and convenient manner, simply by
+filling out the appropriate form electronically.  For community members who find
+themselves in difficult life circumstances and need support, it is sufficient
+to select what is needed from the list (I suffered from all these items):
+
+1. lost my job
+2. my income has decreased
+3. financial burden has increased
+4. health has deteriorated
+
+And help will not be long in coming.
+
+Members of non-Orthodox communities help because they actively engage
+in repairing the world (*tikkun olam*).  This is the role of the Jewish
+people — generous improvement of the world.
+
+Thus I always received help and support from the non-Orthodox community.
+But the Orthodoxes did nothing to help — such a striking contrast.
+
+Orthodox communities displayed only *gevurah*, when they demeaned in every way
+and continually harassed, ignoring urgent problems.  But the non-Orthodox
+community, on the contrary, manifests the category of *chesed*, helping all
+those in need.  I cannot even recall greater mercy in life than what our Jewish
+community shows.  When life was utter hell, our community extended a helping
+hand and saved me.
+
+In Orthodox communities, only gevurah manifests without chesed.
+In non-Orthodox communities, conversely — only chesed without gevurah.
+Yet it is only in non-Orthodox communities that we can maintain
+a balance of gevurah and chesed.  The reason is that gevurah and chesed are not
+entirely symmetrical.  Gevurah can be imposed from outside — through threats
+and fear of punishment, as occurs in Orthodox communities.  But gevurah can be
+also applied to oneself independently — in the form of self-restraint, and this
+can be performed in non-Orthodox communities.
+
+Unlike this, chesed can only be received from outside —
+when one needs help, one cannot help oneself.
+Therefore, in non-Orthodox communities it's possible to maintain
+a balance of inner individual gevurah and external chesed.
+Whereas in Orthodox communities only external gevurah remains.
+
+One example of self-imposed *gevurah* is the fact that everyone who belongs
+to a non-Orthodox community has not assimilated but has only integrated into
+society while preserving commitment to Judaism.
+
+Another distinction is that among the ultra-Orthodoxes, primarily only the
+intellectual sefirah of Binah is filled — through the process of analyzing the
+Talmud.  Whereas among non-Orthodoxes, a combination is possible of the sefirah
+of Binah with understanding society's problems, and of the sefirah of Chokhmah
+with the aspiration to find solutions to all human problems.
+
+The primary task of non-Orthodoxes is to strive to perform as many good deeds as
+possible and to work continually for the development of humanity and the world.
+
+So the Orthodox community did not accept me, but the non-Orthodox community did.
+Now it would be appropriate to compare how other nations of the world
+act in similar situations.
+
+I found myself in the same situation in the early 1990s, when my Jewish friends
+left for Israel, while I remained, because the Orthodoxes did not consider me
+Jewish.  Therefore I needed to somehow settle in my country of birth.  At that
+time the former Soviet republic, having regained independence, began to build
+a national state, whose priority was concern for the titular nationality, for
+the preservation of its nation.  Despite the fact that I was born in this
+republic, I did not receive citizenship automatically.  Therefore the situation
+was analogous: just as the Orthodoxes considered me a person without nationality,
+stripping me of identity, so too the titular nation defined me as a person
+without citizenship — [alien](https://en.wikipedia.org/wiki/Alien_(law)).
+
+But I did not condemn such a state of affairs — the indigenous nationality was not
+obligated to automatically grant citizenship to occupiers and their descendants.
+Though in fact all who migrated here after the occupation could rightfully
+be called occupiers, still, out of courtesy the authorities refrained from using
+the word “occupiers”, but on the contrary — granted everyone who wished the
+opportunity to naturalize freely, i.e., acted more than humanely.
+
+To obtain citizenship, it was sufficient to learn the language at a minimal
+level, including through free courses, and pass a language proficiency exam.
+And that was all — nothing more was required.
+
+And then I successfully passed an easy exam, where there were no nitpicks,
+but rather — a benevolent attitude.  And as a result I received citizenship.
+
+Now let's compare how the Orthodoxes acted in a similar situation.
+I diligently learned all the traditions required by the Orthodoxes to exactly
+the same degree.  Yet the Orthodoxes not only did not accept me, but did not
+even admit me to the exam — they refused outright to administer the exam.
+That is, they acted even worse than the antisemites who failed
+Jewish applicants at entrance exams.
+
+<!-- The Orthodoxes behave as though, after a steamship has sunk,
+only a limited number of places remain available in the lifeboats. -->
+
+From this comparison it becomes clear that in the modern world, the nations of
+democratic countries, despite being no less concerned than the Orthodoxes about
+preserving their own peoples, demonstrate a far higher level of chesed —
+compassion toward strangers — than do the Orthodoxes.
+
+Here an important clarification must be made: everything said above about
+cruelty toward strangers applies only to the Orthodoxes, not to Israel.
+As an example of the State of Israel's merciful treatment of strangers,
+I can present the following case.  In the early 2000s I traveled to Israel alone,
+and when I arrived at the airport for an El Al flight for which no public
+registration was available, I caused a minor commotion.  But after questioning
+and checking, they let me board.  And upon arrival at Ben Gurion Airport, too,
+there were checks each time, but I was always admitted to Israel.
+
+And I was never offended during security checks at airports, because I realized
+that checks are necessary to combat terrorism.  And after the checks, they
+invariably let me through.
+
+<!-- BTW, once I saw at Ben Gurion Airport how one ultra-Orthodox who
+does not recognize Israel tried to break through passport control. -->
+
+A counterexample is the Orthodoxes who would not admit someone out of fear of
+“terrorism”, where “terrorism” means such concerns as: they will accept the stranger,
+and he will cease to follow all their stringencies.  That is, among the Orthodoxes
+the scrutiny is far more stringent because they consider violation of stringencies
+far worse than terrorism.  Thus present-day Orthodoxes regard as “terrorists”
+even those who were on their side and sympathized with them.
+
+Another example of how non-Orthodox Jews help: upon *aliyah* to Israel,
+*olim chadashim* immediately receive *sal klitah* and other forms of assistance.
+<!-- *mashkanta* (mortgage loan), etc. -->  And most importantly, Israel accepts
+as citizens all Jews through the father up to the third generation.  Israel is
+secure and prosperous because it lives by the Torah — in accordance with the
+laws of the Torah and recognizes Jewishness through the father, and accepts
+Jews through the paternal line, and shows mercy in many other ways.
+
+And among the Orthodoxes there is nothing of the sort to ease people's problems
+— the Orthodoxes provide no help whatsoever to those in need.
+
+<!-- The Orthodoxes consider themselves to be like G‑d.
+This is a [gatekeeper syndrome](https://en.wikipedia.org/wiki/Gatekeeper_parent),
+when they arbitrarily decide whom to admit into the covenant with G‑d.
+A boss syndrome, when they revel in their unchecked power.
+They behave as if they are performing G‑d's functions,
+but fail because of their limitations,
+including their complete disregard for the attribute (*middat*) of mercy.
+They think that G‑d looks indifferently upon people's problems,
+and the Orthodoxes do the same.
+But in truth G‑d continually helps people.
+I have always had it that only at the very last moment
+G‑d would rescue in situations where, without help, serious
+consequences could have ensued.  This appeared as a safety net —
+G‑d gives people the opportunity to show themselves in the work of rescue.
+And only when people themselves have not succeeded, then at the last moment
+G‑d comes to their aid. -->
+
+This comparison shows that presently the nations of democratic countries,
+including Israel, manifest the high level of chesed necessary for drawing near
+to the Divine light.
+
+In manifesting chesed, Israel goes even further than Western countries.
+For example, Arabic has a special status in Israel, and all public information
+is duplicated in Arabic: signs, notices, etc.  Not a single Western country
+with a large percentage of Muslims, even those with predominantly ultra-leftist
+sentiments, grants Arabic such status.  Not one of the countries that vote
+against Israel in the UN treats Arabs better than Israel does.  Even countries
+with Arab populations treat their own Arabs far worse than Israel does.
+
+The high level of chesed in Israel is achieved thanks to non-Orthodox Jews.
+The Orthodoxes, meanwhile, are stuck in a hopelessly backward past and are
+sliding ever lower when they take their example from Muslim countries.
+For instance, the Orthodoxes emulate the cruel treatment of women in Islamic
+countries, especially in Iran.  Therefore, the moral level of today's
+Orthodoxes lags behind the pace of development of civilized nations
+in democratic countries.
+
+Today's level of the Orthodoxes is stuck roughly at the level
+where Western countries were before the twentieth century.
+For example, when slavery had already been abolished in America,
+but segregation still remained: Black people were not permitted to ride
+alongside whites, and could only sit in the back section of the bus behind
+a partition like a *mechitza*.  And now among the Orthodoxes slavery has
+already been abolished, but segregation remains — and on public
+transportation women are humiliatingly driven to the back section.
+
+They also avoid touching women, like pagans with untouchable castes.
+For example, when at secular receptions Orthodox rabbis publicly refuse to
+shake hands with a woman as a representative of authority, this appears not
+only impolite, but in the eyes of the nations of developed countries such
+gender discrimination is seen as a savage relic of the past.  It is regrettable
+that this seriously discredits Judaism in the eyes of the nations of the world.
+
+For example, in Germany the KKK principle
+*[Kinder, Küche, Kirche](https://en.wikipedia.org/wiki/Kinder,_Küche,_Kirche)* —
+“children, kitchen, church”, which restricted women to a narrow sphere of duties
+was abandoned long ago.
+Even Russian obscurantists have failed to restore the
+*[Domostroy](https://en.wikipedia.org/wiki/Domostroy)*.
+Yet among the ultra-Orthodoxes, the corresponding principle of
+“children, kitchen, mikvah” has not yet been overcome.
+
+And among Muslims, the demeaning attitude toward women is still dictated by
+Sharia law.  What is Sharia?  Sharia corresponds to the concept of Halakhah.
+Just as Halakhah has little in common with the Torah, Sharia law, as a result of
+the lawmaking of many generations, has departed just as far from their original
+Quran.
+
+For example, the Quran recognizes the right of Jews to Israel.  In the seventh
+surah, verse 137, it is written that Allah granted as an inheritance to the sons
+of Israel the eastern and western lands, i.e., from the Nile to the Euphrates,
+including Jerusalem (5:21).
+
+But significantly later, hostility toward Jews began to be incited in orally
+transmitted hadiths, which correspond to midrashim.  For example, in the hadith
+Sahih Muslim 2922, recorded in the Middle Ages, it is said that when a Jew hides
+behind a stone and a tree, the stone or tree (except for the
+[gharqad](https://en.wikipedia.org/wiki/Gharqad) tree, which protects Jews)
+will say: “Hey, Muslim, there is a Jew hiding behind me, so kill him.”
+
+Just as the Orthodoxes are mired in Medieval Halakhah to the detriment of the
+Torah, so too are Muslims unwilling to renounce their prejudices formed in the
+Middle Ages.  As the Orthodoxes deny the Torah's law regarding the transmission
+of Jewishness through the father, so too do Muslims deny the Quran's law
+regarding the Land of Israel belonging to the Jews.  If Halakhah could be
+modernized in accordance with the moral standards of contemporary civilization,
+then Muslims would follow suit and abandon the barbaric laws of Sharia.
+And when the Orthodoxes rid themselves of their stubbornness, Muslims will
+follow that example as well and consent to the building of the Third Temple.
+
+<!-- Orthodoxes who insist on establishing the laws of Halakhah in Israel do
+themselves harm — by this they set an example for Muslims to continue adhering
+to the inhumane and godless laws of Sharia, which are destructive including for
+the Orthodoxes themselves.  Therefore, in the modern world, religion must be
+limited to the individual responsibility of each person before G‑d alone. -->
+
+Instead of taking the example of radicalization from Muslims, it's necessary
+to do the opposite — teach Muslims by our own example what true filling
+with light should look like.  Then, following the example of civilized nations,
+Muslims will first begin to treat women with respect, and later respect Jews
+as well.  And then the long-awaited peace will come.
+
+<!-- Some Orthodoxes justify their lack of mercy by claiming that it resembles
+Christians.  But they do not understand that their cruelty resembles Muslims.
+What is needed is balance — a measure of severity to preserve the people,
+but also mercy is needed to lessen the suffering of human beings. -->
+
+Therefore one of the most important tasks of non-Orthodox Jews is to demonstrate
+by our own example to the Orthodoxes and Muslims how we must free oneself
+from medieval prejudices that hinder the development of human civilization
+on the path of advancement toward G‑d.  At the same time, not abandoning our
+traditions entirely, but maintaining individual contact with G‑d within the
+framework of our religious rituals and prayers.
+
+Non-Orthodox Jews can exert a positive influence on Muslims by our example.
+Like non-Orthodox Jews, non-Orthodox Muslims could also reduce radicalization
+while still preserving their traditions.  All this will diminish the level of
+antisemitism and allow for the elimination of terrorism.
+
+It is clear that antisemitism and terrorism are pure evil.  But no less
+distressing is the fact that often the desire to perform good deeds also brings
+many problems.  All would be well if Satan did not transform every noble impulse
+to do good into its opposite, thereby making real the saying “The road to hell
+is paved with good intentions.”
+
+For example, the worldwide social network Facebook was conceived with noble aims
+— to unite people across the globe.  Yet the result has been a ghetto with
+strict police control in the spirit of the worst dystopias, where every
+suspicious statement brings repression and punishment in the form of being
+deprived of the ability to communicate with people, thus transforming into
+its opposite under the name “antisocial network”.
+
+Equally disheartening is the large number of errors committed by democratically
+elected authorities in Western countries.  Desiring to do good, they are subject
+to the vices of weakness and indecisiveness, and then their inaction brings even
+more problems.
+
+<!-- For example, such an utterly absurd requirement as the
+[EU cookie directive](https://en.wikipedia.org/wiki/HTTP_cookie#EU_cookie_directive),
+which instead of helping users, brings suffering to people. -->
+
+I am fortunate to live in a country that has adopted the most sensible and
+rational laws in the world, which make people's lives simple and easy.
+After restoring independence, every effort was made to do everything as wisely
+as possible, to build an ideal country, maximally convenient for living, where
+many problems have been solved, bureaucracy has been completely eliminated,
+no time is wasted on meaningless interaction with government agencies,
+where all necessary actions, including
+[voting](https://en.wikipedia.org/wiki/Electronic_voting_in_Estonia),
+are accomplished in a couple of minutes from a computer or smartphone.
+
+Another remarkable example of repairing the world is the worldwide
+initiative to clean up litter on the planet under the slogan
+*[Let's Do It! World](https://en.wikipedia.org/wiki/Let's_Do_It!_World)*,
+which later became known as
+*[World Cleanup Day](https://en.wikipedia.org/wiki/World_Cleanup_Day)*.
+Many other positive examples of *tikkun olam* could be cited as well.
+
+But despite all these splendid examples of contribution to the repair of
+the world, in recent times, there has begun to be, frankly speaking,
+such idiocy that brings people nothing but additional troubles.
+This may be caused by a generational shift:
+“Hard times create strong men.
+Strong men create good times.
+Good times create weak men.
+And weak men create hard times.”
+<!-- For example, when following the fashion for ultra-left sentiments,
+some begin to support the Palestinian Arabs and even identify with them —
+despite the fact that most of them are terrorists. -->
+
+Therefore, a rather disappointing conclusion follows: even if one strives
+to do everything as reasonably as possible, to enact the most reasonable laws,
+and even if people try not to cause suffering to others, due to Satan's
+interference the same problems remain — when Satan causes unintended
+actions to bring suffering to others, and therefore the sum of suffering
+is not significantly reduced.
+
+It seems that humanity has reached the peak of its ability to solve problems,
+and further attempts at “improvements” only make things worse.  For example,
+as the ultra-left demonstrate through their behavior — when through their
+“well-intentioned” actions they only destroy the world.
+
+When good people unintentionally bring suffering to others — all this is due to
+the influence of Satan.  Or when leftists, from noble motives, begin to support
+terrorists, even to their own detriment — this too is due to the influence of
+Satan.  Moreover, due to a lack of reason, they themselves are incapable of
+recognizing this, and it would be utterly impossible to explain this to them.
+
+The only hope remaining is that the Mashiach will be so wise and discerning as
+to comprehend that the chief impediment on the path to establishing paradise on
+Earth is the influence of Satan upon people.  Therefore, for the resolution of
+all problems, only one possibility remains — to actively hasten the coming of
+the Mashiach.
+
+One of the most important commandments of the Torah, upon which the world stands,
+is the following repeatedly mentioned commandment:
+{: #left-right title="Left and Right"}
+
+<!-- This expression first appears
+in Devarim [2:27](https://www.sefaria.org/Deuteronomy.2.27):
+“I will go along the highway, I will turn neither to the right nor to the left.” -->
+
+| Be careful to do as the L‑rd your G‑d has commanded you.  Do not turn aside to the right or to the left |
+| (Devarim [5:29](https://www.sefaria.org/Deuteronomy.5.29)) |
+{: .chapter}
+
+| Do not deviate to the right or to the left from any of the words which I command you this day |
+| (Devarim [28:14](https://www.sefaria.org/Deuteronomy.28.14)) |
+{: .chapter}
+
+and repeated in Nevi'im:
+
+| do not turn aside from the Torah to the right or to the left |
+| (Yehoshua [1:7](https://www.sefaria.org/Joshua.1.7), [23:6](https://www.sefaria.org/Joshua.23.6)) |
+{: .chapter}
+
+and in Ketuvim:
+
+| Do not swerve to the right or the left; keep your foot from evil. |
+| (Mishlei [4:27](https://www.sefaria.org/Proverbs.4.27)) |
+{: .chapter}
+
+According to the peshat, this is nothing other than a prohibition against
+[radicalism](https://en.wikipedia.org/wiki/Classical_radicalism),
+[fundamentalism](https://en.wikipedia.org/wiki/Fundamentalism),
+all forms of [extremism](https://en.wikipedia.org/wiki/Extremism), including
+[religious extremism](https://en.wikipedia.org/wiki/Religious_extremism),
+[religious fanaticism](https://en.wikipedia.org/wiki/Religious_fanaticism),
+not only in religion and politics, but in all spheres of life.
+
+In the modern world, the terms *right* and *left*
+have come to be used to designate different
+[political views](https://en.wikipedia.org/wiki/Left–right_political_spectrum).
+But due to the ambiguity of these words and the conventional nature of mapping
+their spatial orientation onto the political spectrum, confusion arises.  Often
+a group of people or even a single person may hold left-wing views on one axis
+while holding right-wing views on another.  Therefore, when applying the terms
+*right* and *left*, we must always specify along which axis the division is
+being made.
+
+Below are some of the most commonly used opposites
+to which the labels *right* and *left* are assigned:
+
+1.1. [conservatives](https://en.wikipedia.org/wiki/Conservatism) and [progressives](https://en.wikipedia.org/wiki/Progressivism) — in relation to changes
+
+Such was the original division in the French National Assembly in 1789, when
+those who sat on the right were adherents of the monarchy, wishing to preserve
+the existing order, while those who sat on the left were proponents of liberty,
+reformers demanding changes.  Some wished to maintain the feudal hierarchy with
+the king at its head, while others proclaimed the motto:
+“[liberty, equality, fraternity](https://en.wikipedia.org/wiki/Liberté,_égalité,_fraternité)” —
+which is essentially taken from the main ideas of the Torah: free will for
+each individual, equality of all before the law, and fraternal relations
+based on the rule “love your fellow as yourself”.
+
+By definition, the Orthodoxes belong to the conservatives, while the Reformists
+belong to the progressive part of the spectrum.  Between them are situated the
+Traditionalists, who are also called Conservatives, but they are conservatives
+only in relation to the Reformists — in the eyes of the Orthodoxes they are
+revolutionaries just the same.
+
+1.2. [authoritarians](https://en.wikipedia.org/wiki/Authoritarianism) and [liberals](https://en.wikipedia.org/wiki/Liberalism) — with regard to individual freedom
+
+Liberals are often contrasted with conservatives.  For example, we might
+classify the House of Shammai as conservative and the House of Hillel as
+liberal.  But this is a somewhat imprecise dichotomy.  Liberals are advocates of
+individual freedom, while conservatives demand the preservation of past orders.
+Authoritarian forms of governance predominated in the past, which is why
+conservatives are often equated with authoritarians.
+
+Conservatives insist on preserving all vestiges of the past, as has been the
+case throughout human history and as is observed in the wild: just as predators
+hunt prey in food chains and pyramids of consumers, so too each person is seen
+as an unchanging link in a social
+[pyramid](https://en.wikipedia.org/wiki/Pyramid_of_Capitalist_System)
+headed by a king.
+
+But on the other hand, among conservatives there are many supporters of
+democracy — such moderate conservatism can be explained by the fact that, unlike
+reactionaries who dream of restoring past orders, they have accepted all modern
+achievements, including the triumph of democracy, but accept no further changes,
+since they consider all subsequent changes not development but degradation;
+not progress but regress.  <!-- And indeed, we cannot call progress
+the various moral perversions in leftist circles. -->
+
+In turn, the axis of the level of
+[democracy](https://en.wikipedia.org/wiki/Types_of_democracy)
+does not coincide with the axis of individual freedoms.  There are
+[liberal democracies](https://en.wikipedia.org/wiki/Liberal_democracy),
+and there are also
+[illiberal democracies](https://en.wikipedia.org/wiki/Illiberal_democracy)
+that are unstable and rapidly degenerating into autocracies.
+
+Liberalism without democracy is also possible.
+For example, unlimited freedom degenerates into anarchy, which can take
+the form of opposite varieties: anarcho-capitalism and anarcho-communism.
+Anarcho-communism is a utopia in which everyone does what they want but
+voluntarily limits their freedom for the sake of preserving complete social and
+economic equality.  No one actually intends to limit themselves voluntarily,
+which is why communists carry this out through coercion and physical force.
+At the same time, the idea of anarchy differs fundamentally from the liberal
+foundations of democratic states, where a person's freedom is indeed limited,
+but only by the freedom of other citizens.  Therefore, laws punish harm
+inflicted upon other citizens, but do not punish criticism of authorities —
+thanks to freedom of expressing one's opinion.
+
+Individualism is often contrasted with collectivism, but this concept is
+deceptive and does not answer the question of who makes decisions.  For example,
+under Soviet rule the principle of collective decision-making was declared, but
+in reality, as in any hierarchical system, decisions were made by a handful of
+Kremlin elders, while the rest were in slavish subjection.  By such
+a definition, there is more collectivism in democratic countries, where
+decisions are made by a majority of voters.  Therefore, a more accurate name for
+this axis would be “autocracy ↔ democracy”, i.e., on one side centralization of
+power, concentration of power in one set of hands, and on the other side power
+of the people through collective decision-making.  Moreover, democracy does not
+exclude individualism — each citizen has complete freedom to make individual
+decisions within broad boundaries.  An example of decentralization of power is
+Yithro's proposal to create an independent judicial branch of government
+(Shemot [18:13-27](https://www.sefaria.org/Exodus.18.13-27)).
+
+2.1. [capitalists](https://en.wikipedia.org/wiki/Capitalism) and [communists](https://en.wikipedia.org/wiki/Communism) — with regard to economic freedoms
+
+Unlike the aforementioned variants of division, the most widespread has been the
+division into right and left based on economic policy.  The right are adherents
+of the capitalist system — proponents of market economy, free markets, who
+advocate for reduced state participation in the economy.  They are opposed by
+the left, supporters of planned economy, social equality reaching the point of
+forced egalitarianism, who fight for state regulation of the economy and
+redistribution of income from the wealthy to the poor.
+
+The aforementioned dichotomies are not precise definitions, since the boundaries
+of all these concepts are highly blurred.  For this reason, various charts and
+diagrams have been proposed to help orient oneself in all this diversity.
+
+Interesting is the
+[Inglehart–Welzel](https://en.wikipedia.org/wiki/Inglehart–Welzel_cultural_map_of_the_world)
+cultural map of the world where one axis addresses questions of religion —
+from adherence to traditionalist values to secular-rational values,
+while the other axis contrasts survival values with self-expression values.
+Undoubtedly, the ultra-Orthodoxes are situated in the lower right corner with
+their insistence on preserving traditions and with the galut imperative of
+survival, leaving no room for self-expression.  But since Israel as a whole
+equally encompasses diverse viewpoints, on this scheme Israel is positioned
+at the center — despite the imperative of survival in a hostile environment,
+self-expression occurs through active participation in global progress.
+
+More popular is the
+[Nolan Chart](https://en.wikipedia.org/wiki/Nolan_Chart),
+in which a plane rotated 45 degrees is divided by two coordinate axes
+indicating the degree of state influence on personal and economic freedoms
+([statism](https://en.wikipedia.org/wiki/Statism)).
+Correspondingly, the four quadrants represent
+libertarians and authoritarians, liberals and conservatives.
+
+This diagram is a variation of
+[The Political Compass](https://en.wikipedia.org/wiki/The_Political_Compass),
+where the plane is divided by two coordinate axes:
+along one axis authoritarianism (a regime restricting human rights and freedom)
+and liberalism (political and civil liberties), and along the other axis
+left-wing economics (socio-economic regulation) and right-wing economics
+(economic freedoms).  Approximately like this:
+
+![political spectrum](../../../files/book/spectrum_en.png){:.center}
+
+On the graph, we can trace the evolution as the kibbutz-based socialist economy
+gradually moved rightward along the economic axis toward capitalism.  The modern
+State of Israel on average is positioned close to the center, maintaining
+balance on all axes, even slightly right of center: both a moderately
+right-leaning economy and respect for liberal values.  This position is
+supported by some secular Jews, liberal religious Zionists, Modern Orthodox,
+and the majority of traditionalists.  I too strive to maintain a moderate
+right-liberal position, observing the commandment prohibiting radicalism and
+holding that freedom — both economic and individual — is needed in moderation.
+Because only a right-leaning economy through competition ensures economic growth
+and progress, whereas a left-leaning economy with subsidies leads to stagnation.
+And along the freedom axis, moderate liberalism fosters moral and spiritual
+development.  Therefore the vector of development should be directed toward
+the upper right corner.
+
+<!-- My test result on [politicalcompass.org](https://www.politicalcompass.org/):
+
+![political compass](../../../files/book/politicalcompass.jpg){:.center} -->
+
+The most striking paradox on this chart is that along one axis,
+the ultra-Orthodoxes are
+[far-right](https://en.wikipedia.org/wiki/Far-right_politics),
+while along the other axis, the ultra-Orthodoxes are
+[far-left](https://en.wikipedia.org/wiki/Far-left_politics):
+
+- on the economic axis — advocates of state resource distribution,
+  where taxes from working citizens go to funding yeshivot, etc.
+- on the axis of authoritarianism — proponents of total control over the
+  individual by the authorities.  Even the word *democracy* is a curse word
+  for the ultra-Orthodoxes.  Hence the desire to restore the monarchy.
+
+In the list of 613 commandments under number
+[M﬩173](https://www.sefaria.org/Sefer_HaMitzvot,_Positive_Commandments.173)
+Rambam included the commandment to appoint a king over the Jewish people.
+<!-- But did not cite another requirement of the Torah, that the king must be
+chosen by G‑d. -->  As justification, a reference is given to
+Devarim [17:14-15](https://www.sefaria.org/Deuteronomy.17.14-15).
+Let's see what is written there:
+{: #king title="Monarchy and Democracy"}
+
+> When you come to the land that the L‑rd, your G‑d, gives you, and you possess
+it and settle in it, if you decide: “I will set a king over myself, like all the
+nations that are around me” — then you shall be free to set over yourself a king
+whom the L‑rd, your G‑d, shall choose.
+
+If the phrase “set a king over yourself” is not taken out of context, then
+the Torah clearly states that a king may be appointed only in such a situation
+where all surrounding nations have a king.  Such a situation arose in ancient
+Israel, as described in Shmuel I [8](https://www.sefaria.org/I_Samuel.8), when
+the elders of Israel came to Shmuel and demanded: “set over us a king, like
+all the nations”.  But to this demand G‑d said to Shmuel: “it is not you they
+have rejected, but Me they have rejected from reigning over them”.  Here we
+clearly see condemnation of the demand to appoint a king, because by this
+they have rejected the direct authority of G‑d over people, replacing
+with intermediaries.
+
+Further in Shmuel I [8](https://www.sefaria.org/I_Samuel.8) the negative
+consequences of the decision to appoint a king are enumerated: “your sons
+he will take and assign to his chariots and to his horsemen, and they will
+run before his chariots”, “they will plow his fields and reap his harvest”,
+“your daughters he will take as perfumers and cooks and bakers”, “your best
+fields and vineyards he will take and give to his servants”, “from your crops
+he will take a tenth and give to his courtiers”, etc.  <!-- These enumerations
+recall the punishments after the expulsion from Gan Eden. -->  And at the end
+it is said: “and you yourselves will become his slaves”, “and you will cry out
+on that day because of your king whom you have chosen for yourselves, but the
+L‑rd will not answer you”.  Nevertheless they did not withdraw from their demand
+to become slaves of a king: “No, but a king shall be over us, that we also may
+be like all the nations”.  And they rejected G‑d, and instead of G‑d appointed
+over themselves a king, like all the surrounding pagan nations.
+
+This was a terrible evil, as it is said in Shmuel
+I [12:17](https://www.sefaria.org/I_Samuel.12.17): “then you shall see
+how terrible is your wickedness, which you have done in the sight of G‑d,
+in asking for yourselves a king”.  And in Shmuel
+I [12:19](https://www.sefaria.org/I_Samuel.12.19) the people said to Shmuel:
+“Pray for your servants unto G‑d your L‑rd, that we die not, for we have added
+unto all our sins this evil, to ask for ourselves a king.”  And as a result,
+the punishment for this sin was that they received such
+terrible [kings](https://en.wikipedia.org/wiki/Kings_of_Israel_and_Judah)
+who, with rare exceptions, were such cruel despots that their rule
+brought the people immense suffering and only distanced them from G‑d.
+<!-- Already the first king was a catastrophe — therefore the
+restoration of kings is not required for the coming of Mashiach. -->
+
+Therefore there is no such commandment in the Torah to appoint
+a king, nor can there be.  About this spoke Rabbi Nehorai
+in Sanhedrin [20b](https://www.sefaria.org/Sanhedrin.20b.9), that
+Devarim [17:14-15](https://www.sefaria.org/Deuteronomy.17.14-15)
+does not give a commandment to appoint a king,
+but only forewarns that the people may put forward such a demand.
+There were other opponents of monarchy as well.  For example, Abarbanel
+insisted on limiting the term of holding power, as is now accepted in
+democratic countries, to avoid abuses (see Abarbanel's commentaries on
+Devarim [17:14](https://www.sefaria.org/Deuteronomy.17.14?with=Abarbanel) and
+Shmuel I [8](https://www.sefaria.org/I_Samuel.8?with=Abarbanel)).
+<!-- and also Ovadiah Sforno on
+Devarim [17:14](https://www.sefaria.org/Deuteronomy.17.14?with=Sforno) -->
+And Netziv in *Ha'amek Davar* attempted to reconcile Abarbanel with Rambam,
+explaining that more preferable political systems suspend the commandment
+to appoint a king.
+
+In the present reality this could be interpreted as the necessity of
+choosing a president or prime minister to whom the requirements of Devarim
+[17:16-20](https://www.sefaria.org/Deuteronomy.17.16-20) apply — not to
+return the people to slavery, not to seek enrichment through corruption,
+and to maintain the balance of powers:
+
+> That his heart be not raised up above his brethren,
+and that he turn not aside from the commandment,
+to the right or to the left.
+
+In the modern world, monarchical forms of government no longer predominate, and
+democracy is the most progressive form of state organization.  Of all forms of
+government, democracy grants a person the greatest freedom to realize the
+potential bestowed by G‑d, where one takes personal responsibility for one's
+actions, which fosters spiritual development.  Unlike authoritarians and
+proponents of a firm hand as in despotisms, in Western liberal democracies
+only G‑d acts with a firm hand when necessary, while otherwise people enjoy full
+freedom within broad boundaries.  Under democracy, each person has only the
+authority of G‑d above one's head, and the moral law not to do to another what
+one would not wish for oneself.  Yet the ultra-left and ultra-Orthodoxes crave
+to arrogate to themselves the prerogative of G‑d to govern people's destinies.
+
+Just as the legal system was devised by Yithro, and a king was appointed as the
+most advanced form of governance at that time, so too today the most successful
+and effective form of government is democracy, despite all its shortcomings:
+“Democracy is the worst form of government except all those other forms that
+have been tried.”  That speech by Churchill contains much that remains relevant
+for our time as well, for example: “Democracy is not a caucus, obtaining a fixed
+term of office by promises, and then doing what it likes with the people”,
+“Democracy does not mean, ‘We have got our majority, never mind how, and we have
+our lease of office for five years, so what are you going to do about it?’
+That is not democracy, that is only small party patter, which will not go down
+with the mass of the people of this country”, “It is not Parliament that should
+rule; it is the people who should rule through Parliament”, and many other
+statements that remain pertinent to this day.
+
+Therefore, the authoritarian aspirations of the ultra-Orthodoxes to install
+a king are all the more unacceptable.  <!-- This is akin to demanding the
+restoration of slavery. -->  During the 2000 years that have passed since the
+end of the period of Judean kings' rule, most of whom were distinguished by low
+morality, the moral development of individual persons endowed with power did not
+occur in exile.  Suffering from persecution increased the level of compassion
+and morality only among the people, while the morality of those in power
+remained at the same level.  We can imagine what will happen if some
+modern Israeli politician mired in corruption (Yeshayahu
+[1:23](https://www.sefaria.org/Isaiah.1.23)) receives unlimited power.
+There will be the same abuse of power as was demonstrated in history by the
+example of the Judean kings.  Because “power tends to corrupt, and absolute
+power corrupts absolutely.  Great men are almost always bad men, even when they
+exercise influence and not authority” — which paraphrases the statement from
+Sukkah [52a](https://www.sefaria.org/Sukkah.52a.12) that great people have
+stronger evil inclinations.  <!-- And the power of rabbis corrupts as well. -->
+
+Unsurprisingly, monarchists and communists are at the very bottom of the
+diagram: in one case a tsar rules, and in the other — the Communist Party.
+Notably, over the past 20 years while maintaining authoritarianism, China
+has moved from the lower left corner away from communism through nationalism
+(with suppression of national minorities) to the lower right.  And Russia
+first moved to the upper right from the lower left after abandoning communist
+ideology, and recently moved from the upper right to that same lower right
+corner toward fascism — by curtailing civil liberties, but without dispossessing
+oligarchs (only with redistribution of property in the interests of the ruling
+mafia clique).
+
+In essence, communists and fascists do not differ significantly — the antagonism
+between the red-browns stemmed only from a struggle over the details of
+implementing one and the same anti-liberal ideology.  That is, in both cases
+freedom is restricted, but the main difference is that communism imposes
+equality: economic (leveling of incomes) and social (classlessness), while under
+fascism the existence of hierarchy and classes with different privileges is
+permitted.  But since the restriction of freedom also eliminates social mobility
+as an opportunity for the poorest strata to change their situation, popular
+discontent is redirected toward invented enemies: internal or external.
+
+In history, the Essenes came very close to the communist ideal —
+in their communities everything was held in common, as under communism.
+The ultra-Orthodoxes are also located in the lower left part of the graph.
+Even with the requirement to appoint a king, for the ultra-Orthodoxes
+the ideal likewise remains a communist order.
+The fact that communism has already arrived in ultra-Orthodox communities
+is clearly demonstrated by the fulfillment of communism's main slogan:
+“[from each according to his ability, to each according to his needs](https://en.wikipedia.org/wiki/From_each_according_to_his_ability,_to_each_according_to_his_needs)”.
+Everyone sits and studies the Talmud — according to ability.
+And receives everything needed — according to needs.
+
+This same graph can vividly demonstrate the direction of the planned
+[judicial reform](https://en.wikipedia.org/wiki/2023_Israeli_judicial_reform_protests).
+To do this, we must rotate the graph 90 degrees so that the
+“liberalism ↔ authoritarianism” axis becomes horizontal, as conservatives do
+when they call leftists not adherents of government economic regulation,
+but supporters of personal liberty, despite the fact that many of them are
+right-wing liberals.  Right-wing liberals support both freedom of enterprise
+and personal liberty.  Only right-wing liberals support freedom along both axes.
+Unlike them, leftists restrict economic freedom, while authoritarians
+and conservatives restrict personal freedom.
+
+I am a right-wing liberal, while the ultra-Orthodoxes are left-wing
+authoritarians, i.e., they occupy the opposite corner of the political plane.
+Just as for the ultra-right everyone to the left of them, even moderate
+right-wingers, appears to be leftists, so too the ultra-Orthodoxes, burdened
+with excessive stringencies, hate everyone who does not follow all the extremes.
+Thus, with radicalization, the
+[Overton window](https://en.wikipedia.org/wiki/Overton_window) shifts.
+And since I am moderately right-wing, even moderate leftists are closer to me
+than right-wing radicals, which is why I support center-right representatives
+and respect center-left ones.
+
+Right-wing liberals differ substantially from left-wing liberals: right-wing
+liberals primarily support personal freedom, e.g., a person's right to be
+gay or trans, while far-left liberals support unlimited freedom of speech
+for all equally, including antisemites calling for the destruction of Israel.
+
+Even antisemites are subdivided into right and left.
+Right-wing antisemites represent aggressive nationalism directed
+against other nations, primarily against Jews.  Paradoxically,
+many contemporary far-right radicals demonstrate support for Israel.
+<!-- Probably, the far right often choose not to be antisemitic,
+simply to distinguish themselves from the far left. -->
+For many of us, it is not very pleasant to find ourselves in the company of
+autocrats with overtly Nazi views, dictators, and other unsavory figures.
+But such support looks rather situational — it's simply advantageous for them
+at present, so as not to discredit themselves too severely.
+<!-- Moreover, they support Israel because they wish to see Jews
+only in Israel, not in their own countries. -->
+This differs fundamentally from the genuine, firm, and steadfast
+support from moderate right-wing conservatives on religious grounds.
+
+Left-wing antisemites represent extreme internationalism, cosmopolitanism,
+erasing borders between nations, and thus denying the right to existence
+of distinct peoples, beginning with the Jews.  Also, many Western leftists,
+who initially had no antisemitic prejudices, arrive at antisemitism simply by
+following their logic of “supporting the weak”.  They support Arab terrorists
+only because they are objectively weaker than the Israel Defense Forces.
+Thus Israel in their ideology automatically receives the label of “oppressors”.
+And when leftist radicals designate an enemy for themselves, they begin
+uncompromising struggle by all available means without hesitation or reflection.
+Demanding complete equality with terrorists in everything, they go so far as
+to accuse Israelis of the fact that the number of eliminated Arab terrorists
+exceeds the number of killed Israeli civilians.  But even the Arabs themselves
+assign themselves a price when they demand to exchange Jewish hostages for
+terrorists at a ratio of one to a thousand.
+<!-- Like Samson and the Philistines. -->
+
+For a full understanding of the differences along these two axes, we need only
+keep in mind two words: *equality* and *freedom*.  For example, communism is
+equality without freedom, while fascism is inequality without freedom.
+{: #equality-freedom title="Equality and Freedom"}
+
+Along the axis of *equality*, leftist radicals enforce complete equality,
+even with terrorists — on the grounds that the terrorists consider themselves
+not terrorists but “freedom fighters”.  But in reality, Arab terrorists are
+fighters for the “liberation of Israel from Jews”, just as Russians are
+fighters for the “liberation of Ukraine from Ukrainians”.  Such equality
+diminishes not only the freedom of civilians, but even strips them of the
+right to exist.  This is one-sided equality, where, as Orwell put it,
+terrorists are more equal than civilians.
+
+On the other hand, on the *freedom* axis, liberals advocate for personal freedom
+that does not harm others or infringe upon their rights.  At the same time,
+right-wing liberals do not demand enforced equality — neither social nor
+economic.  Rather, they demand only equal opportunities for development within
+the framework of democracy and equality of all before the law.  Therefore, it is
+a grave error to call liberals those leftist radicals who demand equal rights
+for terrorists.
+
+While the Torah mandates complete legal equality between the poor and the rich,
+including their equal protection in court, the Torah contains no idea of forced
+socio-economic leveling, no requirement to fight against the wealthy.  In
+Berakhot [34b](https://www.sefaria.org/Berakhot.34b.20), Shmuel said that when
+Israel gains independence in Messianic times, even then economic inequality and
+stratification by income will remain, as it is said:
+
+> For the poor shall never cease out of the land; therefore I command you:
+open your hand to your brother, to the poor and needy in your land
+(Devarim [15:11](https://www.sefaria.org/Deuteronomy.15.11))
+
+This means that even when poverty will be eradicated through technological progress,
+there will still remain those who are poor by voluntary choice — like the homeless,
+who remain even in wealthy countries with high standards of living,
+where every opportunity exists for increasing one's prosperity.
+
+The Torah calls only for voluntary charity toward the poor.
+That is, on the national governmental level,
+a [center-right](https://en.wikipedia.org/wiki/Centre-right_politics)
+economic policy should be pursued with minimal state support only for those in
+special need, while on the individual level, left-leaning ideals are encouraged
+— charity, volunteer work, etc.  The contrast with radical leftists becomes
+especially stark when we consider that in reality, leftists in power do not
+distribute their own property, but rather allocate the state budget collected
+from the taxes of working citizens, i.e., they generously share other people's
+money (the principle of “seize and divide”).
+
+Therefore the principal distinction between left and right concerns their
+attitude toward [social](https://en.wikipedia.org/wiki/Social_inequality)
+and [economic](https://en.wikipedia.org/wiki/Economic_inequality)
+inequality.
+
+The word *equality* can be interpreted in different ways.  Right-wing liberals
+guarantee equal obligations, equal rights, and equal opportunities with freedom
+of development.  But left-wing liberals go even further in their radicalism, and
+for economic leveling through taxes from working citizens they encourage idlers,
+placing Arab migrants in Western countries on
+[welfare](https://en.wikipedia.org/wiki/Welfare), and pouring millions of
+“humanitarian aid” to Palestinian Arabs, which goes toward armaments
+for attacks against Israel.
+
+In general, right-wing liberals favor
+[equality of opportunity](https://en.wikipedia.org/wiki/Equality_of_opportunity),
+i.e., the elimination of discrimination, fair competition,
+while left-wing liberals favor
+[equality of outcome](https://en.wikipedia.org/wiki/Equality_of_outcome),
+i.e., equality in income, in the distribution of resources, etc.
+
+With equality of outcomes in mind, Milton Friedman rightly observed:
+“A society that puts equality before freedom will get neither.
+A society that puts freedom before equality will get a high degree of both.”
+
+Thus, by calling only conservatives right-wing — those who, despite supporting
+economic freedom, advocate for reducing individual liberty — and for this reason
+not accepting right-wing liberals into their ranks, the supporters of the
+judicial reform are splitting the right-wing camp.  After rotating the graph
+90 degrees, it becomes evident how the reform vector is directed toward pushing
+the state far to the right through nationalism toward the ultra-Orthodoxes and
+replacing democracy with a theocratic state of Halakhah:
+
+![judicial reform](../../../files/book/spectrum_arrow_en.png){:.center}
+
+Such a 90-degree rotation only introduces confusion as to who is right and who
+is left.  Once again, briefly: the left is about socioeconomic equality, not
+about liberal values.  In such leftist forms of government as communism,
+there is no individual freedom, and complete equality of citizens is achieved
+by force.  And in such right-wing anti-liberal forms of government as fascism,
+violence is used to suppress different groups of the population.
+
+It remains to understand why the judicial reform is the primary instrument
+implementing anti-liberal plans.
+
+In ancient Israel, the principle of
+[separation of powers](https://en.wikipedia.org/wiki/Separation_of_powers)
+was observed, an essential element of which was the independent judicial branch
+of government, represented by the Sanhedrin.  In modern Israel, this corresponds to
+[Bagatz](https://en.wikipedia.org/wiki/Supreme_Court_of_Israel):
+*Beit Mishpat Gavo'ah LeTzedek* — the High Court of Justice.
+
+The word *tzedek* has several meanings in Hebrew.  One of them is justice.
+Indeed, justice is one of the principal attributes of G‑d.  The concept of
+justice is also closely connected with mercy — from this is formed the word
+*tzedakah* — charity.
+
+Midrash Beresheet Rabbah [12:15](https://www.sefaria.org/Bereshit_Rabbah.12.15)
+provides an example of balance, explaining the two Names of G‑d, where Elohim
+signifies the measure of Divine judgment, justice, whereas the four-letter Name
+of the L‑rd, the Tetragrammaton, signifies the measure of Divine mercy
+accounting for human frailties.  Thus, the following example is given: a king
+had a goblet of the finest glass.  The king said: “If I pour boiling water, it
+will shatter.  But if I pour ice-cold water, it will crack.”  What did the king
+do?  He mixed hot water with cold, and the goblet endured without breaking.
+In precisely the same way, G‑d said: “If I create the world solely with the measure
+of mercy, then sinners will multiply.  But if I create the world solely with the
+measure of justice, who will endure?  Therefore, I shall create the world with
+justice and mercy mingled together, and then the world will endure.”
+{: #righteous title="The Righteous"}
+
+In Chagigah [14a](https://www.sefaria.org/Chagigah.14a.5),
+an explanation by Rabbi Akiva is brought as to why the book of Daniel
+[7:9](https://www.sefaria.org/Daniel.7.9) mentions two thrones in heaven.
+Rabbi Akiva held that the second throne was for David.  Rabbi Yose the Galilean
+was outraged: “Akiva, how long will you profane the Shekhinah?  In truth,
+one throne is for judgment and the other for mercy.” <!-- *din* and *tzedakah* -->
+<!-- However, *tzedakah* is closer to the concept of justice,
+therefore the opposition between the measure of judgment and the measure of mercy
+is better conveyed by middat *ha‑din* and middat *ha‑rachamim*.
+And justice is achieved through their balanced combination. -->
+
+Already in Beresheet [18:19](https://www.sefaria.org/Genesis.18.19)
+G‑d commanded the descendants of Abraham to follow the ways of G‑d,
+doing good and justice.  Rambam in Hilkhot Deot
+[1:5](https://www.sefaria.org/Mishneh_Torah,_Human_Dispositions.1.5)
+explained that one of the meanings of this commandment is
+to follow the middle paths, i.e., not to deviate too much from the norm,
+from the standard middle level of quality.
+Toward one of the extremes we may deviate only slightly, in moderation, continually
+controlling ourselves, not straying too far from the center in either direction.
+And in Hilkhot Deot [2:2](https://www.sefaria.org/Mishneh_Torah,_Human_Dispositions.2.2)
+he advised that one who has deviated too far
+toward one extreme should compensate with qualities
+from the other extreme, until balance is restored.
+<!-- On this also in KSA [29:2](https://www.sefaria.org/Kitzur_Shulchan_Arukh.29.2). -->
+
+Although Rambam approved of a moderate inclination toward positive qualities,
+even in this direction we must not go to extremes, as he noted in Hilkhot Deot
+[3:1](https://www.sefaria.org/Mishneh_Torah,_Human_Dispositions.3.1).
+
+Kohelet [7:16-17](https://www.sefaria.org/Ecclesiastes.7.16-17) instructs:
+“Be not overly righteous and be not over-wicked, be not overly wise
+and be not a fool” — golden words that help find the golden mean.
+Even an overly great righteous person one must not be.
+And indeed, there is a limit to righteousness for a human being —
+the closer a person approaches righteousness,
+the more his sins increase.
+
+<!-- Also the excessive zeal of Orthodoxes in observing all stringencies
+inevitably increases their hardheartedness and cruelty, which brings
+suffering to other people. -->
+
+“You have sent away widows empty-handed” —
+“Is it any advantage to the Almighty that you are righteous?” — as said in Iyyov
+[22:9,3](https://www.sefaria.org/Job.22.3-9).  Such righteous ones are condemned
+for arrogance and selfishness, when everything is only for themselves and
+nothing for others, when they do not help those who also strive to be righteous
+according to their capacity.  As a result of their egoism, they suppress
+others' aspirations to make the world better, denying them the opportunity to
+develop and participate in the world's development.
+
+Such people are called “a righteous person in a fur coat” (*tzaddik in peltz*) —
+he himself is wrapped in a fur coat and feels warm, but to kindle a fire and
+help others warm themselves — that is no concern of his.  The direction of
+thought of such righteous people is as follows: “I strive for righteousness and
+have attained perfection, and therefore it pains me to look at the rest of the
+world, mired in sin.”  And instead of participating in the rectification of the
+world, such a “righteous” person considers the world irreparable, and as a result
+begins to hate other people.
+
+Shabbat [33b](https://www.sefaria.org/Shabbat.33b.7) recounts that when Rabbi
+Shimon bar Yochai and his son Rabbi Elazar emerged from the cave in which they
+had dwelt for 12 years, the first thing they saw were people working in the
+field.  They immediately set upon the workers with reproaches for insufficient
+righteousness: why were they occupied with such earthly labors instead of
+sitting and studying Torah — “forsaking eternal life to sustain temporal life”.
+And under the searing gaze of their “righteous indignation”, everything around
+them began to catch fire.  Then a voice resounded from Heaven and said:
+“Did you emerge from the cave to destroy My world?  Return to the cave!”
+And they had to spend another 12 months in the cave to recognize their error.
+
+<!-- I too strove for righteousness and tried to lead a righteous way of life,
+but a side effect was that against my will I was constantly nervous about the
+imperfection of the world, when the Orthodoxes made my life very difficult. -->
+
+Therefore even the righteous need to be righteous in moderation.
+It's necessary to continually strive for righteousness:
+to observe the commandments (*gevurah*),
+to show mercy (*chesed*),
+to maintain measure in all things (*tiferet*)
+and to repair the world (*tikkun olam*).
+<!--
+(<span style="background-color:tomato">gevurah</span>)
+(<span style="background-color:lightgreen">chesed</span>)
+(<span style="background-color:yellow">tiferet</span>)
+(<span style="background-color:skyblue">tikkun olam</span>)
+-->
+And in all other matters, deny yourself nothing,
+take pleasure in life — as Kabbalah teaches.
+Not to be a sinner, but not to be too great a tzaddik either.
+Not to be a hypocrite or a sanctimonious person, but to accept
+the world and people as they are,
+with all their flaws, when they are working to correct these flaws.
+In general, we should strive to maintain righteousness at a level
+above average.
+
+<!-- All manner of stringencies among the Orthodoxes are directed
+toward decreasing entropy and correspondingly increasing
+[negentropy](https://en.wikipedia.org/wiki/Negentropy), since the measure of
+disorder in the system is reduced, and correspondingly assimilation is reduced, etc.
+
+But the problem is that according to the laws of physics, the entropy of an
+isolated system never decreases.  In a closed system, excessive increase of
+negentropy in one place increases entropy in other places.  This means that
+when the Orthodoxes decrease their entropy, this increases the entropy
+around them, increases the assimilation of others, etc.  For the same reason,
+a righteous person inevitably increases the entropy around himself.
+
+One well-known example of the manifestation of negentropy is the human body.
+To maintain the organs in a healthy state throughout life, one must continually
+transform beautiful plants and cheerful animals into formless waste products,
+increasing the entropy around oneself.  A person decreases his entropy at the
+expense of transforming his surroundings into waste.  So too do totalitarian
+states transform people's lives into waste.  So too do excessive stringencies
+decrease entropy at the expense of transforming people's lives into *wasted lives*.
+
+On one hand, too much chesed increases entropy, while gevurah is meant to
+constrain entropy.  Gevurah increases negentropy, as assigning a direction of
+movement constrains chaotic movement.  Gevurah is necessary as the force
+directing toward the ultimate purpose of humanity's existence.  But with the
+decrease of entropy and correspondingly the increase of determinism, freedom of
+choice, freedom of will, freedom of action also decreases.  For example, one can
+so load down a donkey or a truck that it will not budge from its place.
+Therefore everyone must maintain balance: negentropy and freedom must be
+in proper measure, must be sufficient for development.  Thus in LLM,
+creativity is increased by adjusting the temperature parameter. -->
+
+Also in Hilkhot Deot
+[1:6](https://www.sefaria.org/Mishneh_Torah,_Human_Dispositions.1.6)
+Rambam said that to walk in the ways of G‑d also means following all
+thirteen attributes of mercy: the human being is created in the image of G‑d,
+therefore in all areas of communal life, including justice — *tzedakah u‑mishpat*,
+people must manifest the qualities of G‑d, all
+[13 attributes of mercy](https://en.wikipedia.org/wiki/Thirteen_Attributes_of_Mercy)
+enumerated in Shemot [34:6-7](https://www.sefaria.org/Exodus.34.6-7)
+and analyzed in detail in tractate
+Rosh HaShanah [17b](https://www.sefaria.org/Rosh_Hashanah.17b).
+
+Devarim [16:20](https://www.sefaria.org/Deuteronomy.16.20) enjoins justice
+with the words *tzedek tzedek tirdof* — “Justice, justice shall you pursue.”
+Ibn Ezra explains the double repetition as unconditional applicability in every
+case: both when a person gains something and even when a person loses something
+in the attainment of justice.
+
+And Devarim [6:18](https://www.sefaria.org/Deuteronomy.6.18) speaks of the same:
+“do what is right and good in the eyes of G‑d” (*ha‑yashar ve‑ha‑tov*).
+And the prophets call for an inseparable bond between
+justice and mercy and righteousness, including
+Yeshayahu [56:1](https://www.sefaria.org/Isaiah.56.1),
+Hoshea [12:7](https://www.sefaria.org/Hosea.12.7),
+Mikhah [6:8](https://www.sefaria.org/Micah.6.8) etc.
+When Mikhah [6:8](https://www.sefaria.org/Micah.6.8) says “to do justice,
+and to love mercy, and to walk humbly with your G‑d”, this too fits the pattern
+*gevurah - chesed - tiferet*, because humility accompanies the avoidance of
+extremes and radicalization.  This is precisely what the words *hatznea lekhet*
+mean, and not that “tzniut” which among the ultra-Orthodoxes now intensifies
+radicalization.
+
+Following the inseparability of justice with mercy and righteousness, the
+Sanhedrin often issued acquittal verdicts.  With idolaters, everything is reversed.
+For example, in Russia the proportion of acquittals stands at 0.33%, i.e., only
+one acquittal for every 300 verdicts — a striking contrast with 30–40% in
+democratic nations, largely due to the presumption of innocence
+(*le‑kaf zekhut*, i.e., to judge favorably) — one of the fundamental human rights.
+{: #sanhedrin title="Sanhedrin"}
+
+Let's now consider Devarim [17:9](https://www.sefaria.org/Deuteronomy.17.9):
+
+> And you shall come to the kohanim, the Levites, and to the judge who shall be
+in those days, and you shall inquire, and they shall tell you the verdict.
+
+First, we may observe that rabbis are not mentioned by a single word,
+and therefore the later interpretation of these words as a commandment
+to “obey the sages” is unsubstantiated.  Second, in our time the kohanim
+and Levites no longer possess governing authority, and even among rabbis
+there is no such division into kohanim and Levites.  Further on in Devarim
+[17:11-12](https://www.sefaria.org/Deuteronomy.17.11-12) it is said:
+
+> Do not turn aside from the word they shall speak unto you,
+either to the right or to the left.  And the man who acts presumptuously,
+not hearkening to the priest … or to the judge — that man shall die.
+
+Rabbis have no authority to impose death sentences, so this
+passage cannot be speaking of rabbis.  Tractate Sanhedrin
+[52b](https://www.sefaria.org/Sanhedrin.52b.3) confirms that it refers only to
+a court vested with authority to impose death sentences.  In Rambam's list of
+the 613 commandments, this passage corresponds to two commandments:
+[M﬩174](https://www.sefaria.org/Sefer_HaMitzvot,_Positive_Commandments.174),
+which commands obedience to the Great Sanhedrin, and
+[M−312](https://www.sefaria.org/Sefer_HaMitzvot,_Negative_Commandments.312),
+which forbids disputing a legislative ruling of the Sanhedrin.  What is meant
+here is the so-called “rebellious elder” (*zaken mamre*), i.e., a judge of
+a lower court who refuses to accept the decisions of the Supreme Court,
+which is punishable by strangulation (Tractate Sanhedrin
+[84b](https://www.sefaria.org/Sanhedrin.84b.1)).
+
+And again, not a word about rabbis.  Consequently, of the entire enumeration,
+only the judges of the Supreme Court remain.  According to the peshat, these
+words “to the judge who will be in those days” can be interpreted as the court
+of the contemporary State of Israel, i.e., the High Court of Justice (Bagatz).
+In ancient times, judicial decisions were rendered by the Sanhedrin, and in our
+days, justice is administered by the High Court of Justice — today the High
+Court of Justice fulfills the same role as the Sanhedrin in the past.  In the
+Sanhedrin, death sentences were rendered exceedingly rarely (Mishnah Makkot
+[1](https://www.sefaria.org/Mishnah_Makkot.1.10)), i.e., chesed prevailed,
+as it does in the High Court of Justice.
+
+Until recently, the High Court of Justice was moderately left, serving as
+a defender of human rights, including minority rights, which corresponds
+to the category of chesed.  G‑d's justice lies precisely at this point on the
+*chesed*↔*gevurah* scale, as stated many times in the Torah.  Therefore,
+we can say that the High Court of Justice followed quite well in the ways of G‑d
+and the commandment to emulate the attributes of G‑d.  But the Orthodoxes
+decided to depart from these commandments and begin moving even further away
+from G‑d.  The initiated judicial reform aims to shift the position on the
+*chesed*↔*gevurah* scale toward the intensification of gevurah — this is the
+theological essence of the reform.
+
+We can compare other ways in which the Sanhedrin and Bagatz are similar.
+No one elected the members of the Sanhedrin: there were no democratic elections
+where the people voted for judges that the majority favored.  <!-- Only in
+voting within the Sanhedrin were decisions made by democratic majority.  -->
+Bagatz follows this principle of appointing judges, while the Orthodoxes,
+conversely, wish to depart from the principles of the Sanhedrin and elect judges
+representing the democratic majority.  But it is clear that none of the
+Orthodoxes intend to introduce democracy into Halakhah, so that the people would
+have the ability to overturn stringencies by majority vote.  This is simply
+a situational tactic of Orthodox parties aimed at obtaining judicial power
+into their own hands.
+
+The essence and purpose of the judicial reform is the elimination
+of the independent judicial branch of government, the last obstacle
+on the path to a sharp rightward slide.  Given that the legislative
+and executive branches are not separated, without an independent
+judiciary the equilibrium of the entire system of
+[checks and balances](https://en.wikipedia.org/wiki/Separation_of_powers#Checks_and_balances)
+is violated, whereby democracy slides into dictatorship without brakes or
+constraints.  <!-- A similar claim was made by Kurt Gödel in Einstein's presence
+during his exam for American citizenship, which came to be known as
+[Gödel's loophole](https://en.wikipedia.org/wiki/Gödel's_Loophole). -->
+
+I am not a leftist, and moreover I agree with the assertion that at present the
+court has more authority than it ought to have ideally, therefore reforms are
+undoubtedly needed.  As an example of the necessity of changing the current
+situation, we can recall the chaos with the attempted coup in OpenAI's
+leadership.  OpenAI has such an interesting governance structure that
+the commercial part is subordinate to the non-commercial one.
+And on the board of directors sat the so-called
+“[effective altruists](https://en.wikipedia.org/wiki/Effective_altruism#Other_prominent_people)”.
+<!-- See also
+[effective altruism](https://forum.effectivealtruism.org/topics/effective-altruism-for-jews)
+for Jews. -->
+Although in reality they are neither effective nor altruists.  True altruists
+give of their own (time, money, etc.), whereas these only manage what is common,
+like all leftists.  So it is on this structure that the fundamental differences
+between the right and the left manifested themselves: the management of
+a commercial company is accountable to the shareholders, whereas the management
+of a non-profit organization is accountable to no one.  That is, the commercial
+one operates according to the laws of capitalism, and the non-profit according
+to socialism.  Just as socialists love lofty slogans, so too did they choose for
+themselves an abstract slogan: “benefit all of humanity”.  Then the leftists
+tried to “save the world” according to their understanding: they became
+frightened by scare stories about the annihilation of humanity by robots and
+decided for everyone themselves that it would be better for humanity if they
+stopped the development of artificial intelligence.  Like all leftists, out of
+noble motives they rushed to implement their beliefs detached from reality, and
+as a result brought a successful multibillion-dollar company to the brink of
+collapse, which would have halted humanity's progress and made the world worse
+instead of fixing it, i.e., they would have achieved results opposite to what
+leftist opponents of progress declare in words.  In exactly the same way, when
+a court is accountable to no one — this is the clearest sign of adherence to
+leftist ideology.  And ideally it should be accountable to the voters.
+
+But despite all these considerations, in the current political configuration,
+balance (*tiferet*) in society can be maintained only when a moderately left
+judiciary (*chesed*) counterbalances a right-wing government (*gevurah*).
+A left judiciary is the sole protection restraining descent into an ultra-right
+dictatorship.
+
+It's easy to imagine a railway car standing at the top of a hill,
+ready to roll [downward](https://en.wikipedia.org/wiki/Inclined_plane)
+to the right, and the only thing holding it back is
+[a brake shoe](https://en.wikipedia.org/wiki/Brake_shoe),
+which represents the court.
+{: #equilibrium title="Equilibrium"}
+
+The most illustrative representation is a ball balanced on a peak,
+which is in a state of
+[unstable equilibrium](https://en.wikipedia.org/wiki/Mechanical_equilibrium):
+
+![equilibrium](../../../files/book/equilibrium.png){:.center}
+
+If the ball is released, then under the influence of the gravitational force
+it will begin to roll down the inclined surface, because the sum vector of
+forces is directed downward.  To remain at the peak and not begin to roll down,
+one must continually apply efforts, indicated by the red arrows in the opposite
+direction: if it tilts to the left, then apply force to the right side; if it
+tilts to the right, then direct efforts to the left side.
+
+Maintaining equilibrium is difficult — tiferet requires effort.
+But this is necessary for fulfilling the commandment to preserve balance.
+
+The beauty in the phrase “beauty will save the world” is often understood
+primarily as aesthetic pleasure in outward appearance.  But it would be
+more correct to understand beauty as perfection in the form of a balance
+among all the sefirot.  Such perfection is achieved through the filling of
+the sefirah Tiferet.  Therefore more precisely the phrase should read:
+“tiferet will save the world”, where *tiferet* is a synonym for perfection
+achieved through equilibrium between opposing forces.
+
+Being a radical is easy and simple.  Just as a ball rolls down an inclined
+surface by itself, so too radicals consider it improper to engage in
+reflection and self-examination, which in reality serve as checks and balances
+on a personal level.  In radicalism, the
+[crowd effect](https://en.wikipedia.org/wiki/Category:Crowd_psychology)
+has significant influence.  Any doubt in one's actions is perceived as
+a manifestation of weakness.
+
+Such a situation, where extreme views are encouraged and those
+who express doubt and try to exercise restraint are punished, is called
+a [purity spiral](https://en.wikipedia.org/wiki/Purity_spiral).
+When an abstract goal disconnected from reality is set before a group,
+gradually the group's members become increasingly intolerant zealots,
+and even their less radical comrades end up numbered among the enemies.
+
+Any idea can be pushed to absurdity if one does not observe moderation.
+This happens when people turn off their souls and begin to act mechanically,
+like robots.  There is a well-known thought experiment called the
+[paperclip maximizer](https://en.wikipedia.org/wiki/Instrumental_convergence#Paperclip_maximizer),
+in which an artificial intelligence is programmed to achieve a single goal —
+producing the maximum number of paperclips.  In fulfilling this task,
+it may disregard all means and plow straight ahead relentlessly, even
+sacrificing human lives, in order to convert all existing matter into
+paperclips.  All radicals resemble such boneheads.
+
+Throughout history, radicalism has brought much harm.
+Therefore, the commandments of the Torah forbid deviating toward extremes,
+forbid any radicalization: both left-wing and right-wing.
+
+If it occasionally happens that socially vulnerable minorities suffer from
+oppression, then the Supreme Court serves as a reliable defender of their
+civil rights.  But if an unconstrained court were to carry out orders from
+a government backed by a parliamentary majority, a state of affairs would arise
+that has nothing in common with the commandments of the Torah, which demand
+impartial justice.  <!-- Yet another example of how the Orthodoxes are
+racing away from the Torah at breakneck speed. -->
+
+Supporters of the judicial reform must realize that after repressions against
+the Jews begin, sooner or later the machinery of repression will reach them as
+well, when the moloch they have fashioned starts devouring its own children.
+All this [has happened before](https://en.wikipedia.org/wiki/First_They_Came):
+“First they came for the Jews”, etc., and in the end there was no one left to
+defend those who remained.  So it is now:
+
+1. First, repression will befall Jews by grandfather,
+   and in the best of cases it will be limited to deportation alone.
+2. After the grandchildren, they will take up Jews by father.
+3. Then will come the turn of Jews by mother.
+4. Next will arrive the time for Jews of non-Orthodox denominations:
+   Reformists, Traditionalists, Women of the Wall.
+5. In time they will set upon secular Jews and adherents
+   of liberal values, whom authoritarians and nationalists
+   count among the left, despite the fact that most of them are right-wing.
+
+And such a witch hunt as when the head of the Sanhedrin Shimon ben Shetach executed 80 women,
+<!-- Mishnah Sanhedrin [6:4](https://www.sefaria.org/Mishnah_Sanhedrin.6.4) -->
+will continue until only the ultra-Orthodoxes remain.
+The logic of the ultra-Orthodoxes and the ultra-right secular nationalists
+who have joined them is as follows: “Israel no longer needs racially inferior Jews,
+we ourselves will yet beget more pureblooded ones”.  And this is already
+the spawn of Nazism.  So it was in the 1930s in Germany, when
+through democratic elections the Nazis came to power.
+So it is happening in our time in certain democratic countries, when
+an irresponsible majority of the people elects populists who establish
+a tyranny of the majority, who in parliament churn out repressive laws,
+curtail freedoms, suppress minorities and opposition.
+Such regimes can no longer be called democracies — even when the tyrants' power
+is supported by an overwhelming majority.  This happens when the authorities
+succeed in inventing enemies, demonizing them through propaganda of hatred
+and marshaling the majority against them: just as Germans were once turned
+against Jews, so now Russians are turned against Ukrainians and Western democracies,
+left-wing radicals against right-wing, right-wing radicals against left-wing, etc.
+
+An even closer analogy from the recent past and an instructive example
+of what ultra-right extremism and anti-liberal hysteria lead to —
+[the Greek junta](https://en.wikipedia.org/wiki/Greek_junta),
+the so-called “Regime of the Colonels”.  <!-- On this theme, the film
+*[Z](https://en.wikipedia.org/wiki/Z_(1969_film))* was made,
+which traces analogies: CROC — *Kohelet Forum*, etc.  -->
+All anti-liberal regimes follow one scenario: first minorities are stripped of
+freedom, then freedom of speech is eliminated, and ultimately freedom of choice
+as well, which leads to the destruction of democracy.
+
+Once again, briefly.  Democracy is the periodically renewed rule of the
+people's representatives with free elections, free media, and independent
+courts protecting human rights.
+The Right are advocates of economic freedom.
+Liberals are advocates of personal freedom.
+
+There exists yet another axis: “globalism ↔ isolationism”, which is also
+related to nationalism.  Nationalism is compelled gevurah, necessary for the
+preservation of the people.  But, as has already been said, here too we must
+maintain balance, wherein moderate nationalism is permissible and even
+desirable, stopping short of national isolation in a ghetto.  Healthy
+nationalism is when minorities are not oppressed.  Generally speaking,
+we can say that nationalism is egoism, while globalization fosters altruism.
+For example, when the commandment of safety is neglected and sturdy materials
+are not used in construction in seismically active zones, and then an earthquake
+or other natural catastrophe occurs, many countries manifest global solidarity
+and send rescuers — a splendid example of altruism at the level of nations.
+{: #egoism-altruism title="Egoism and Altruism"}
+
+Moral development inevitably leads to an increased need to manifest altruism.
+Thus Israel and the civilized nations of the West desire to live in peace, so
+that they may reasonably practice altruism by helping all peoples in their
+development.  But savages are capable only of egoism, manifested in the
+seizure of neighboring lands and in hatred toward civilized nations,
+including in the form of antisemitism.  The majority in the UN remain savages,
+therefore we have what we have.  But since history teaches that all
+antisemitic organizations eventually disintegrate, such a fate awaits
+all affiliated UN structures, such as the terrorist-linked
+[UNRWA](https://en.wikipedia.org/wiki/UNRWA), as well as the International
+Criminal Court (ICC), biased by ultra-left ideology, which is destroying
+from within the international justice system created by Western nations, which
+previously fought against real dictators.  Therefore all such dysfunctional
+organizations inevitably cease to exist, and this will happen because of their
+unwillingness to fight genuine terrorists, many of whom sit even on the UN
+Security Council.  The problem is not only antisemitism — that is merely one of
+the motivations.  The root of the problem is that the majority in the UN are
+adversaries of Western democratic nations and wish by all means to destroy them:
+by flooding them with waves of immigrants, they wish to destroy them from
+within, using Western leftists as useful idiots, and by the hands of Islamic
+terrorists they wish to destroy Israel as the forward outpost of Western
+civilization.
+
+In general, systematization and categorization are far too complex a matter.
+We invariably discover additional properties of the phenomenon under
+examination that disrupt the coherence and consistency of the constructed
+system, necessitating the introduction of new axes for each new property.
+
+For example, when ultra-Orthodoxes are associated with ultra-leftist
+distribution of resources, what is meant is funding and various preferences
+exclusively for their own benefit.  Those who do not belong to the
+ultra-Orthodoxes are expected to work for them and provide everything necessary,
+i.e., the attitude toward outsiders is ultra-rightist.  This principle is
+captured by the expression: “For friends everything, for enemies the law.”
+In other words, this can be expressed as: “Chesed for our own, gevurah for
+strangers.”  Or thus: “Altruism for ourselves, egoism for others” —
+in the sense of demanding altruism from others for oneself,
+while manifesting egoism toward others.
+<!-- And Arabs too: extremely leftist in Israel and European countries,
+where they demand rights for minorities.  But in their own countries
+they are extremely rightist and oppress minorities. -->
+
+Rabbi Haim of Romshishok was fond of telling this story:
+“Once I saw Hell, and it was terrible.  Row upon row, tables were laden
+with plates of diverse delicious foods.  And at the tables sat people.
+But they looked pale and emaciated, and moaned from hunger.
+When I drew closer, I understood the reason for their situation.
+Each person held a spoon in hand, but both arms were fixed with wooden splints
+so that they could not bend at the elbows.  Therefore no one could bring the
+spoon to his own mouth.  After this I came to Heaven.  There I saw all
+the same: rows of tables laden with foods, and people with unbending arms.
+But there was one striking difference — all were sated,
+and carried on unhurried conversation with one another.
+When I drew closer, I discerned how Heaven differs from Hell:
+each participant in the feast took a spoon, scooped up food with it
+and brought it to the mouth of the neighbor sitting opposite.
+And the neighbor in turn fed another.  No one remained hungry.”
+Thus, Hell and Heaven differ only in the relationship between people:
+in Hell they suffer from widespread egoism, while in Heaven each person enjoys
+the altruism of their neighbor.  (Later this maiseh came to be known as the
+[allegory of the long spoons](https://en.wikipedia.org/wiki/Allegory_of_the_long_spoons),
+where instead of unbending arms there were spoons so long
+that they could not be brought to one's own mouth —
+but the meaning remains the same.)
+<!-- Thus ultra-Orthodoxes demand to be spoon-fed,
+while they themselves refuse to feed others. -->
+
+Pirkei Avot [5:10](https://www.sefaria.org/Pirkei_Avot.5.10)
+divides people into four categories:
+
+1. <!-- *am‑ha'aretz* --> a simpleton, who says: “mine is yours, and yours is mine”;
+2. <!-- *rasha* --> a wicked person, who says: “mine is mine, and yours is mine”;
+3. a resident of Sodom, who says: “mine is mine, and yours is yours”;
+4. <!-- *chasid* --> a pious person, who says: “yours is yours, and mine is yours”.
+
+Here it is evident that the quality of Sodom is nothing other than egoism,
+when every man is for himself alone. <!-- “and G‑d against all”,
+though it would be more precise to say that Satan is against all -->
+And the quality of the pious is altruism, even unto self-sacrifice,
+when one often remains at a loss oneself.
+
+Are there boundaries to such altruism?
+Rabbi Akiva attempted to delineate the limits of self-sacrifice.
+In Bava Metzia [62a](https://www.sefaria.org/Bava_Metzia.62a.2)
+the following situation was examined: two people are walking through the desert,
+having a supply of water sufficient for only one.  If they divide the water equally,
+both will perish.  One sage said that this option should be preferred,
+so that neither of them would become the cause of the other's death.
+But Rabbi Akiva ruled that the words of
+Vayikra [25:36](https://www.sefaria.org/Leviticus.25.36)
+“that your brother may live beside you” must be understood to mean
+that your life takes precedence over the life of your brother, therefore
+one must sacrifice him by drinking all the water in order to save oneself.
+Rabbi Akiva derives this conclusion from the great principle of the Torah
+“Love your brother as yourself”, emphasizing that the part “as yourself”
+takes precedence over “love your brother”,
+so egoism must take precedence over altruism.
+
+We can quite agree that in ordinary life this indeed should be interpreted
+to mean that one must first love oneself, and then others, i.e., first arrange
+one's life egoistically, and only when a person has the bare minimum necessary
+can one begin to help others, practicing altruism. <!-- resembles the Maslow's pyramid -->
+<!-- Even in the animal world it is the same, because this is most optimal:
+when after hibernation a she-bear goes to catch fish, she first eats the initial
+fish herself in order to restore her strength for further fishing,
+and only then does she begin to share the catch with her cubs. -->
+All the more so when this requires no special sacrifices in today's
+[post-scarcity economy](https://en.wikipedia.org/wiki/Post-scarcity)
+with its abundance of resources.
+<!-- BTW, I independently “invented” the World Wide Web (WWW) back in the
+early 1980s.  I realized that output devices already existed in the form of
+televisions, and communication devices in the form of telephones.
+I saw the primary purpose of such a network above all in solving the
+problem of [shortage](https://en.wikipedia.org/wiki/Shortage).
+I imagined that each store would have its own page, where one could track
+where and when scarce goods were released :-)  Also around the same
+time I was contemplating the concept of the
+[smart home](https://en.wikipedia.org/wiki/Home_automation), but couldn't
+think of any useful application other than automatic drawer opening. -->
+As it is said in Mishlei [3:27](https://www.sefaria.org/Proverbs.3.27):
+“Withhold not good from them to whom it is due,
+when it is in the power of your hand to do it”,
+that is, do not refuse when you have the ability
+to do good to those in need.
+
+<!--
+Development proceeds through such stages:
+
+- neither egoism nor altruism:
+  in totalitarian societies, when a person is like a slave
+  possessing nothing but his chains, he has no individual needs;
+- egoism, but not yet altruism:
+  when a person gains freedom, he first begins to arrange
+  his own life, caring only for himself, but as wealth accumulates
+  he begins to suffer from spiritual emptiness;
+- enlightened egoistic self-interest and altruism:
+  retaining the greater part of accumulated resources for himself,
+  a person has the opportunity to spend the lesser part of his
+  energy and time for the benefit of society.
+-->
+
+But Rabbi Akiva's error lies in the fact that this principle is inapplicable
+in extraordinary circumstances that may demand heroic deeds — many cases of
+self-sacrifice are known in rescuing civilians
+[from terrorists](https://en.wikipedia.org/wiki/Yeshivat_Otniel_shooting) or when
+a person covered a [grenade](https://en.wikipedia.org/wiki/Falling_on_a_grenade)
+with his own body.  <!-- Or as Yonah sacrificed himself to save the sailors. -->
+In such critical situations, there exists not and cannot exist a definitive
+solution.
+
+This theme has been thoroughly explored in many books and films, such as
+*[Sophie's Choice](https://en.wikipedia.org/wiki/Sophie's_Choice_(film))*.
+In these [lose–lose situations](https://en.wikipedia.org/wiki/No-win_situation)
+there is no good solution, and everything depends on the soul's impulses of the
+participants.  For example, what if in a desert without water there remain
+an old man who has lived his days and a youth only beginning to live?
+It is quite natural to suppose that the old man would give his water to the
+young person.  <!-- Or a man would give his water to a woman with an infant, etc. -->
+But Rabbi Akiva essentially merely preached the primitive principle of
+“[Bolivar cannot carry double](https://en.wikiquote.org/wiki/O._Henry)”.
+There is nothing wise and nothing highly moral in this.  In such difficult
+situations the soul's work must be engaged, but unfortunately the Orthodoxes
+have followed Rabbi Akiva's path, when instead of engaging the soul
+they rely on pre-programmed templates.
+
+In the modern world, this moral dilemma has become known as the
+[trolley problem](https://en.wikipedia.org/wiki/Self-driving_car#Trolley_problem),
+not only in regard to human drivers, but also for self-driving cars with automatic
+control systems.  Can they be programmed for such situations when, for example,
+a person unexpectedly runs onto the roadway?  Should the vehicle continue moving
+and thereby kill the pedestrian, or swerve into a wall and kill the passenger?
+Would the decision change if a small child were to run onto the roadway?
+Can one demand that a driver kill a child through inaction?  Or does the
+decision depend on the number of people in the car?
+
+Such a problem was already examined by the Chazon Ish in Sanhedrin #25 — whether
+it is an ethical solution to deflect the trajectory of a projectile from a large
+group of people onto a smaller group or onto one person.  On the one hand, fewer
+people will perish.  But on the other hand, no one has the right to sacrifice
+people from the smaller group.  “No one's blood is redder than another's”
+(Sanhedrin [74a](https://www.sefaria.org/Sanhedrin.74a.20)).  Therefore
+this problem has no solution, and no halakhah can be derived from this.
+
+From all this, we can draw the only possible conclusion: extreme situations are
+sent to people as trials for the development of the soul — when, based on the
+results of decisions made under free will, the participants, including even
+[programmers](https://en.wikipedia.org/wiki/List_of_software_bugs) of autonomous
+vehicles, receive various consequences: from punishment to reward.
+
+Let's conclude the examination of such rare incidents and proceed to consider
+in greater detail the “egoism ↔ altruism” axis under normal conditions in
+everyday life.  How does one avoid extremes along this axis?
+
+The great sage Hillel taught:
+
+> If I am not for myself, who will be for me?
+And if I am only for myself, what am I?
+(Pirkei Avot [1:14](https://www.sefaria.org/Pirkei_Avot.1.14))
+
+These wise words should be interpreted to mean that
+on the one hand it is impossible not to be an egoist,
+while on the other hand one cannot be only an egoist,
+one must also be an altruist.  That is, one must be
+both an egoist and an altruist simultaneously.
+What is needed is a harmonious union of egoism (only for oneself)
+with altruism (only for others) —
+simultaneously for oneself and for others,
+so that actions arising from egoistic motivations
+bring benefit to other people.
+
+The most beautiful example of a harmonious union of egoism and altruism is
+true love.  On one hand, the driving force of love is egoism, when a person
+cannot live without the beloved and seeks to diminish his own personal
+suffering.  On the other hand, he strives to bring joy to the beloved and is
+happy to see when things go well for the beloved.  On one hand, he is ready to
+give everything to the beloved, while on the other hand he withers without
+reciprocation.  This is well described by the words of Shir HaShirim
+[6:3](https://www.sefaria.org/Song_of_Songs.6.3):
+“I am my beloved's, and my beloved is mine.”
+Therefore, love is not only the desire for the beloved to be happy,
+but also the necessity of active participation in bringing this about.
+This is required for the development of one's soul.  And from unrequited love
+the soul develops more intensively due to suffering — but the suffering must
+also be in measure.
+
+I must honestly confess that even the publication of this book in open access is
+also based on the principle of combining egoism and altruism.  I wrote this book
+primarily for myself — to understand the complex questions of life and to organize
+my thoughts.  I had no task of convincing readers of certain ideas or attempting
+to impose my opinion.  All the more so, I had no goal of teaching the readers
+how to live.  My main aim was to understand how the world is structured, to get
+to the bottom of truth, to comprehend why injustice still exists, why perfection
+has not been achieved in the world.  As a result, this book represents an example
+of the harmonious combination of egoism and altruism: I have placed this book
+in open access for all with the hope that it will help the reader in the search
+for truth.  And I would be glad if this book brings benefit to the reader.
+
+By the categorization of Pirkei Avot
+[5:10](https://www.sefaria.org/Pirkei_Avot.5.10), the ideal combination would be:
+“mine is mine and yours, and yours is yours and mine”, where such a union of
+the two qualities of egoism and altruism benefits everyone, and no one loses
+anything through the manifestation of altruism.
+
+This principle forms the basis of the
+[Free Software Movement](https://en.wikipedia.org/wiki/Free_software_movement).
+Many modern achievements of progress have become possible thanks to
+*Free Software*: millions of servers supporting the Internet's infrastructure,
+90% of all cloud computing capacity, computers for machine learning, and billions
+of mobile devices.  Essentially, it works like this: a programmer implements new
+features needed personally by them (egoism), then releases them in open access
+under a [free-software license](https://en.wikipedia.org/wiki/Free-software_license)
+(altruism).  And in doing so, they freely use programs developed by others.

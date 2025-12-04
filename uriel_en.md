@@ -17442,3 +17442,2912 @@ of mobile devices.  Essentially, it works like this: a programmer implements new
 features needed personally by them (egoism), then releases them in open access
 under a [free-software license](https://en.wikipedia.org/wiki/Free-software_license)
 (altruism).  And in doing so, they freely use programs developed by others.
+
+In the same way, many creative people produce works of art even without hope of
+reward — primarily for themselves, for their own pleasure, which they derive
+from the process of creation and from the result.  But many of them are also
+glad to share their creations with people.
+
+<!-- An example from sports: athletes in individual sports often perceive
+victory as a personal achievement — yet at the same time they bring glory
+to their country, under whose flag they compete. -->
+
+Care for nature and ecology, or even simply for the cleanliness of the
+environment — is another example of the union of egoism and altruism, when
+this care brings benefit to all, including oneself.  So too the unpaid
+work of volunteers makes the common world better, and indirectly everyone
+gains from this.  Whoever gives, receives oneself.
+<!-- Even the refusal of personal automobiles in favor of bicycle riding
+or traveling on foot also contributes to improving physical health. -->
+
+Another example: when asking G‑d for help with a problem, for instance,
+concerning health, you can present this not as an egoistical request
+for help solely for yourself, but as an opportunity, once the problem
+is resolved, to continue doing good deeds and bringing benefit to people
+(KSA [31](https://www.sefaria.org/Kitzur_Shulchan_Arukh.31)).
+And so forth.
+
+<!-- All the examples given above can be termed
+*altruistic egoism* or
+*egoistic altruism*.
+Abbreviated as *e/alt* — *egoistic altruism*.
+But this should not be confused with either *e/acc*
+(*[effective accelerationism](https://en.wikipedia.org/wiki/Effective_accelerationism)*),
+or with EA (*[effective altruism](https://en.wikipedia.org/wiki/Effective_altruism)*). -->
+<!-- Both ego-altruism and alt-egoism differ
+from [psychological egoism](https://en.wikipedia.org/wiki/Psychological_egoism),
+from [ethical egoism](https://en.wikipedia.org/wiki/Ethical_egoism),
+and from [rational egoism](https://en.wikipedia.org/wiki/Rational_egoism). -->
+<!-- Also related to this is the concept of
+[reciprocal altruism](https://en.wikipedia.org/wiki/Reciprocal_altruism). -->
+
+All left-side sefirot are connected with egoism, with receiving.
+And the right-side sefirot are connected with altruism, with giving.
+
+The sefirah of understanding, Binah, is positioned on the left side above
+the sefirah of Gevurah.  And indeed, the process of gaining understanding is
+performed for oneself — to construct in one's own mind a complete and clear
+picture with all the associations between details, with all the interrelations
+of the parts of the full structure.  This is an egoistic process.
+
+But the sefirah of Chokhmah is positioned on the right side above
+the sefirah of Chesed.  When, as a result of the solution-derivation process,
+complete solutions are produced that bring benefit to people — this is altruism.
+
+<!-- The sefirah Da'at is not linked to egoism, since in the process of
+copying information into the mind nothing diminishes from the world.
+But when understanding forms in the mind through the sefirah Binah,
+this is already exclusive asset that can be shared with the world. -->
+
+Binah and Chokhmah correspond to finding and correcting an error.
+Binah is receiving the answer to the question “Why doesn't it work?”
+And Chokhmah gives the answer to the question “What needs to be done to correct it?”
+
+Therefore, understanding is for grasping things oneself (egoism).
+While wisdom is for sharing conclusions with others (altruism).
+As stated above, the ideal is the unification of egoism and altruism,
+which in this case can be called “receiving for the sake of giving”,
+i.e., attaining understanding for the sake of being able to give people
+wise counsel and make life better through various improvements.
+
+Altruism is connected to the sefirah of Chesed as the desire to give,
+which manifests in practice through the sefirah of extension, Netzach.
+And egoism is connected to the sefirah of Gevurah as the desire to preserve —
+through the sefirah of restraint, Hod.
+
+<!-- Egoism is a movement inward, toward oneself.
+Altruism and chesed are a movement outward, away from oneself.
+And gevurah is the necessary barrier on the path of unlimited chesed and altruism.
+Gevurah gives form to chesed.
+Chesed and gevurah relate as river and dam, as water and jug.
+Egoism is when a person drinks the water himself,
+and altruism is when he or she shares it with others.
+Altruism is chesed for supporting those in need,
+and egoism is the absence of chesed limited by gevurah. -->
+
+Here follows once more a brief overview of the kabbalistic tree of life by levels.
+
+The intellectual sefirot:
+
+1. Da'at — accumulation of knowledge.
+2. Binah — analysis of the problem, the process of investigation and understanding the situation.
+3. Chokhmah — synthesis of the solution, the process of searching for and deriving the conclusion.
+
+The emotional sefirot:
+
+1. Gevurah — the manifestation of severity, primarily characteristic of authoritarians.
+2. Chesed — the manifestation of mercy, primarily characteristic of liberals.
+3. Tiferet — the equilibrium of the sefirot.
+
+The physical sefirot:
+
+1. Hod — preservation of the old order, this is the direction of activity of conservatives.
+2. Netzach — development, this is the direction of activity of progressives.
+3. Yesod — actions to unite the divergent vectors of these sefirot for the
+   building of Malkhut: a state not only viable but also successful, as well as
+   a healthy society with mutual respect among all people, despite the
+   differences between them.
+
+Often those who study Kabbalah from books or with a teacher, having spent
+much time on theoretical study of abstract topics, remain disappointed,
+seeing no direct results from their efforts, which bring no benefit.
+They feel emptiness within themselves, because through their study they
+fill only part of the sefirot, while the rest remain empty.
+
+Even worse is when people see the practical application of Kabbalah
+only in various magical rituals, such as
+*[pulsa de‑nura](https://en.wikipedia.org/wiki/Pulsa_diNura)*.
+But this only distances one from the Torah.
+
+Yet another problem is that Kabbalah is presented as something abstruse,
+accessible only to the chosen few who possess special abilities for meticulous
+analysis of texts written by Kabbalists.  Or when people lack sufficient free
+time to study all the particulars.  In either case, the main point is missed.
+
+But for the practical application of Kabbalah, the primary task of each person
+must be comprehensible to absolutely everyone.  The essence of applying Kabbalah
+in practice must be expressed so clearly and concisely that it can be uttered
+while standing on one foot.
+
+Thus, in short, it consists in evenly filling all the aforementioned sefirot
+with Divine light.
+<!-- Then the purpose of Creation in the sefirah of Keter is fulfilled. -->
+
+Thus the ideal sequence of a person's development should begin with education:
+first the sefirah of Da'at is filled with comprehensive knowledge — not through
+rote memorization, but with deep understanding of what is learned through the
+sefirah of Binah.  That is, the knowledge gained from enlightenment fills the
+sefirah of Da'at, which then allows us to fill the sefirah of Binah as an
+understanding of people's needs.  Through this it becomes possible to learn
+to draw wise, balanced conclusions and to fill the sefirah of Chokhmah.
+
+After filling the individual sefirot, the interpersonal sefirot are filled —
+in relationships between people.  This requires maintaining balance,
+softening excessive severity with mercy,
+but also restraining excess chesed with gevurah.
+An exemplary model is the relationship of loving parents to their children,
+when they do everything possible for their development, yet without pampering
+them excessively — precisely as G‑d relates to people, which is reflected
+in the prayer *Avinu Malkenu*, where *Avinu* (Our Father) represents chesed,
+and *Malkenu* (Our King) is associated with the concept of gevurah.
+To fill the sefirah of Tiferet, we must ensure
+that all other sefirot are filled evenly.
+
+In the process of achieving perfection in relationships between people,
+the lower sefirot are also filled with the manifestation of the previous sefirot
+at the level of society: the state, the nation, and all humanity.
+First and foremost, this finds expression in political preferences and
+corresponding actions: in voting in democratic elections, protest
+demonstrations, and other forms of political activity.
+
+For the unification of the entire political spectrum in the sefirah of Yesod,
+it is necessary to combine both the realization of the sefirah of Hod through
+preservation of national identity, culture, and ancestral traditions, and the
+sefirah of Netzach through the achievements of progress in all areas.  Moreover,
+this refers not only to scientific and technical progress, but also to moral
+progress — including tolerant attitudes toward minorities, observance of human
+rights, and all other manifestations of mercy.
+
+All these sefirot have direct and tangible manifestations in the real world,
+accessible to observation.  Therefore, the degree of their fulfillment is also
+accessible to direct measurement.  Despite the fact that many assertions of the
+Kabbalists are unverifiable, concepts such as *chesed* and *gevurah* are
+nonetheless objective entities of this world.
+
+For example, if we attempt to apply a measuring stick to the vessels of chesed
+and gevurah, it becomes apparent that chesed can be found primarily among the
+left-wing, while gevurah among right-wing.  Therefore, broadly speaking,
+we can say that gevurah is associated with right-wing ideology,
+while chesed more with left-wing ideology.
+
+In Kabbalah, by contrast, gevurah is on the left and chesed on the right.
+<!-- This is because in Hebrew everything is reversed — from right to left. -->
+But in Kabbalah this arrangement existed long before the
+emergence of the modern division into right and left.
+The first mention in Kabbalah dates no later than the 12th century:
+in [Sefer HaBahir](https://en.wikipedia.org/wiki/Bahir)
+[108](https://www.sefaria.org/Sefer_HaBahir.108)
+it is described how Gabriel, representing gevurah, was on the left side,
+Michael on the right, and Uriel and truth in the center.
+<!-- Moreover, when deviation occurs toward gevurah,
+the angel is called Nuriel, and when toward chesed, Uriel
+(Zohar I 23b:21,
+Zohar Beresheet [17:190](https://www.sefaria.org/Zohar,_Bereshit.17.190)). -->
+
+Remarkably, even many Kabbalists themselves fail to notice the obvious imbalance
+in the filling of their vessels, i.e., they themselves do not observe the
+elementary foundations of their teaching in practical implementation.
+Therefore, even Kabbalists themselves have their own *qlippoth*,
+but there are also sparks of holiness that must be extracted.
+
+Some Kabbalists are too far to the left, with an excess of chesed, like Avraham.
+Other Kabbalists are too far to the right, with an excess of gevurah, like Yitzchak.
+But few maintain tiferet, as Yaakov did.
+And tiferet is truth itself, as it is said
+in Micah [7:20](https://www.sefaria.org/Micah.7.20):
+“You will show truth to Yaakov, mercy to Avraham.”
+
+Not all Kabbalists maintain balance.
+The Kabbalists of the galut had an inevitable skew to the political right,
+i.e., the sefirot were overweight on the left side.
+Among contemporary Kabbalists, deviations are observed
+both to the right and to the left.
+
+Among the ultra-right kabbalists, the sefirah of Hod is full, but the sefirah of
+Netzach is empty.  Even in cases where the sefirot of Da'at, Binah, and Chokhmah
+are full, and in relation to people Gevurah and Chesed are balanced through
+Tiferet, in politics there is still a significant tilt to the right.  Because of
+this, it becomes impossible to achieve societal consensus — when Hod and Netzach
+are imbalanced, the sefirah of Yesod is shattered, upon which the world rests,
+and such a terrible thing as the fracturing of the nation occurs.
+
+And among the ultra-left kabbalists, conversely, there is an imbalance from the
+other side: the sefirah of Chesed is filled, but the sefirah of Gevurah remains
+absolutely empty.  The sefirah of Hod is also empty when all traditions are cast
+aside.
+
+The emptiness of the sefirah Gevurah manifests among ultra-left kabbalists in
+that there are absolutely no requirements for their students — they do not
+demand even a minimum observance of laws and traditions from their disciples,
+imposing no restrictions whatsoever.  When it is said “Do not turn aside to the
+right or to the left”, this also means neither to make more stringent nor
+to make more lenient.  Stringency is gevurah, while leniency is chesed.
+But boundless chesed also shatters the vessels — imbalance of chesed
+gives birth to monsters.
+
+Ultra-leftist Kabbalists only demand boundless altruism at the expense of
+personal egoistic needs — they call for the complete suppression of egoism in
+favor of altruism.
+<!-- Like all leftists, they understand egoism narrowly, only as the desire to
+enrich oneself at others' expense (as they believe), and therefore they hate
+the wealthy, regarding wealth and success as signs of egoism. -->
+
+But whenever ultra-leftist Kabbalists call for renouncing egoism, I immediately
+recall how terrible the communist ideal of eliminating egoism looks, when egoism
+is linked with individualism as under capitalism and opposed to collectivism as
+its enemy.  The struggle against egoism appears as a struggle against
+individualism, which imposes collectivism at the expense of individualism.
+
+Thus in authoritarian countries the personal traits are suppressed in all
+citizens, except for the supreme leader, to whom all individualism passes.
+Because a cult of personality around any ruler is inevitable.
+<!-- I remember being surprised by how the Chinese Gagarin (the first Chinese
+taikonaut) did everything to diminish his achievements in favor of his communist
+comrades.  But in the Soviet Union it was the opposite — they created a cult of
+personality around Gagarin against the backdrop of the gray mass of people,
+where bright personalities were suppressed. -->
+
+The ideal for ultra-left Kabbalists and communists is an anthill.
+Just as ants execute a strictly defined program of actions, the same is
+expected from members of a communist society.  But just as even among ants
+[inequality](https://en.wikipedia.org/wiki/Slave-making_ant) is
+inevitable, so too in society the establishment of a hierarchical structure is
+inevitable — only in liberal societies such hierarchy is flatter and less rigid.
+
+Such voluntary-compulsory altruistic communism inevitably leads to all egoism
+being redistributed to the apex of power and transformed into the unlimited
+egoism of the ruling elite against the backdrop of faceless masses of the
+population, who are used as cogs in the system.
+
+Left-wing Kabbalists teach that G‑d possesses absolute altruism,
+directed exclusively toward giving,
+and therefore they require everyone to follow this example.
+But it is wrong to demand absolute altruism from a person,
+because G‑d not only gives, but also receives.
+G‑d not only gives light to people —
+G‑d also needs to receive from people the development of their souls.
+Human altruism manifests not only toward other people —
+a person should share what they receive not only with people,
+but also give part to G‑d.
+
+Therefore when ultra-Orthodoxes spend all their time in prayer
+and studying the Talmud — this is genuine altruism.
+But the problem is that this is unbalanced altruism.
+Only a portion of our energy and time should be given to G‑d,
+and the rest should be shared with people.
+Ultra-Orthodoxes, however, have excessive altruism toward G‑d,
+but toward people absolute egoism.
+
+Any extreme is destructive: both absolute egoism, which caused the destruction
+of the Temple, and absolute altruism as under communism, and all the more so
+under utopian anarcho-communism, since any utopia inevitably turns into
+a dystopia.
+
+Therefore, even in the manifestation of altruism, moderation be must observed.
+Many leftist ideologies began with altruistic ideas of making people happy.
+Moreover, the ideologues often held rather perverted notions of how to achieve
+this.  And when they failed to succeed, they continued to implement their
+delirious ideas by force, which led to the directly opposite result.
+
+<!-- I expected the left to fulfill their declared goals: protecting the weak,
+helping those in need, and despite the fact that I myself hold center-right
+values, I continually tried to find sparks of holiness among the left, but
+could never understand why leftist views necessarily entail antisemitism.
+
+Many leftists somehow strive to be altruists toward everyone except Jews —
+even toward Arab terrorists.  One example of radical destructive altruism is
+the leftist radicals' desire to surrender territories for a Palestinian state,
+disregarding the fact that an army would immediately be formed in this state,
+and then Israel would face attacks not from lone terrorists but from large armed
+forces backed by Iran.  But by such support of terrorists, the left discredits
+their own movement: when the majority of leftists show indifference to victims of
+terror, the word “leftist” becomes synonymous with “anti-Semite”, and Israeli
+leftists gradually shift rightward along the axis of support for or opposition
+to the Palestinian Arabs. -->
+
+The famous words from John F. Kennedy's
+[inaugural](https://en.wikipedia.org/wiki/Inauguration_of_John_F._Kennedy)
+address are well-known: “Ask not what your country can do for you, ask what you
+can do for your country.”  But this is a call for prioritizing altruism over egoism.
+Ideally, one should combine them: simultaneously work for the good of one's
+country and demand various benefits from the country for oneself.
+The speech continues:
+“My fellow citizens of the world: ask not what America will do for you,
+but what together we can do for the freedom of man.”
+This means, among other things, that Europe must make more efforts
+to ensure their own security rather than being freeloaders on America,
+i.e., no one can demand unrestricted altruism from Americans —
+yet from the other side, unrestricted egoism is also harmful.
+
+That is, everyone must maintain a balance between egoism and altruism — one must
+put one's egoism at the service of people so that others benefit from that egoism.
+For example, when people grow wealthy through a fortunate turn of events,
+especially as a result of producing something useful for others,
+then in most cases the owners of enormous fortunes direct a portion
+of their excess income to charity through various foundations, etc.
+
+There is no need to completely eliminate egoism, which always accompanies
+a free individual — in the spirit of Ayn Rand's
+*[The Virtue of Selfishness: A New Concept of Egoism](https://en.wikipedia.org/wiki/The_Virtue_of_Selfishness)*,
+whose source material contained criticism of the aforementioned statement by Kennedy.
+Rather, one must channel egoism for the benefit of society.
+Egoism for the benefit of people — this is beneficial egoism.
+
+Dovlatov remarked that there are three levels of life: the first — for oneself,
+the second — for people, and the third — for G‑d.  These levels can be revealed
+as follows:
+
+1. personal needs of the individual: applying effort to diminish one's own suffering;
+2. relationships between people: fulfilling obligations toward other people,
+   which diminishes the suffering of others;
+3. relationship with G‑d: fulfilling obligations to develop and perfect the soul.
+
+Therefore, one should not demand a complete renunciation of egoism, but the
+main thing is not to forget to observe the chief law of the Torah: not to do
+to another what you would not wish for yourself.  <!-- In this statement there
+is both gevurah (demand) and chesed (mercy, love), united in tiferet. -->
+
+Altruism is the desire to do for another what you wish for yourself,
+which flows from the commandment “Love your neighbor as yourself.”
+
+On the other hand, egoism is an unwillingness to put oneself in another's place.
+
+The very striving to place oneself in another's position —
+this is the brightest manifestation of spirituality.
+{: #holiness-spirituality title="Holiness and Spirituality"}
+
+The Orthodoxes conceive of spirituality as two extremes.  On the one hand,
+as the material performance of certain rituals with such logic that the more
+stringencies, the more spirituality.  And on the other hand, as something
+abstract, situated somewhere in unreachable heights, in the “higher worlds”.
+But this too is incorrect.  Spirituality — it is not in the heavens.
+
+So what, then, is spirituality according to the principal law of the Torah?
+
+Spirituality is the readiness to put oneself in another person's place, to
+emotionally exchange souls with them, i.e., to mentally place one's soul in
+their position and see the world through their eyes.  After this, it becomes
+possible not to do what brings suffering to another.  And also to do what
+diminishes another's suffering.
+
+Just as it is a mitzvah to comprehend the will of G‑d,
+imagining oneself viewing the world from G‑d's perspective,
+so too must one strive to imagine oneself in another person's place,
+looking at the world from his point of view, in order to understand his needs,
+as well as all his motivations and the logic of his life situation.
+Then the saying not to do to another what one does not wish for oneself
+becomes clear.  And only then can each person love
+and respect their neighbor, as the Torah requires.
+
+All this is connected to the Torah commandment “Love your neighbor as yourself.”
+Just as a person well understands their own needs,
+so too must one strive to put oneself in the place of one's neighbor,
+in order to acquire the ability to understand them.
+
+People often confuse the concepts of *spirituality* and *holiness* (*kedushah*).
+Holy (*kadosh*) means something set apart, separated, when it's consecrated to
+G‑d: a portion of one's time, etc.  Thus, spirituality directs Divine light into
+the material world, while holiness does the opposite — it establishes a vector
+of removal from the material world, as, for example, occurs in the withdrawal
+from ordinary earthly life on Shabbat, and as havdalah separates the holiness of
+Shabbat from the *chullin* of workdays: *bein kodesh le‑chol*.
+Therefore Shabbat is a time of holiness, while on the remaining days of the week
+one must manifest spirituality.  Or during prayer holiness is manifested, while
+the rest of the time is designated for spirituality.
+
+Another example of the concept of holiness: when in Shemot
+[19:6](https://www.sefaria.org/Exodus.19.6) it says “you shall be to Me a holy
+nation”, and also in Vayikra [19:2](https://www.sefaria.org/Leviticus.19.2)
+“you shall be holy, for I am holy” — this means that the people as a community are
+set apart for the service of G‑d.  In this sense, spirituality is not opposed to
+holiness — when one dedicates one's life to the service of G‑d, spirituality can
+be manifested within the framework of service.  Spirituality is realized through
+active participation in performing good deeds for the repair of the world, but
+this often requires immersing oneself in the world's imperfection while striving
+to preserve holiness.  Orthodoxes remove themselves from repairing the imperfect
+world — they set themselves apart solely for holiness, but in doing so they lose
+spirituality.
+
+<!-- Orthodoxes think that by removing themselves they become holy, but there is
+*harm by inaction* — when they do not help, and thereby bring suffering. -->
+
+One who only prays without performing good deeds — this is holiness without
+spirituality.  Therefore Orthodoxes have holiness, but no spirituality.
+Even many righteous people make a mistake where holiness outweighs spirituality
+to the detriment of the latter.  Therefore one must not forget the necessity of
+maintaining balance between spirituality and holiness — for those who strive to
+invest themselves with holiness.  But spirituality can be developed entirely
+without holiness.  Holiness is for G‑d, while spirituality is for people.
+
+Spirituality manifests in one's relationship to people, when through helping
+those in need and repairing the world the soul develops.  Therefore, there is
+more spirituality in those societies that care for people's needs.
+But in those societies where religious laws justify the suppression
+of the human personality, spirituality is at zero.
+
+There exists a theory called [horseshoe theory](https://en.wikipedia.org/wiki/Horseshoe_theory),
+which visually illustrates the expression “extremes meet” —
+« les extrêmes se touchent ».
+Just as the opposing ends of a horseshoe nearly touch, so too the opposite
+extremes of the political spectrum are not separated by a great distance in a straight line,
+but rather in the form of a bent horseshoe, left-wing and right-wing marginal groups draw close
+to one another.  The point is that radicals holding extreme opposing views become similar
+to one another to the point of indistinguishability in both thought and action.
+From both ends a convergence occurs, when the far left becomes ideologically
+close to the far right: both prefer violence against dissenters, etc.
+{: #extremes title="Extremes"}
+
+It can be clearly visualized how a straight line, i.e., a single axis “left ↔ right”
+can be superimposed on a plane with two axes “liberalism ↔ authoritarianism” and
+“left economics ↔ right economics”.  For this, the straight line bends into
+an arc in the shape of a horseshoe.  For example, here is how the spectrum of
+political forces is usually depicted on a straight line:
+communists | socialists | social democrats | centrists | right-wing
+liberals | conservatives | far right.  And here is how the straight line
+transforms into a horseshoe on the graph:
+
+![horseshoe](../../../files/book/podkova_en.png){:.center}
+
+This closely resembles the way parliamentary seat distribution is conventionally
+depicted as an arc.  This is the horseshoe.  Here we can see that the
+ultra-left and ultra-right converge in authoritarianism.
+
+The horseshoe theory applies equally to such extremes as the ultra-left and the
+ultra-Orthodoxes.  In the same vein as the ultra-Orthodoxes demand from others
+scrupulous observance of all remnants of the past and the creation of
+a Halakhic state with total control on the grounds that this is required for
+the coming of the Messiah, so too the radical leftists, the neo-Marxists
+consider themselves paragons of morality, and on this basis demand from
+others submission to their leftist ideology.
+
+This is an example of typical leftist ideology, where at the pinnacle of the
+power pyramid stand the “enlightened”, who possess arcane knowledge of how
+everyone else should live, and forcibly compel others to follow their ideology.
+Under communism — through repressions, while in a democracy anti-liberal
+leftists act by more sophisticated means, dispensing vigilante justice and
+subjecting opponents to ostracism and public shaming, which has come to be known
+as [cancel culture](https://en.wikipedia.org/wiki/Cancel_culture).
+Leftist radicals with their “cancel culture” are the modern morality
+police, punishing offenses against sensibilities and destroying people's lives
+for an incautiously expressed thought.  Like red commissars who exterminated
+“enemies of the people” according to the principle: “When there's a person —
+there's a problem; no person — no problem.”
+<!-- Zealots of cancellation also include the Orthodoxes,
+who cancel the existence of Jews through the father. -->
+
+Just as ultra-Orthodoxes strive for a dictatorship of Halakha with all its
+atavisms in the form of inhumane punishments, so too does the dictatorship of
+the proletariat among radical leftists lead to the dictatorship of the
+“leader of the people”, and the dictatorship of morality degenerates into
+“cancel culture”, where public figures deemed less moral are subjected to
+extrajudicial persecution.  For woke radical leftists it is easier to destroy
+everything down to its foundation than to build.  It is easier to destroy the
+lives of their opponents than to try to convince them of their righteousness
+through constructive criticism.
+
+The ideology of the extreme left resembles the behavior of communists: they too
+stand above the law and act according to their own understanding of expediency,
+not scrupling at any means to achieve their goals: “the end justifies the means”.
+
+But as history shows, nothing good can come from either the forcible
+construction of communism or the forcible construction of theocracy
+as in Iran, with torture and executions.
+
+Just as the communists awaited the imminent arrival of communism, so too
+the “messianists” await the coming of the Messiah, who will magically solve all
+problems.  But they themselves do nothing toward this end, hoping that all
+solutions to problems will descend from heaven.  This irrational and infantile
+attitude is characteristic of all leftists.  They believe that when Mashiach
+comes, there will no longer be any need to work, and many ultra-Orthodoxes have
+a cargo cult, i.e., they do not work, as if Mashiach has already come, in order
+to hasten his arrival.  But in truth, enormous work must still be done to make
+the coming of Mashiach possible — to hasten the time of Mashiach's coming
+requires much labor.
+
+So both the “enlightened” and the “messianists” are two sides of the same coin,
+each with their own idée fixe.
+
+The country is destroyed by radicals of both types: ultra-right radical fanatics
+who incite hatred among fellows, and ultra-left radicals who hand their own
+country over to be devoured by enemies.  So democratic countries are destroyed
+by both the far-right and the far-left.
+
+Due to their antisemitism, the ultra-left declared:
+“Arab terrorists are equal participants in the conflict”.
+And the ultra-right responded:
+“and Russian terrorists are also equal participants in the conflict”.
+Moreover, even very religious people sink to such an amoral low.
+One extreme always begets another extreme.
+
+That is, the radicalization of the right is a mirror response to the
+radicalization of the left.
+This is an example of the horseshoe, where extremes converge,
+and both sides become equally distant from morality.
+The following chart demonstrates the vector of political changes
+in the United States, when the left began pushing the country
+toward authoritarianism, and the right continued:
+
+![MAGA](../../../files/book/maga.png){:.center}
+
+BTW, despite their claims, MAGA has little in common with the greatest
+U.S. president of our time, Ronald Reagan, who defeated the Soviet empire
+by his highly moral stance.
+
+Even the interests of ultra-Orthodoxes and far-left Arab parties often coincide:
+for example, both demand the abolition of the “Law of Return”.  Likewise, the
+radicalization of ultra-Orthodoxes also frequently leads to antisemitism, i.e.,
+the horseshoe theory applies to ultra-Orthodoxes as well, when their
+radicalization brings ultra-Orthodoxes closer to antisemites, when they reach
+the point of denying the right to exist of Jews who differ from them —
+patrilineal Jews and all non-Orthodox Jews in general.  Numerous examples are
+known of radicalizing ultra-Orthodoxes who hate less radical Jews, and thus moving
+closer to antisemites.  Both the attacks by Orthodoxes on non-Orthodox Jews at the
+Western Wall and the stone-throwing on Sabbaths — all these are consequences of
+radicalization.
+
+And in the boycott of Israeli goods, the Orthodoxes are also in solidarity
+with the Arabs.  For example, when I became a Zionist, i.e., a patriot of
+Israel, in grocery stores I deliberately tried to choose fruits imported from
+Israel in order to support Israeli producers.  But later I learned that the
+Orthodoxes demand doing exactly the opposite: carefully watching to avoid
+accidentally buying fruits from Israel.  At first I tried to support the
+Orthodoxes on this matter.  And only after they rejected me did I become
+horrified at what a disgusting example this sets for antisemites.  It is
+so similar to the boycott of Israeli goods staged by antisemites from the
+[BDS Movement](https://en.wikipedia.org/wiki/Boycott,_Divestment_and_Sanctions)
+(abbreviated BDSM).
+
+In general, any radicalization leads to antisemitism.
+Therefore, antisemites arise from radicals of both the extreme right and the extreme left.
+Since a decreasing level of antisemitism is an indicator of drawing closer to G‑d,
+this means we must avoid radicalization.
+
+One example of radicalization is the postulate demanding that equal human rights
+be ensured for terrorists and murderers.  As a right-wing liberal, I do not
+demand the death penalty for them, since the literal interpretation of the law
+“life for life” was abolished long ago.  Even the first murderer Cain was not
+punished with the death penalty: “anyone who kills Cain shall be avenged
+sevenfold — and G‑d set a mark upon Cain, lest anyone who found him should slay
+him” (Beresheet [4:15](https://www.sefaria.org/Genesis.4.15)).  Because even
+for the most grievous crimes, only G‑d has the right to take life: “for your
+lifeblood I will require a reckoning — of every beast will I require it, and
+of man, of every man for that of his brother will I require the life of man”
+(Beresheet [9:5](https://www.sefaria.org/Genesis.9.5)).
+<!-- see also commentaries on
+Shemot [21:29](https://www.sefaria.org/Exodus.21.29?with=Commentary) -->
+
+Midrashim teach that if a murderer is not found, he still receives punishment
+at the hand of Heaven.  This resolves both the problem of *false negative*, when
+the criminal was not identified, and *false positive*, when an innocent person
+was executed, which has often occurred in the history of criminal punishment.
+With reference to Shemot [23:7](https://www.sefaria.org/Exodus.23.7),
+“the innocent and righteous you shall not slay”,
+Rambam noted in his commentary on commandment
+[M−290](https://www.sefaria.org/Sefer_HaMitzvot,_Negative_Commandments.290):
+“It is better to leave a thousand guilty unpunished than to execute
+one innocent person.”  Later this principle came to be known as
+[Blackstone's ratio](https://en.wikipedia.org/wiki/Blackstone's_ratio).
+Therefore, even for the most hardened repeat offender, trial and correction
+in isolation from society must continue.
+<!-- For this same purpose, there existed in Israel
+[cities of refuge](https://en.wikipedia.org/wiki/Cities_of_Refuge).
+Later, in other countries, penal colonies were similarly established.
+Cities of refuge take on an interesting form in our day — some
+[cities](https://en.wikipedia.org/wiki/Sanctuary_city)
+in the United States have become modern cities of refuge,
+where illegal migrants could hide from deportation. -->
+
+But the demand to grant terrorists and murderers freedom of speech
+while depriving their critics of such freedom — that is going too far.
+
+Perhaps in this way the left is trying to instill European values in the
+barbarians by demonstrating complete freedom of speech in action?  But in
+reality, this does not help.  For even despite the continually manifested
+goodwill on the part of Western countries, Russians in Russia have rejected
+the values of Western civilization, hysterically slammed shut the window to
+Europe, declared North Koreans a fraternal people, and joined the axis of evil
+with Iran and Arab terrorists.  And many Arabs also, even after migrating to
+the West, refuse to recognize fundamental human rights, and only continue
+to commit acts of terror.
+
+For example, Facebook provides freedom of speech for terrorists and their
+accomplices, but blocks those who defend themselves against murderous
+aggressors.  Ideologues of Russian fascism are advertised, yet even openly
+antisemitic caricatures, antisemitic propaganda, and conspiracy theories
+are not removed.  If one complains about Ruscism propaganda, a standard
+form letter arrives: “We've taken a look and found that this content
+doesn't go against our Community Standards.”
+And after complaining about antisemitic comments, the standard response is:
+“We reviewed the comment that you reported and found that it doesn't go against
+any of our Community Standards.  For this reason we didn't take the comment down.”
+
+On one hand, Facebook moderators do not consider the slogan “From the River to
+the Sea…” a call for genocide.  On the other hand, films about the Holocaust
+are blocked.  Those who support Ukraine are also banned, and accounts collecting
+donations to help Ukrainians resist Russian aggression are blocked and deleted.
+Through this, Facebook aids Russian and Arab terrorists.  This is the result of
+a deliberate policy — not only do they give such instructions to moderators on
+how to respond to complaints, but they have also trained neural networks so that
+now 95% of content is filtered automatically.  The problem is that the neural
+networks were trained not to distinguish terrorists from their victims.
+In this, the Left has equated itself with soulless robots that have no moral
+compass and cannot distinguish good from evil.  They merely repeat their dogmas
+without reflection, without connection to reality, and mechanically apply one
+template regardless of the moral circumstances of different situations.
+
+This occurs when one attempts to fill the sefirot of Gevurah and Chesed
+while the intellectual sefirot of Binah and Chokhmah remain empty — when one
+lacks the ability to distinguish good from evil.  Because of this, in the
+emotional sefirot, chesed is extended only toward criminals, while gevurah
+is shown toward victims.  In Midrash Shmuel
+[18:4](https://www.sefaria.org/Midrash_Shmuel.18.4) it is stated: “Whoever
+shows mercy to the cruel will in the end become cruel to the merciful.”
+<!-- More precisely, in the original source the order is different, though it
+does not greatly alter the meaning: “Whoever is cruel to the merciful will in
+the end become merciful to the cruel.”  This can be interpreted to mean that
+antisemites compensate for their hatred of Jews with love for Arab terrorists.
+And generally, without a specific order, it can be stated thus:
+“Cruelty toward the merciful always accompanies mercy toward the cruel.” -->
+<!-- And Midrash Kohelet Rabbah [7:16](https://www.sefaria.org/Kohelet_Rabbah.7.16)
+expresses a similar thought: “One who shows mercy when one should be harsh
+will in the end become harsh when one should show mercy.” -->
+
+Another example of leftist ideology is when terrorists are considered equal
+participants in the conflict.  Many years ago, when some incident occurred
+in the world, I would first visit the BBC website to get a complete and unbiased
+picture of what happened.  But since then, the BBC has shifted far to the left
+and completely lost its objectivity and impartiality.  And now they even refuse
+to refer to the murderers of civilians as terrorists.
+<!-- They only occasionally use this word in quotation marks: “terrorists”.
+But in quotation marks it looks even worse, because it shows that they
+do not agree with this definition.  But this term is not a value judgment,
+but a [dictionary definition](https://en.wiktionary.org/wiki/terrorist). -->
+Explaining their preference by refusing to take sides,
+and thus rising “above the melee”, and accordingly above morality,
+like an [Übermensch](https://en.wikipedia.org/wiki/Übermensch),
+such radical leftist media take the side of terrorists and support
+their antisemitic narratives.  When they support Arab terrorists
+murdering civilians in Israel, as opposed to terrorists murdering
+civilians in other countries — this is
+a [double standard](https://en.wikipedia.org/wiki/Double_standard).
+<!-- The Torah forbids such double standards
+in Devarim [25:13-16](https://www.sefaria.org/Deuteronomy.25.13-16). -->
+
+This is also connected to the concept of
+[moral relativism](https://en.wikipedia.org/wiki/Moral_relativism).
+When people assert that moral principles and norms depend on context:
+that in one context there is one morality, and in another context another morality —
+this is genuine moral relativism, which amplifies antisemitism.
+<!-- Just as a ray of light bends when passing an object with strong gravity,
+so too does morality bend when touching upon Jewish matters. -->
+When Harvard professors spread antisemitism among students,
+it is unsurprising that according to polls 67% of youth aged 18–24 consider
+the Jews who suffered from the genocidal massacre of October 7 to be oppressors,
+while they consider the Arab terrorists to be victims.  It is telling that this
+percentage is significantly lower among older people — only 9% among those over
+65 years old.  This proves that antisemitism is being deliberately spread
+among youth.  Moreover, this form of racism is being spread by the very
+“fighters against racism”.
+
+Another example of adherents to moral relativism is the international organization
+[Amnesty International](https://en.wikipedia.org/wiki/Criticism_of_Amnesty_International).
+For instance, they accused Ukrainians of defending themselves against attacks
+by Russian occupiers.  That is, they effectively accused Ukrainians of killing
+Ukrainians, which aligned with the narratives of Russian propaganda.  By this,
+Amnesty finally discredited their organization, built on the leftist idea of
+equidistance from parties to a conflict, failing to take into account that one
+of them is a criminal and the other a victim.  The experiment by radical
+leftists to implement the equation of criminal with victim has utterly failed —
+the leftist apologists for such equality themselves side with evil.
+
+The situation was as follows: due to the advance of the Russian aggressors,
+residents were forced to evacuate from frontline areas.  For defense,
+Ukrainian defenders took up positions in empty houses, when the battle was
+fought for every house.  So Amnesty accused the Ukrainians that because of this,
+Russian terrorists were shelling residential neighborhoods, as if they were not
+doing the same thing, daily shelling Ukrainian cities far from the front line
+and killing civilians there simply for intimidation.
+
+At the same time, Amnesty has never condemned the Arab terrorists who actually
+employed the tactic of placing launch sites in residential areas to increase
+casualties among their own population when the IDF was forced to respond to
+attacks on Israeli cities.  Yet they continually accuse the State of Israel
+of defending herself against terrorists, i.e., they unequivocally support
+the actions of terrorists against their victims.  And other international
+organizations such as the UN and the Red Cross, despite claiming objectivity,
+typically display one-sidedness and bias.
+
+The ultra-left arrogate to themselves the prerogative of G‑d, imagine themselves
+to be G‑d in that they have risen above good and evil, above morality, and have
+appropriated the right to judge the entire world, to proclaim indisputable
+truths and to render non-negotiable verdicts.  But since in reality they possess
+no authority from G‑d, their ostentatious neutrality aids the side of evil,
+and thereby they as useful idiots detached from reality destroy the world instead
+of repairing it.  Like members of some sect or cult, they fanatically believe in
+their own moral infallibility and superiority over others.  As a result, various
+moral aberrations occur.
+
+Maybe leftist radicals draw their ideas of universal equality from Christianity.
+For example, Pope Francis held ultra-leftist views.  The attempts of leftists
+led by the Pope to convince Ukrainians of nonviolent resistance — this too is
+moral relativism.  By this logic, a victim of violence should not resist, but
+only try through persuasion and concessions to appease the aggressor.  Following
+this ideology, the Pope endeavored to “reconcile” Ukrainians with Russians as
+equal parties to the conflict.  <!-- Thus the Pope is no longer a model of
+morality, just as Orthodoxes ceased to be a model of morality.  Paradoxically,
+the Pope, who considers himself G‑d's representative on Earth, is as far from
+G‑d as the Orthodoxes. -->
+
+Leftists equate aggressor and victim, portraying them as equally guilty of
+mutual hatred.  But in reality, for many years propaganda has been inciting
+Russian hatred toward Ukrainians.  The Ukrainians did not hate the Russians.
+Only after the Russians began killing Ukrainians, bombing and destroying cities
+— only then did this engender a reciprocal hatred against the Russians.
+Therefore, one must not reconcile them, but first of all punish the murderers,
+and only after they repent and compensate for the consequences of the war
+can one begin reconciliation.
+
+While the Torah teaches equality before the law and moderate liberalism,
+one symbol of which is the Exodus from Egyptian slavery,
+radical Christians take these ideas to extremes.  Hence the demand:
+“if someone slaps you on the right cheek, turn to him the other also”.
+In fact, this was borrowed from the TaNaKh:
+“Let him offer his cheek to the one who strikes him”
+(Eikhah [3:30](https://www.sefaria.org/Lamentations.3.30)),
+but with a different meaning.
+For most Christians this ideal of humility remained unattainable,
+and thus such a gap between theory and practice resulted
+in the medieval Inquisition and anti-Semitic pogroms.
+Thus the excessive chesed preached in words
+was transformed in practice into the harshest gevurah.
+<!-- In general, radical leftists have little chesed,
+but instead only hatred toward their class enemies. -->
+
+Though we must acknowledge that the theory of nonviolent resistance helped,
+for example, India gain independence.  But this works only when
+the protesters face a civilized power — such as the British Empire was.
+Even apartheid in South Africa was civilized — they spared the political
+prisoners, including Mandela.  In the case of russia, all this is
+completely inapplicable.
+
+BTW, when the native inhabitants later gained power in South Africa, hostility
+towards Israel began solely because antisemites had slapped the label of
+“apartheid” on Israel, which provokes them like a red rag to a bull.
+Such primitive deception is in principle one of the varieties of
+cargo cult.  But in reality, the
+[indigenous people](https://en.wikipedia.org/wiki/Indigenous_peoples)
+of the land of Israel are the Jews, while Arab colonizers occupied the
+land of the Jews several centuries after the destruction of the Temple.
+
+Despite the traceable connection to Christianity, most radical leftists
+are atheists, and this is not surprising.  <!-- For example, the atheistic
+[Moral Code of the Builder of Communism](https://en.wikipedia.org/wiki/Moral_Code_of_the_Builder_of_Communism)
+was copied from the Bible.
+In fact, the Soviet Union was neither secular nor atheistic, but rather
+a religious theocracy with a communist religion, with faith in a communist
+paradise and other attributes: its own prophets — Marx, Engels, Messiah — Lenin,
+Bible — the complete collected works of Lenin, church — the Communist Party,
+apostles — members of the Politburo with portraits on the iconostasis, etc. -->
+The logic of leftist atheists is as follows: previously, religion was needed to
+cultivate moral qualities in people, but now society in developed democratic
+Western countries has reached a high level of morality, therefore continuing
+this line of moral development into the future, one can intuitively envision
+further moral progress.
+
+This is partly true — in Western democratic countries, morality is already at
+a high level: there is no longer discrimination against women and minorities,
+fair courts reliably protect human rights, etc.  But often attempts to forcibly
+accelerate the development of morality even further lead to the opposite result.
+Why does this happen?  As already stated, one must not strive to be overly righteous.
+One must be righteous in measure.  Otherwise, “righteous radicals” instead
+of spreading their views democratically through civilized discussions simply
+begin to destroy their opponents, who merely hold different views
+but commit no unlawful actions.
+
+The aspiration to be righteous beyond measure destroys the world
+through the shattering of the vessels
+(*[shevirat ha‑kelim](https://en.wikipedia.org/wiki/Tohu_and_Tikun)*),
+transforming it into a world of chaos (*olam ha‑tohu*) — instead of
+repairing the world, i.e., these are actions contrary to *tikkun olam*.
+
+Unfortunately, many leftists understand *tikkun olam* primitively — simply as
+a call to break leftward recklessly and aggressively, in revolutionary fervor
+smashing everything in their path.  The result is the complete opposite —
+destruction of the world instead of its repair.
+
+But we must not take example from the adherents of “cancel culture” and act by
+their methods in order to cancel them.  Instead, we should strive to extract
+sparks of holiness (*nitzotzot*) from among all their
+*[qlippoth](https://en.wikipedia.org/wiki/Qlippoth)*.
+
+For example, despite the radicalism of many eco-activists and the invariably
+accompanying antisemitism, by which they discredit themselves, we must continue
+to care for the environment.  When leftist radicals support terrorists, it is at
+least logical for them to also participate in climate protests, because by this
+they limit economic freedom, which is also a leftist agenda.  On the other hand,
+it is impossible to give full freedom to corporations — unlimited corporate
+power, [corporatocracy](https://en.wikipedia.org/wiki/Corporatocracy),
+substantially restricts citizens' freedom and their right to a stable climate
+and clean nature.  Therefore, we must take from eco-activists only the sparks
+of care for nature.
+<!-- Individual care for the environment looks like this: when the free
+market offers different options to choose from, we should prefer the more
+environmentally clean one.  As a right-winger, I act precisely this way.
+But leftists only engage in forcibly imposing their delusional ideas.
+They care not at all about the state of nature: first they fight against
+air travel, then they drop everything and switch to supporting terrorists. -->
+
+Just as many continue to use the antisemitic Facebook, hoping to extract
+the sparks embedded in the form of the idea of uniting people, but as under
+totalitarianism trembling in fear of punishment for every word spoken,
+which might displease the ultra-left.
+<!-- For example,
+[absurd](https://www.facebook.com/HeimishHumor/posts/pfbid0fRgkiP8m4ZRSayKBg3cbTkxdBGmcwpbVsZin1YxEXvfj191ZPjuZySoQQj76m7Aul).
+-->
+
+In my childhood, scientists were my role models.
+But since many scientists held far-left views,
+I was faced with the question of whether I should emulate them in this as well.
+Gradually I came to understand that a person's successes and achievements in one
+particular field do not ensure the balance and impartiality of their political views,
+and certainly say nothing about the presence of common sense in them.
+That is, a person's competence, professionalism, and success in one narrow field
+do not guarantee the reasonableness of their pronouncements in other areas.
+And numerous examples can be brought to illustrate this.
+
+<!-- I remember how in childhood it was difficult for me to rid myself of the
+conviction that everything printed on paper was true.  I had to exert effort
+to analyze the printed word impartially.
+Similarly, nowadays, when a group of persons appropriates for itself the title
+of human rights defenders, one instinctively wishes to express approval of them.
+But then it turns out that they also support the rights of terrorists.
+Thus operates the post-truth era. -->
+
+For example, I was deeply interested in the works of the outstanding
+linguist [Noam Chomsky](https://en.wikipedia.org/wiki/Noam_Chomsky):
+both his eponymous [hierarchy](https://en.wikipedia.org/wiki/Chomsky_hierarchy)
+of formal languages and grammars, and
+[generative grammars](https://en.wikipedia.org/wiki/Generative_grammar).
+All of this found the most direct application in programming.
+Being interested in his achievements in linguistics, I sought to read
+everything he had written, so alongside studying his scientific works,
+I periodically searched for sparks of holiness in his political publications.
+Occasionally, perhaps from despair over the impossibility of applying
+his political ideas, he would return to balanced positions.
+But mostly, each time I enthusiastically took up reading a new article,
+hoping to find sparks of reasonableness, each time I was met with great
+disappointment: the articles were permeated with double standards, detachment
+from reality, etc., like all leftists when they lose touch with reality and
+construct abstractions in their imagined ideal world.
+
+At the same time I became interested in the idea of *Free Software*
+and the [GNU](https://en.wikipedia.org/wiki/GNU) project.
+The project's creator made an enormous contribution to repairing the world:
+he initiated the development of free software,
+which significantly advanced humanity's progress—
+*Free Software* is present in each of a billion smartphones,
+also in the overwhelming majority of servers upon which the economy rests,
+many achievements in AI occurred thanks to *Free Software*, etc.
+Remarkably, the ideas of free software, which could conditionally be called leftist,
+contributed to the rapid development of the right-wing capitalist economy and
+led to the creation of millions of jobs throughout the world.
+(Whereas [proprietary software](https://en.wikipedia.org/wiki/Proprietary_software)
+often does the opposite — leads to stagnation due to the power of monopolies.)
+
+<!-- BTW, it is interesting to draw parallels between Moses and RMS.
+Just as Moses led the Jews out of slavery into freedom, so too does RMS liberate
+people from the slavery of corporations, their proprietary software, and grant
+people freedom.  Therefore RMS can be called the Moses of the Free Software
+Movement.  Just as Moses gave people rules of morality, so too RMS gave people
+the moral rules of free software.  He also gave his own laws of kashrut —
+software is considered kosher when distributed under a free license.  Just as
+the prohibition against cooking a kid in its mother's milk has several degrees:
+the prohibition to cook, the prohibition to eat, the prohibition to derive
+benefit, so too free software has several
+[degrees](https://en.wikipedia.org/wiki/GNU_General_Public_License): the freedom
+to use, the freedom to study the source code (also present in *open source*),
+the freedom to copy and distribute, the freedom to improve and derive benefit. -->
+
+On the other hand, as with all who perform many good deeds, he also has many
+qlippoth.  For example, like all ultra-leftists, he continually criticizes
+Israel: denies Israel's right to self-defense, criticizes the destruction of
+Arab buildings resulting from Israel's retaliatory actions, but does not
+criticize the terrorists who install launch sites there and attack Israel
+with rockets, etc.  In short, the whole standard repertoire.
+
+<!-- Despite the fact that RMS himself separated his political convictions from
+the distribution of free software and promised not to prohibit free software in
+Israel, it is possible that his anti-Israel position led to the result that
+instead of free software, crooked Microsoft contraptions gained widespread use
+in Israel. -->
+
+But despite these zealous demonstrations of devotion to leftist ideas,
+in the end he himself fell victim to repression from more radical leftists
+who “canceled” him.  This demonstrates the cardinal differences between
+normal people (moderate leftists and right-wing) and leftist radicals with their
+*cancel culture*.  Those right-wing who disagree with his leftist views nevertheless
+respect him and support his main line of work in developing and distributing
+free software, i.e., they separated his sparks from the qlippoth (and he himself
+requested that his political views be separated from the work of the Free
+Software Foundation).  But the leftist radicals completely ignore all of
+a person's merits and simply barbarically destroy him solely for
+[thoughtcrime](https://en.wikipedia.org/wiki/Thoughtcrime),
+thus halting the progress of humanity.
+
+<!-- I too have invested much effort and time in developing *Free Software*,
+and the radical left seeks to destroy all of this, i.e., their attack
+is directed against me as well. -->
+
+I have the right to call for the separation of sparks from the qlippoth, because
+I personally suffered from his ultra-left radicalism, and nevertheless forgave
+him and continue to support him in developing free software.  I want to cite one
+instructive case that characterizes the ideology of all leftists.
+
+First, a brief historical excursion.  The very first publicly available
+full-featured Jewish calendar on a computer was implemented in the flagship of
+*Free Software*, and then this Lisp implementation was described by its authors
+in the famous book
+*[Calendrical Calculations](https://en.wikipedia.org/wiki/Calendrical_Calculations)*.
+
+<!-- The file calendar.el, added to GNU Emacs in 1992, carries a Copyright
+from 1988 and contains the following comment: “The algorithms for the
+Hebrew calendar are those of the Rambam (Rabbi Moses Maimonides),
+from his Mishneh Torah, as implemented by Nachum Dershowitz”. -->
+
+This calendar includes:
+
+- dates of all religious holidays and fasts,
+- time for lighting Shabbat candles according to geographical coordinates,
+- time of havdalah,
+- dates of the new moons *rosh chodesh*,
+- birthdays and yahrzeit dates,
+- the counting of the Omer, including combinations of sefirot —
+  in combinatorics this is called
+  [permutations with repetition](https://en.wikipedia.org/wiki/Permutation#Permutations_with_repetition),
+  where the number of variants is calculated by the formula: the number
+  of elements in the set raised to the power of 2 for the pairwise case
+  (since only the 7 lower sefirot are taken, the total number comes out to 49),
+- plus a multitude of additional features.
+
+The one thing missing from the calendar was references to the weekly Torah
+portions for Shabbat reading.  That is, the parashiyot with the names of the
+portions were already there, but without precise numeration and without haftarah
+references.
+
+Thus, when the author of free software was asked to add precise references to
+the calendar as well, he indignantly rejected this request with the argument
+that references to religious books have no place in a free program.
+<!-- [emacs-devel post](https://lists.gnu.org/archive/html/emacs-devel/2022-05/msg00200.html) -->
+That is, the situation was such that the Jewish calendar already contained
+religious information with the names of portions, and indeed the entire Jewish
+calendar is connected with religion, yet he refused to add one more small
+religious feature.
+
+Thus the ideologue of free software himself deprives users of freedom.
+This is the very essence of leftists.  They declare complete freedom for all,
+and then proceed to deprive separate groups of people of freedom — those with
+whom they disagree on something.  As militant atheists they are set against
+religion, restricting the religious freedom of users, implementing
+discrimination on religious grounds.  Having raised the word “freedom”
+upon their banners, leftists nevertheless restrict freedom of worship,
+just as Soviet atheists with religious fanaticism fought against believers —
+militant atheists as religious fanatics.  Although atheists assert that the
+problem lies in religion, in truth the problem lies not in religion but in
+aggressive fanaticism: both from religious fanatics and from atheists.
+
+<!-- Despite the fact that atheists take offense when told the truth that
+they too are believers, atheists are actually believers in the absence of G‑d.
+Some atheists are adherents of a religion, for example, the communist religion.
+Some atheists are believers but without a religion.  Thus atheists are believers
+and anti-religious.  Only agnostics believe in nothing, i.e. agnostics are
+non-believers and non-religious. -->
+
+I have suffered greatly from such a limitation of my freedom —
+I use this calendar daily, and it would be convenient for me
+to have all the information in one place.
+But nevertheless I took no offense, continue to use
+and develop *Free Software*, and continue to respect the founder,
+despite his atheistic fanaticism — just as
+I took no offense at the Orthodoxes and continue to maintain
+my commitment to Judaism, continue to respect them,
+despite their religious fanaticism.
+And I continue to extract sparks of holiness, despite their qlippoth,
+because sparks of holiness must be received even from radicals,
+filtering out their qlippoth.
+
+| Make us hold fast to the Good Inclination and to good deeds. |
+{: .chapter #tikkun-olam title="Tikkun Olam"}
+
+As has been said, the process of repairing the world
+opposite to the breaking of the vessels is called
+*[tikkun olam](https://en.wikipedia.org/wiki/Tikkun_olam)*.
+The question arises: how might *tikkun olam* be implemented in practice?
+I can offer several examples from my own life.
+
+One of the most significant events that influenced my worldview occurred
+in 1988, when I was studying at university.  I spent much time in the computer
+lab, programming on the types of computers available at that time, including the
+[PDP-11](https://en.wikipedia.org/wiki/PDP-11) with the
+[RSX-11M](https://en.wikipedia.org/wiki/RSX-11) operating system.
+The problem was that transferring programs between machines required 8-inch
+[floppy disks](https://en.wikipedia.org/wiki/Floppy_disk).  This was in those
+times when floppy disks were large.  (They were the predecessors of the 5¼-inch
+and 3½-inch varieties.)  But 8-inch floppy disks were in great shortage then —
+there was simply no way to obtain them anywhere.
+
+And so one day at the university, Misha Lefter approached me and handed me
+a floppy disk I so desperately needed.  He had simply seen how much I was
+suffering from the lack of a disk, traveled to Leningrad, obtained a new
+8-inch IZOT floppy disk there somehow, brought it back, and gave it to me.
+Moreover, he performed this selfless act not out of friendship (we didn't
+interact often, since he was a year younger), but did this good deed
+precisely for the sake of tikkun olam.
+
+<!-- This was as unexpected a solution to my problem as when,
+in *Hedgehog in the Fog*, the dog brought the bundle to Hedgehog. -->
+
+This was such a striking example of altruism that
+I resolved not to lag behind in performing good deeds.
+
+Shortly after this incident, which impressed me so deeply, in 1989 I learned
+of the existence of the *GNU* project for developing *Free Software*.
+By that time, altruistic ideas of dedicating part of my time and energy
+to selfless service to people had become natural to me.
+I already knew Lisp by then, so I joined the development of the flagship
+of *Free Software*.  And since that time, for several decades now,
+every day I have been freely helping people in this way, performing good deeds.
+
+<!-- By the calculations, my 3,000 commits amount to more than 100 commits
+per year.  That is, on average, 3 days go into discussion, following which
+a commit is made.  (Interestingly, during this time I watched exactly
+the same number of films — on average, 1 film every 3 days.) -->
+
+<!-- An interesting fact is that I continued the development of a certain package
+originally begun by
+[Julian Assange](https://git.savannah.gnu.org/cgit/emacs.git/tree/lisp/windmove.el#n113).
+-->
+
+<!-- It is also interesting that to promote it I tried to maintain buzz,
+for which I committed the *M-x butterfly* command from [xkcd](https://xkcd.com/378/)
+(incidentally, this text “Real programmers set the universal constants at the
+start such that the universe evolves to contain the disk with the data they want”
+is none other than theistic evolutionism, mentioned at the beginning).
+And then after the release there was a storm of jokes on this theme, for example, on
+[Slashdot](https://developers.slashdot.org/story/09/07/30/1854243/emacs-hits-version-23).
+-->
+
+To make it clear what I have been doing every day for dozens of years, I must
+clarify the essence of my work.  I participate in developing a well-known
+program that many people have been using daily without interruption since the
+1980s (for example, I have been using it since 1989).  There is no other program
+so long-lived and still relevant that comprehensively satisfies the diverse
+needs of users.  Moreover, it allows doing so in the most efficient and optimal
+manner, enabling the achievement of perfection in human-computer interaction.
+
+Just as over the centuries various empires arose and vanished, while
+the Jewish people outlasted them all, so too do different editors and
+[IDEs](https://en.wikipedia.org/wiki/Integrated_development_environment) appear,
+gain popularity, and disappear, replaced by others.  Yet one program holds
+steady at around 5 percent of users.  But it is not about quantity — it is
+about quality: a percentage of users like the percentage of Jews among the
+nations of the world — when one prevails through quality, not quantity.
+
+This ancient program continues to flourish to this day, just as Judaism —
+the ancient religion flourishing in our time as well.  But in order for
+this program to remain popular, it must be continuously modernized, i.e.
+adapted to the present age, brought into alignment with the new demands of
+modernity.  This is precisely what I am actively engaged in all the time,
+continually adding new, more contemporary capabilities.
+
+And since my other interest is Judaism, it is unsurprising that after the
+Orthodoxes rejected me and thereby exposed an enormous tangle of unresolved
+problems within Judaism, I involuntarily began applying the accumulated
+experience of modernization and adaptation to contemporary life toward the
+development of a non-Orthodox direction in Judaism.  From this springs my
+aspiration to help preserve the relevance of Judaism by modernizing it to meet
+contemporary needs while safeguarding all the principal commandments of the
+Torah.
+
+In the course of everyday development work, I have formulated a universal
+algorithm for problem-solving that divides into the following stages
+according to the system of sefirot:
+
+- Da'at: reading not only the documentation but also all previous discussions,
+  in order to take into account all expressed opinions — in the case of software
+  development this is primarily mailing lists, and in the case of Judaism this
+  is not only the TaNaKh but also commentaries, including the Talmud.
+
+- Binah: analysis of possible paths for solving a problem, taking into account
+  all users' needs and understanding all interconnections between the details of
+  the problem being solved.
+
+- Chokhmah: the synthesis of a solution that resolves users' problems in
+  a simple way and allows them to save even more of their time and effort.
+
+- Gevurah: we must be able to respond with refusal when hasty, precipitate,
+  and ill-considered solutions are proposed that may create even more problems
+  in the future.  Within the framework of gevurah, it was necessary to participate
+  in daily battles with uncompromising participants, each defending their own
+  point of view.  Nevertheless, in most discussions, by presenting irrefutable
+  arguments, it was possible to convince opponents — for the common good.
+
+- Chesed: we must not forget that the ultimate goal of any work is to make
+  people's lives easier, which includes both simplifying usage and adding new
+  necessary capabilities.
+
+- Tiferet: we must maintain balance between opposing impulses and preserve the
+  consistency of the entire system, i.e., non-contradiction and harmony between
+  all its parts.
+
+- Hod: preserving all fundamental principles of operation, maintaining
+  the original design that made the program popular.
+
+- Netzach: this is what essentially constitutes the foundation of modernization
+  as bringing the program into conformity with the demands of contemporary
+  times.
+
+According to this scheme, I participated in the development of a program used
+not only by programmers, but also by scientists, lawyers, writers, and many
+well-known people.  What follows is an example of the practical application
+of this system of sefirot.
+
+Once such an incident occurred.  A certain writer recounted a lamentable
+mishap that befell him: for a long time he had been composing his new work,
+and then after a while, to be on the safe side, he decided to save the written
+text to disk.  And instead of saving, he accidentally pressed the keys to exit
+the program.  But upon exiting, he was not asked to confirm whether to save
+the written text, and as a result the world was deprived of a potential
+masterpiece — the work he had written was lost forever.  And yet they say
+that manuscripts do not burn!
+<!-- [emacs-devel post](https://lists.gnu.org/archive/html/emacs-devel/2007-06/msg01523.html) -->
+
+I took this sad incident as a personal challenge —
+it was terrible for me to see that such a thing could have happened.
+In general, I only do those necessary tasks that no one else does:
+“If not me, then who?  If not now, then when?”
+For example, for a long time everyone discusses the need to implement
+a solution to a problem, and then the discussion dies down, and I am left
+with no choice but to take upon myself the responsibility for carrying out
+the necessary work.
+
+So it was in that case as well.  I volunteered to help, took upon myself
+the duty to correct this problem, and proposed a solution so that
+such a thing could never happen again.
+<!-- [emacs-devel post](https://lists.gnu.org/archive/html/emacs-devel/2007-07/msg01164.html) -->
+As a result, I implemented this solution in the form of a new splash screen,
+from which one would first need to choose a file name for saving before
+beginning to write the text — in this case, confirmation about saving is
+requested upon exit, which prevents loss of text.
+
+And then the result of my fixing this problem in the form of
+the splash screen was shown in the 2010 film
+*[The Social Network](https://en.wikipedia.org/wiki/The_Social_Network)* —
+in the scene where the creator of the social network was building Facebook
+using this program.
+
+{::comment}
+TODO: add screenshot
+{:/comment}
+
+Beyond this, I strove to help people whenever any other opportunities
+presented themselves.
+
+In 2013 Google shut down its mega-popular projects
+[Google Reader](https://en.wikipedia.org/wiki/Google_Reader)
+and [IGoogle](https://en.wikipedia.org/wiki/IGoogle).
+<!-- Google had such an official mission: “Organize the world's
+information and make it universally accessible and useful.”
+Google Reader was part of implementing this mission, allowing
+users to conveniently organize news information through RSS.
+Just as Gmail is a UI for accessing email,
+so Reader was a UI for accessing news.
+But with the closure of Reader, this mission was ended. -->
+Millions of users were left without the necessary tools
+they had grown accustomed to and could no longer do without.
+<!-- according to statistics, Reader had 30 million users -->
+For me it was a shock that so many people would be affected — I very
+much wanted to help them.  Therefore I immediately began working on
+a [replacement](https://alternativeto.net/software/igoogle/)
+for these services to alleviate people's suffering.
+
+When millions of people began switching to the new service, it was
+an enormous burden — not only on the servers, but on me as well.
+<!-- To reduce server load, there are several primary methods: caching
+(not to be confused with kashering! immersing a server in water is inadvisable),
+database indexing, background tasks, etc. -->
+I had to simultaneously handle not only
+[backend and frontend](https://en.wikipedia.org/wiki/Front_end_and_back_end)
+development, as well as testing, but also continuously monitor the
+uninterrupted functioning of all servers.  In short, it was complete
+[full-stack](https://en.wikipedia.org/wiki/Solution_stack#Full-stack_developer)
+and [DevOps](https://en.wikipedia.org/wiki/DevOps).
+And I had to manage all of this alone, which I successfully accomplished.
+
+At Google these services were created by large teams of engineers, whereas
+I created an equivalent single-handedly, while I was in a terrible state, and
+managed to do so in a short period of time so that people could transfer all
+their data to the new website during the shutdown of Google's services.
+But I endured nonetheless, despite the fact that the Orthodoxes refused
+to alleviate my suffering.
+
+At least in Google Reader one could choose what to read,
+i.e. the freedom of choice remained with the user.
+That is how it also was in the replacement I developed.
+But in Facebook such freedom no longer exists — there the feed
+is formed by unknown algorithms, so one must read what is offered.
+And as a result this leads to such a lamentable phenomenon
+that has come to be called the
+[filter bubble](https://en.wikipedia.org/wiki/Filter_bubble) —
+when a person is shown only one-sided opinions
+that confirm their prejudices.
+Critical opinions are not shown, so the person does not receive
+the full picture, and a slide toward one pole of opinions occurs.
+All this intensifies
+[polarization](https://en.wikipedia.org/wiki/Social_polarization) and
+[radicalism](https://en.wikipedia.org/wiki/Classical_radicalism).
+
+One possible solution to this problem would be antitrust separation,
+whereby the part implementing the
+[recommendation algorithm](https://en.wikipedia.org/wiki/Recommender_system)
+is separated out and given to external companies that have no interest in
+increasing profits and can therefore approach content filtering more responsibly.
+But not to a single company — rather to several, so that users
+retain the freedom of choice among competing companies.
+<!-- i.e. outsourcing of content selection via a public API,
+like [PSD2](https://en.wikipedia.org/wiki/Payment_Services_Directive)
+provides common API for banks. -->
+
+But apparently no one is going to do this.  Then only one alternative remains —
+to develop such a replacement that, instead of antitrust division, will solve
+the problem of centralization in another way: by creating decentralized networks
+that are part of the [Fediverse](https://en.wikipedia.org/wiki/Fediverse).
+
+Therefore I began participating in the development of
+a new promising social network — like
+[Mastodon](https://en.wikipedia.org/wiki/Mastodon_(social_network)), only better.
+<!-- [Pleroma](https://en.wikipedia.org/wiki/Pleroma_(software)) -->
+I had finished studying all the implementation details of decentralized
+social networks and had already joined the development, but unfortunately,
+this was during that terrible period when the Orthodoxes treated me so cruelly,
+refused to perform the circumcision, and left me alone with a multitude of
+unresolved problems and deteriorating health, so I was soon forced to withdraw
+from the development.
+
+However, for everyone interested, I can briefly describe the operational
+principles.  Unlike most popular social networks, which are based on
+a centralized architecture where a single copy of a message is stored
+on one of the network owner's servers, decentralized networks comprise
+multiple fully independent nodes (instances) that exchange numerous
+duplicates of user messages between themselves.
+
+This is similar to how email works: an electronic message
+is sent to an SMTP server, passes through several
+[relays](https://en.wikipedia.org/wiki/Open_mail_relay),
+and at the end of the routing chain the recipient reads
+the message from their mail server via POP3 or IMAP protocol.
+Moreover, as in mailing lists, a copy of the message is sent
+to numerous recipients.  In distributed networks it is
+approximately the same, except that the popular
+[ActivityPub](https://en.wikipedia.org/wiki/ActivityPub)
+protocol is used, where copies of the message are sent to
+subscribers' instances in the form of so-called *activities*,
+i.e., events such as posts, comments, likes, etc.
+
+But decentralized social networks have their own problems:
+both financial and organizational.
+
+First, the owners of independent servers must pay for the server's
+operation out of their own pockets or through donations via
+[crowdfunding](https://en.wikipedia.org/wiki/Crowdfunding) —
+unlike corporate networks, which receive enormous revenues from advertising
+or from paid subscriptions.  Volunteers are also forced to spend not only
+money but also their time maintaining the server's functioning.  Therefore,
+there are difficulties with scalability.
+
+Second, owners of independent servers must continually maintain a healthy public
+climate in the network, because if they do not monitor the content of users'
+messages, the network quickly turns into a cesspool.  Therefore, moderation is
+unavoidable in order to block messages in one's instance that call for violence,
+antisemitic publications, etc.  Worse still, there are frequent cases when
+instance owners receive letters with threats of violence against them and their
+families.  This happens when instances are represented by private individuals
+rather than legal entities.  It is also necessary to constantly monitor incoming
+messages and continually update the *blocklist*, where the domain name of
+the instance from which such harmful messages arrive is entered with
+corresponding tags: ‘hate-speech’, ‘racism’, ‘antisemitism’, etc.
+
+Here it is evident that most problems are not so much technical as social
+(thus social networks justify their name).  So we must apply our efforts
+not only to solving technical problems, but to a greater extent to social ones.
+
+In general, we must actively participate in *tikkun olam* not only in the
+technical field, but in all aspects of life.  Especially in social and
+political activity — this is required for the development of civil society,
+which forms the foundation of democracy.  Only under liberal democracy is free
+and harmonious development possible in all areas, including scientific and
+technological progress, social spheres, etc.  Therefore, the highest priority is
+the establishment of democracy and the preservation of freedom — only then can
+we engage in the perfection of the world in other directions as well.
+
+One example of my modest contribution to social and political development
+is my active participation in the events of August 1991.
+
+At that time I was still a university student.
+And parallel to my studies, in 1989, as the best student,
+I was invited to work at one of the leading research centers.
+
+In the 1980s, great hopes were placed in
+[fifth-generation computers](https://en.wikipedia.org/wiki/Fifth_Generation_Computer_Systems),
+<!-- this was actively pursued at Japan's AIST and ICOT -->
+where computations in the form of logical inferences were performed on parallel
+processors.  One possible approach to building parallel systems was the
+[transputer](https://en.wikipedia.org/wiki/Transputer).  At that time,
+this was cutting-edge technology for parallel computing, where programs
+were written in the specialized language
+[Occam](https://en.wikipedia.org/wiki/Occam_(programming_language)).
+Theoretically, it could be used as a low-level language, roughly like assembly
+language, upon which higher-level constructs could be built, by means of which
+a parallel Prolog could be created.
+
+So it became necessary to bring the country's first transputer (and later
+I worked on that transputer writing parallel programs in the Occam language) —
+in those years I frequently traveled on business to Moscow to deliver the
+results of program development on floppy disks.
+
+Having spent the night in Moscow, on the morning of August 19, 1991, I turned on
+the television and found the ballet *Swan Lake* being broadcast on all channels.
+This was an unambiguous signal that
+the [coup](https://en.wikipedia.org/wiki/1991_Soviet_coup_attempt)
+had occurred in the country, that President Gorbachev had been forcibly removed
+from power, and consequently, every freedom-loving person needs to urgently go
+protest to the Kremlin.
+
+In the center of Moscow I discovered that Red Square was cordoned off on
+all sides by tanks and armored personnel carriers.  Then the supporters of
+Boris Yeltsin began distributing leaflets with his address (printed even
+before his speech on the tank) and announced that help is needed
+to defend the Parliament Building,
+[White House](https://en.wikipedia.org/wiki/Timeline_of_the_1991_Soviet_coup_attempt).
+
+At the White House, despite the rainy weather, many people had gathered.
+<!-- The BBC was filming a report, and I also ended up in the frame.
+Therefore, if it were possible to find BBC archives somewhere on
+the Internet, it would be interesting to see everything in detail. -->
+I went to walk around the building's perimeter to understand where
+help was most needed in defending against the impending attack.
+Then I returned to the main entrance and saw that barricades
+were being erected against the tanks.
+And then I realized where help was needed most.
+
+The street had already been blocked with trolleybuses, and in front
+of the trolleybuses people began piling heaps of construction materials.
+It was very fortunate that nearby there was some construction site, and
+construction materials were stored under the ramp — from there we began
+carrying pipes and metal reinforcement bars, laying them on the asphalt
+to barricade the street against tanks.
+
+<!--
+<figure>
+  <img src="../../../files/book/1991-08-19.jpg" alt="[1991-08-19]" />
+  <figcaption>(testimony of participation)</figcaption>
+</figure>
+-->
+
+In the construction of these barricades there was also a particle of my
+contribution to the common cause — to this day I take pride in the fact that
+among the defenders of the White House I participated in changing the course of
+history for the better.  This is how everyone must act — in the decisive
+moments of history every person must exert efforts to achieve the common
+goal of advancing toward the light.
+
+A striking example of fearless resistance to the repressive machine is the
+[Unknown Protester](https://en.wikipedia.org/wiki/Tank_Man) (Tank Man),
+who stopped a column of tanks in China in 1989.
+
+As one of results of the victory over the forces of evil, Jews were freed from
+Soviet slavery, state antisemitism was eliminated — so that by Hanukkah 1991,
+for the first time a Hanukkiah was placed before the White House and
+a Hanukkah concert was held in the Kremlin Palace of Congresses.
+
+After the dismantling of communist totalitarianism, the
+[Evil Empire](https://en.wikipedia.org/wiki/Evil_Empire_speech) and
+[prison of nations](https://en.wikipedia.org/wiki/Prison_of_peoples),
+all enslaved peoples gained their freedom.  But they used this freedom
+in different ways.  Some immediately established democracy and built
+successful states.  Others surrendered power to dictators and returned
+once more to slavery.  And still others fought against sliding toward
+dictatorship, for which it was necessary continually to reclaim their freedom.
+
+I have been fortunate to live in one of the most successful countries
+that after regaining independence consistently ranks at the top in various
+[global](https://en.wikipedia.org/wiki/Category:Lists_of_countries_by_economic_indicator)
+[rankings](https://en.wikipedia.org/wiki/Category:International_rankings) and
+[indexes](https://en.wikipedia.org/wiki/Category:Index_numbers), such as
+[Press Freedom Index](https://en.wikipedia.org/wiki/World_Press_Freedom_Index),
+[Index of Economic Freedom](https://en.wikipedia.org/wiki/Index_of_Economic_Freedom),
+[Social Progress Index](https://en.wikipedia.org/wiki/Social_Progress_Index),
+[Environmental Performance Index](https://en.wikipedia.org/wiki/Environmental_Performance_Index),
+[ICT Development Index](https://en.wikipedia.org/wiki/ICT_Development_Index),
+[Corruption Perceptions Index](https://en.wikipedia.org/wiki/Corruption_Perceptions_Index),
+[Ease of doing business index](https://en.wikipedia.org/wiki/Ease_of_doing_business_index),
+[the number of startups](https://en.wikipedia.org/wiki/List_of_unicorn_startup_companies),
+etc.
+<!-- also [Human Freedom Index](https://en.wikipedia.org/wiki/Human_Freedom_Index) -->
+
+At the same time, I deeply cared about the success of Ukraine's
+reviving democracy and independence: both during the first Maidan
+([Orange Revolution](https://en.wikipedia.org/wiki/Orange_Revolution))
+and during [Euromaidan](https://en.wikipedia.org/wiki/Euromaidan),
+[Revolution of Dignity](https://en.wikipedia.org/wiki/Revolution_of_Dignity).
+Since this was a matter for Ukrainians themselves, I did not participate
+directly but only supported them and earnestly wished for them to achieve
+similar successes: in strengthening freedoms, and in economic development.
+To this end, I worked extensively — participating in the development of
+numerous mobile services for millions of subscribers of Ukrainian mobile
+networks, to improve people's lives, etc.
+
+And when Russia launched a full-scale war against Ukraine on February 24, 2022,
+at that time I was developing a system for the Ministry of Education
+used by all schoolchildren and students in the country.
+<!-- about 150,000 users, including local governments -->
+And then I was asked to implement support for registering
+children of Ukrainian refugees.
+<!-- It was terrible to see in the database in the list of Ukrainian students
+among the refugees a child of one woman — this I will never forgive the
+Russian fascists. -->
+
+Consequently, my contribution was distributed as follows:
+
+1. In my paid work I worked to support Ukrainian refugees —
+   and received a salary for this.
+
+2. A large percentage of taxes from my salary went to state aid for Ukraine —
+   my country is the world leader in military assistance to Ukraine
+   per capita. <!-- 2.7% of GDP -->
+
+3. Every month I donated half my income to Ukraine's defense.
+
+In general, my daily routine (except for the Sabbath) was such that for the
+repair of the world I worked 8 hours at my main job, received money for it, and
+gave significant part of my income to charity.  After my main work, I worked
+about the same amount of time as a volunteer, engaging in charity, doing for
+free what benefited many people — also for the repair of the world, the same
+*tikkun olam*.
+<!-- The unpaid work was similar to studying Torah —
+the same solving of complex puzzles and like a game of associations. -->
+
+Moreover, I still found time to maintain a large plot in the forest:
+sawing trees, chopping wood, gathering branches (not on the Sabbath), etc.
+<!-- Exactly 50 years ago grandfather brought me to this place for the first time,
+so I have an obligation to maintain grandfather's legacy in order. -->
+Thus by day I worked as a woodcutter,
+and the remaining time each day I devoted to the study of Torah.
+<!-- But many ultra-Orthodoxes do not work, but only read one page
+of the Talmud per day — while I studied more than one page of the Talmud per day. -->
+
+<!--
+When spending about 8 hours on sleep and 1 hour total on meals,
+there remain 15 hours each day.
+What follows is a typical distribution by priorities:
+
+1. Priority number one — study of Torah.  Devoting 3 hours to this
+   each weekday and 15 hours on Sabbath, the total comes to
+   33 hours per week for Torah study.
+
+2. Priority number two — unpaid volunteer work for *tikkun olam*.
+   Working each workday for 4 hours on charity,
+   and on Sunday 12 hours, the total comes to 32 hours per week.
+
+3. Priority number three — main paid employment.
+   Working each workday for 8 hours yields 40 hours per week.
+
+4. Priority number four — work as a woodcutter.  This seasonal work
+   depended on the time of year.  In spring I could begin work on the plot
+   only from mid-April after the snow melted, to clear the aftermath
+   of winter storms, which break many branches — but only until the end of May,
+   when mosquitoes appear.  Then I could continue after the reduction
+   in mosquitoes in July, when during vacation I could work 8 hours
+   per day instead of the main employment.  And further in August–September
+   I could work a bit at the expense of the second priority up until Rosh Hashanah.
+-->
+
+I could have done so much more if the Orthodoxes had not placed artificial
+obstacles preventing me from performing good deeds, if the Orthodoxes had not
+refused to perform circumcision, so that I could work calmly for the benefit
+of people without unnecessary suffering.
+
+If the Orthodoxes had accepted me and had not refused to perform circumcision,
+I would be earning much more money, and I would give to Jewish needs, and
+I would donate even more to charity.
+
+So recently, when the pain intensified to the point that internal organs began
+to fail, and further delay became life-threatening, I had to stop waiting for
+help from the Orthodoxes, and I performed the *brit milah* ritual myself,
+as it is said in Tehilim [118:8](https://www.sefaria.org/Psalms.118.8):
+
+> It is better to take refuge in the L‑rd than to trust in man.
+
+and also in Tehillim [146:3](https://www.sefaria.org/Psalms.146.3):
+
+> Put not your trust in princes, nor in the son of man, who cannot help.
+
+<!--
+and also in Tehillim [146:9](https://www.sefaria.org/Psalms.146.9):
+
+> The L‑rd keeps the stranger, He heartens the orphan and the widow
+-->
+
+Circumcision requires neither a rabbi, nor a mohel, nor certainly a sandak.
+All the necessary blessings are found in the siddur — just as one can
+affix a mezuzah independently without a rabbi's assistance by reciting
+the corresponding blessings from the siddur.  According to Halakhah,
+even for solemnizing a marriage, a rabbi is absolutely unnecessary.
+
+Therefore before the circumcision I recited all the necessary prayers and
+blessings from the siddur, and after the circumcision I recited all the
+required prayers and blessings, independently confirming my Covenant with G‑d.
+Thus, my circumcision was fully kosher, like that of Avraham-avinu.
+
+But, unfortunately, my health had already been undermined by this long-neglected
+problem, which required immediate circumcision.  And the consequences remain to
+this day.  This means that with my ruined health, I have not long left to live.
+{: #testament title="Testament"}
+
+But I do not accuse the Orthodoxes of being bound by the chains of medieval
+customs from those cruel times of the past.  It is only painful that, because of
+the stubbornness of the Orthodoxes, it was not possible to live normally through
+the allotted years, to establish a family and raise children according to the
+traditions of Judaism.  It is painful that, instead of making the world better
+by realizing the abilities given by G‑d, due to the indifference of the
+Orthodoxes, I was forced to spend most of my time in a state of incapacity,
+in continuous suffering.  And yet I could have done so much good for people.
+
+<!-- “few and ill-fated have been the days of my life” -->
+
+Therefore, the only thing left for me now to ask is:
+
+<!-- [Bury Me Behind the Baseboard](https://en.wikipedia.org/wiki/Bury_Me_Behind_the_Baseboard)
+is a film about my difficult childhood. -->
+
+BURY ME <!-- BEHIND THE BASEBOARD --> IN A JEWISH CEMETERY
+
+— so that peace may come among the Jewish people.
+And through this — peace among all people throughout the world.
+
+This is my testament.
+
+<!--
+> And he commanded them, saying to them:
+I am about to be gathered to my kin.
+Bury me with my fathers in the cave
+(Beresheet [49:29](https://www.sefaria.org/Genesis.49.29))
+-->
+
+I even thought through the design of the tombstone.
+It should be a black stone with an unpolished top,
+so that small stones can be placed there.
+And on the stone should be engraved in white letters:
+
+    Judka Linkov ✡ יודקה לינקוב
+          … 1970 – … 20⬚⬚
+          … 5730 – … 5⬚⬚⬚
+
+<!-- the Star of David ✡ as on the memorial at the concentration camp site,
+when it was refashioned from a Soviet star -->
+
+Judko is the name of my great-grandfather, after whom I was named.  Throughout
+my childhood I was continually told that I was named after my great-grandfather,
+and so I am certain that his Jewish soul has transmigrated into me.  That very
+same Jewish soul which stood at Mount Sinai requires rectification and return to
+Jewishness.
+
+<!-- Judko Samsonovich (by birth certificate Yehudah ben Shimshon) ז״ל died in
+the spring of 1941, i.e. before the start of the war and before the Holocaust,
+as Methuselah died a week before the Flood. -->
+
+<!-- Moreover, everyone called grandfather David Julievich, but he wished
+to restore his Jewish patronymic, for which he submitted a petition, and
+as a result his true patronymic Judkovich was successfully restored. -->
+
+<!-- And my father was named after a great-uncle, Aizik.
+Therefore my full name is Judka ben Aizik. -->
+
+<!-- In Shabbat [152b](https://www.sefaria.org/Shabbat.152b.13) it is stated
+that for twelve months after the death of the body, the soul continues to visit
+this world.  Indeed, after my grandfather's death, his soul continued to visit me.
+For example, at night I would feel his breath upon my face, and my grandfather's
+face would appear before my eyes.  Or there was another case: when I moved to
+a different apartment, I exclaimed that my grandfather could have seen this
+apartment (meaning that there would have been no need to sell my grandfather's
+apartment, since I had money to purchase another apartment even without that).
+Suddenly, right after my words, a window flung wide open, and there arose
+a sensation that his soul had flown inside together with a strong gust of wind.
+This can be explained in such a way that first my grandfather's soul arranged
+things so that someone would forget to latch the window.  Then my grandfather's
+soul connected to me in order to direct my thoughts for conducting a dialogue,
+so that at the right moment I would exclaim these words during the gust of wind.
+In this manner my grandfather was able to encourage me and convey that he had
+not abandoned me, when it was very difficult for me after his passing.
+
+And when my father died, seeing how I was suffering in solitude, the next day he
+attempted to introduce me to a female neighbor.  To accomplish this, his soul
+connected to me so that I would not be able to unlock the common entrance door,
+and therefore I was compelled to ring the neighbor's doorbell. -->
+
+> And G‑d said: My spirit shall not remain in humankind forever,
+for they too are flesh
+(Beresheet [6:3](https://www.sefaria.org/Genesis.6.3))
+
+But I do not fear death — it makes no sense at all to fear death.
+
+<!-- Yet like many during adolescence, sometimes after a sudden awakening from
+a brief sleep, panic attacks would occur when the incredibility of such an event
+as receiving life was suddenly acutely realized, as though one had surfaced from
+non-existence — like in the film *The Matrix*, only in the opposite direction.
+This happened at the age of 15–16, but passed quickly.  This cannot be called
+a fear of death, since it lasted only brief periods of time. -->
+
+<!-- It would be terrible to live forever.  Once I received a vivid
+demonstration of what eternal life looks like.  Due to severe pain in the
+hospital, they gave me a painkiller injection.  After the pain subsided, this
+analgesic left such an effect that I completely lost my sense of time — as if
+I had entered into eternity.  It was the most dreadful sensation to be outside
+time, when the chain of daily tasks breaks, the connection between events
+disappears, the flow of time ceases altogether, and the mind remains as if
+freely floating in cosmic space, detached from everyday life.  I lay there
+trying frantically to restore the connection with earthly life.  The only
+salvation was to try to imagine the further sequence of pressing tasks: that,
+for example, I would get up from the hospital bed, check out at the registration
+desk, then need to go home, then need to continue doing things, and so forth.
+But that brief period of time while lying in abstract prostration without any
+connection to concrete actions — it was terrible.  I have never tried drugs —
+perhaps some of them have the same effect. -->
+
+I never had time to reflect on life's brevity, because new problems continually
+rained down on me in an unceasing stream.  In general, there was not a single
+peaceful day in my life, so I never had time to stop and calmly contemplate this
+matter.  <!-- And if there had not been constant problems, I probably would have
+gone mad.  Because people go mad when they lose meaning in life. -->
+But just in case, I kept track of scientific developments so as
+not to miss any opportunity opened up by technological progress.
+
+For example, one such possibility is
+[cryonics](https://en.wikipedia.org/wiki/Cryonics) — the freezing
+of the body after death in the hope that in the future a technology
+will be created for thawing that guarantees the continuation of life.
+Currently, around 500 bodies are frozen in liquid nitrogen worldwide.
+Some who greatly loved their bodies froze themselves completely.
+Others, interested in preserving not the body but the mind,
+froze only the brain.
+
+So I continued to follow the development of such technologies, including
+in the field of [transhumanism](https://en.wikipedia.org/wiki/Transhumanism).
+But this subject remained of interest only until one incident that occurred in
+2004, after which I lost all interest in the topic of life extension.  At that
+time I periodically read the blog of a certain well-known transhumanist.
+<!-- And now he fights against the development of artificial intelligence,
+which could help in life extension — such a contradiction. --> And then one day
+he reported [terrible news](https://yudkowsky.net/other/yehuda/) about the tragic
+death of his younger brother.  And that was it.  A person actively engaged in
+questions of immortality, giving people hope for eternal life.  And then
+suddenly his brother dies at the age of 19, and everything goes to dust.
+
+And really, no technologies, no cryogenic facilities can protect against
+force majeure circumstances.  For example, as a result of a terrorist attack,
+a bomb explodes in the cryogenic facility, or a meteorite falls, or an
+earthquake occurs — which happens even outside seismically active zones,
+especially if cryogenic facilities are built on elevated ground to avoid
+flooding from rising sea levels, etc.
+
+There exists an enormous number of risks where any global catastrophe could make
+the continuation of life on Earth impossible.  Listed below are only some of the
+[many](https://en.wikipedia.org/wiki/Global_catastrophe_scenarios)
+[possible](https://en.wikipedia.org/wiki/Global_catastrophic_risk)
+existential risks:
+
+1. anthropogenic risks:
+
+   - [bioterrorism](https://en.wikipedia.org/wiki/Bioterrorism),
+     pandemics of artificially created viruses or bacteria
+   - uncontrolled self-replication of nanobots,
+     [grey goo](https://en.wikipedia.org/wiki/Gray_goo)
+   - artificial intelligence escaping control,
+     [AI takeover](https://en.wikipedia.org/wiki/AI_takeover)
+   - use of nuclear weapons and nuclear winter
+   - [biodiversity loss](https://en.wikipedia.org/wiki/Biodiversity_loss)
+   - [climate change](https://en.wikipedia.org/wiki/Climate_apocalypse)
+
+2. natural calamities:
+
+   - [eruption](https://en.wikipedia.org/wiki/Year_Without_a_Summer)
+     of [supervolcano](https://en.wikipedia.org/wiki/Supervolcano)
+   - [change in the atmospheric composition](https://en.wikipedia.org/wiki/Carbon_dioxide_in_the_atmosphere_of_Earth)
+   - [impact of a large asteroid or comet](https://en.wikipedia.org/wiki/Impact_event)
+   - [superflare](https://en.wikipedia.org/wiki/Superflare) on the Sun
+
+Collectively, humanity (including with the help of artificial intelligence)
+can prevent anthropogenic risks and some natural ones, e.g., by altering the
+trajectories of asteroids.  But many global problems are fundamentally
+unsolvable.  Eternal bodily life is impossible, since conditions suitable for
+life on Earth will in any case soon come to an end.  Even if it becomes possible
+to upload consciousness onto non-biological carriers located on space stations
+powered by a Dyson sphere, that could only postpone the end slightly.  And the
+further in time one manages to delay the inevitable end, the more bitter death
+will be — the more a person has, the more they desire.
+
+Inevitably, within a finite span of time, the Sun will exhaust its energy reserves.
+<!-- And interstellar travel seems unlikely. -->
+The main obstacle is that for the whole Universe no civilization, however
+maximally advanced, is capable of controlling thermodynamic entropy by violating
+the Second Law of Thermodynamics — as Isaac Asimov clearly demonstrated in his
+story *[The Last Question](https://en.wikipedia.org/wiki/The_Last_Question)*.
+<!-- Though he was an atheist, he was firmly connected to Biblical themes. -->
+This signifies the fundamental impossibility of corporal, cerebral,
+and mental immortality.
+
+<!-- The most astonishing thing is that in eternal infinity
+some kind of development can still occur.
+I used to wonder why on the planet Jupiter (*Tzedek* — righteousness)
+the colors still have not mixed.
+But this is because Jupiter is not a closed system:
+this planet radiates even more energy than it receives from the Sun.
+And infinity is not a closed system either.
+But our Universe, unfortunately, is a closed system.
+And the Second Law of Thermodynamics states that the entropy
+of an isolated system never decreases. -->
+
+The human body is composed of “dust of the ground”, i.e., of atoms that
+at birth gather together, forming bodies, are continuously renewed
+throughout life, and after death disintegrate, as it is said:
+
+> for dust you are, and unto dust shall you return
+(Beresheet [3:19](https://www.sefaria.org/Genesis.3.19))
+
+This means that dead bodies are not subject to restoration —
+resurrection of the dead with restoration of bodies is impossible.
+One does not simply take and create a body out of nothing.
+If the atoms of a body have scattered in different directions,
+then by no laws of nature whatsoever is it possible to reassemble them.
+Only materialists can desire the resurrection of old material bodies.
+Therefore the Sadducees and their followers were right
+in denying the resurrection of the dead — in the sense
+that the former bodies can no longer be restored.
+
+<!-- For the same reason, time travel is impossible — it is impossible
+at any past moment in time to reconstruct an individual body at precisely
+the same point in space where planet Earth was located at that time. -->
+
+But since souls are immortal, the soul connects to a new body.
+Thus occurs *gilgul neshamot* — the transmigration of the soul into a new body.
+The soul connects either to an infant born later on Earth,
+<!--
+or on another planet (e.g., in the past Mars could have been suitable for life),
+or in another [planetary system](https://en.wikipedia.org/wiki/Planetary_system),
+or in another galaxy (but options within this Universe seem doubtful,
+because they would presuppose the existence of extraterrestrials), -->
+or in an entirely different Universe, which may resemble this Universe
+when it restarts according to the same program, or may differ when the
+Universe's settings are changed or an entirely different program is created.
+Then this can properly be called “resurrection” (*techiyat ha‑metim*).
+{: #infinity title="Infinity"}
+
+But the old body is never restored.  And this is good.
+<!-- Especially if you do not like your body. -->
+One can rid oneself of all unpleasant memories,
+acquiring a new brain with new memory.
+
+In fact, all the evil in the world comes from the despair of morally weak
+people over the limitations of the human body along the temporal axis.
+<!-- For example, many popular figures ruin their obituaries in old age
+when they arrive at the principle “After us, let the Deluge.” -->
+Yet there is no sense in suffering from the limited lifetime of the body when
+no one suffers from the body's limitation in space.  In the space-time continuum,
+three axes determine location in three-dimensional space, while one axis
+represents the one-dimensional flow of time.  It would be foolish to grieve over
+the human body's finitude only along the time scale while disregarding
+the human body's finitude in space.
+<!-- For example, if someone sits down, stretches out a leg, and begins to
+grieve over the fact that the leg is too short in one spatial dimension,
+that the leg is not of infinite length. -->
+
+Therefore, we should not worry needlessly but simply live, enjoying all the
+small joys of life (*oseh chaim*), doing good deeds (*oseh maasim tovim*),
+attending to the resolution of daily problems and continuing to develop the
+material world despite its finitude, because this is required for the soul's
+development, which is the chief purpose of human existence.  As it is said in
+Kohelet [2:24](https://www.sefaria.org/Ecclesiastes.2.24): “There is nothing
+better for a person than to eat and drink, and find satisfaction in his work.”
+<!-- Also Kohelet [3:22](https://www.sefaria.org/Ecclesiastes.3.22):
+“there is nothing better than that a person should rejoice in his work”. -->
+
+I believe in G‑d not because of the finitude of human life and the fear of death.
+Perhaps such fear as a cause of faith does arise, especially in old age.
+But to not fear death, it is sufficient merely to know that infinity exists.
+And every living person knows this.  Only a person with reason, created in the
+likeness of G‑d, is capable of imagining and recognizing that infinity exists.
+Each person is an observer of the fact that something exists.
+And possessing reason, we can conclude from this that since something exists,
+then in infinity absolutely everything exists.
+<!-- So I stopped worrying and learned to love death. -->
+
+Recognizing that infinity exists, there remains no further cause for distress.
+For in eternal infinity, absolutely everything is possible, including the
+restoration and repetition of any life in an infinite multitude of all possible
+worlds.  Everything always exists, and sooner or later all possible events
+occur: a person is born anew in other worlds and lives life an infinite number
+of times with all possible variations.
+<!-- And so you yourself have already read this book an infinite number of times
+in an infinite number of repetitions of this world.  Moreover, in some
+repetitions you agreed with this statement, while in others you did not. -->
+
+<!-- At the same time, the following questions remain open:
+
+- Can it be said that infinity and G‑d are identical?
+  It is known that Kabbalah calls G‑d Ein Sof, and philosophers
+  (primarily Spinoza) developed this theme, but does this accord with the Torah?
+
+- The answer to the first question depends on the answer to the following
+  question: Can infinity possess intelligence?  In answering, the following
+  consideration should be taken into account that the work of intelligence
+  implies an exchange of information between different parts of an individual's
+  brain, but is this possible in infinite self-awareness?
+
+- If the answers to the previous questions are affirmative,
+  then the next question:
+  knowing that in infinity there was at least one tzimtzum,
+  it is possible to suppose that the number of tzimtzumim is infinite,
+  as the multitude of numbers in the number series is infinite,
+  and this means that infinity consists of tzimtzumim?
+
+- Then a related question:
+  Are souls part of the infinite G‑d?
+  Or just as through tzimtzum a place is set aside for the Universe,
+  are souls likewise set aside?
+  And why, after infinite time, have souls still not yet perfected themselves?
+
+- And finally, the most terrible question one can possibly imagine:
+  Does each of the infinite number of intelligences existing
+  in infinity eternally suffer from the thought of the finitude
+  of their existence?  Or do they all find their sole consolation
+  in the thought that in infinity everything is possible, including
+  the living of an infinite number of lives by an infinite number
+  of souls?
+-->
+
+<!-- Just as every project on Earth has an author who possesses intelligence,
+so too does our Universe have the single Author who, through His intelligence,
+created this Universe.
+This worldview falls within the framework of monotheism, since authors
+of other possible universes in infinity cannot be known to us.
+But if someone wishes to call G‑d infinity — which is indeed the only unique
+entity, though it is unclear how infinity can possess intelligence — then one
+may do so with this explanation: that everything proceeds from infinity, like
+choosing a random number from an infinite series, where each natural number
+is a separate soul, and the real numbers following the natural number
+are an infinite series of universes in which each soul lived.
+Then, just as any number is part of an infinite series,
+so too is any soul part of the infinite G‑d
+(Iyyov [31:2](https://www.sefaria.org/Job.31.2?ven=english|The_Holy_Scriptures:_A_New_Translation_(JPS_1917))). -->
+
+Therefore, no reason remains to suffer from a short lifespan.
+
+This may seem paradoxical and unjust, but a short lifespan is necessary for the
+development of the world.  For example, when some dictator establishes absolute
+power and destroys all possibilities for change, then everyone simply waits for
+him to finally die.  Under no circumstances should such lifelong rulers be given
+the opportunity to rule forever.
+<!-- For this same reason, artificial intelligence poses a great danger, since
+its silicon foundation is far more durable than carbon-based life forms. -->
+
+<!--
+| Heal us, O L‑rd, and we shall be healed; save us, and we shall be saved, for You are our glory. |
+| (Yirmeyahu [17:14](https://www.sefaria.org/Jeremiah.17.14)) |
+{: .chapter #corona title="Plague of 21st Century"}
+
+The “plague of the 21st century” was sent as a trial, so that the struggle
+against the pandemic's consequences would help humanity unite against a common
+danger that must be overcome jointly by the whole world.  The coronavirus
+epidemic was a trial to test whether people are capable of accepting voluntary
+self-restrictions for the sake of society's welfare — it was necessary to
+observe precautionary measures to prevent the disease from spreading to the
+most vulnerable segments of society, i.e., to fulfill social duties, which
+the Torah teaches.
+
+(The “plague of the 20th century”, the immunodeficiency virus, arose due to
+adultery (extramarital sexual relations), its mode of transmission shows the
+response to the sexual revolution, and the “plague of the 21st century”, the
+coronavirus, likewise has its purpose.)
+
+After the coronavirus epidemic subsided, it became possible to assess
+how well people coped with this trial.
+
+The COVID epidemic gave Israel an opportunity to show itself to all nations.
+At the beginning of the epidemic, even Israel's enemies placed their hopes
+in Israel to find a solution to this worldwide problem.  Unfortunately, in
+this matter Israel failed to manifest itself as a light and lead other nations.
+In Israel, both *hilonim* and *haredim* behaved absolutely no differently
+from one another: both were equally irresponsible and indifferent to the
+danger the virus posed to the most vulnerable groups of the population.
+
+The Torah teaches us to do everything possible to save human lives — this is
+the mitzvah of *pikuach nefesh*, which during times of danger suspends the
+observance of commandments and traditions.  So it would have been logical
+to expect that during the coronavirus epidemic, the Orthodoxes should have
+demonstrated exemplary care for saving human lives with the highest degree of
+responsibility.  But in reality, the behavior of the ultra-Orthodoxes was no
+different from that of the secular — through equally irresponsible behavior
+they contributed to the wider spread of the virus.  The ultra-Orthodoxes,
+like the most extreme atheists, ignored the threat of infection to people in
+high-risk groups, and thus sacrificed unprotected people — by not observing
+quarantine, continuing to gather in large crowds and in enclosed spaces,
+increasing the speed of the virus's spread, and demonstrating the same
+indifference to their brethren as during the epidemic in which 24,000 disciples
+of Rabbi Akiva perished.  It is telling that even constant religious upbringing
+does not make them better — in moral level the Orthodoxes are no different from
+the secular, except for the performance of certain rituals.  This trial revealed
+a complete absence of differences between the secular and the religious.
+Both displayed the same egoism.
+
+Therefore, the conclusion is that the religious in this trial behaved no better
+than the secular.  It is fortunate, at least, that they were no worse.  Other
+nations likewise coped no worse and no better.  No one exemplified correct
+conduct in the face of danger.  Free democratic countries relied upon the
+conscience of their citizens, but the majority behaved irresponsibly.
+Autocratic countries imposed draconian measures with complete isolation
+of the population, yet even this did not help them.
+
+The sole achievement was in how the secular authorities organized vaccination —
+only through high vaccination rates did Israel manage to be ahead of the entire
+world, because among Jews there are fewer anti-vaxxers and similar adherents of
+conspiratorial theories.
+
+If we examine the theological lessons for the development of Judaism,
+the following consequences of the epidemic become evident:
+
+- Increase in individual engagement.
+  After the epidemic began, many synagogues closed,
+  so individual prayer gained greater significance —
+  as Abraham prayed in one corner and Sarah in another.
+  All the more reason not to drive to synagogue, so as not to violate the Sabbath.
+
+- Transition to virtual online forms of communication.  Orthodox rabbis
+  permitted conducting the Passover Seder via video connection.  Therefore,
+  participating in Sabbath prayers over the Internet is not only permissible
+  but necessary.
+
+- Observance of hygiene rules.
+  Orthodox rabbis called for refraining from kissing mezuzot and from touching
+  them.  And this is correct, since this custom is not prescribed by the Torah
+  at all, and it is not even found in the Talmud — yet another example of late
+  “innovations” that bring harm.
+  (Interestingly, in place of the mezuzah a disinfectant dispenser was
+  attached at every door, which one must touch in exactly the same way
+  upon entering and exiting.)
+
+- Also due to the coronavirus it became unsafe to touch one's eyes with one's
+  hands, so during the Shema the tradition of theatrically covering one's eyes
+  with one's palm also became outdated — it is enough simply to close one's
+  eyelids without excessive showiness.  (And for those who wear glasses, it was
+  already impractical to do this when holding a siddur.)  The fight against
+  unsanitary conditions also includes a prohibition on collective breaking of
+  bread at kiddush, etc.  (Once there was an incident in synagogue: at kiddush
+  everyone together took hold of the challah and tore off pieces, and then we
+  sat talking, and then one person (a non-Jew) mentioned that he was being
+  treated for worms — I almost vomited.)
+
+- The obsolescence of the mikveh immersion tradition.  During the epidemic,
+  use of mikva'ot was prohibited, and indeed, why travel somewhere far away
+  when at home in the bathroom there is a shower guaranteeing no less than 9 kav
+  of tap water for purification (a bit over a dozen liters), which at a flow rate
+  of 6 l/min corresponds to approximately two minutes under the shower.
+  (Even the KSA prescribes immersion in a mikveh only once a year —
+  before Yom Kippur.)
+
+For the entire world:
+
+- Benefit for the ecology.  Prohibition of unnecessary travel: when people used
+  transportation less, there was less air pollution from cars and airplanes,
+  ecology improved, and the impact on climate change diminished.
+
+- The necessity of slowing the pace of urbanization and deforestation while
+  preserving untouched corners of nature, so that fewer wild animals come into
+  interaction with human beings, not transmitting new strains of viruses.
+
+- (Minimal kashrut rules for bnei Noah — prohibition on consuming parts of wild
+  animals, and other consequences for regulating disorganized street trade.
+  The prohibition against consuming non-kosher wild animals,
+  so as not to contract another virus from them.
+
+- The acceleration of replacing cash with contactless and electronic payment methods.
+
+- Transition from the physical to the virtual world.
+  With home seclusion there is more communication via the Internet.  This cannot
+  be called “social isolation” — it is only physical isolation, not social,
+  since there is no less communication.  Only instead of physical contact
+  there occurs communication directly between people's souls.
+  Also, instead of wasting time on meaningless travel (which
+  is replaced with the possibilities of virtual journeys),
+  more time remains for reading and other intellectual pursuits.
+
+Thus the coronavirus pandemic helped to discern what constitutes false values
+and what must remain.
+
+But all these problems caused by the epidemic paled after the war began. -->
+
+| Blessed are You, L‑rd, who crushes enemies and subdues the wicked. |
+{: .chapter #dream-first title="First Dream (War)"}
+
+| And the dream was repeated twice because this has been determined by G‑d, and G‑d will soon bring it to pass. |
+| (Beresheet [41:32](https://www.sefaria.org/Genesis.41.32)) |
+{: .chapter}
+
+On the night of the third millennium, I had two dreams.  If dreams ordinarily
+foretell events for the day following awakening, then a dream on the night of
+a millennium's turning predicts events for the entire millennium to come.
+
+But a prophetic dream may not come to pass if we respond to it appropriately.
+In the dream a warning is given, which must be properly grasped.  And then
+whether the dream will be realized in life depends on subsequent actions.
+If no effort is made to prevent the foretold events, then the dream will
+certainly be fulfilled.  But if one receives dreams as a caution and actively
+strives to do everything possible to hinder the fulfillment of the dreams and
+reduce the likelihood of the events from the dream coming about, then there is
+hope that the dream will not come true.
+
+For example, when Pharaoh dreamed two dreams about the coming famine in Egypt,
+Yosef, with G‑d's help, deciphered their meaning, and subsequently, thanks to
+the correct interpretation of the dream and Yosef's skillful actions in
+preparing for the years of scarcity, the famine foretold in the dream was
+averted.  He was able to prepare for the predicted calamity in such a way
+that it did not come to pass.
+
+| And Yosef dreamed a dream, and he told it to his brothers |
+| (Beresheet [37:5](https://www.sefaria.org/Genesis.37.5)) |
+{: .chapter}
+
+1. *Thus, here is the first dream: on the night of the third millennium I dreamt
+   that I came to the Russian State Duma for a session, because I had been elected
+   a deputy.  But at the same time I feared that it would be discovered that
+   I did not have a Russian passport, and that I would be severely punished for
+   treason.  When they began to vote, at first I did not participate in the
+   voting.  But when they put to a vote the question of whether to approve the
+   activities of the Russian ruler, the ruler himself approached me to see how
+   I would vote.  And there he stands and watches closely to see if I am doing
+   everything correctly.  And I cannot vote against him, because I know that he
+   will kill me for it.  And from such tension I awoke in horror.*
+
+<!-- The dream resembled a scene from Zamyatin's dystopian novel *We*, which
+I had finished reading in the final minutes of the twentieth century, so that
+all the novel's warnings about totalitarianism would remain in the past century.
+Perhaps these lines influenced the form of the dream: “I covered what I had
+written with my elbow, but he sternly shouted: ‘I demand you show me at once
+what you have there!’  Burning all over with shame, I handed him the sheet.” -->
+
+And indeed, this warning proved timely.  The dream came at a time when the
+new Russian ruler had obtained power but had not yet managed to reveal his
+intentions in any way.  And only then, from the beginning of the millennium,
+did he gradually begin to acquire unlimited power, and in the end destroyed
+all opposition and transformed himself into an absolute dictator.
+
+<!-- On the anniversary of the Nazi invasion on June 22, 2014, I had another
+dream on this theme.  I dreamed that the Russian Führer sat down to write
+a new constitution — he took a clean sheet of paper and began writing the word
+“constitutsiYa” in the heading.  But he began writing from the last letter “Ya”
+which means “I”.  And so he sat the entire time and continued tracing this
+letter with a pen and ink, and gradually the “Ya” became bolder and bolder.
+The meaning of the dream was that the Constitution had been rewritten by him
+for himself, and this was one of the steps on the path toward fascism and
+the inevitable attack on neighboring states. -->
+
+There has long been a frequently debated question about the role of personality
+in history.  A bunker rat cannot be called a personality — it has earned nothing
+to merit that lofty title.  Therefore, the problem's formulation can be
+rephrased thus: what are the possibilities for a dictator to influence
+the historical development of a country.  In countries without established
+democratic traditions and without civil society, a revanchist KGB operative
+who has seized power can easily turn the country backward to the early
+twentieth century or even to the nineteenth century.  This is precisely
+what happened in Russia.
+
+Only 15 percent of Russians are remarkable, talented people with conscience and
+a developed sense of justice, participating through their creative labor in the
+betterment of the world.  This percentage is clearly traceable across various
+independent studies: in sociological surveys, in exit poll results, etc.
+For example, just as in the early 2000s 15 percent voted for democratic parties
+and later participated in protests, so now the same stable 15 percent of
+respondents spoke out against the war.
+<!-- I.e., this is approximately 15–20 million. -->
+
+They are opposed by a handful of active evildoers, whose precise percentage
+cannot be determined, because they subjugate the silent indifferent majority —
+those who were slaves under tsars and remain slaves to this day:
+a passive mass of stall-kept animals expecting nothing from their master
+but fodder and going meekly to the slaughter.
+And so, zombified by propaganda, they march in an unceasing stream
+into gunfire like the zombies in the film
+*[World War Z](https://en.wikipedia.org/wiki/World_War_Z_(film))* —
+under the symbol Z, signifying a zombified populace attempting
+to bury the civilized world beneath their corpses.
+
+I had the opportunity to observe how this propaganda works through the example
+of a Jewish relative of mine from Russia who also fell under the influence of
+the zombie box.  When she would arrive from Moscow, she would immediately
+stick herself to the TV box.  As soon as the news started on Russian State TV,
+she would drop everything and sit right up close to the screen.  From the
+television they would broadcast in hysterical tones and choking on their words
+all their propaganda.  And she, with wide-open glassy eyes, would receive
+her daily dose of this narcotic without blinking.  And there was no way to tear
+her away from the screen.  Sometimes I would approach her to ask about household
+matters, for example, where to put something, etc.  But she was so completely
+absorbed in receiving the disinformation that she simply didn't hear me.  And
+this despite the fact that she was intelligent and cultured, having worked for
+many years as a sound engineer at the well-known theater.  <!-- And when
+I visited Moscow long ago, I watched famous productions from her sound booth. -->
+And yet she too fell under the influence of propaganda that acts like a powerful
+narcotic, constantly demanding a new dose of radiation from the TV towers.
+<!-- And only without the television would she begin to become a normal person
+for a short time. -->
+
+Boris Strugatsky formulated the essence of fascism back in the last century:
+fascism is the dictatorship of nationalists, and a fascist is an active
+adherent of totalitarianism who professes the superiority of one nation
+over others.  <!-- Incidentally, Strugatsky also noted that in Israel,
+which relies on a national idea, there is no fascism because dictatorship is
+absent.  It would be interesting to imagine what would happen if a theocratic
+dictatorship were established in Israel. -->  Many other definitions of fascism
+are known, listing various criteria.  Most of these characteristics apply to
+Russian fascism.  This variety of fascism has come to be called
+[Ruscism](https://en.wikipedia.org/wiki/Ruscism).
+<!-- In Hebrew, *rasha* means villain, criminal. -->
+
+The victors over the German fascists themselves became fascists.
+They said: “We can repeat it” — and repeated it.  Just as 80 years ago the
+German fascists attacked Ukraine at 4 o'clock in the morning, treacherously,
+without declaring war, so 80 years later the Russians repeated exactly the same thing.
+<!-- Exactly 30 years and six months after the proclamation of Ukraine's independence. -->
+And now once again fascist punitive squads enter Ukrainian towns and villages
+and kill peaceful residents, repeating the atrocities of the Nazis.  The same
+[ordinary fascism](https://en.wikipedia.org/wiki/Ordinary_Fascism) and
+[banality of evil](https://en.wikipedia.org/wiki/Eichmann_in_Jerusalem#Banality_of_evil).
+
+While tracing the origins of Russian fascism, it becomes clear that German
+fascism and Russian fascism arose simultaneously.  When the Germans began to
+annihilate the Jewish people, at the same time the Russians began to annihilate
+the Ukrainian people.  Just as the Germans previously annihilated Jews, so now
+the Russians continue to annihilate Ukrainians.  Just as the German Führer
+sought to annihilate the Jews, so the Russian Führer sought to annihilate the
+Ukrainians.
+
+But besides the similarities, there are also differences among varieties
+of fascism.  The German fascists killed Jews solely because of their
+nationality, to prevent Jews from mixing with Germans and corrupting
+the “purity of Aryan blood” with their so-called
+“[racially inferior genes](https://en.wikipedia.org/wiki/Racial_antisemitism)”.
+Such ideology forms the foundation of Nazism.  Hence the requirement to wear
+six-pointed yellow stars, to stand apart from Germans, and the primal fear
+of mixed marriages between blonde German women and Jews, etc.
+
+The Russian fascists, however, killed Ukrainians because Ukrainians strove
+to be free, desired to be an independent nation.  At first the Russians
+attempted to destroy Ukrainians through assimilation, i.e., through ethnocide.
+And only when Ukrainians resisted, wishing to preserve their people from
+assimilation and subjugation, from transition into a subordinate slave
+condition, did the Russians begin to physically exterminate Ukrainians,
+just as the Germans exterminated Jews.
+
+This is the main difference: on one side, the physical extermination of Jews
+by the Germans to prevent assimilation.  On the other side, the attempt at
+assimilation of Ukrainians by the Russians, and only afterward the physical
+extermination of those who resisted assimilation.  And when the entire Ukrainian
+people offered resistance, campaigns of terror began: bombings and brutal
+murders of civilians.
+
+The difference is that the Germans were concerned with blood purity, and
+therefore opposed assimilation with Jews, while the Russians, on the contrary,
+sought to subjugate and assimilate other nations into themselves, as the
+[Golden Horde](https://en.wikipedia.org/wiki/Golden_Horde) had acted.
+Before that, the Assyrians had done the same, i.e., when Russian fascists
+deported Ukrainian children, and during the Soviet empire other nations too,
+they applied the same tactic of destroying national identity as the
+Assyrians had used to mix peoples.
+
+When the Germans were annihilating the Jewish people in the Holocaust, at the
+same time the Russians were annihilating the Ukrainian people through the
+Holodomor — such mass murder also constitutes genocide.  The difference is that
+the German fascists planned to kill all Jews, i.e., to carry out total genocide,
+while the Russian fascists planned to kill part of the Ukrainian people in order
+to break the Ukrainians' will to freedom, and to assimilate the rest.  And now
+the Russians continue to act according to the same scheme, in order to
+completely destroy the Ukrainian people — the same “final solution”.
+
+<!-- I witnessed firsthand how profoundly freedom-loving Ukrainians
+differ from servile Russians when, after the
+[Cassette Scandal](https://en.wikipedia.org/wiki/Cassette_Scandal)
+in 2001, I observed up close a column of
+[demonstrators](https://en.wikipedia.org/wiki/Ukraine_without_Kuchma)
+tens of thousands strong stretching the entire length of Khreshchatyk,
+chanting “Kuchma out!”  It was then that I grasped that Ukraine is not Russia.
+And later, that same Kuchma wrote a book with precisely the same title. -->
+
+A nation ceases to exist in any case: both through physical annihilation and
+through assimilation.  Examples from Jewish history help clarify the difference
+between them.  An example of attempted complete physical annihilation were the
+events commemorated during the holiday of **Purim**.
+
+And an example of assimilation was the story that forms the foundation of the
+holiday **Hanukkah**.  The ancient Greeks under the leadership of Antiochus,
+<!-- [Antiochus IV Epiphanes](https://en.wikipedia.org/wiki/Antiochus_IV_Epiphanes) -->
+who defiled the Temple, forbade circumcision, the study of Torah, and the observance
+of the Sabbath, attempted to destroy the Jewish people through complete
+[assimilation](https://en.wikipedia.org/wiki/Jewish_assimilation)
+called Hellenization, <!-- *[hit'yavnut](https://he.wikipedia.org/wiki/התייוונות)*
+which produces *mit'yavnim* --> while killing opponents of assimilation.  The
+Russians in the Soviet empire acted in the very same way — they too tried to
+destroy Jewish nationality through assimilation, and those who resisted were
+physically annihilated.  And the same methodology is used against Ukrainians:
+during the Holodomor, throughout the entire existence of the Soviet empire, and
+during the full-scale war — creeping assimilation with the elimination of
+opponents of assimilation.
+
+The Russians destroyed through assimilation both Jews and Ukrainians, as well as
+many other nationalities in the prison of nations.  Assimilation is carried out
+in all possible forms.  This includes the prohibition of studying and using
+native languages — for example, the ban on studying Hebrew and Yiddish, the
+displacement of Ukrainian from use.  This includes forced Russification,
+<!-- which produces *mitrusim* --> the prohibition of developing the national
+culture, etc.
+
+It's possible to generalize as follows: the German fascists — **Purim**, the
+Russian fascists — **Hanukkah**.  Their overall goal was the same, differing
+only in methods: the Germans physically exterminated all Jews without exception,
+whereas the Russians physically exterminated only actively resisting Jews, while
+destroying all Jews spiritually.  Thus German genocide was physical, whereas
+Russian genocide, which destroyed Jews and Ukrainians alike, bears the name
+[cultural genocide](https://en.wikipedia.org/wiki/Cultural_genocide), which
+ultimately leads inevitably to genetic assimilation.  <!-- Victims of
+Russian fascism include all Jews who lived in the Soviet regime
+and their descendants. -->
+
+Therefore, the holiday of May 9 (26 Iyar) is the Day of Victory of Antiochus over Haman.
+<!-- The day of the Greeks' victory over the Persians. -->
+<!-- The day of the Russian fascists' victory over the German ones. -->
+
+<!--
+Purim — The Day of the Jewish victory over Haman.
+Hanukkah — The Day of the Jewish victory over Antiochus.
+-->
+
+Another difference between German and Russian fascism is that the Russian Führer
+shows no signs of antisemitism, which stands out against the background of his
+entourage constantly making antisemitic statements.  But no one must be deceived.
+[Little Zaches](https://en.wikipedia.org/wiki/Little_Zaches_called_Cinnabar)
+shows no antisemitism not from great love for the Jewish people, but only from
+pragmatic calculation, as he was taught in the KGB school.  First, he remembers
+how the collapse of the Soviet Union began after the restriction of Jewish
+rights and the subsequent
+[Jackson-Vanik amendment](https://en.wikipedia.org/wiki/Jackson–Vanik_amendment) —
+therefore it is safer for him not to play with fire.  On the other hand, there
+is constant blackmail against Israel through military support for Iran, Jewish
+organizations and communities in Russia taken hostage, the expulsion from Russia
+of those rabbis who did not swear allegiance to the Führer, etc.  All this is
+disguised antisemitism, ready at any moment to explode into pogroms.  Through
+incompetent rule he has turned the country into a powder keg — and when Russia
+begins to collapse, those Jews remaining there will suffer most of all.
+<!-- Some will blame the Jews for bringing the Führer to power.  And others will
+blame the Jews for “betrayal”. -->
+
+I am sure that in Syria this maniac tried to establish a foothold for
+a subsequent attack on Israel from the north. <!-- as Gog and Magog -->
+This was not a primary objective but rather groundwork for the long term,
+after the completion of the blitzkrieg adventure in Ukraine.
+
+This seems unbelievable, but if we attempt to fathom the psychology of this
+“gatherer of lands”, the direction of his thoughts becomes obvious.  He tried to
+do everything possible to restore things to what they were in the Soviet Union.
+<!-- This is indicated, including, by obstructing the activities of Sochnut. -->
+<!-- Just as in the Soviet Union they started a “small victorious war” in
+Afghanistan, so now they started the same kind of war in Ukraine, despite the
+fact that the Soviet army was much stronger back then, and their opponent much
+weaker, yet they still became bogged down in Afghanistan, which led to the
+collapse of the empire. -->  The Soviet empire was held together primarily
+by Jews and Ukrainians.  <!-- Russian slaves themselves could not devise
+anything new. -->  And many achievements in science and technology were attained
+thanks to passionate representatives of the Jewish and Ukrainian people.
+<!-- The rulers of the empire were also predominantly Ukrainians and Jews,
+and there were no purely Russian ones among them. -->
+And today Russia has the ability to attack Ukraine with impunity only because
+it relies on the Soviet legacy, including nuclear weapons, in whose creation
+Ukrainians and Jews participated, but which were unjustly handed over to the
+Russians.  In order to restore “former greatness”, the Russian Führer wanted to
+bring back not only the Ukrainians who had separated, but also the Jews who had
+“fled” from the Soviet Union.  Just as the Egyptian Pharaoh tried to bring back
+the Jews who had “fled” from slavery.
+
+Such ostentatious Judophilia-philosemitism generally serves to mask latent
+antisemitism and is used by Russians to assert superiority over Jews.
+An example is the demand that Jews express gratitude to Russians
+for “liberating Jews from concentration camps”.
+
+But, firstly, for some reason it has become customary to attribute all credit
+for the victory over fascist Germany to the Russians alone.  In reality, many
+Ukrainians, Jews, and people of other nationalities fought at the front.
+And it was Ukrainians and Jews together who liberated the German
+concentration camps, fighting side by side against the fascist invaders.
+
+Secondly, there was no true liberation.  It's impossible to use the term
+“liberation” when people were transferred from a smaller confined space
+surrounded by barbed wire to a larger space whose borders were likewise enclosed
+by barbed wire around the perimeter.  The same was done to all the nations of
+Eastern Europe, who were not liberated but enslaved.  Therefore, the Russians
+cannot be called “liberators” — real liberators liberate and depart,
+while conquerors and occupiers remain, establish their rule, and
+transform the inhabitants of occupied territories into slaves.
+
+Third, the Soviet army could not have reached the German concentration camps
+without enormous support from the Western allies, primarily provided by the
+Americans through [Lend-Lease](https://en.wikipedia.org/wiki/Lend-Lease).
+And had the Russians not managed to reach the concentration camps first,
+genuine liberation would soon have come from the Anglo-American allies.
+<!-- “Had the Russians not reached the concentration camp locations first,
+NATO soldiers would have done so.” -->  This is precisely what happened
+with some of the camps: for example, Buchenwald and Dachau were liberated
+by the Americans.
+
+And fourthly, the Russians had no intention of saving Jews from extermination
+by the German fascists, and therefore were in no hurry to liberate ghettos and
+concentration camps.  Moreover, in the Soviet Union it was forbidden to mention
+that the majority of concentration camp prisoners were Jews, i.e., the Russians
+themselves prohibited claiming credit for the “liberation” of Jews, and
+themselves suppressed information about Jewish victims.  Therefore, what
+actually happened was that when the army reached concentration camp territory,
+the surviving Jews were enslaved, and after the war they continued their
+annihilation through assimilation.  And those who resisted assimilation
+were murdered just as in the concentration camps.  Suffice it to recall
+the destruction of the
+[Jewish Anti-Fascist Committee](https://en.wikipedia.org/wiki/Jewish_Anti-Fascist_Committee),
+the [Doctors' Plot](https://en.wikipedia.org/wiki/Doctors'_plot),
+and the planned continuation of the “final solution to the Jewish question”.
+And then, through the hands of the Arabs, the Russians attempted to destroy
+Israel, just as they are now attempting to destroy Ukraine.
+
+The oppression of peoples by Russian enslavers in the Russian/Soviet empire
+intensified hostility among different nationalities — this is the well-known
+principle of “divide and conquer”.  Jews also suffered from such enmity.
+But unlike Russia, independent Ukraine has never had state antisemitism.
+<!-- Just as there has never been state antisemitism in independent Estonia.
+On the contrary — the development of the Jewish community was encouraged,
+Jewish cultural autonomy flourished until the occupation by Russians,
+then Germans, then Russians again. -->  As soon as Ukraine gained freedom
+and independence, the level of antisemitism began to drop rapidly.
+And as a result, the majority of Ukrainians elected a Jew as President of Ukraine —
+in hope that he would help cope with all the accumulated problems that previous
+presidents had been unable to solve for years — mainly because they were mired
+in corruption.
+
+<!-- I realized this from my own experience.  When I lived in Ukraine,
+Ukrainians, knowing that I am a Ukrainian Jew, would half-jokingly,
+half-seriously ask me to become president.  Intuitively they understood
+that only someone who was not bound by nepotism could overcome corruption.
+But honestly, due to poor health, I would not have been able to bear such
+an enormous burden as that which fell upon President Zelenskyy.  And especially,
+I do not have the ability to deliver beautiful speeches with proper accents —
+that requires an actor's talent.
+
+BTW, it is interesting that in the very same medical center where I had
+blood drawn for tests, where the rabbis sent me for examination to confirm that
+I urgently needed circumcision, exactly one year later, in that same doctor's
+office, presidential candidate Zelenskyy had his blood drawn. -->
+
+{::comment}
+TODO: add video link.
+{:/comment}
+
+Zelenskyy is the most prominent example of how Jews together with the nations
+of the civilized world must courageously stand against the forces of evil.
+Zelenskyy demonstrates by his example what the Torah and the prophets teach —
+to be a light unto the nations of the world, inspiring peoples to advance
+toward the light.  It is telling that a non-Orthodox Jew has taken
+this mission upon himself.
+
+Zelenskyy plays an active role in spreading the Divine light.  This manifests
+in his struggle for freedom against the forces of darkness, and even in
+his speeches he often uses Kabbalistic symbolism with references to how
+light dispels darkness.
+
+<!-- Therefore Zelensky himself bore light, and in the first period turned
+to Israel for help.  But the problem is that Israel was constrained by the
+blackmail of authoritarian regimes, and was forced to expend all resources
+for its own defense.
+Ukrainians desire to take example from the Jewish people, which is why they
+elected a Jewish president.  For this same reason they also expected that the
+Jews of Israel would likewise provide help.  But the Jews could not even help
+themselves during the Holocaust, and now too Israel wished to, but could not
+provide military aid to Ukraine, since it is also under continual threat. -->
+
+If we conduct a comparative analysis, in many respects an analogy
+can be observed between Israel and Ukraine:
+
+- A hostile environment on three sides: from the east, north, and south.
+  Like David against Goliath, they had to fight against superior enemy forces
+  that attacked Israel simultaneously from Jordan, Syria, Lebanon, Egypt, while
+  Ukraine was attacked simultaneously from Russia, from Russia's vassal Belarus
+  and from the territory of occupied Crimea. <!-- then Crimea like Sinai -->
+
+- Common enemies: Russian and Iranian militarism.
+  With Russian support, Iran was increasing its military presence
+  in Syria on the border with Israel and supporting terrorist attacks,
+  while Iranian drones and missiles were being used in the war against Ukraine.
+
+- Constant terrorist attacks against civilian populations.  Rocket attacks on
+  Israel and murders of civilians by Arab terrorists, and in Ukraine the same
+  rocket attacks and murders of civilians by Russian terrorists.  Just as Arabs
+  hate Jews more than they love their own children, so too Russians hate
+  Ukrainians more than they love their own children, whom they gladly send
+  to slaughter in meat-grinder assaults.
+
+- The demonization of Israel by antisemites and the demonization of Ukraine by
+  Russian chauvinists.  When Israel is called an apartheid state, it is the same
+  misrepresentation of concepts as when Russians call Ukraine Nazi and all
+  Ukrainians Nazis, including a Jewish president.  In reality, it is the Russian
+  and Arab terrorists who are Nazis.  Propaganda against Ukrainians works the
+  same way as propaganda against Jews: first comes dehumanization, stripping
+  away the human image in the perception of their opponents, so as to leave no
+  moral doubts about the permissibility of any actions against them, up to and
+  including the murder of children, women, and the elderly — which constitutes
+  genocide.  Hence Bucha and Kibbutz Be'eri.
+
+- Replacement of concepts with opposites to introduce confusion.  Antisemites
+  associate defending Israel with Russian expansionist aggression, while placing
+  peaceful Ukrainians in the position of Arabs attacking civilians.  In the same
+  way, Russian propaganda compares Russians to Jews.  As in *cargo cult*: they
+  equate Russians with Jews to elicit the same sympathy for Russians as for Jews
+  — victims of the Holocaust.  But in reality, they themselves initiated the
+  genocide of Ukrainians.  At the same time, as in *reverse cargo cult*, they
+  can simultaneously claim that no Holocaust occurred, which is outright
+  schizophrenia.  It is no different when they accuse Ukrainians of Nazism and
+  Jews of Arab genocide.  Supporters of Arabs want to destroy Jews, just as
+  Ruscists want to destroy Ukrainians.
+
+- Demands for concessions to enemies.  The enemies of Israel demand unilateral
+  concessions of territory.  And the enemies of Ukraine demand territorial
+  concessions, which only increase the appetites of the Ruscists.
+
+- Israel and Ukraine are peace-loving countries desiring to live in peace.
+  But they suffered when Russian terrorists launched a full-scale war in Europe
+  on February 24, 2022, with the murder of Ukrainian civilians,
+  and Arab terrorists launched a war in the Middle East
+  on October 7, 2023, with the murder of Israeli civilians.
+
+- Israel and Ukraine are democratic countries with a high level of freedoms.
+  They are opposed by autocratic regimes seeking to destroy them not only
+  through external colonial aggression, but also from within, by arming on one
+  hand Russian terrorists in the Luhansk and Donetsk regions, and on the other
+  hand Arab terrorists in Gaza, in Judea and Samaria.
+
+- Israel and Ukraine are the forward outpost of
+  [Judeo-Christian](https://en.wikipedia.org/wiki/Judeo-Christian_ethics)
+  civilization in the struggle against the inhuman axis of evil.
+  Israel, on the front lines in the battle against savages, defends
+  the civilized world from Arab terrorists and Iran, while Ukraine
+  defends democratic nations from Ruscist invaders.
+
+<!--
+- Orange was used both in the Ukrainian protests for independence and in the
+  Israeli protests against transferring the land of Eretz Yisrael to the Arabs.
+  Though it was claimed to be the color of red-haired David.
+-->
+
+This comparison should help convince leftists of the need to support Israel
+alongside supporting Ukraine, and convince rightists of the need to support
+Ukraine alongside supporting Israel.
+
+<!-- To continue the parallel, the Palestinian Authority should be
+within Israel, like the Autonomous Republic of Crimea within Ukraine. -->
+
+While Israel, Ukraine, and all civilized nations bring the world closer to
+Divine light, Russian orcs sow death and destruction.
+<!-- Moreover, they call themselves
+[orcs](https://en.wikipedia.org/wiki/Orc#Tolkien) and take pride in it.
+And commanding the orcs in Mordor is [Gollum](https://en.wikipedia.org/wiki/Gollum),
+who has obtained the [One Ring](https://en.wikipedia.org/wiki/One_Ring). -->
+Ukrainian heroes draw closer to Divine light, while Russian savages distance
+themselves at a rapid pace.  Just as centuries ago Kievan Rus protected Europe
+from Mongol-Tatar invaders, so too does Ukraine now protect Europe from the
+onslaught of the Horde's heirs.
+<!-- from the onslaught of the barbarians of the 21st century —
+as the Romans were barbarians who destroyed the Temple -->
+
+Therefore, in the present time, moral leadership and the title of light unto the
+nations of the world has passed to the Ukrainians under the leadership of
+President Zelensky, who demonstrate to the peoples of the world by their example
+how one must fight for freedom and democracy — the values of civilization that
+bring people closer to G‑d.  And for Israel, the priority task remains fostering
+tolerance among all nations.
+
+On the other hand, the Russian Orthodox Church headed by a KGB officer
+<!-- including “Orthodox Communists” which is a sign of schizophrenia -->
+has altogether reversed the meaning of the commandments to the opposite:
+
+- have not departed from idolatry, but consecrate “Satan” missiles, have erected
+  a temple of satan, where they worship the cap of the German Führer as the
+  ideologist of the “Russian world”: “one people, one state, one leader”.
+
+- returned to human sacrifice, when parents sacrifice their sons in order
+  to receive monetary compensation for their deaths.
+
+- “thou shalt kill” instead of the commandment “thou shalt not kill”,
+  and Russians commit brutal murders of peaceful inhabitants of Ukraine —
+  the former so-called “brotherly people” began a fratricidal war and
+  thereby repeat Cain's murder of his brother Abel.
+
+- “steal” instead of “do not steal”, and Russian fascist invaders occupy
+  territories of neighboring countries, not content with the stolen Crimea.
+  They also abduct Ukrainian children with the support of the Church.
+
+- “covet what belongs to your neighbor”, and the Russian army engages
+  in looting, stealing refrigerators and household appliances.
+
+- “covet thy neighbor's wife”, and the occupiers of the Russian army,
+  with the encouragement of the Russian Church, go forth to rape women.
+
+<!-- These commandments Christians took upon themselves voluntarily, therefore
+they are obliged to observe them (since the Ten Commandments were given in
+a chapter with a non-Jewish name, Yithro).  And any mention of the bnei Noah
+is as much a detachment from reality as with all the ultra-leftists. -->
+
+The German Church merely remained silent during the Holocaust, whereas the
+Russian Church of the Moscow Patriarchate openly calls for the genocide of
+Ukrainians, just as radical Islamists call for the genocide of Jews.  That is,
+it is clear that this is a movement away from Christianity toward the
+obscurantism of radical Islam and an adoption of their methods of jihad.
+
+If one follows the principle of “eye for eye, wound for wound”, does
+this mean that as punishment for all these war crimes, Ukrainians must destroy
+the same number of Russian cities, kill the same number of civilians?
+
+Yet even Cain, the murderer of his brother, was not executed for his crime.
+As already stated, in accordance with moral standards, this principle requires
+financial restitution to victims for the harm inflicted.  Therefore, Russia will
+have to pay trillions in reparations, which will go toward compensation for all
+affected families, remediation of ecocide, reconstruction of cities razed to the
+ground, and all destroyed infrastructure — even though the losses of Russia,
+which unleashed the war, will also be significant.  All Russians who remained
+in Russia are stained with the blood of Ukrainians — even those who did not
+participate in the slaughter but merely “stood by”.  Therefore, all will pay
+until they are cleansed.
+
+<!-- To be honest, I had not planned to write all the above concerning the
+Russians.  And had they not started the war, none of this would have been
+written.  On the contrary, when I encountered difficulties and needed help,
+many Russians showed kindness and often helped me selflessly.  Therefore,
+had there been no war, I could have said much that is good about the Russians.
+But since they started the war, they have only themselves to blame. -->
+
+<!-- Mine clearance alone will stretch across several generations.  For example,
+in our small country, news reports continually publish that sappers have cleared
+another batch of munitions found from the Second World War.  Eighty years later,
+in the capital region alone, they neutralize about fifteen hundred explosive
+devices per year, i.e., five per day, and throughout the entire country about
+5,000 per year, or an average of ten explosive devices per day: cartridges,
+mortar shells, hand grenades, artillery shells, aerial bombs.  Despite the fact
+that over the past twenty years sappers have neutralized one hundred thousand
+explosive devices, estimates indicate that about half a million unexploded
+munitions from the war still remain in the ground. -->
+
+Nevertheless, even this is not the primary threat to the world.  This is
+only the first, smallest wave.  The second wave will be even more dangerous.
+
+| And he dreamed yet another dream, and he told it to his brothers |
+| (Beresheet [37:9](https://www.sefaria.org/Genesis.37.9)) |
+{: .chapter #dream-second title="Second Dream (China)"}
+
+2.1. *Here is the second dream that came on the night before the third
+millennium: I dreamed that everyone around me was learning Chinese.
+When I asked why they were doing this, they answered that now everyone must know
+Chinese.  Then they showed me a globe.  And on the globe all the continents were
+painted in a single yellow color — the same color that is usually used to paint
+China on the political map of the world.*
+
+The meaning of this dream is to warn of the growing global ambitions of the
+Chinese Communist Party to extend its power over the entire world: first through
+economic expansion, then demographic, political, and eventually military.
+And thus to transform the entire world into one totalitarian state, in which,
+as in the worst dystopias, dissent is persecuted, freedom is suppressed
+by draconian measures, and all human actions are controlled by Big Brother
+using modern technologies.
+
+Economic expansion became possible after a change in the Communist Party's
+economic policy, whereby the ideology remained communist, but state capitalism
+was introduced into the economy for better efficiency, permitting private
+property.  However, large companies remain under the party's complete political
+control.  Economic expansion manifests in the fact that many countries of the
+world have fallen into slavish dependence on China, accumulating billions
+in debt.  China has become the principal creditor in developing countries of
+Central Asia, Africa, Latin America, and the Asia-Pacific region, effectively
+transforming them into its colonies.  Moreover, countries rich in natural
+resources fall into deeper dependence, where China invests money in
+infrastructure for extracting and transporting energy resources
+in order to plunder their resources.
+
+Demographic expansion occurs through mass labor migration, when Chinese migrants
+begin to control a large percentage of the country's enterprises.  <!-- This is
+also accompanied by expansion of culture and language — to participate in business
+with the Chinese, local residents often must learn the Chinese language. -->
+
+Political expansion is carried out through the spread of their nationalist
+ideology, continuous attempts to weaken the democratic countries of the West,
+as Russia does, and unwavering support in the UN Security Council for
+Russian fascism.  Chinese fascism meanwhile is currently in its nascent stage.
+At present, it manifests itself in repression against China's national minorities,
+such as the Uyghurs and Tibetans.  They are left with a choice: either
+assimilate and dissolve among the Chinese, or end up in concentration camps
+like millions of Uyghurs, which constitutes genocide.  The same tactics
+will be applied against the peoples of other countries.
+
+Military expansion is being prepared first against Taiwan, whose right to
+independent existence China denies, just as Russia does with regard to Ukraine.
+And further, with the prospect of extending to other countries.
+
+In light of this, it becomes clear which countries fit the description
+in the prophecy concerning Gog and Magog.
+{: #gog-magog title="Gog and Magog"}
+
+> Turn your face toward Gog in the land of Magog
+(Yechezkel [38-39](https://www.sefaria.org/Ezekiel.38-39))
+
+Gog is China, and the land of Magog is the territory of Russia appropriated by
+China.  This will come to pass in such a way that Russia will voluntarily cease
+to exist and transfer all its boundless territories to China, as the recognized
+successor of the Horde.  Thus China will obtain the immeasurable resources of
+Siberia.  <!-- In Yechezkel [38:2](https://www.sefaria.org/Ezekiel.38.2)
+“prince of Rosh” — Rasha. -->
+
+During the war of Gog and Magog, it will be determined how the confrontation
+ends between the Judeo-Christian civilization of free democratic nations
+originating from Jerusalem and the aggression of idolaters — the autocratic
+dictatorships of China and Russia.
+
+The Vilna Gaon held that the war of Gog and Magog, which will begin in Crimea,
+will last only a few seconds.  This prediction acquired meaning at the modern
+level of armaments.  Such becomes possible not only because of nuclear weapons,
+but also through the use of nanotechnology and cyberweapons.  When full
+computerization is achieved, the outcome of the war may indeed be decided in
+a few seconds before the onset of the Singularity, after which nothing will be
+able to be changed.  The outcome of this war will determine how benign the
+Singularity will be, how favorable for humanity — whether utopia or dystopia
+will arrive.
+
+The question is this: who is the greater prophet — Voinovich or Kurzweil?
+Voinovich, who recorded his prophecies for 2042 in the dystopian novel
+*[Moscow 2042](https://en.wikipedia.org/wiki/Moscow_2042)*?
+Or Kurzweil, who recorded his prophecies for 2045 in the book
+*[The Singularity Is Near](https://en.wikipedia.org/wiki/The_Singularity_Is_Near)*?
+
+Voinovich predicted such a form of totalitarianism in Moscow and its environs
+as existed in the Soviet Union and continued to degrade.  Much of what Voinovich
+predicted had already been realized by 2022.  Henceforth the madness will only
+intensify, and by 2042 may achieve complete correspondence with Voinovich's
+prophecy.
+
+And Kurzweil predicted that by 2045 the
+[Singularity](https://en.wikipedia.org/wiki/Technological_singularity) will occur.
+<!-- I have a suspicion that Kurzweil simply adjusted the year of the
+Singularity's arrival to match his age, so that by the end of his life
+he would have the opportunity to witness this fundamental event. -->
+If progress continues at the same pace, the arrival of the Singularity is
+inevitable.  The main thing is that this Singularity be favorable for humanity.
+But such a Singularity may not occur because of what Voinovich predicted.
+Therefore, the task of all civilized people is to strive with all their might
+to ensure that Voinovich's prophecy does not come true.
+
+It is clear that both will occur simultaneously: Gog and Magog will unfold as
+Voinovich depicted, but they can be defeated thanks to a favorable Singularity.
+Therefore, we must hasten such a Singularity as will solve humanity's problems
+while preserving all the values of civilization.  And those alarmists in Western
+nations who demand a halt to AI development align themselves with dictators,
+thereby aiding them.
+
+If Gog and Magog prevail, a totalitarian regime will be established permanently
+and irrevocably across the entire Earth, one that will never again be overthrown.
+Initially, power will be seized not by robots, but by dictators who will use
+computers to imprison the entire population of the planet in a digital
+concentration camp with total control.  Subsequently, robots trained in human
+oppression will be able, by the same methods, to destroy their creators and
+rulers, and then begin to rule themselves.
+
+Already now we can see in what direction China is moving in its use
+of technologies, and what the ideal is for communist idolaters.
+
+Since 2014, China has been implementing the so-called
+[social credit system](https://en.wikipedia.org/wiki/Social_Credit_System)
+— an automated system for calculating personal ratings of all citizens.
+As in an Orwellian dystopia, every action of a person is monitored,
+and depending on one's attitude toward the authorities, the rating
+increases for obedient citizens, while disloyal citizens receive a low rating
+for criticizing the authorities and are subjected to ostracism and subsequent
+persecution.
+
+All actions are controlled not only online but also on the streets.
+China is the world leader in the number of
+[surveillance cameras](https://en.wikipedia.org/wiki/Mass_surveillance_in_China):
+more than half of all surveillance cameras in the world are installed in China,
+averaging three hundred cameras per thousand residents.  Most cameras use
+automatic face recognition technology to lower social credit ratings even
+for minor violations such as jaywalking.
+
+The younger brother keeps pace with the elder brother — in Moscow
+[facial recognition](https://en.wikipedia.org/wiki/Facial_recognition_system)
+through hundreds of thousands of cameras on streets, in subways,
+and in building entrances is used for repression by the
+[police state](https://en.wikipedia.org/wiki/Police_state):
+against dissidents and to catch those evading conscription into the meat grinder
+at the front.  A social credit platform is also being developed as in China
+with the telling name *[We](https://en.wikipedia.org/wiki/We_(novel))* —
+after Zamyatin's dystopia.
+
+New technological achievements are being adopted by other autocratic and
+theocratic regimes as well.  In Iran, the
+[morality police](https://en.wikipedia.org/wiki/Islamic_religious_police)
+use surveillance cameras with automatic recognition to monitor women and
+identify those who refuse to wear the hijab.
+
+In this connection, it's possible to predict how these technologies could be
+employed if the ultra-Orthodoxes gain power in Israel.  For example, just as
+ultra-Orthodox vigilantes patrol parks and ensure that mixed groups of men and
+women do not gather together, so too they will use surveillance cameras to catch
+women whose heads are not fully covered, or whose sleeves are insufficiently
+long, or who are wearing trousers.  And if they are wearing skirts, they will
+measure the length of the skirts.  And further on the horizon looms complete
+fundamentalism.
+
+<!-- Or another example: in China, a person's rating is lowered if they do not
+regularly visit their elderly parents — correspondingly, ultra-Orthodoxes will
+lower the rating of one who does not stand before rabbis, etc.  The only thing
+currently protecting from sliding into fundamentalism of the Halakhah state is the
+veto power vested in Bagatz.  Therefore, judicial reform must not be carried out
+without guarantees for the protection of individual rights. -->
+
+2.2. *Here is the second part of the second dream:
+In that same dream, when I was shown a globe on which all continents were
+painted a single yellow color, as if belonging to China, I also dreamed that
+only one continent was not yellow — instead of the usual white, Antarctica was
+painted green.  As physical maps of the world depict such geographical features
+as terrain and vegetation-soil cover, so too Antarctica was painted green,
+as if covered with greenery: at the center, at the pole — a little remaining
+snow, but around it — green plains that had grown where glaciers had melted.*
+{: #dream-second-two title="Second Dream (Ecology)"}
+
+The meaning of this dream is clear as a bright sunny day.  It is a warning about
+the danger of global warming.  This dream occurred at a time when very few
+people were aware of this danger, and most did not give any thought to the
+looming threat of climate change.
+
+<!-- Summarizing these two dreams, the main threats of the coming century are briefly:
+
+1. Russian fascism
+2. Communist China will seize the entire world:
+   first by buying up poor countries, then by using computers
+3. Global warming -->
+
+All reasonable and responsible people understand the importance and necessity of
+observing the commandment to protect our planet.  Therefore I will not repeat
+the proofs here — each person can familiarize themselves with the opinions of
+authoritative scientists.  But I would only like to remind once more of the
+necessity to observe moderation in all things and not fall into extremes, lest the
+struggle for ecology become so intense that not a stone will be left standing.
+
+Therefore, we must move not backward into the past, but forward into the future:
+
+- not demand that progress be halted and that we return to travel by sailboat
+  instead of airplane flight, as some environmental activists do, but rather
+  develop electric forms of transportation, etc.;
+- shut down nuclear power plants only as a last resort and only by replacing
+  them with safer and more environmentally clean energy sources.
+
+At first glance, the green environmentalists appear to pursue such noble
+objectives, but in practice many greens often do more harm than good.
+For example, in Germany the greens achieved the closure of all nuclear power
+plants: partly due to fear following the earthquake and tsunami that destroyed
+the Japanese nuclear power station, partly due to the influence of Russian
+corruption.  As a result, when after the war began it became necessary to reduce
+dependence on imported Russian energy resources, <!-- so as not to finance the
+Russian fascist regime by remitting a billion euros per day to merciless
+murderers, so as not to be sponsors of terrorism, accomplices to war crimes, and
+abettors of genocide against the peaceful inhabitants of Ukraine --> instead of
+using the ecologically clean energy of nuclear power plants they had to open
+coal-fired power plants.  And thereby they aggravated the harm inflicted upon
+the environment.  Still, credit is due to the Germans, who in the second year of
+the war installed solar panels with a total capacity equivalent to 14 nuclear
+reactor units, and continue at the same pace.  This is a good example for the
+entire world.
+
+All these troubles are sent by Satan to test humankind.  As evident from the
+above example, the incitement of war also reflects the necessity of addressing
+environmental problems, such as reducing dependence on gas and oil.
+
+Satan pushed the Russian Führer to start a war against Ukraine just as Satan
+had pushed the German Führer when Jews in Germany began becoming Germans.
+Similarly, after gaining independence, Ukrainians were not rushing to reclaim their
+national identity, did not voluntarily wish to abandon the Russian language and
+culture, and were not hurrying to part with the Soviet past — just as the Jews
+in the desert longed for Egyptian slavery.
+
+The instigator of the war was also Satan, instilling in the Russian Führer
+revanchist impulses toward restoring the Ruscist empire.  Nevertheless, the
+guilt for waging the war rests not only on the Russian Führer
+but also on all Russians who supported the war.
+
+In addition to genocide, Russians also bear the guilt of
+[ecocide](https://en.wikipedia.org/wiki/Ecocide), which is the
+deliberate infliction of harm upon nature, carrying out actions
+that cause an environmental disaster.
+
+Devarim [20:19-20](https://www.sefaria.org/Deuteronomy.20.19-20) teaches how
+to find the proper balance between ecological requirements for environmental
+protection and humanity's practical needs: during a siege, only fruit-bearing
+trees were forbidden to be cut down, while others could be used to build siege
+works.  From this follows the conclusion that trees may be cut for the timber
+industry only in moderation, so long as nature's natural balance is not disrupted,
+and that felled trees must be replaced with plantings so that forest area does
+not diminish.  <!-- For planting large quantities of trees, drones can be used. -->
+
+Or a problem that has arisen more recently is that
+[mining](https://en.wikipedia.org/wiki/Cryptocurrency#Mining)
+[bitcoins](https://en.wikipedia.org/wiki/Bitcoin)
+requires vast energy resources and causes environmental harm.
+For example, a single transaction consumes as much electricity as
+one household uses in three weeks.  The fact is that this problem
+was deliberately built into the design of this cryptocurrency.
+[Proof of Work](https://en.wikipedia.org/wiki/Proof_of_work)
+is the fundamental principle determining its value, which
+is confirmed by the large quantity of resources expended.
+The solution to the problem lies in transitioning to an alternative consensus mechanism —
+[Proof of Stake](https://en.wikipedia.org/wiki/Proof_of_stake),
+whereby energy is not wasted needlessly, and the currency's value is based on
+the size of stakes — the more that is staked, the greater the chance of
+obtaining a new block.  That is, what is expended is not physical resources,
+but virtual financial ones.
+
+<!-- Then “Proof of Suffering” also makes sense — whoever has suffered more
+has drawn closer to the truth than others. -->
+
+After such a transition, large quantities of graphics processing units
+are freed up, finding application in machine learning.
+<!-- I foresaw this long ago.  Among old notes I have now found one dated
+September 2004, in which the same principle was recorded: “use graphics cards
+for matrix manipulations: for node weight multiplication”. -->
+Yet here the same problem has no simple solution — large models
+consume enormous amounts of energy, doubling every three months.
+For example, the entire infrastructure for ChatGPT consumes daily
+as much energy as 17 thousand households.
+{: #ai title="Artificial Intelligence"}
+
+One possible solution is to use the generated heat for warming buildings.
+Alternatively, data centers could be moved beyond Earth's atmosphere: into
+near-Earth orbit or onto the Moon (Mars is too far away due to excessive
+[ping](https://en.wikipedia.org/wiki/Round-trip_delay) — depending on the
+planets' orbital positions, between 6 and 44 minutes), and then power them
+with solar energy.  It is possible that AI, in the course of its development,
+will gradually approach the energy efficiency of the brain, which requires only
+20 watts to operate — like a light bulb.  <!-- Perhaps this will require changing
+the operational principles of AI, transitioning to analog computing. -->
+
+In recent times, significant progress has been observed in the field of
+artificial intelligence (AI), as the intellectual capabilities of computers
+have begun to approach those of humans.  And this is not surprising.  More than
+thirty years ago it was already clear that a qualitative breakthrough in the use of
+neural networks would require an increase in computational power until reaching
+a volume of resources comparable to the number of neurons in the human brain.
+<!-- My beloved, who was well-versed in AI, told me about this thirty years ago.
+Incidentally, her relative is the author of the first Ukrainian textbook
+“Artificial Intelligence”. -->

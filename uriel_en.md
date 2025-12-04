@@ -301,7 +301,7 @@ setting the direction of development and nourishing all that lives.
 <!-- With a certain imagination, one can discern that at the corners of the
 triangle are positioned [Pac-Men](https://en.wikipedia.org/wiki/Pac-Man)
 with open mouths — they symbolize living beings that feed upon the Divine
-light and yearn toward it.  -->
+light and yearn toward it. -->
 
 <!-- Throughout the time of writing this book, the picture stood before my
 eyes and constantly reminded me of the purpose for which this world was
@@ -1340,7 +1340,7 @@ after thawing?  The answer is evident: while the body remains in a cryopreserved
 state, and the possibility of continuing life after thawing remains,
 the soul continues to be connected to the brain, as during sleep.
 <!-- Because such a situation is impossible, that the soul would disconnect
-during freezing, and after thawing a soulless zombie would awaken.  -->
+during freezing, and after thawing a soulless zombie would awaken. -->
 
 Experiments in the separation of brain hemispheres are known, resulting in
 the observed division of consciousness.  In this case I think that the soul
@@ -2174,7 +2174,7 @@ after I wrote this down, the following night I had a dream that classmates came
 to an Orthodox rabbi, said “Shalom” and asked him to predict their fate.  And so
 the rabbi began to do this in the following manner: he would pronounce a word
 that came randomly to his head, and then based on this word, through associations,
-he would tell what awaited the person next.  -->
+he would tell what awaited the person next. -->
 
 In astrology and in horoscopes there is likewise no meaning, for a person's
 destiny is not programmed in the arrangement of stars and planets.
@@ -2269,8 +2269,8 @@ To understand how Satan operates, I can provide a detailed analysis of a single 
 for illustration — an insignificant but instructive case, since such coincidences
 occurred with me almost every day.  Once after lunch I decided to take a walk
 and also pass by my former workplace to see what had changed there over the past
-10 years — simply to look at the names of firms on the doors.  It was Sunday and
-vacation season, so no one was there.  But when I was already approaching,
+10 years — simply to look at the names of companies on the doors.  It was Sunday
+and vacation season, so no one was there.  But when I was already approaching,
 suddenly an alarm sounded loudly throughout the entire street.
 After some time a security guard car arrived, and when I began to pass by the
 first door, they stopped at the door, got out of the car and looked in my
@@ -2962,7 +2962,7 @@ showed faintheartedness, and the people rebelled due to disbelief that it would
 succeed as favorably as when G‑d chose the time for successful deliverance from
 the Egyptians and informed Moshe of this possibility — that is, the chutzpah
 of the scouts and the people was depleted.  <!-- In precisely the same way
-in the twentieth century rabbis were fainthearted, resisting Zionism.  -->
+in the twentieth century rabbis were fainthearted, resisting Zionism. -->
 
 G‑d creates thoughts at the quantum level in the human brain.
 Sometimes directly, sometimes through angels, as it is said in Bemidbar
@@ -2977,14 +2977,14 @@ to follow the thoughts placed by angels in the heads of the prophets.
 therefore the climate is now non-deterministic and weather is unpredictable.
 Because of this, in our days G‑d would not be able to help cross the *Yam Suph*,
 since due to anthropogenic climate change it is impossible to predict in advance
-when there will be wind in a given location.  -->
+when there will be wind in a given location. -->
 
 <!-- Also, due to the complete determinism of celestial body movement,
 G‑d knows with certainty at what time the Earth's orbital path will intersect
 with the orbit of a large comet or asteroid, collision with which could destroy
 life on Earth.  Therefore humanity was given the possibility of space exploration,
 so that it would be possible to send a spacecraft to such an object that would
-deflect its trajectory away from Earth.  -->
+deflect its trajectory away from Earth. -->
 
 <!-- Now people have taken upon themselves responsibility for their actions.
 For example, people can punish themselves with a flood due to the melting of ice.
@@ -3903,7 +3903,7 @@ full of suffering.
 The first third of my life I lived as an orphan — until the age of 17.  At 17
 I fell in love with the girl, and after that for the second third of my life
 I lived also as a widow.  <!-- Therefore it is evident that true love lives
-at least 33 years, but never dies.  -->
+at least 33 years, but never dies. -->
 And throughout the entire third part of my life I also lived as a stranger,
 unsuccessfully attempting to gain favor from the Orthodoxes.
 For the aforementioned reason I strove to draw closer to the Orthodoxes as well,
@@ -4308,7 +4308,7 @@ declaiming the words, ignoring the moral of this story about love of one's
 neighbor.  Instead, they are guided by the saying of Rabbi Chelbo from Yevamot
 [47b](https://www.sefaria.org/Yevamot.47b.5): “Proselytes are as hard for Israel
 as a sore of leprosy.”  <!-- Although now the meaning of this expression
-corresponds more to this: “Ba'alei teshuvah are as hard as a sore.”  -->
+corresponds more to this: “Ba'alei teshuvah are as hard as a sore.” -->
 
 If in our time the widowed foreign Moabitess Ruth were to come to the Orthodoxes
 and ask to be received, she would be refused and would be shamefully expelled by
@@ -4712,7 +4712,7 @@ who is of the seed of Abraham and considers himself a Jew.
 
 The following statement confirms this fact:
 
-> your seed shall stand firm, and your name
+> So shall your seed and your name remain
 (Yeshayahu [66:22](https://www.sefaria.org/Isaiah.66.22))
 
 The seed is genetic heredity, while the name is conscious belonging
@@ -5004,7 +5004,7 @@ a reform begin in Rabbinic Judaism toward a transition to
 fact that there was no such decree of the Sanhedrin canceling the law of the
 Torah concerning the transmission of Jewishness through the paternal line.
 <!-- The Sanhedrin could not have adopted such a decision if only because
-there were many Sadducees in its composition.  -->
+there were many Sadducees in its composition. -->
 
 In the period that followed immediately after the destruction of the Second
 Temple, terrible times befell when women were subjected to violence at the hands
@@ -5299,7 +5299,7 @@ the grandson is not called your son, i.e., a Jew.  In reality the grandson is
 not called a Jew only in the case where the heathen father-in-law turned away
 the son, and thus the son of the Jew departed from Jewry together with the
 grandson.  That is, this is simply a warning that the grandson will depart
-from Jewry if they turn away the son.  -->
+from Jewry if they turn away the son. -->
 
 Nevertheless, for some reason another opinion gained popularity with the absurd
 idea of changing the word order of the Torah and swapping the first part with
@@ -5330,7 +5330,7 @@ of your son, and of your son's son”, Devarim
 commandments — you, and your son, and your son's son”, etc.  All the more improper
 is the substitution of the words “your son” with “son of your daughter”.
 <!-- And in general, the case where your son is the son of your daughter looks
-like incest, violating the prohibition of consanguineous relations.  -->
+like incest, violating the prohibition of consanguineous relations. -->
 Moreover, for the case of the daughter of a Jewess, an additional phrase
 “daughter of your daughter” would be required.  And using the word “son” in the
 sense of “descendants” is likewise no better.  A son could be called a grandson
@@ -5620,7 +5620,7 @@ But it was not always so.  Before the destruction of the Second Temple, children
 of a Jewish woman and a non-Jewish man were considered non-Jews.  And for a long
 time after the destruction of the Second Temple, children of a Jewish woman and
 a non-Jewish man were considered mamzerim.  <!-- And now all Orthodoxes born
-in marriage without chuppah may be considered mamzerim.  -->
+in marriage without chuppah may be considered mamzerim. -->
 
 First, we could explore what interpretation was prevalent in the early Talmudic
 period for the following passage of the Torah, where “the son of an Israelite
@@ -6335,7 +6335,7 @@ have been done in a less humiliating manner.  For example, he could have called
 me aside and informed me of the same thing in a whisper, so as not to shame me
 like Bar Kamtza, on account of whom the Temple was destroyed.  Satan sent trials
 to the Orthodoxes, but the Orthodoxes did not cope with the ordeals, did not
-pass Satan's tests and violated the commandments of the Torah.  -->
+pass Satan's tests and violated the commandments of the Torah. -->
 
 According to the plain meaning of this commandment, if a person of Jewish
 descent wishes to serve G‑d in accordance with Jewish traditions, but finds
@@ -6464,7 +6464,7 @@ for each individual detail there exists a wide range of differing opinions.
 
 The experience felt as though I had stepped into the books of Kafka.
 <!-- The behavior of the Orthodoxes so resembles the behavior of characters in
-Franz Kafka's works that I even began to suspect Kafka had the Orthodoxes in mind.  -->
+Franz Kafka's works that I even began to suspect Kafka had the Orthodoxes in mind. -->
 The conversion process resembled the book *[The Trial](https://en.wikipedia.org/wiki/The_Trial)*
 with its incomprehensible and illogical actions of a bureaucratic machine,
 grinding up destinies and transforming human persons into cogs in the system.
@@ -6553,7 +6553,7 @@ inscribing “these words” in the book of the Torah is explained in Makkot
 [15a](https://www.sefaria.org/Bava_Batra.15a.4) to mean that Yehoshua
 added the final eight verses of the Torah concerning Moshe's death.
 <!-- And noted in Bemidbar [12:3](https://www.sefaria.org/Numbers.12.3)
-that Moshe was the most humble of people.  -->
+that Moshe was the most humble of people. -->
 
 An illustration of such a possibility has emerged nowadays, when G‑d gives
 answers to many unresolved questions: for example, a person maintains a blog
@@ -6711,7 +6711,7 @@ on the Sabbath. -->
 was presented — an offensive, when Jews attacked Romans on the Sabbath.
 But the Roman tyrant procurators headed by the immoral Nero were to blame for
 unleashing the war.  Later the day of Jerusalem's liberation, the 17th of Elul,
-became a semi-festive day.  -->
+became a semi-festive day. -->
 
 The law prescribing dwelling in booths on the festival of Sukkot was not
 observed from the time of Yehoshua bin-Nun until the day when it was suddenly
@@ -6948,7 +6948,7 @@ worse than antisemites could have managed to inflict.
 
 The result was one of the worst examples of dystopia, founded on fear, where
 a person lives under round-the-clock surveillance, every action regulated down
-to the smallest detail by draconian laws, and the slightest deviation from the
+to the smallest detail by severe laws, and the slightest deviation from the
 Party's general line is mercilessly punished.  It is therefore unsurprising that
 at the first opportunity, at the first weakening of total control, the majority
 broke free from slavery into freedom.  This serves as an indicator that due
@@ -7329,7 +7329,7 @@ and the other continues by association: “Pesach”.  It was unexpected to rece
 such a primitive set of words from an authoritative commentator.
 <!-- This is as if a respected author were delivering a serious lecture, and
 suddenly in the middle performed an irresponsible stunt — put on a clown's cap
-and shouted out: “It was Pesach, hee-hee”.  -->
+and shouted out: “It was Pesach, hee-hee”. -->
 
 In modern internet etiquette, this problem is resolved by using emoticons,
 which are added to warn that the author intends to entertain the reader with
@@ -7337,7 +7337,7 @@ jokes.  Therefore, it would be understandable if the phrase looked like this:
 “It was Pesach ;-)”. <!-- or “LOL” -->  Then everyone would see that the author
 is trying to joke, hinting that the comment is not serious, and therefore we
 should not take this comment literally.  <!-- In this book, such statements
-are placed separately from the main text in comments.  -->
+are placed separately from the main text in comments. -->
 In this case, it would be possible to be more lenient toward such joking.
 
 I could understand it even if the very same comment had been expressed in
@@ -7706,7 +7706,7 @@ a pin, they could name all the words through which the needle passed on each
 page.  But none of them could find a more useful application for the memorized texts.
 <!-- Such phenomenal memory is very rare — very few such mnemonists
 are known, like Shereshevsky in Luria's studies in
-*[The Mind of a Mnemonist](https://en.wikipedia.org/wiki/Solomon_Shereshevsky)*.  -->
+*[The Mind of a Mnemonist](https://en.wikipedia.org/wiki/Solomon_Shereshevsky)*. -->
 
 This shows that the most essential requirement for memorizing the numerous laws
 of Halakha is to have a good memory.  And this was an enormous problem for me,
@@ -7896,7 +7896,7 @@ difficulties in fulfilling the commandments.  But the Orthodoxes have burdened
 people with so many stringencies that they have made the fulfillment of the
 commandments inaccessible, which is why many Jews have fled from Judaism.
 <!-- For example, it was inaccessible for me to cook chicken, so I had
-to buy ready-made food.  --> And I wanted to observe all the Orthodox
+to buy ready-made food. -->  And I wanted to observe all the Orthodox
 stringencies, but I could not.  Just as the Orthodoxes themselves —
 they want to build the Temple, but they cannot.
 
@@ -8300,7 +8300,7 @@ is among the world's leaders in quality of education, on par with Israel.
 <!-- Also the successes of South Korea may also be connected to constant
 existential threats, struggle for survival, and accordingly the aspiration
 to position itself as an indispensable participant in humanity's progress,
-much like Israel, Ukraine, and Estonia.  -->
+much like Israel, Ukraine, and Estonia. -->
 
 - Resistance to progress and the development of humanity.  At the very bottom of
 society there are always such savages who drag humanity back into the past.
@@ -8452,7 +8452,7 @@ For the same reason, civilized nations must help Israel bring
 enlightenment and the prosperity accompanying it to Arab countries.
 <!-- First came prosperity from oil, and then enlightenment for the sake of
 recognition by the West.  But in democratic countries it is often the reverse:
-enlightenment leads to prosperity.  --> For example, the monarchies of the
+enlightenment leads to prosperity. -->  For example, the monarchies of the
 Arabian Peninsula, as they have developed through progress, have become
 increasingly friendly toward Israel, which made possible the signing of
 Abraham Accords.
@@ -8585,7 +8585,7 @@ required.  They referred me for tongue-tie surgery, performed without anesthesia
 it was not painful.  And immediately after the circumcision of tongue
 frenulum ([frenectomy](https://en.wikipedia.org/wiki/Frenectomy))
 I was able to pronounce R the same way as everyone else.
-<!-- Therefore even my tongue is Jewish — circumcised.  -->
+<!-- Therefore even my tongue is Jewish — circumcised. -->
 
 But in behavior and worldview I was a typical Jewish child — there was nothing
 non-Jewish about me, my Jewish origin was immediately apparent, so I became
@@ -8826,8 +8826,8 @@ As Balak and Bilam sought to curse the Jews, so too do the Orthodoxes demand to
 curse non-Orthodox Jews.  But since curses may return upon the curser, it's
 important to pronounce blessings instead of curses.
 
-Therefore, following this example from the Torah, I bless the traditionalists,
-I bless the reformists, I bless the progressive Jews, I bless the liberal Jews,
+Therefore, following this example from the Torah, I bless the Traditionalists *masortim*,
+I bless the Reformists, I bless the Progressive Jews, I bless the Liberal Jews,
 I bless all non-Orthodoxes in general, and the Orthodoxes as well, despite everything.
 
 During my tribulations and prolonged wanderings through numerous synagogues,
@@ -9877,7 +9877,7 @@ water temperature and set the boiler to 40°C (104°F) — this is the optimal
 temperature when hot water from the tap is not diluted with cold.
 At the same time, energy is not wasted unnecessarily.
 <!-- It's important not to forget to periodically perform the anti-legionella
-procedure at 60°C (140°F), but not on the Sabbath.  -->
+procedure at 60°C (140°F), but not on the Sabbath. -->
 
 And when the Orthodoxes accidentally turn on the hot water, they leave the water
 running until the end of the Sabbath.  And when they open a refrigerator in
@@ -9975,11 +9975,11 @@ And it seems utterly absurd to prohibit the use of a computer on the grounds
 that computer terminology has adopted the word *write*, and then to cite
 the prohibition of *writing* as one of the 39 melakhot.  But the operating
 principle of computer memory and writing on paper are completely different.
-Therefore, when using other possible terms, e.g., *save*, *store*, the problem
-resolves itself, and there is no longer any use of “writing”, but only of
-*storing* information on a medium in the form of various voltage levels
-corresponding to discrete values of 0 and 1 in memory, or in the form of
-a magnetization vector on disks.  Just as nobody can prohibit storing
+Therefore, when using other possible terms, e.g., *save*, *store*, *remember*,
+the problem resolves itself, and there is no longer any use of “writing”,
+but only of *storing* information on a medium in the form of various voltage
+levels corresponding to discrete values of 0 and 1 in memory, or in the form
+of a magnetization vector on disks.  Just as nobody can prohibit storing
 information received on the Sabbath in the brain, so too the memory cells of
 a computer for practical purposes are nothing other than an extension of the
 human brain.
@@ -10181,7 +10181,7 @@ Zomet Institute sells electric Sabbath candles with an incandescent bulb powered
 by batteries.  Also, for more thorough searching for chametz, it is better to
 use a flashlight.
 <!-- Also smoking is not recommended, but if someone cannot break this habit,
-then on the Sabbath one can smoke electronic cigarettes.  -->
+then on the Sabbath one can smoke electronic cigarettes. -->
 Replacing candles with electricity makes sense, since the main thing is
 not fire but light.
 <!-- For example, Hanukkah is a festival of light, not of fire, as among pagans. -->
@@ -10217,7 +10217,7 @@ the Karaites experience are not created.  There is no problem in lighting fire
 before the onset of the Sabbath, and on the Sabbath continuing to use it, since
 none of this is connected with making decisions.  But if someone doubts whether
 there is a grain of truth in the traditions of the Karaites, who do not use fire
-at all on the Sabbath, then one can turn on electric candles.  -->
+at all on the Sabbath, then one can turn on electric candles. -->
 
 Another example: Shemot [16:29](https://www.sefaria.org/Exodus.16.29)
 commands one to remain in place and not go out from one's location.
@@ -10628,7 +10628,7 @@ longer be performed, should be replaced with money donated to *tzedakah*.
 {: .chapter}
 
 | Will the L‑rd be pleased with thousands of rams…  It has been told to you, O human, what is good and what the L‑rd requires of you: only to do justice, and to love mercy, and to walk humbly before your G‑d. |
-| (Mikhah [6:7-8](https://www.sefaria.org/Micah.6.7-8)) |
+| (Micah [6:7-8](https://www.sefaria.org/Micah.6.7-8)) |
 {: .chapter}
 
 | I will not take a bull from your house, nor goats from your pens…  Do I eat the flesh of bulls or drink the blood of goats? |
@@ -10976,7 +10976,7 @@ destruction of the First Temple, G‑d sent the prophet Yirmeyahu to declare tha
 the fate of Yerushalayim depended upon the observance of the Sabbath (Yirmeyahu
 [17:19-27](https://www.sefaria.org/Jeremiah.17.19-27)).
 <!-- The Temple was destroyed because they brought sacrificial animals through
-the gates of Yerushalayim on the Sabbath day.  -->
+the gates of Yerushalayim on the Sabbath day. -->
 It is further stated in tractate Shabbat
 [119b](https://www.sefaria.org/Shabbat.119b.6) that Yerushalayim was destroyed
 because even the priests violated the Sabbath, as it is said in Yechezkel
@@ -11077,7 +11077,7 @@ construction of the Third Temple.
 destruction of the Second Temple, because they hoped to restore the Temple
 after the same number of years that had passed between the destruction of the
 First Temple and the construction of the Second Temple.  But the hopes were not
-fulfilled.  -->
+fulfilled. -->
 
 After the first exile, Jews began returning to Eretz Yisrael, and after the
 second exile many Jews have already returned to Eretz Yisrael and re-established
@@ -12230,7 +12230,7 @@ contradiction, as if such mixing were permitted to kohanim. -->
 <!-- In general, the prohibition of mixing is nothing other than a prohibition
 of entropy.  If one breaks an egg and mixes the yolk with the white, it will
 then be impossible to separate them back due to entropy.  In the same way,
-the mixing of nations increases entropy.  -->
+the mixing of nations increases entropy. -->
 
 ### Main traditions
 {: #traditions title="Traditions"}
@@ -12364,10 +12364,10 @@ This is one of the most beautiful new traditions, which symbolizes deliverance f
 sins.  Instead of swinging a chicken over one's head, terrorizing it with one's
 sins, in the ritual of tashlikh sins are fed to fish through bread crumbs.
 Just as the scapegoat sent into the wilderness with sins never returned,
-so do sins swim far out to sea with the words of the prophet Mikhah:
+so do sins swim far out to sea with the words of the prophet Micah:
 
 > And you will cast all their sins into the depths of the sea
-(Mikhah [7:19](https://www.sefaria.org/Micah.7.19))
+(Micah [7:19](https://www.sefaria.org/Micah.7.19))
 
 The ritual of tashlikh is best performed at the mouth of a river on a bridge by the
 sea.  For example, in Tel Aviv the ideal place for this is on the pedestrian
@@ -12484,7 +12484,7 @@ destruction of the First Temple.  But the Fast of Gedaliah was established in
 honor of a Babylonian gauleiter who was killed when he got drunk senseless
 at yet another feast.
 <!-- Therefore it is unjust that the Fast of Gedaliah is in fact no less strict
-than the fast of Yom Kippur.  -->
+than the fast of Yom Kippur. -->
 In general, Jews must not cause even the slightest harm to one another, even the
 most bitter enemies; therefore the fast could have meaning as mourning for the
 enmity among Jews, because of which the Second Temple was destroyed.
@@ -12959,7 +12959,7 @@ So G‑d scattered them abroad from thence upon the face of all the earth
 
 In the Soviet regime, a single language was forcibly imposed through compulsory
 [Russification](https://en.wikipedia.org/wiki/Russification), and after the
-collapse of the Soviet empire, the nations who gained their independence
+collapse of the Soviet empire, the nations who regained their independence
 began to restore the lost status of their languages.
 
 On the other hand, English has presently become the global language of
@@ -14340,7 +14340,7 @@ when it is assumed that since a small percentage of Orthodoxes survived, all
 decisions were correct.  But no thought is given to what might have been better
 had different decisions been made by the rabbis of the past.  The error lies
 in the accepted practice of extolling the contribution of strict halakhic
-requirements to the preservation of the Jewish people in exile.  But in reality,
+requirements to the preservation of the Jewish people in galut.  But in reality,
 due to excessive stringencies, the majority of Jews fled from Judaism, and many
 assimilated — a clear mistake.  Whereas had the development of Judaism taken
 a different path, it would have been possible not only to avoid assimilation,
@@ -14352,7 +14352,7 @@ Therefore, a more detailed exposition can be found in other places.
 
 - violation of the commandment not to afflict the orphan, widow, or stranger —
   to remember how they themselves were strangers, to remember their own suffering
-  and humiliation in exile and not to inflict the same upon strangers
+  and humiliation in galut and not to inflict the same upon strangers
 - violation of the commandment not to place a stumbling block before the blind
 - violation of the commandment to perform circumcision — when they do not perform
   circumcision for those who are of the seed of Abraham, they violate G‑d's requirement
@@ -14456,7 +14456,7 @@ Tzidkiyah declared that with the iron horns he had made, the enemies could be
 gored to destruction, and all the false prophets echoed him.  Likewise they said
 in Yirmeyahu [6:14](https://www.sefaria.org/Jeremiah.6.14) and
 [8:11](https://www.sefaria.org/Jeremiah.8.11) “peace, peace”, when there is
-no peace.  And in Mikhah [3:5](https://www.sefaria.org/Micah.3.5) the prophets
+no peace.  And in Micah [3:5](https://www.sefaria.org/Micah.3.5) the prophets
 led astray, crying “peace”, reassuring the people.
 
 On the other hand, critics, like Yirmeyahu himself, warned people of the
@@ -14499,7 +14499,7 @@ For clarity, a brief summary with all the variants:
      through independent causes.  <!-- Like an octopus predicting the results
      of football matches. -->  For example, a coin is flipped many times,
      and each time it always comes up heads — as in Tom Stoppard's
-     masterful postmodernist tragicomedy
+     ingenious postmodernist tragicomedy
      *[Rosencrantz & Guildenstern Are Dead](https://en.wikipedia.org/wiki/Rosencrantz_&_Guildenstern_Are_Dead_(film))*.
      And in Yoma [39a](https://www.sefaria.org/Yoma.39a.15)
      it is told that for forty years, while Shimon HaTzaddik was High Priest,
@@ -15324,7 +15324,7 @@ The base of the trunk — Moshe himself with
 more than 600 thousand Jews <!-- totally 3 million -->
 who came out of Egypt.
 
-The trunk — the judges, kings, prophets, and all the characters of the TaNaKh.
+The trunk — the judges, kings, and all the characters of the TaNaKh.
 
 <!-- In the Babylonian exile the tree lost 10 roots. -->
 
@@ -15397,7 +15397,7 @@ The non-Orthodoxes, through continuing revelation, come to know G‑d's purposes
 so as to build the future.
 
 Therefore all are needed and important: the Orthodoxes — as guardians of
-tradition, the non-Orthodoxes — as drivers of progress and development, of
+tradition, the non-Orthodoxes — as drivers of progress, development, and
 repairing the world.
 
 Orthodox offshoots need to receive light from the leaves.
@@ -15511,7 +15511,7 @@ According to statistics,
 92–97 percent conduct a Seder on Pesach.
 85 percent hold bar and bat mitzvahs.
 75 percent observe the Torah's commandments of kashrut.
-74 percent fast on Yom Kippur.  Etc.
+74 percent fast on Yom Kippur, etc.
 
 The welfare of Israel is founded not on the strictness of the Orthodoxes,
 but on the voluntary observance of the principal commandments by the majority
@@ -15526,7 +15526,7 @@ fundamental commandments.
 
 Also, G‑d protects Israel not because of the gender segregation imposed by
 the Orthodoxes, but rather in spite of it.  G‑d protects Israel only because
-the majority, including traditionalist Masorti Jews and even secular ones,
+the majority, including traditionalist *masortim* and even some secular Jews,
 observe the commandments without Orthodox stringencies.
 
 The majority observe traditions not by compulsion, as practiced among
@@ -15543,7 +15543,7 @@ priests of the Russian Orthodox Church.  On the other hand, just as democratic
 societies rest upon a high level of citizen responsibility, when development
 proceeds further in this direction, it will be possible to reach a state where
 each person follows the moral law of at minimum not doing to another what one
-would not wish for oneself.  -->
+would not wish for oneself. -->
 
 The times are coming when the prophecies will be fulfilled that everyone will know G‑d:
 
@@ -15615,7 +15615,7 @@ as society develops.
 Therefore, what is needed is not leniencies, but only the correction of the
 Orthodoxes' mistakes, which will in turn lead to the repair of the world.
 
-And Orthodox Judaism is simply incapable of resolving problems by definition —
+But Orthodox Judaism is simply incapable of resolving problems by definition —
 for the Orthodoxes, the possibility of correcting errors is entirely excluded.
 Therefore, this remains the task of non-Orthodox Judaism.  Just as the mission
 of all Jews is to illuminate defects that require correction, so too is the
@@ -15637,7 +15637,7 @@ Judaism, but it would be unreasonable to base the life of a modern person
 on medieval customs; rather, customs must be adapted to modernity.
 
 The task of the Orthodoxes remains to avoid assimilation by every means —
-for this purpose they must continue observing all the stringencies of exile.
+for this purpose they must continue observing all the galut stringencies.
 The task of the non-Orthodoxes is to preserve Jewishness in conditions of
 integration that has already occurred, when Jews live by universal laws rather
 than by Halakhah.  What helps resist assimilation is not so much a fear-based
@@ -15653,7 +15653,7 @@ no light to the nations.  Therefore, the task of bringing light to the nations
 has passed to non-Orthodox Jews.
 
 But in all honesty, despite the fact that the Orthodoxes can no longer give
-anything more to the world, the Orthodoxes still have a task — simply by their
+anything more to the world, they still have a task — simply by their
 existence to serve as a reminder of G‑d.  Also by their presence among the
 nations of the world to advance the idea of tolerance.  And furthermore — not
 to hinder the non-Orthodoxes from making the world better.  That is, the role
@@ -15667,7 +15667,7 @@ cannot lower the degree of the obligations they have assumed.
 
 The goal of this book is to define the absolute minimum of necessary
 commandments whose observance G‑d still requires of non-Orthodox Jews.
-Only non-Orthodoxes can achieve such a balance, observing in measure —
+Only non-Orthodoxes can achieve such a balance, observing in moderation —
 exactly as much as G‑d needs.
 When all non-Orthodox Jews, including patrilineal Jews, observe the minimum
 necessary, rather than the enormous quantity of stringencies demanded by
@@ -15710,7 +15710,7 @@ driving very slowly — and thereby creating dangerous problems for others.
 For example, if the permitted speed on a highway is 90 km/h (55 mph),
 then by the rules it is forbidden to drive both faster and slower.
 <!-- Even on a driving test, they will not pass the examinee
-if he drives slower than the permitted speed. -->
+if they drive slower than the permitted speed. -->
 
 Therefore, one who violates the commandments is analogous to a driver
 who breaks traffic laws and exceeds the speed limit.
@@ -15736,6 +15736,22 @@ overcautious by adding unnecessary restrictions and stringencies.
 It is also important that the volume of commandments for study should not exceed
 the volume of traffic regulations — otherwise, too high a barrier is established
 for learning and observance.
+
+Nevertheless, I strongly advise non-Orthodox Jews to read Orthodox texts even
+though the goals of Orthodoxes and non-Orthodox Jews differ: preservation of
+traditions vs repairing the world.
+
+In general, studying Judaism is analogous to obtaining another education.
+Few people find within themselves the energy and time to obtain a second
+education in addition to their first primary one, which they use for advancing
+in their professional career and for earning income.  For this same reason,
+most ultra-Orthodoxes are deprived of the opportunity to earn their living
+through skilled labor, since they receive only one education in the form of
+studying Talmud.
+
+And observing all Orthodox stringencies is a full-time job.  If one works
+full-time only to observe all the traditions, too little free time remains
+for additional work in performing good deeds and improving the world.
 
 According to the schema “thesis → antithesis ⇒ synthesis” (which has roots in
 Judaism, where it is said: “two verses of Torah, perceived as contradicting one
@@ -15792,26 +15808,11 @@ they would want to accept me.
 <!-- Everything has its pluses and minuses.  The plus of spending a long time
 in the Orthodox milieu was that I learned much from the Orthodoxes — attending
 Orthodox synagogues, I learned all the traditions: how to pray, what to do on
-the Sabbath and festivals, which books to read, etc.  Therefore I strongly
-advise non-Orthodox Jews to read Orthodox texts even though the goals of
-Orthodoxes and non-Orthodox Jews differ: preservation of traditions *vs*
-repairing the world.
+the Sabbath and festivals, which books to read, etc. -->
 
-In general, studying Judaism is analogous to obtaining another education.
-Few people find within themselves the energy and time to obtain a second
-education in addition to their first primary one, which they use for advancing
-in their professional career and for earning income.  For this same reason,
-most ultra-Orthodoxes are deprived of the opportunity to earn their living
-through skilled labor, since they receive only one education in the form of
-studying Talmud.
-
-And observing all Orthodox stringencies is a full-time job.  If one works
-full-time only to observe all the traditions, too little free time remains
-for additional work in performing good deeds and improving the world. -->
-
-Instead of accepting me into an Orthodox community, the Orthodoxes themselves
-directed me to the non-Orthodoxes and advised me to join a non-Orthodox
-community.  Which I did.
+Instead of accepting me into an Orthodox community, the Orthodox rabbis
+themselves directed me to the non-Orthodoxes and advised me to join
+a non-Orthodox community.  Which I did.
 <!-- I didn't understand at first why, but I nevertheless heeded the Orthodox
 rabbis and joined a non-Orthodox community, and then it turned out that the
 Orthodox rabbis were right, and I am now glad — this is what I need. -->
@@ -15835,6 +15836,7 @@ from the Orthodox circle into the non-Orthodox one.
 <!-- Moreover, not into any specific denomination, but into what is called
 [post-denominational Judaism](https://en.wikipedia.org/wiki/Non-denominational_Judaism). -->
 Thus the Orthodoxes themselves made me a non-Orthodox.
+
 <!--
 Because of the antisemites I realized that I am a Jew.  
 Because of the terrorists I became a Zionist.  
@@ -15859,7 +15861,7 @@ rather than the Orthodoxes. -->
 Despite the fact that Orthodoxes wish to consider Jews through the paternal line
 as having no religious and consequently no national identity, I am proud to bear
 the honorable designation: a religious, observant, non-Orthodox Jew.
-I am a baal teshuvah.  I have returned to the religion of my ancestors:
+I am a *baal teshuvah*.  I have returned to the religion of my ancestors:
 my Jewish ancestors observed, and now I too observe.  I observe absolutely all
 the commandments of the Torah, but without Orthodox stringencies,
 since non-Orthodox Judaism is Judaism without stringencies.  I observe only
@@ -16002,13 +16004,13 @@ level, including through free courses, and pass a language proficiency exam.
 And that was all — nothing more was required.
 
 And then I successfully passed an easy exam, where there were no nitpicks,
-but rather — a benevolent attitude.  And as a result I received citizenship.
+but rather — a supportive attitude.  And as a result I received citizenship.
 
 Now let's compare how the Orthodoxes acted in a similar situation.
 I diligently learned all the traditions required by the Orthodoxes to exactly
 the same degree.  Yet the Orthodoxes not only did not accept me, but did not
 even admit me to the exam — they refused outright to administer the exam.
-That is, they acted even worse than the antisemites who failed
+That is, they acted even worse than the antisemites who flunked
 Jewish applicants at entrance exams.
 
 <!-- The Orthodoxes behave as though, after a steamship has sunk,
@@ -16168,7 +16170,7 @@ traditions entirely, but maintaining individual contact with G‑d within the
 framework of our religious rituals and prayers.
 
 Non-Orthodox Jews can exert a positive influence on Muslims by our example.
-Like non-Orthodox Jews, non-Orthodox Muslims could also reduce radicalization
+Like non-Orthodox Jews, non-extremist Muslims could also reduce radicalization
 while still preserving their traditions.  All this will diminish the level of
 antisemitism and allow for the elimination of terrorism.
 
@@ -16212,22 +16214,14 @@ which later became known as
 Many other positive examples of *tikkun olam* could be cited as well.
 
 But despite all these splendid examples of contribution to the repair of
-the world, in recent times, there has begun to be, frankly speaking,
-such idiocy that brings people nothing but additional troubles.
-This may be caused by a generational shift:
-“Hard times create strong men.
-Strong men create good times.
-Good times create weak men.
-And weak men create hard times.”
-<!-- For example, when following the fashion for ultra-left sentiments,
-some begin to support the Palestinian Arabs and even identify with them —
-despite the fact that most of them are terrorists. -->
+the world, unfortunately, seemingly insignificant small issues still remain,
+which in reality bring people nothing but additional troubles.
 
 Therefore, a rather disappointing conclusion follows: even if one strives
 to do everything as reasonably as possible, to enact the most reasonable laws,
 and even if people try not to cause suffering to others, due to Satan's
-interference the same problems remain — when Satan causes unintended
-actions to bring suffering to others, and therefore the sum of suffering
+interference the problems remain — when Satan causes unintended actions
+to bring suffering to others, and therefore the sum of suffering
 is not significantly reduced.
 
 It seems that humanity has reached the peak of its ability to solve problems,
@@ -16306,13 +16300,12 @@ the king at its head, while others proclaimed the motto:
 “[liberty, equality, fraternity](https://en.wikipedia.org/wiki/Liberté,_égalité,_fraternité)” —
 which is essentially taken from the main ideas of the Torah: free will for
 each individual, equality of all before the law, and fraternal relations
-based on the rule “love your fellow as yourself”.
+based on the rule “Love your fellow as yourself”.
 
 By definition, the Orthodoxes belong to the conservatives, while the Reformists
 belong to the progressive part of the spectrum.  Between them are situated the
-Traditionalists, who are also called Conservatives, but they are conservatives
-only in relation to the Reformists — in the eyes of the Orthodoxes they are
-revolutionaries just the same.
+Conservatives (*Masorti*), but they are conservatives only in relation to the
+Reformists — in the eyes of the Orthodoxes they are revolutionaries just the same.
 
 1.2. [authoritarians](https://en.wikipedia.org/wiki/Authoritarianism) and [liberals](https://en.wikipedia.org/wiki/Liberalism) — with regard to individual freedom
 
@@ -16366,8 +16359,8 @@ in reality, as in any hierarchical system, decisions were made by a handful of
 Kremlin elders, while the rest were in slavish subjection.  By such
 a definition, there is more collectivism in democratic countries, where
 decisions are made by a majority of voters.  Therefore, a more accurate name for
-this axis would be “autocracy ↔ democracy”, i.e., on one side centralization of
-power, concentration of power in one set of hands, and on the other side power
+this axis would be “autocracy ↔ democracy”, i.e., on one side, centralization of
+power, concentration of power in one set of hands, and on the other side, power
 of the people through collective decision-making.  Moreover, democracy does not
 exclude individualism — each citizen has complete freedom to make individual
 decisions within broad boundaries.  An example of decentralization of power is
@@ -16616,6 +16609,8 @@ and personal liberty.  Only right-wing liberals support freedom along both axes.
 Unlike them, leftists restrict economic freedom, while authoritarians
 and conservatives restrict personal freedom.
 
+![judicial reform](../../../files/book/spectrum_arrow_en.png){:.center}
+
 I am a right-wing liberal, while the ultra-Orthodoxes are left-wing
 authoritarians, i.e., they occupy the opposite corner of the political plane.
 Just as for the ultra-right everyone to the left of them, even moderate
@@ -16623,7 +16618,7 @@ right-wingers, appears to be leftists, so too the ultra-Orthodoxes, burdened
 with excessive stringencies, hate everyone who does not follow all the extremes.
 Thus, with radicalization, the
 [Overton window](https://en.wikipedia.org/wiki/Overton_window) shifts.
-And since I am moderately right-wing, even moderate leftists are closer to me
+And since I am moderately right-wing, even moderate left-wing are closer to me
 than right-wing radicals, which is why I support center-right representatives
 and respect center-left ones.
 
@@ -16744,8 +16739,6 @@ judicial reform are splitting the right-wing camp.  After rotating the graph
 90 degrees, it becomes evident how the reform vector is directed toward pushing
 the state far to the right through nationalism toward the ultra-Orthodoxes and
 replacing democracy with a theocratic state of Halakhah:
-
-![judicial reform](../../../files/book/spectrum_arrow_en.png){:.center}
 
 Such a 90-degree rotation only introduces confusion as to who is right and who
 is left.  Once again, briefly: the left is about socioeconomic equality, not
@@ -16933,8 +16926,8 @@ And the prophets call for an inseparable bond between
 justice and mercy and righteousness, including
 Yeshayahu [56:1](https://www.sefaria.org/Isaiah.56.1),
 Hoshea [12:7](https://www.sefaria.org/Hosea.12.7),
-Mikhah [6:8](https://www.sefaria.org/Micah.6.8) etc.
-When Mikhah [6:8](https://www.sefaria.org/Micah.6.8) says “to do justice,
+Micah [6:8](https://www.sefaria.org/Micah.6.8) etc.
+When Micah [6:8](https://www.sefaria.org/Micah.6.8) says “to do justice,
 and to love mercy, and to walk humbly with your G‑d”, this too fits the pattern
 *gevurah - chesed - tiferet*, because humility accompanies the avoidance of
 extremes and radicalization.  This is precisely what the words *hatznea lekhet*
@@ -17004,7 +16997,7 @@ theological essence of the reform.
 We can compare other ways in which the Sanhedrin and Bagatz are similar.
 No one elected the members of the Sanhedrin: there were no democratic elections
 where the people voted for judges that the majority favored.  <!-- Only in
-voting within the Sanhedrin were decisions made by democratic majority.  -->
+voting within the Sanhedrin were decisions made by democratic majority. -->
 Bagatz follows this principle of appointing judges, while the Orthodoxes,
 conversely, wish to depart from the principles of the Sanhedrin and elect judges
 representing the democratic majority.  But it is clear that none of the
@@ -17141,10 +17134,10 @@ defend those who remained.  So it is now:
    and in the best of cases it will be limited to deportation alone.
 2. After the grandchildren, they will take up Jews by father.
 3. Then will come the turn of Jews by mother.
-4. Next will arrive the time for Jews of non-Orthodox denominations:
-   Reformists, Traditionalists, Women of the Wall.
-5. In time they will set upon secular Jews and adherents
-   of liberal values, whom authoritarians and nationalists
+4. Next will arrive the time for non-Orthodox Jews:
+   Reformists, Conservatives, Women of the Wall.
+5. In time they will set upon traditionalists and secular Jews,
+   adherents of liberal values, whom authoritarians and nationalists
    count among the left, despite the fact that most of them are right-wing.
 
 And such a witch hunt as when the head of the Sanhedrin Shimon ben Shetach executed 80 women,
@@ -17171,10 +17164,12 @@ of what ultra-right extremism and anti-liberal hysteria lead to —
 [the Greek junta](https://en.wikipedia.org/wiki/Greek_junta),
 the so-called “Regime of the Colonels”.  <!-- On this theme, the film
 *[Z](https://en.wikipedia.org/wiki/Z_(1969_film))* was made,
-which traces analogies: CROC — *Kohelet Forum*, etc.  -->
+which traces analogies: CROC — *Kohelet Forum*, etc. -->
 All anti-liberal regimes follow one scenario: first minorities are stripped of
 freedom, then freedom of speech is eliminated, and ultimately freedom of choice
-as well, which leads to the destruction of democracy.
+as well, which leads to the destruction of democracy and its replacement
+with mob rule, i.e., [ochlocracy](https://en.wikipedia.org/wiki/Mob_rule),
+which invariably ends in autocracy.
 
 Once again, briefly.  Democracy is the periodically renewed rule of the
 people's representatives with free elections, free media, and independent
@@ -17290,7 +17285,7 @@ that your life takes precedence over the life of your brother, therefore
 one must sacrifice him by drinking all the water in order to save oneself.
 Rabbi Akiva derives this conclusion from the great principle of the Torah
 “Love your brother as yourself”, emphasizing that the part “as yourself”
-takes precedence over “love your brother”,
+takes precedence over “Love your brother”,
 so egoism must take precedence over altruism.
 
 We can quite agree that in ordinary life this indeed should be interpreted

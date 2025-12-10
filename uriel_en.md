@@ -1176,7 +1176,7 @@ Theoretically this is possible — when creating a program one can embed trigger
 that activate upon reaching specified conditions, which consequently produce
 unexpected action.
 
-In modern computer applications such a capability is called *tzafun* —
+In modern computer applications such a feature is called *tzafun* —
 by analogy with the piece of matzah called the *afikoman*,
 which on Pesach is hidden until the conclusion of the Seder.
 A similar meaning of ‘hidden’ is found in the official name
@@ -1861,7 +1861,7 @@ the inhabitants of the city. -->
 catastrophic events.  For example, the Lisbon earthquake of 1755 that gave rise
 to numerous theological discussions, etc. — it is possible that through
 prophetic faculties or even by observing animal behavior one could have foreseen
-the catastrophe and been saved, but the signs were not believed or were not
+the disaster and been saved, but the signs were not believed or were not
 given proper significance. -->
 
 The Torah contains numerous examples of how angels help G‑d influence not only
@@ -2823,11 +2823,11 @@ safely came ashore, rejoicing in our deliverance.
 
 Before this event, yet another incident occurred.  We built a raft and floated
 down the river toward the sea.  Suddenly, at the estuary, Soviet border patrol
-swooped down upon us and broke apart our raft before our very eyes.  Meanwhile,
-their commander spoke absurd words to his soldiers: “Break it apart, search
-for weapons and drugs!”  It was deeply offensive.  This was done to prevent
-attempts to escape from the Soviet Union by sea, just as Pharaoh would not let
-the Jews go.
+swooped down upon us and broke apart our raft before our very eyes.  During this
+attack, their commander instructed his soldiers with such absurd words:
+“Break it apart, search for weapons and drugs!”  It was deeply offensive.
+This was done to prevent attempts to escape from the Soviet Union by sea,
+just as Pharaoh would not let the Jews go.
 <!-- And on the seashore stood border towers like in a concentration camp. -->
 
 It's possible to draw numerous parallels between the Egyptian and Soviet empires — even
@@ -5319,7 +5319,7 @@ meaning emerged:
 > “your daughter do not give to his son, for he will turn away your grandson”
 
 Such a substitution of “son” with “grandson” violates the laws of logic,
-because the familial relationship “father ↔ son” is
+because the familial relationship “father ↔ son” is
 [non-transitive](https://en.wikipedia.org/wiki/Transitive_relation):
 “son of a son” is not identical to the concept of “son”.
 In those places where it is important to mention grandchildren,
@@ -6818,7 +6818,7 @@ because they adapted the oral laws to the expectations of the people in
 accordance with the new level of morality.  One of many examples: the Perushim
 made difficult and even practically impossible the application of harsh
 punishments, and also abolished the literal understanding of the law
-“an eye for an eye, a tooth for a tooth”, and many similar reforms
+“eye for eye, tooth for tooth”, and many similar reforms
 in the spirit of filling with Divine light.
 
 With the support of the common people, the rabbis participated in legislation.
@@ -7669,8 +7669,8 @@ all the sefirot are evenly filled: Da'at, Binah, and Chokhmah. <!-- as we must a
 with kavanah in the blessings of the Shemoneh Esrei -->  The sefirah Binah
 corresponds to the capacity for deep understanding, the ability to conduct
 a comprehensive **analysis** of accumulated knowledge, establishing all
-patterns, analogies, and associations.  The sefirah Chokhmah corresponds
-to the capacity to draw wise conclusions, to produce a **synthesis**
+patterns, analogies, and associations in the mind.  The sefirah Chokhmah
+corresponds to the capacity to draw wise conclusions, to produce a **synthesis**
 of reasoned and far-sighted decisions.  In Pirkei Avot
 [3:17](https://www.sefaria.org/Pirkei_Avot.3.17) it is said: “If there is no
 understanding (i.e., insight into the essence of things), then there is no
@@ -10599,7 +10599,7 @@ of mercy, chesed, so as not to follow the customs of the idolaters.  But
 additionally, the plain sense (*peshat*) of not cooking meat in milk should be
 fulfilled, as among the Karaites, and useful Orthodox traditions are preserved
 in moderation — not washing down meat with milk.
-<!-- win-win -->
+<!-- win–win -->
 
 Some rabbis advised replacing birds with money in the *kapparot* ceremony
 because of its resemblance to sacrificial offerings, which were to be performed
@@ -11385,14 +11385,14 @@ given during the plagues of Egypt:
 upon all who remain outside and do not take cover, the hail shall fall upon them,
 and they shall perish (Shemot [9:19](https://www.sefaria.org/Exodus.9.19))
 
-In conclusion, we may note that the commandment of “measure for measure”
+In conclusion, we may note that “measure for measure”
 is mirror-symmetrical to the statement of the great sage Hillel
 based on the commandment “Love your neighbor as yourself”
 (Vayikra [19:18](https://www.sefaria.org/Leviticus.19.18)):
 
 > Do not do to your neighbor what is hateful to yourself.
 
-With regard to the commandment “an eye for an eye”, this can be
+With regard to the commandment “eye for eye”, this can be
 paraphrased thus: “If you do not wish to lose an eye,
 then do not poke out your neighbor's eye.”
 
@@ -11944,7 +11944,7 @@ The sounds of the shofar on Rosh HaShanah arouse to repentance
 Souls are humbled through suffering.  The most effective means of causing
 suffering for one day is abstaining from food, drink, washing, and generally
 from all pleasures.  Then G‑d sees how greatly a person suffers, and this
-increases the measure of mercy toward that person.
+increases the attribute of mercy toward that person.
 
 In Yeshayahu [58:3](https://www.sefaria.org/Isaiah.58.3) it is said that they
 afflicted their soul with fasting.  But such a fast is not pleasing to G‑d
@@ -13017,7 +13017,7 @@ This is a commandment to protect nature, to care for the ecology.  Those who
 are not concerned about the destructive impact of the anthropogenic factor
 on climate change violate a commandment of the Torah, becoming like pagans,
 such as, for example, the aborigines of Easter Island, who began to die out
-as a result of an ecological catastrophe that occurred due to thoughtless
+as a result of an ecological disaster that occurred due to thoughtless
 waste of resources.
 
 Not for nothing does this verse speak of both working and preserving.
@@ -14521,13 +14521,13 @@ For clarity, a brief summary with all the variants:
      film by the Coen brothers *[A Serious Man](https://en.wikipedia.org/wiki/A_Serious_Man)*.
 
 1.2. Predicts good, and it does not come to pass — a false prophet.
-     That is, all attempts to make good predictions are a *lose-lose situation*.
+     That is, all attempts to make good predictions are a *lose–lose situation*.
 
 2.1. Predicts something bad, and it comes to pass — an unsuccessful critic,
      left only to reproach afterwards: “I told you so.”
 
 2.2. Predicts something bad, and it does not come to pass as a result of correction —
-     the ideal outcome, a *win-win situation*.
+     the ideal outcome, a *win–win situation*.
 
 From this follows that the most advantageous option is to voice constructive
 criticism, because constructive criticism is needed for the healing of society.
@@ -15028,7 +15028,7 @@ on the study of Torah, on service, and on acts of kindness.”
 The study of Torah is the filling of the higher intellectual sefirot.
 Service is the fulfillment of the commandments, i.e., gevurah.
 Acts of kindness are chesed.
-<!-- Notably absent is the requirement of maintaining measure through tiferet,
+<!-- Notably absent is the requirement of maintaining moderation through tiferet,
 and the repair of the world (*tikkun olam*) through the physical sefirot. -->
 
 And among the Orthodoxes there are many who only study Torah
@@ -15174,7 +15174,7 @@ in no way even from the most secular.  Therefore, the Orthodoxes who are
 not rabbis display chesed not because they follow all Orthodox stringencies,
 but only because this quality is inherent in most Jews.
 
-Just as all Jews, even Orthodox rabbis are courteous and benevolent.
+Even all Orthodox rabbis are courteous, benevolent and well-meaning.
 Yet for some reason they decided that they must make an effort to display
 an uncharacteristic and unmotivated cruelty, though neither the Torah nor even
 tradition demands it — even Halakhah does not compel one to be heartless,
@@ -15434,7 +15434,7 @@ preservation and the sefirah of development can be achieved when development
 occurs while preserving all the moral laws of the Torah — then the sefirah of
 Tiferet, which is connected with all of them, is also filled.  As a result of
 such unification, the sefirah of Yesod is filled, and with it Malkhut —
-and then the Mashiach will come, and Gan Eden will return to Earth.
+and then Mashiach will come, and Gan Eden will return to Earth.
 
 Peace in society, harmonious coexistence, and mutual respect are achieved only
 when people of opposing views, instead of waging irreconcilable enmity caused
@@ -15592,7 +15592,7 @@ is a dead end, since in 2000 years it has not allowed the restoration of the Tem
 <!-- and didn't prevent assimilation -->
 
 And the global maximum (on the graph above the dashed line) is achieving the
-possibility of building the Third Temple and bringing the Mashiach.
+possibility of building the Third Temple and bringing Mashiach.
 
 Because of accumulated errors, the development of Orthodox Judaism has reached
 an impasse, and Jews have begun leaving the fold of Judaism in large numbers.
@@ -15601,7 +15601,7 @@ as from a local maximum.
 
 We must find a way out of this dead end — and the non-Orthodoxes can do this
 by correcting all the mistakes of the Orthodoxes that prevent the coming of
-the Messiah and the building of the Third Temple.
+Mashiach and the building of the Third Temple.
 To achieve this in the search for the global maximum, we must employ heuristics
 through intuition and direct connection with G‑d.
 
@@ -16235,11 +16235,11 @@ terrorists, even to their own detriment — this too is due to the influence of
 Satan.  Moreover, due to a lack of reason, they themselves are incapable of
 recognizing this, and it would be utterly impossible to explain this to them.
 
-The only hope remaining is that the Mashiach will be so wise and discerning as
+The only hope remaining is that Mashiach will be so wise and discerning as
 to comprehend that the chief impediment on the path to establishing paradise on
 Earth is the influence of Satan upon people.  Therefore, for the resolution of
 all problems, only one possibility remains — to actively hasten the coming of
-the Mashiach.
+Mashiach.
 
 One of the most important commandments of the Torah, upon which the world stands,
 is the following repeatedly mentioned commandment:
@@ -16359,7 +16359,7 @@ in reality, as in any hierarchical system, decisions were made by a handful of
 Kremlin elders, while the rest were in slavish subjection.  By such
 a definition, there is more collectivism in democratic countries, where
 decisions are made by a majority of voters.  Therefore, a more accurate name for
-this axis would be “autocracy ↔ democracy”, i.e., on one side, centralization of
+this axis would be “autocracy ↔ democracy”, i.e., on one side, centralization of
 power, concentration of power in one set of hands, and on the other side, power
 of the people through collective decision-making.  Moreover, democracy does not
 exclude individualism — each citizen has complete freedom to make individual
@@ -16601,15 +16601,13 @@ And receives everything needed — according to needs.
 This same graph can vividly demonstrate the direction of the planned
 [judicial reform](https://en.wikipedia.org/wiki/2023_Israeli_judicial_reform_protests).
 To do this, we must rotate the graph 90 degrees so that the
-“liberalism ↔ authoritarianism” axis becomes horizontal, as conservatives do
+“liberalism ↔ authoritarianism” axis becomes horizontal, as conservatives do
 when they call leftists not adherents of government economic regulation,
 but supporters of personal liberty, despite the fact that many of them are
 right-wing liberals.  Right-wing liberals support both freedom of enterprise
 and personal liberty.  Only right-wing liberals support freedom along both axes.
 Unlike them, leftists restrict economic freedom, while authoritarians
 and conservatives restrict personal freedom.
-
-![judicial reform](../../../files/book/spectrum_arrow_en.png){:.center}
 
 I am a right-wing liberal, while the ultra-Orthodoxes are left-wing
 authoritarians, i.e., they occupy the opposite corner of the political plane.
@@ -16619,8 +16617,8 @@ with excessive stringencies, hate everyone who does not follow all the extremes.
 Thus, with radicalization, the
 [Overton window](https://en.wikipedia.org/wiki/Overton_window) shifts.
 And since I am moderately right-wing, even moderate left-wing are closer to me
-than right-wing radicals, which is why I support center-right representatives
-and respect center-left ones.
+than right-wing radicals, which is why I support the center-right
+and respect the center-left.
 
 Right-wing liberals differ substantially from left-wing liberals: right-wing
 liberals primarily support personal freedom, e.g., a person's right to be
@@ -16740,6 +16738,8 @@ judicial reform are splitting the right-wing camp.  After rotating the graph
 the state far to the right through nationalism toward the ultra-Orthodoxes and
 replacing democracy with a theocratic state of Halakhah:
 
+![judicial reform](../../../files/book/spectrum_arrow_en.png){:.center}
+
 Such a 90-degree rotation only introduces confusion as to who is right and who
 is left.  Once again, briefly: the left is about socioeconomic equality, not
 about liberal values.  In such leftist forms of government as communism,
@@ -16764,26 +16764,26 @@ justice is also closely connected with mercy — from this is formed the word
 
 Midrash Beresheet Rabbah [12:15](https://www.sefaria.org/Bereshit_Rabbah.12.15)
 provides an example of balance, explaining the two Names of G‑d, where Elohim
-signifies the measure of Divine judgment, justice, whereas the four-letter Name
-of the L‑rd, the Tetragrammaton, signifies the measure of Divine mercy
+signifies the attribute of Divine judgment, justice, whereas the four-letter Name
+of the L‑rd, the Tetragrammaton, signifies the attribute of Divine mercy
 accounting for human frailties.  Thus, the following example is given: a king
 had a goblet of the finest glass.  The king said: “If I pour boiling water, it
 will shatter.  But if I pour ice-cold water, it will crack.”  What did the king
 do?  He mixed hot water with cold, and the goblet endured without breaking.
-In precisely the same way, G‑d said: “If I create the world solely with the measure
+In precisely the same way, G‑d said: “If I create the world solely with the attribute
 of mercy, then sinners will multiply.  But if I create the world solely with the
-measure of justice, who will endure?  Therefore, I shall create the world with
+attribute of justice, who will endure?  Therefore, I shall create the world with
 justice and mercy mingled together, and then the world will endure.”
 {: #righteous title="The Righteous"}
 
 In Chagigah [14a](https://www.sefaria.org/Chagigah.14a.5),
 an explanation by Rabbi Akiva is brought as to why the book of Daniel
 [7:9](https://www.sefaria.org/Daniel.7.9) mentions two thrones in heaven.
-Rabbi Akiva held that the second throne was for David.  Rabbi Yose the Galilean
+Rabbi Akiva held that the second throne was for David.  Rabbi Yosei HaGelili
 was outraged: “Akiva, how long will you profane the Shekhinah?  In truth,
-one throne is for judgment and the other for mercy.” <!-- *din* and *tzedakah* -->
-<!-- However, *tzedakah* is closer to the concept of justice,
-therefore the opposition between the measure of judgment and the measure of mercy
+one throne is for judgment (*din*) and the other for righteousness (*tzedakah*).”
+<!-- *Tzedakah* is closer to the concept of justice, therefore the
+opposition between the attribute of judgment and the attribute of mercy
 is better conveyed by middat *ha‑din* and middat *ha‑rachamim*.
 And justice is achieved through their balanced combination. -->
 
@@ -16890,18 +16890,18 @@ transform beautiful plants and cheerful animals into formless waste products,
 increasing the entropy around oneself.  A person decreases his entropy at the
 expense of transforming his surroundings into waste.  So too do totalitarian
 states transform people's lives into waste.  So too do excessive stringencies
-decrease entropy at the expense of transforming people's lives into *wasted lives*.
+decrease entropy at the expense of transforming people's lives into wasted lives.
 
 On one hand, too much chesed increases entropy, while gevurah is meant to
 constrain entropy.  Gevurah increases negentropy, as assigning a direction of
 movement constrains chaotic movement.  Gevurah is necessary as the force
-directing toward the ultimate purpose of humanity's existence.  But with the
-decrease of entropy and correspondingly the increase of determinism, freedom of
-choice, freedom of will, freedom of action also decreases.  For example, one can
-so load down a donkey or a truck that it will not budge from its place.
-Therefore everyone must maintain balance: negentropy and freedom must be
-in proper measure, must be sufficient for development.  Thus in LLM,
-creativity is increased by adjusting the temperature parameter. -->
+directing toward the ultimate purpose of humanity's existence.  But the
+decrease of entropy and correspondingly the increase of determinism
+causes the decrease in freedom of choice, freedom of will, freedom of action.
+For example, one can so load down a donkey or a truck that it will not budge
+from its place.  Therefore everyone must maintain balance: negentropy and
+freedom must be in proper measure, must be sufficient for development.
+Thus in LLM, creativity is increased by adjusting the temperature parameter. -->
 
 Also in Hilkhot Deot
 [1:6](https://www.sefaria.org/Mishneh_Torah,_Human_Dispositions.1.6)
@@ -16923,7 +16923,7 @@ in the attainment of justice.
 And Devarim [6:18](https://www.sefaria.org/Deuteronomy.6.18) speaks of the same:
 “do what is right and good in the eyes of G‑d” (*ha‑yashar ve‑ha‑tov*).
 And the prophets call for an inseparable bond between
-justice and mercy and righteousness, including
+justice, mercy and righteousness, including
 Yeshayahu [56:1](https://www.sefaria.org/Isaiah.56.1),
 Hoshea [12:7](https://www.sefaria.org/Hosea.12.7),
 Micah [6:8](https://www.sefaria.org/Micah.6.8) etc.
@@ -16934,7 +16934,7 @@ extremes and radicalization.  This is precisely what the words *hatznea lekhet*
 mean, and not that “tzniut” which among the ultra-Orthodoxes now intensifies
 radicalization.
 
-Following the inseparability of justice with mercy and righteousness, the
+Following the inseparability of justice, mercy and righteousness, the
 Sanhedrin often issued acquittal verdicts.  With idolaters, everything is reversed.
 For example, in Russia the proportion of acquittals stands at 0.33%, i.e., only
 one acquittal for every 300 verdicts — a striking contrast with 30–40% in
@@ -16976,22 +16976,22 @@ And again, not a word about rabbis.  Consequently, of the entire enumeration,
 only the judges of the Supreme Court remain.  According to the peshat, these
 words “to the judge who will be in those days” can be interpreted as the court
 of the contemporary State of Israel, i.e., the High Court of Justice (Bagatz).
-In ancient times, judicial decisions were rendered by the Sanhedrin, and in our
-days, justice is administered by the High Court of Justice — today the High
-Court of Justice fulfills the same role as the Sanhedrin in the past.  In the
-Sanhedrin, death sentences were rendered exceedingly rarely (Mishnah Makkot
-[1](https://www.sefaria.org/Mishnah_Makkot.1.10)), i.e., chesed prevailed,
-as it does in the High Court of Justice.
+In ancient times, judicial decisions were rendered by the Sanhedrin,
+and in our days, justice is administered by Bagatz — today Bagatz fulfills
+the same role as the Sanhedrin in the past.  In the Sanhedrin, death sentences
+were rendered exceedingly rarely (Mishnah Makkot
+[1](https://www.sefaria.org/Mishnah_Makkot.1.10)),
+i.e., chesed prevailed, as it does in Bagatz.
 
-Until recently, the High Court of Justice was moderately left, serving as
+Until recently, Bagatz was moderately left, serving as
 a defender of human rights, including minority rights, which corresponds
 to the category of chesed.  G‑d's justice lies precisely at this point on the
-*chesed*↔*gevurah* scale, as stated many times in the Torah.  Therefore,
-we can say that the High Court of Justice followed quite well in the ways of G‑d
+*chesed* ↔ *gevurah* scale, as stated many times in the Torah.  Therefore,
+we can say that Bagatz followed quite well in the ways of G‑d
 and the commandment to emulate the attributes of G‑d.  But the Orthodoxes
 decided to depart from these commandments and begin moving even further away
 from G‑d.  The initiated judicial reform aims to shift the position on the
-*chesed*↔*gevurah* scale toward the intensification of gevurah — this is the
+*chesed* ↔ *gevurah* scale toward the intensification of gevurah — this is the
 theological essence of the reform.
 
 We can compare other ways in which the Sanhedrin and Bagatz are similar.
@@ -17026,8 +17026,8 @@ the commercial part is subordinate to the non-commercial one.
 And on the board of directors sat the so-called
 “[effective altruists](https://en.wikipedia.org/wiki/Effective_altruism#Other_prominent_people)”.
 <!-- See also
-[effective altruism](https://forum.effectivealtruism.org/topics/effective-altruism-for-jews)
-for Jews. -->
+[effective altruism for Jews](https://forum.effectivealtruism.org/topics/effective-altruism-for-jews).
+-->
 Although in reality they are neither effective nor altruists.  True altruists
 give of their own (time, money, etc.), whereas these only manage what is common,
 like all leftists.  So it is on this structure that the fundamental differences
@@ -17083,7 +17083,7 @@ primarily as aesthetic pleasure in outward appearance.  But it would be
 more correct to understand beauty as perfection in the form of a balance
 among all the sefirot.  Such perfection is achieved through the filling of
 the sefirah Tiferet.  Therefore more precisely the phrase should read:
-“tiferet will save the world”, where *tiferet* is a synonym for perfection
+“tiferet will save the world”, where tiferet is a synonym for perfection
 achieved through equilibrium between opposing forces.
 
 Being a radical is easy and simple.  Just as a ball rolls down an inclined
@@ -17099,7 +17099,7 @@ who express doubt and try to exercise restraint are punished, is called
 a [purity spiral](https://en.wikipedia.org/wiki/Purity_spiral).
 When an abstract goal disconnected from reality is set before a group,
 gradually the group's members become increasingly intolerant zealots,
-and even their less radical comrades end up numbered among the enemies.
+and even their less radical comrades end up among their enemies.
 
 Any idea can be pushed to absurdity if one does not observe moderation.
 This happens when people turn off their souls and begin to act mechanically,
@@ -17174,27 +17174,27 @@ which invariably ends in autocracy.
 Once again, briefly.  Democracy is the periodically renewed rule of the
 people's representatives with free elections, free media, and independent
 courts protecting human rights.
-The Right are advocates of economic freedom.
+The right-wing are advocates of economic freedom.
 Liberals are advocates of personal freedom.
 
-There exists yet another axis: “globalism ↔ isolationism”, which is also
+There exists yet another axis: “globalism ↔ isolationism”, which is also
 related to nationalism.  Nationalism is compelled gevurah, necessary for the
-preservation of the people.  But, as has already been said, here too we must
+preservation of the nation.  But, as has already been said, here too we must
 maintain balance, wherein moderate nationalism is permissible and even
 desirable, stopping short of national isolation in a ghetto.  Healthy
 nationalism is when minorities are not oppressed.  Generally speaking,
 we can say that nationalism is egoism, while globalization fosters altruism.
 For example, when the commandment of safety is neglected and sturdy materials
 are not used in construction in seismically active zones, and then an earthquake
-or other natural catastrophe occurs, many countries manifest global solidarity
+or other natural disaster occurs, many countries manifest global solidarity
 and send rescuers — a splendid example of altruism at the level of nations.
 {: #egoism-altruism title="Egoism and Altruism"}
 
 Moral development inevitably leads to an increased need to manifest altruism.
 Thus Israel and the civilized nations of the West desire to live in peace, so
 that they may reasonably practice altruism by helping all peoples in their
-development.  But savages are capable only of egoism, manifested in the
-seizure of neighboring lands and in hatred toward civilized nations,
+development.  But uncivilized savages are capable only of egoism, manifested
+in the seizure of neighboring lands and in hatred toward civilized nations,
 including in the form of antisemitism.  The majority in the UN remain savages,
 therefore we have what we have.  But since history teaches that all
 antisemitic organizations eventually disintegrate, such a fate awaits
@@ -17206,7 +17206,7 @@ previously fought against real dictators.  Therefore all such dysfunctional
 organizations inevitably cease to exist, and this will happen because of their
 unwillingness to fight genuine terrorists, many of whom sit even on the UN
 Security Council.  The problem is not only antisemitism — that is merely one of
-the motivations.  The root of the problem is that the majority in the UN are
+their motivations.  The root of the problem is that the majority in the UN are
 adversaries of Western democratic nations and wish by all means to destroy them:
 by flooding them with waves of immigrants, they wish to destroy them from
 within, using Western leftists as useful idiots, and by the hands of Islamic
@@ -17228,9 +17228,9 @@ In other words, this can be expressed as: “Chesed for our own, gevurah for
 strangers.”  Or thus: “Altruism for ourselves, egoism for others” —
 in the sense of demanding altruism from others for oneself,
 while manifesting egoism toward others.
-<!-- And Arabs too: extremely leftist in Israel and European countries,
-where they demand rights for minorities.  But in their own countries
-they are extremely rightist and oppress minorities. -->
+<!-- And Arabs too: extremely leftist in Israel and Western countries,
+where they demand rights for them as minorities, but in their own
+countries they are extremely rightist and oppress other minorities. -->
 
 Rabbi Haim of Romshishok was fond of telling this story:
 “Once I saw Hell, and it was terrible.  Row upon row, tables were laden
@@ -17249,11 +17249,11 @@ and brought it to the mouth of the neighbor sitting opposite.
 And the neighbor in turn fed another.  No one remained hungry.”
 Thus, Hell and Heaven differ only in the relationship between people:
 in Hell they suffer from widespread egoism, while in Heaven each person enjoys
-the altruism of their neighbor.  (Later this maiseh came to be known as the
+the altruism of their neighbor.  Later this maiseh came to be known as the
 [allegory of the long spoons](https://en.wikipedia.org/wiki/Allegory_of_the_long_spoons),
 where instead of unbending arms there were spoons so long
 that they could not be brought to one's own mouth —
-but the meaning remains the same.)
+but the meaning remains the same.
 <!-- Thus ultra-Orthodoxes demand to be spoon-fed,
 while they themselves refuse to feed others. -->
 
@@ -17265,10 +17265,10 @@ divides people into four categories:
 3. a resident of Sodom, who says: “mine is mine, and yours is yours”;
 4. <!-- *chasid* --> a pious person, who says: “yours is yours, and mine is yours”.
 
-Here it is evident that the quality of Sodom is nothing other than egoism,
+Here it is evident that the property of Sodom is nothing other than egoism,
 when every man is for himself alone. <!-- “and G‑d against all”,
 though it would be more precise to say that Satan is against all -->
-And the quality of the pious is altruism, even unto self-sacrifice,
+And the property of the pious is altruism, even unto self-sacrifice,
 when one often remains at a loss oneself.
 
 Are there boundaries to such altruism?
@@ -17347,9 +17347,9 @@ there is no good solution, and everything depends on the soul's impulses of the
 participants.  For example, what if in a desert without water there remain
 an old man who has lived his days and a youth only beginning to live?
 It is quite natural to suppose that the old man would give his water to the
-young person.  <!-- Or a man would give his water to a woman with an infant, etc. -->
+young person.  Or a man would give his water to a woman with a baby, etc.
 But Rabbi Akiva essentially merely preached the primitive principle of
-“[Bolivar cannot carry double](https://en.wikiquote.org/wiki/O._Henry)”.
+“[Bolivar cannot carry double](https://en.wikiquote.org/wiki/O._Henry#Whirligigs_(1910))”.
 There is nothing wise and nothing highly moral in this.  In such difficult
 situations the soul's work must be engaged, but unfortunately the Orthodoxes
 have followed Rabbi Akiva's path, when instead of engaging the soul
@@ -17369,7 +17369,7 @@ Such a problem was already examined by the Chazon Ish in Sanhedrin #25 — wheth
 it is an ethical solution to deflect the trajectory of a projectile from a large
 group of people onto a smaller group or onto one person.  On the one hand, fewer
 people will perish.  But on the other hand, no one has the right to sacrifice
-people from the smaller group.  “No one's blood is redder than another's”
+people from the smaller group: “No one's blood is redder than another's”
 (Sanhedrin [74a](https://www.sefaria.org/Sanhedrin.74a.20)).  Therefore
 this problem has no solution, and no halakhah can be derived from this.
 
@@ -17380,7 +17380,7 @@ results of decisions made under free will, the participants, including even
 vehicles, receive various consequences: from punishment to reward.
 
 Let's conclude the examination of such rare incidents and proceed to consider
-in greater detail the “egoism ↔ altruism” axis under normal conditions in
+in greater detail the “egoism ↔ altruism” axis under normal conditions in
 everyday life.  How does one avoid extremes along this axis?
 
 The great sage Hillel taught:
@@ -17413,7 +17413,7 @@ Therefore, love is not only the desire for the beloved to be happy,
 but also the necessity of active participation in bringing this about.
 This is required for the development of one's soul.  And from unrequited love
 the soul develops more intensively due to suffering — but the suffering must
-also be in measure.
+also be in moderation.
 
 I must honestly confess that even the publication of this book in open access is
 also based on the principle of combining egoism and altruism.  I wrote this book
@@ -17496,7 +17496,7 @@ complete solutions are produced that bring benefit to people — this is altruis
 
 <!-- The sefirah Da'at is not linked to egoism, since in the process of
 copying information into the mind nothing diminishes from the world.
-But when understanding forms in the mind through the sefirah Binah,
+But when understanding is formed in the mind through the sefirah Binah,
 this is already exclusive asset that can be shared with the world. -->
 
 Binah and Chokhmah correspond to finding and correcting an error.
@@ -17752,7 +17752,7 @@ and then Israel would face attacks not from lone terrorists but from large armed
 forces backed by Iran.  But by such support of terrorists, the left discredits
 their own movement: when the majority of leftists show indifference to victims of
 terror, the word “leftist” becomes synonymous with “anti-Semite”, and Israeli
-leftists gradually shift rightward along the axis of support for or opposition
+leftists gradually shift rightward along the axis of opposition
 to the Palestinian Arabs. -->
 
 The famous words from John F. Kennedy's
@@ -17765,7 +17765,7 @@ The speech continues:
 “My fellow citizens of the world: ask not what America will do for you,
 but what together we can do for the freedom of man.”
 This means, among other things, that Europe must make more efforts
-to ensure their own security rather than being freeloaders on America,
+to ensure own security rather than being freeloaders on America,
 i.e., no one can demand unrestricted altruism from Americans —
 yet from the other side, unrestricted egoism is also harmful.
 
@@ -17887,9 +17887,9 @@ From both ends a convergence occurs, when the far left becomes ideologically
 close to the far right: both prefer violence against dissenters, etc.
 {: #extremes title="Extremes"}
 
-It can be clearly visualized how a straight line, i.e., a single axis “left ↔ right”
-can be superimposed on a plane with two axes “liberalism ↔ authoritarianism” and
-“left economics ↔ right economics”.  For this, the straight line bends into
+It can be clearly visualized how a straight line, i.e., a single axis “left ↔ right”
+can be superimposed on a plane with two axes “liberalism ↔ authoritarianism” and
+“left economics ↔ right economics”.  For this, the straight line bends into
 an arc in the shape of a horseshoe.  For example, here is how the spectrum of
 political forces is usually depicted on a straight line:
 communists | socialists | social democrats | centrists | right-wing
@@ -17921,7 +17921,7 @@ Leftist radicals with their “cancel culture” are the modern morality
 police, punishing offenses against sensibilities and destroying people's lives
 for an incautiously expressed thought.  Like red commissars who exterminated
 “enemies of the people” according to the principle: “When there's a person —
-there's a problem; no person — no problem.”
+there's a problem; no person — no problem.”
 <!-- Zealots of cancellation also include the Orthodoxes,
 who cancel the existence of Jews through the father. -->
 
@@ -17979,7 +17979,7 @@ toward authoritarianism, and the right continued:
 
 ![MAGA](../../../files/book/maga.png){:.center}
 
-BTW, despite their claims, MAGA has little in common with the greatest
+And despite their claims, MAGA has little in common with the greatest
 U.S. president of our time, Ronald Reagan, who defeated the Soviet empire
 by his highly moral stance.
 
@@ -18050,7 +18050,7 @@ where illegal migrants could hide from deportation. -->
 But the demand to grant terrorists and murderers freedom of speech
 while depriving their critics of such freedom — that is going too far.
 
-Perhaps in this way the left is trying to instill European values in the
+Perhaps in this way the left is trying to instill Western values in the
 barbarians by demonstrating complete freedom of speech in action?  But in
 reality, this does not help.  For even despite the continually manifested
 goodwill on the part of Western countries, Russians in Russia have rejected
@@ -18080,7 +18080,7 @@ a deliberate policy — not only do they give such instructions to moderators on
 how to respond to complaints, but they have also trained neural networks so that
 now 95% of content is filtered automatically.  The problem is that the neural
 networks were trained not to distinguish terrorists from their victims.
-In this, the Left has equated itself with soulless robots that have no moral
+In this, the left has equated itself with soulless robots that have no moral
 compass and cannot distinguish good from evil.  They merely repeat their dogmas
 without reflection, without connection to reality, and mechanically apply one
 template regardless of the moral circumstances of different situations.
@@ -18092,15 +18092,15 @@ emotional sefirot, chesed is extended only toward criminals, while gevurah
 is shown toward victims.  In Midrash Shmuel
 [18:4](https://www.sefaria.org/Midrash_Shmuel.18.4) it is stated: “Whoever
 shows mercy to the cruel will in the end become cruel to the merciful.”
-<!-- More precisely, in the original source the order is different, though it
-does not greatly alter the meaning: “Whoever is cruel to the merciful will in
+More precisely, in the original source the order is different, though it
+does not alter the meaning: “Whoever is cruel to the merciful will in
 the end become merciful to the cruel.”  This can be interpreted to mean that
 antisemites compensate for their hatred of Jews with love for Arab terrorists.
 And generally, without a specific order, it can be stated thus:
-“Cruelty toward the merciful always accompanies mercy toward the cruel.” -->
-<!-- And Midrash Kohelet Rabbah [7:16](https://www.sefaria.org/Kohelet_Rabbah.7.16)
-expresses a similar thought: “One who shows mercy when one should be harsh
-will in the end become harsh when one should show mercy.” -->
+“Cruelty toward the merciful always accompanies mercy toward the cruel.”
+And Midrash Kohelet Rabbah [7:16](https://www.sefaria.org/Kohelet_Rabbah.7.16)
+expresses a similar thought: “One who becomes compassionate when one should be harsh
+will ultimately become harsh when one should be compassionate.”
 
 Another example of leftist ideology is when terrorists are considered equal
 participants in the conflict.  Many years ago, when some incident occurred
@@ -18110,7 +18110,7 @@ and completely lost its objectivity and impartiality.  And now they even refuse
 to refer to the murderers of civilians as terrorists.
 <!-- They only occasionally use this word in quotation marks: “terrorists”.
 But in quotation marks it looks even worse, because it shows that they
-do not agree with this definition.  But this term is not a value judgment,
+do not agree with this definition.  However, this term is not a value judgment,
 but a [dictionary definition](https://en.wiktionary.org/wiki/terrorist). -->
 Explaining their preference by refusing to take sides,
 and thus rising “above the melee”, and accordingly above morality,
@@ -18152,8 +18152,8 @@ the leftist apologists for such equality themselves side with evil.
 
 The situation was as follows: due to the advance of the Russian aggressors,
 residents were forced to evacuate from frontline areas.  For defense,
-Ukrainian defenders took up positions in empty houses, when the battle was
-fought for every house.  So Amnesty accused the Ukrainians that because of this,
+Ukrainian defenders took up positions in empty buildings, when the battle was
+fought for every building.  So Amnesty accused the Ukrainians that because of this,
 Russian terrorists were shelling residential neighborhoods, as if they were not
 doing the same thing, daily shelling Ukrainian cities far from the front line
 and killing civilians there simply for intimidation.
@@ -18217,12 +18217,12 @@ Though we must acknowledge that the theory of nonviolent resistance helped,
 for example, India gain independence.  But this works only when
 the protesters face a civilized power — such as the British Empire was.
 Even apartheid in South Africa was civilized — they spared the political
-prisoners, including Mandela.  In the case of russia, all this is
+prisoners, including Mandela.  In the case of Russia, all this is
 completely inapplicable.
 
-BTW, when the native inhabitants later gained power in South Africa, hostility
-towards Israel began solely because antisemites had slapped the label of
-“apartheid” on Israel, which provokes them like a red rag to a bull.
+Incidentally, when the native inhabitants later gained power in South Africa,
+hostility towards Israel began solely because antisemites had slapped the label
+of “apartheid” on Israel, which provokes them like a red rag to a bull.
 Such primitive deception is in principle one of the varieties of
 cargo cult.  But in reality, the
 [indigenous people](https://en.wikipedia.org/wiki/Indigenous_peoples)
@@ -18248,8 +18248,8 @@ This is partly true — in Western democratic countries, morality is already at
 a high level: there is no longer discrimination against women and minorities,
 fair courts reliably protect human rights, etc.  But often attempts to forcibly
 accelerate the development of morality even further lead to the opposite result.
-Why does this happen?  As already stated, one must not strive to be overly righteous.
-One must be righteous in measure.  Otherwise, “righteous radicals” instead
+Why does this happen?  As already stated, one must not strive to be overly righteous,
+one must be righteous in moderation.  Otherwise, self-righteous radicals instead
 of spreading their views democratically through civilized discussions simply
 begin to destroy their opponents, who merely hold different views
 but commit no unlawful actions.
@@ -18308,7 +18308,7 @@ And numerous examples can be brought to illustrate this.
 <!-- I remember how in childhood it was difficult for me to rid myself of the
 conviction that everything printed on paper was true.  I had to exert effort
 to analyze the printed word impartially.
-Similarly, nowadays, when a group of persons appropriates for itself the title
+Similarly, nowadays, when a group of persons appropriates for themselves the title
 of human rights defenders, one instinctively wishes to express approval of them.
 But then it turns out that they also support the rights of terrorists.
 Thus operates the post-truth era. -->
@@ -18338,11 +18338,11 @@ which significantly advanced humanity's progress—
 *Free Software* is present in each of a billion smartphones,
 also in the overwhelming majority of servers upon which the economy rests,
 many achievements in AI occurred thanks to *Free Software*, etc.
-Remarkably, the ideas of free software, which could conditionally be called leftist,
+Remarkably, the ideas of free software, which could basically be called left-wing,
 contributed to the rapid development of the right-wing capitalist economy and
 led to the creation of millions of jobs throughout the world.
-(Whereas [proprietary software](https://en.wikipedia.org/wiki/Proprietary_software)
-often does the opposite — leads to stagnation due to the power of monopolies.)
+Whereas [proprietary software](https://en.wikipedia.org/wiki/Proprietary_software)
+often does the opposite — leads to stagnation due to the power of monopolies.
 
 <!-- BTW, it is interesting to draw parallels between Moses and RMS.
 Just as Moses led the Jews out of slavery into freedom, so too does RMS liberate
@@ -18374,7 +18374,7 @@ in Israel. -->
 But despite these zealous demonstrations of devotion to leftist ideas,
 in the end he himself fell victim to repression from more radical leftists
 who “canceled” him.  This demonstrates the cardinal differences between
-normal people (moderate leftists and right-wing) and leftist radicals with their
+normal people (moderate left-wing and right-wing) and leftist radicals with their
 *cancel culture*.  Those right-wing who disagree with his leftist views nevertheless
 respect him and support his main line of work in developing and distributing
 free software, i.e., they separated his sparks from the qlippoth (and he himself
@@ -18389,7 +18389,7 @@ and the radical left seeks to destroy all of this, i.e., their attack
 is directed against me as well. -->
 
 I have the right to call for the separation of sparks from the qlippoth, because
-I personally suffered from his ultra-left radicalism, and nevertheless forgave
+I personally suffered from his ultra-left radicalism, but nevertheless forgave
 him and continue to support him in developing free software.  I want to cite one
 instructive case that characterizes the ideology of all leftists.
 
@@ -18481,8 +18481,8 @@ lab, programming on the types of computers available at that time, including the
 [RSX-11M](https://en.wikipedia.org/wiki/RSX-11) operating system.
 The problem was that transferring programs between machines required 8-inch
 [floppy disks](https://en.wikipedia.org/wiki/Floppy_disk).  This was in those
-times when floppy disks were large.  (They were the predecessors of the 5¼-inch
-and 3½-inch varieties.)  But 8-inch floppy disks were in great shortage then —
+times when floppy disks were large — they were the predecessors of the 5¼-inch
+and 3½-inch varieties.  But 8-inch floppy disks were in great shortage then —
 there was simply no way to obtain them anywhere.
 
 And so one day at the university, Misha Lefter approached me and handed me
@@ -18517,7 +18517,7 @@ originally begun by
 [Julian Assange](https://git.savannah.gnu.org/cgit/emacs.git/tree/lisp/windmove.el#n113).
 -->
 
-<!-- It is also interesting that to promote it I tried to maintain buzz,
+<!-- It is also interesting that to promote this program I tried to maintain buzz,
 for which I committed the *M-x butterfly* command from [xkcd](https://xkcd.com/378/)
 (incidentally, this text “Real programmers set the universal constants at the
 start such that the universe evolves to contain the disk with the data they want”
@@ -18526,10 +18526,10 @@ And then after the release there was a storm of jokes on this theme, for example
 [Slashdot](https://developers.slashdot.org/story/09/07/30/1854243/emacs-hits-version-23).
 -->
 
-To make it clear what I have been doing every day for dozens of years, I must
-clarify the essence of my work.  I participate in developing a well-known
-program that many people have been using daily without interruption since the
-1980s (for example, I have been using it since 1989).  There is no other program
+To make it clear what I have been doing every day for dozens of years,
+I must clarify the essence of my work.  I participate in developing
+a well-known program that many people have been using daily since the 1980s
+(for example, I have been using it since 1989).  There is no other program
 so long-lived and still relevant that comprehensively satisfies the diverse
 needs of users.  Moreover, it allows doing so in the most efficient and optimal
 manner, enabling the achievement of perfection in human-computer interaction.
@@ -18547,7 +18547,7 @@ the ancient religion flourishing in our time as well.  But in order for
 this program to remain popular, it must be continuously modernized, i.e.
 adapted to the present age, brought into alignment with the new demands of
 modernity.  This is precisely what I am actively engaged in all the time,
-continually adding new, more contemporary capabilities.
+continually adding new, more contemporary features.
 
 And since my other interest is Judaism, it is unsurprising that after the
 Orthodoxes rejected me and thereby exposed an enormous tangle of unresolved
@@ -18583,7 +18583,7 @@ according to the system of sefirot:
 
 - Chesed: we must not forget that the ultimate goal of any work is to make
   people's lives easier, which includes both simplifying usage and adding new
-  necessary capabilities.
+  necessary features.
 
 - Tiferet: we must maintain balance between opposing impulses and preserve the
   consistency of the entire system, i.e., non-contradiction and harmony between
@@ -18816,7 +18816,7 @@ In the center of Moscow I discovered that Red Square was cordoned off on
 all sides by tanks and armored personnel carriers.  Then the supporters of
 Boris Yeltsin began distributing leaflets with his address (printed even
 before his speech on the tank) and announced that help is needed
-to defend the Parliament Building,
+to defend the Parliament Building, the
 [White House](https://en.wikipedia.org/wiki/Timeline_of_the_1991_Soviet_coup_attempt).
 
 At the White House, despite the rainy weather, many people had gathered.
@@ -18862,7 +18862,7 @@ a Hanukkah concert was held in the Kremlin Palace of Congresses.
 After the dismantling of communist totalitarianism, the
 [Evil Empire](https://en.wikipedia.org/wiki/Evil_Empire_speech) and
 [prison of nations](https://en.wikipedia.org/wiki/Prison_of_peoples),
-all enslaved peoples gained their freedom.  But they used this freedom
+all enslaved nations gained their freedom.  But they used this freedom
 in different ways.  Some immediately established democracy and built
 successful states.  Others surrendered power to dictators and returned
 once more to slavery.  And still others fought against sliding toward
@@ -18902,8 +18902,8 @@ used by all schoolchildren and students in the country.
 <!-- about 150,000 users, including local governments -->
 And then I was asked to implement support for registering
 children of Ukrainian refugees.
-<!-- It was terrible to see in the database in the list of Ukrainian students
-among the refugees a child of one woman — this I will never forgive the
+<!-- It was terrible to see in the database in the list of Ukrainian pupils
+among the refugees a child of one girl — this I will never forgive the
 Russian fascists. -->
 
 Consequently, my contribution was distributed as follows:
@@ -18926,7 +18926,7 @@ free what benefited many people — also for the repair of the world, the same
 <!-- The unpaid work was similar to studying Torah —
 the same solving of complex puzzles and like a game of associations. -->
 
-Moreover, I still found time to maintain a large plot in the forest:
+Moreover, I still found time to maintain a large property in the forest:
 sawing trees, chopping wood, gathering branches (not on the Sabbath), etc.
 <!-- Exactly 50 years ago grandfather brought me to this place for the first time,
 so I have an obligation to maintain grandfather's legacy in order. -->
@@ -18967,15 +18967,14 @@ refused to perform circumcision, so that I could work calmly for the benefit
 of people without unnecessary suffering.
 
 If the Orthodoxes had accepted me and had not refused to perform circumcision,
-I would be earning much more money, and I would give to Jewish needs, and
-I would donate even more to charity.
+I would be earning much more money, and I would donate even more to charity.
 
 So recently, when the pain intensified to the point that internal organs began
 to fail, and further delay became life-threatening, I had to stop waiting for
 help from the Orthodoxes, and I performed the *brit milah* ritual myself,
 as it is said in Tehilim [118:8](https://www.sefaria.org/Psalms.118.8):
 
-> It is better to take refuge in the L‑rd than to trust in man.
+> It is better to take shelter in the L‑rd than to trust in man.
 
 and also in Tehillim [146:3](https://www.sefaria.org/Psalms.146.3):
 
@@ -18991,7 +18990,7 @@ Circumcision requires neither a rabbi, nor a mohel, nor certainly a sandak.
 All the necessary blessings are found in the siddur — just as one can
 affix a mezuzah independently without a rabbi's assistance by reciting
 the corresponding blessings from the siddur.  According to Halakhah,
-even for solemnizing a marriage, a rabbi is absolutely unnecessary.
+even for solemnizing a marriage, a rabbi is unnecessary.
 
 Therefore before the circumcision I recited all the necessary prayers and
 blessings from the siddur, and after the circumcision I recited all the
@@ -19005,11 +19004,11 @@ this day.  This means that with my ruined health, I have not long left to live.
 
 But I do not accuse the Orthodoxes of being bound by the chains of medieval
 customs from those cruel times of the past.  It is only painful that, because of
-the stubbornness of the Orthodoxes, it was not possible to live normally through
+their stubbornness, it was not possible to live normally through
 the allotted years, to establish a family and raise children according to the
 traditions of Judaism.  It is painful that, instead of making the world better
-by realizing the abilities given by G‑d, due to the indifference of the
-Orthodoxes, I was forced to spend most of my time in a state of incapacity,
+by realizing the abilities given by G‑d, due to their indifference,
+I was forced to spend most of my time in a state of incapacity,
 in continuous suffering.  And yet I could have done so much good for people.
 
 <!-- “few and ill-fated have been the days of my life” -->
@@ -19021,7 +19020,7 @@ is a film about my difficult childhood. -->
 
 BURY ME <!-- BEHIND THE BASEBOARD --> IN A JEWISH CEMETERY
 
-— so that peace may come among the Jewish people.
+— so that peace may come among the Jews.
 And through this — peace among all people throughout the world.
 
 This is my testament.
@@ -19091,9 +19090,9 @@ for they too are flesh
 But I do not fear death — it makes no sense at all to fear death.
 
 <!-- Yet like many during adolescence, sometimes after a sudden awakening from
-a brief sleep, panic attacks would occur when the incredibility of such an event
-as receiving life was suddenly acutely realized, as though one had surfaced from
-non-existence — like in the film *The Matrix*, only in the opposite direction.
+a brief sleep, the incredibility of such an event as receiving life was
+suddenly acutely realized, as though one had surfaced from non-existence —
+like in the film *The Matrix*, only in the opposite direction.
 This happened at the age of 15–16, but passed quickly.  This cannot be called
 a fear of death, since it lasted only brief periods of time. -->
 
@@ -19104,7 +19103,7 @@ analgesic left such an effect that I completely lost my sense of time — as if
 I had entered into eternity.  It was the most dreadful sensation to be outside
 time, when the chain of daily tasks breaks, the connection between events
 disappears, the flow of time ceases altogether, and the mind remains as if
-freely floating in cosmic space, detached from everyday life.  I lay there
+freely floating in outer space, detached from everyday life.  I lay there
 trying frantically to restore the connection with earthly life.  The only
 salvation was to try to imagine the further sequence of pressing tasks: that,
 for example, I would get up from the hospital bed, check out at the registration
@@ -19115,7 +19114,7 @@ perhaps some of them have the same effect. -->
 
 I never had time to reflect on life's brevity, because new problems continually
 rained down on me in an unceasing stream.  In general, there was not a single
-peaceful day in my life, so I never had time to stop and calmly contemplate this
+quiet day in my life, so I never had time to stop and calmly contemplate this
 matter.  <!-- And if there had not been constant problems, I probably would have
 gone mad.  Because people go mad when they lose meaning in life. -->
 But just in case, I kept track of scientific developments so as
@@ -19134,7 +19133,7 @@ So I continued to follow the development of such technologies, including
 in the field of [transhumanism](https://en.wikipedia.org/wiki/Transhumanism).
 But this subject remained of interest only until one incident that occurred in
 2004, after which I lost all interest in the topic of life extension.  At that
-time I periodically read the blog of a certain well-known transhumanist.
+time I periodically read the blog of one well-known transhumanist.
 <!-- And now he fights against the development of artificial intelligence,
 which could help in life extension — such a contradiction. --> And then one day
 he reported [terrible news](https://yudkowsky.net/other/yehuda/) about the tragic
@@ -20095,7 +20094,8 @@ like millions of Uyghurs, which constitutes genocide.  The same tactics
 will be applied against the peoples of other countries.
 
 Military expansion is being prepared first against Taiwan, whose right to
-independent existence China denies, just as Russia does with regard to Ukraine.
+independent existence China denies, just as Russia does with regard to Ukraine
+(also it's possible to draw parallels between Hong Kong and Crimea).
 And further, with the prospect of extending to other countries.
 
 In light of this, it becomes clear which countries fit the description

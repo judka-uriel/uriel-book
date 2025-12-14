@@ -6244,7 +6244,7 @@ with revulsion.
 
 | You shall not steal |
 | (Shemot [20:13](https://www.sefaria.org/Exodus.20.13), Devarim [5:17](https://www.sefaria.org/Deuteronomy.5.17); Vayikra [19:11](https://www.sefaria.org/Leviticus.19.11)) |
-{: .chapter #break title="Transgression of Commandments"}
+{: .chapter #break title="Transgressions"}
 
 Under this commandment the Orthodoxes understand anything and everything:
 both [kidnapping](https://en.wikipedia.org/wiki/Kidnapping),
@@ -7231,7 +7231,7 @@ a purely utilitarian attitude toward the Torah where from the Torah are expected
 not instructive stories for moral development, but only a detailed program of
 household activities to be performed daily, like a list of rules in the
 Shulchan Arukh with detailed instructions.
-{: #midrash title="midrashim"}
+{: #midrash title="Midrashim"}
 
 When I began to familiarize myself with Rashi's commentaries on the Torah,
 I approached the matter impartially and with full seriousness.  Until then
@@ -7877,7 +7877,7 @@ i.e., this is a moral problem.
 
 | in these commandments, which I command you today, there is nothing incomprehensible or inaccessible |
 | (Devarim [30:11-14](https://www.sefaria.org/Deuteronomy.30.11-14)) |
-{: .chapter #addition title="Addition of Commandments"}
+{: .chapter #addition title="Additions"}
 
 “There is nothing incomprehensible” — this means that the Torah assumes there
 can arise no two opinions regarding the details of fulfilling the commandments,
@@ -22486,8 +22486,8 @@ I awoke and saw before my eyes such a luminous image: -->
 <div class="title-page">
   <div class="title">URIEL</div>
   <div class="subtitle">
-    Looking at the World <br>
-    through the Prism of Judaism
+    Looking at the world <br>
+    through the prism of Judaism
   </div>
   <img src="../../../files/book/tree_prism.png" alt="[tree with prism]" class="center" />
   <div class="author">Judka Linkov</div>

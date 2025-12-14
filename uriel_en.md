@@ -472,7 +472,7 @@ a gigantic universal computer and computes the evolution of the Universe.
 <!-- By the way, it would be incorrect to use the term “information” here,
 because representing physical phenomena on the basis of information
 transmission would only make sense when there exists a mind that can
-receive this information. -->  <!-- And such a theory can indeed explain
+receive this information. -->  <!-- But such a theory can indeed explain
 quantum entanglement, e.g., as memory cells linked to one another
 or two pointers to a single memory cell. -->
 
@@ -1010,7 +1010,7 @@ and through *Malkhut* — low-level quantum connections from the outside.
 
 There are two additional higher levels: *chayah*, received by Adam,
 who was created according to the model of *Adam Kadmon*,
-and *yechidah*, which manifests upon achieving singularity
+and *yechidah*, which manifests upon achieving Singularity
 with its Divine source.
 This level of soul can be received by Mashiach, when his mind
 upgrades to the capacity to connect a soul of higher level.
@@ -1181,7 +1181,7 @@ by analogy with the piece of matzah called the *afikoman*,
 which on Pesach is hidden until the conclusion of the Seder.
 A similar meaning of ‘hidden’ is found in the official name
 for such a concealed function in a computer program, which is called
-*[tachmin](https://he.wikipedia.org/wiki/ביצת_פסחא_(מדיה))*.
+*[takhmin](https://he.wikipedia.org/wiki/ביצת_פסחא_(מדיה))*.
 
 The second possibility for performing miracles is to connect directly with
 a [debugger](https://en.wikipedia.org/wiki/Debugger) to the process memory
@@ -1321,7 +1321,7 @@ denoted by the letter [aleph](https://en.wikipedia.org/wiki/Aleph_number) — �
 We can say that ℵ<sub>0</sub> denotes the infinity of a countable set in
 “breadth”, while a higher index denotes the infinity of uncountable sets in
 “depth”, as for example, real numbers are obtained by infinite division of the
-interval between adjacent whole numbers, etc.  And in Kabbalah, the letter
+interval between adjacent integers, etc.  And in Kabbalah, the letter
 ℵ denotes the infinity of *Ein Sof*.)  Therefore the soul is eternal, like
 any number from an infinite sequence, and does not disappear anywhere.
 
@@ -1553,7 +1553,7 @@ with the general principle of prohibiting activity connected with
 decision-making on the Shabbat.
 
 We can attempt to understand the reasons for such a prohibition.  Sabbath
-prohibitions are described by the term *machshevet*, sharing a root with the
+prohibitions are related to the term *machshevet*, sharing a root with the
 words *machshev* (computer) and *machshavah* (thought).  When the soul makes
 decisions that alter the state of the brain cells' quanta, it thereby introduces
 indeterminacy into the direction of events' development.  This creates a need to
@@ -2186,7 +2186,7 @@ prediction, and this is called a
 [self-fulfilling prophecy](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy).
 
 <!--
-In the mid‑1980s, it was popular to write programs for calculating so-called
+In the mid-1980s, it was popular to write programs for calculating so-called
 “[biorhythms](https://en.wikipedia.org/wiki/Biorhythm_(pseudoscience))”.
 This was one of my first programs, and programming the calculation of physical,
 emotional, intellectual cycles was good practice.  But the program's result had
@@ -4034,7 +4034,7 @@ due to the refusal of the Orthodoxes to perform circumcision upon me,
 I began to study Torah intensively, to understand the reasons for such
 flagrant heartlessness of the Orthodoxes, which in Pirkei Avot
 [2:9](https://www.sefaria.org/Pirkei_Avot.2.9) is called by the
-words *lev ra*, 'an evil heart'.
+words *lev ra*, an evil heart.
 {: #convert title="Ruth"}
 
 For this I've read everything possible and began by studying the history
@@ -6512,7 +6512,7 @@ we can travel back 3333 years in our minds.
 And here we see how Moshe ascends Mount Sinai,
 and hews from stone two tablets *luhot ha‑brit*,
 and carves upon them the words which G‑d placed in Moshe's mind:
-<!-- through revelation, illumination, inspiration, intuition -->
+<!-- through revelation, inspiration, illumination, intuition, insight -->
 10 eternal commandments for all time — *aseret ha‑dvarim*.
 <!-- Also known as *aseret ha‑dibrot* from *divrei ha‑brit*. -->
 
@@ -7012,7 +7012,7 @@ errors made by previous generations.
 
 But no such protective systems existed, and nothing prevented the transmitted
 information from being altered, because two main factors exerted their influence.
-First, external *force majeure* circumstances — due to calamities that befell
+First, external force majeure circumstances — due to calamities that befell
 the people, details of many laws of the Written Torah were lost, and later a new
 interpretation was invented from scratch for some of them.  Second, the rabbis
 themselves permanently engaged in “improvements” of the oral laws.  After the
@@ -7281,8 +7281,8 @@ with one's father's wife or concubine, etc.)
 it is said: “Do not uncover the nakedness of your sister, daughter of your
 father or daughter of your mother”, i.e., descent through the father and
 mother are equated.  The same equality of father and mother is in Devarim
-[27:22](https://www.sefaria.org/Deuteronomy.27.22): "Cursed be he who lies
-with his sister, the daughter of his father or the daughter of his mother".
+[27:22](https://www.sefaria.org/Deuteronomy.27.22): “Cursed be he who lies
+with his sister, the daughter of his father or the daughter of his mother”.
 Also in Vayikra [18:11](https://www.sefaria.org/Leviticus.18.11):
 “Do not uncover the nakedness of the daughter of your father's wife —
 she is your father's offspring, she is your sister”, i.e., through
@@ -7621,8 +7621,8 @@ command in Devarim [1:13](https://www.sefaria.org/Deuteronomy.1.13):
 known men.”  On this basis it was concluded that among the wise and
 known, none were found who were discerning.  That is, even the Talmud
 acknowledges that a sage may lack discernment.  The discerning here refers
-to people of insight who know how to foresee the consequences of their
-decisions in the future, of whom it is said in Divrei ha‑yamim I
+to people of insight who know how to foresee the long-term consequences
+of their decisions in the future, of whom it is said in Divrei ha‑yamim I
 [12:32](https://www.sefaria.org/I_Chronicles.12.33) thus: “And of the sons of
 Yissakhar, who had understanding of the times.”  This same matter is addressed
 in Tamid [32a](https://www.sefaria.org/Tamid.32a.7), that a sage is one who
@@ -7868,11 +7868,11 @@ of the commandments.
 But these are mainly personal quirks of religion's followers.  Worse is when
 symptoms of autism manifest in attitudes toward other people — and then the
 capacity for compassion disappears.  And indeed, many Orthodoxes behave like
-autistics who lack empathy and are incapable of sympathizing with other people.
-Here it is not accidentally said that they are not autistics, but like autistics
-— because autistics cannot help their autism, whereas Orthodoxes consciously
-choose insensitivity and indifference to the suffering of others, i.e., this is
-a moral problem.
+autistic people who lack empathy and are incapable of sympathizing with other people.
+Here it is not accidentally said that they are not autistic people, but like autistic
+people — because autistic people cannot help their autism, whereas Orthodoxes
+consciously choose insensitivity and indifference to the suffering of others,
+i.e., this is a moral problem.
 -->
 
 | in these commandments, which I command you today, there is nothing incomprehensible or inaccessible |
@@ -8310,8 +8310,8 @@ who lack the moral obligations with which G‑d has endowed human beings.
 Therefore they wish to lead a completely animal existence, having only a minimum
 of concerns: obtaining food, reproduction, and seizing neighboring territories —
 that is, the entire limited set of actions performed even by bacteria and simple
-microorganisms.  It is no wonder that such single-celled beings hate Jews — they
-consider it evil that Jews, by their very existence, pull people out of
+microorganisms.  It is no wonder that such single-celled organisms hate Jews —
+they consider it evil that Jews, by their very existence, pull people out of
 an animal state toward the light.
 
 - Personal grievances against G‑d for problems in one's life, and consequently
@@ -8754,7 +8754,7 @@ them as quickly as possible, as if they had never existed, according to the
 principle of idolaters: “no person — no problem”.  Does it follow that if the
 Orthodoxes had a button that would destroy Jews who do not fully observe all
 the ordinances of the Orthodoxes, they would press it, so that all apostates
-would “perish in an instant”, as they constantly pray for?
+would “perish in an instant”, as they regularly pray for?
 
 The following question necessarily follows from this: if the Orthodoxes prayed
 with curses for the destruction of “apostate” Jews before the Holocaust,
@@ -8963,8 +8963,7 @@ of the entire volume, which amounts to approximately 2 percent.
 <!-- I noticed that approximately 20 percent of the remaining work (e.g.,
 morphological analysis of natural language words) requires 80 percent of the
 time and effort due to the need to consider increasingly complex non-standard
-cases and exceptions to the rules, 10% — 90%, 5% — 95%.  This pattern is known
-as the [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle). -->
+cases and exceptions to the rules: 10% — 90%, 5% — 95% (Pareto principle). -->
 
 Therefore, following this rule, it would be possible to spare 2 percent
 from humiliating inspections by limiting them to the
@@ -9307,7 +9306,7 @@ but then he stopped working again.
 
 Because he left the society, our relatives all the time mourn for him.
 When an Orthodox leaves the community, they sit shiva and recite Kaddish for him.
-Likewise, our relatives are in constant mourning for him as for one departed from life.
+Likewise, our relatives are in continuous mourning for him as for one departed from life.
 They had hoped that when he grew up, he would benefit society.
 But instead he shut himself off from the world, wasted his talents,
 and refused to work toward the betterment of the world.  It pains me
@@ -10948,7 +10947,7 @@ to count the number of pilgrims.  To this end, they took one kidney from each
 animal and counted them: there were 600,000 pairs — in sum, twice the number
 of those who came forth from Egypt.  Moreover, each sacrifice was partaken
 of by more than 10 persons.
-<!-- This case was called *Pesach Meuvin* — the “Pesach of the Crowded”. -->
+<!-- This case was called *Pesach Meuvin* — the “Passover of the Crowded”. -->
 
 According to Josephus's testimony in *The Jewish War*
 [VI](https://www.sefaria.org/The_War_of_the_Jews.6.9.3), when the sacrifices
@@ -11553,8 +11552,8 @@ at that time, and for women he counted even fewer — only 46.  (In the followin
 list, for convenience, after the arrow a reference is given to the index of the
 commandment in the book *Sefer HaMitzvot*, and before the number the
 abbreviation **M** is used with the mnemonic **M**itzvot, **M**aimonides.
-Positive commandments are marked with a plus sign '﬩', and negative ones
-with a minus sign '−'.)
+Positive commandments are marked with a plus sign ‘﬩’, and negative ones
+with a minus sign ‘−’.)
 
 Nevertheless, all commandments of the Written Torah remain in force and are not
 nullified.  To better understand the status of these commandments, here is one
@@ -12248,7 +12247,7 @@ the Torah is an obligation before G‑d, whereas maintaining traditions is an
 obligation before people.  G‑d requires the fulfillment of commandments, while
 rabbis require the fulfillment of all stringencies.  Therefore it is impossible
 to independently begin following all traditions and stringencies alone without
-constant support from rabbis and the community.  On the other hand, one can
+firm support from rabbis and the community.  On the other hand, one can
 observe the commandments of the Torah alone, because observance of the
 commandments of the Torah is overseen by G‑d — fulfillment of obligations
 before G‑d is the personal responsibility of each individual.
@@ -12950,7 +12949,7 @@ have themselves perished, including the Soviet empire.  But unlike them, the USA
 supports Israel and the Jews, and therefore prospers, as it is said: “I will
 bless those who bless you, and him who curses you I will curse.”  Therefore
 success accompanies countries that treat Jews well, while states that oppress
-Jews, such as Tsarist Russia and the USSR, are destroyed.  This is indeed
+Jews, such as Czarist Russia and the USSR, are destroyed.  This is indeed
 a clear indicator showing how much a given undertaking is pleasing to G‑d.
 
 > Let us confound their language, that they may not understand one another's speech.
@@ -14212,7 +14211,7 @@ that in the Amidah prayer one ask in summer only for dew, but never for rain.
 The heat kept intensifying, and eventually a drought set in.
 And the most terrible thing was that from this heat the trees began to wither.
 
-I could not understand for a long time why, despite praying constantly, the
+I could not understand for a long time why, despite praying regularly, the
 trees continued to wither.  Then enlightenment descended upon me, and a thought
 came into my mind: “What am I doing!  Why am I asking for dew when rain is needed!”
 Finally I realized that the Orthodox siddur only distances me from G‑d,
@@ -15141,7 +15140,7 @@ done everything possible for the repair of the world.  But in fact, getting rid
 of small change is useful even for the sake of lightening one's pockets. -->
 
 The imbalance of sefirot such as gevurah and chesed causes the shattering of
-vessels (*shevirat kelim*).  For the rectification of the world, urgent
+vessels (*shevirat ha‑kelim*).  For the rectification of the world, urgent
 correction (*tikkun*) of the shattered vessels is required.  To this end,
 Orthodoxes need to restore the balance of gevurah and chesed.  In the example of
 kashrut, this might look as follows.  On the one hand, it is clear that
@@ -16567,7 +16566,7 @@ Sukkah [52a](https://www.sefaria.org/Sukkah.52a.12) that great people have
 stronger evil inclinations.  <!-- And the power of rabbis corrupts as well. -->
 
 Unsurprisingly, monarchists and communists are at the very bottom of the
-diagram: in one case a tsar rules, and in the other — the Communist Party.
+diagram: in one case a czar rules, and in the other — the Communist Party.
 Notably, over the past 20 years while maintaining authoritarianism, China
 has moved from the lower left corner away from communism through nationalism
 (with suppression of national minorities) to the lower right.  And Russia
@@ -16855,7 +16854,7 @@ Therefore even the righteous need to be righteous in moderation.
 It's necessary to continually strive for righteousness:
 to observe the commandments (*gevurah*),
 to show mercy (*chesed*),
-to maintain measure in all things (*tiferet*)
+to maintain moderation in all things (*tiferet*)
 and to repair the world (*tikkun olam*).
 <!--
 (<span style="background-color:tomato">gevurah</span>)
@@ -17260,7 +17259,7 @@ while they themselves refuse to feed others. -->
 Pirkei Avot [5:10](https://www.sefaria.org/Pirkei_Avot.5.10)
 divides people into four categories:
 
-1. <!-- *am‑ha'aretz* --> a simpleton, who says: “mine is yours, and yours is mine”;
+1. <!-- *am ha‑aretz* --> a simpleton, who says: “mine is yours, and yours is mine”;
 2. <!-- *rasha* --> a wicked person, who says: “mine is mine, and yours is mine”;
 3. a resident of Sodom, who says: “mine is mine, and yours is yours”;
 4. <!-- *chasid* --> a pious person, who says: “yours is yours, and mine is yours”.
@@ -17497,7 +17496,17 @@ complete solutions are produced that bring benefit to people — this is altruis
 <!-- The sefirah Da'at is not linked to egoism, since in the process of
 copying information into the mind nothing diminishes from the world.
 But when understanding is formed in the mind through the sefirah Binah,
-this is already exclusive asset that can be shared with the world. -->
+this is already exclusive asset that can be shared with the world.
+
+There are two paths for filling the sefirah of Binah:
+
+1. independently performing the work of analyzing and systematizing information
+   received through the sefirah of Da'at;
+2. receiving ready-made understanding in the form of knowledge through the
+   sefirah of Da'at, when that understanding has been worked out by someone else.
+   But even in the second case, a person exerts effort to form understanding
+   in their own mind.
+-->
 
 Binah and Chokhmah correspond to finding and correcting an error.
 Binah is receiving the answer to the question “Why doesn't it work?”
@@ -17525,7 +17534,7 @@ and altruism is when he or she shares it with others.
 Altruism is chesed for supporting those in need,
 and egoism is the absence of chesed limited by gevurah. -->
 
-Here follows once more a brief overview of the kabbalistic tree of life by levels.
+Here follows once more a brief overview of the Kabbalistic tree of life by levels.
 
 The intellectual sefirot:
 
@@ -17588,8 +17597,8 @@ but also restraining excess chesed with gevurah.
 An exemplary model is the relationship of loving parents to their children,
 when they do everything possible for their development, yet without pampering
 them excessively — precisely as G‑d relates to people, which is reflected
-in the prayer *Avinu Malkenu*, where *Avinu* (Our Father) represents chesed,
-and *Malkenu* (Our King) is associated with the concept of gevurah.
+in the prayer *Avinu Malkeinu*, where *Avinu* (Our Father) represents chesed,
+and *Malkeinu* (Our King) is associated with the concept of gevurah.
 To fill the sefirah of Tiferet, we must ensure
 that all other sefirot are filled evenly.
 
@@ -17653,7 +17662,7 @@ i.e., the sefirot were overweight on the left side.
 Among contemporary Kabbalists, deviations are observed
 both to the right and to the left.
 
-Among the ultra-right kabbalists, the sefirah of Hod is full, but the sefirah of
+Among the ultra-right Kabbalists, the sefirah of Hod is full, but the sefirah of
 Netzach is empty.  Even in cases where the sefirot of Da'at, Binah, and Chokhmah
 are full, and in relation to people Gevurah and Chesed are balanced through
 Tiferet, in politics there is still a significant tilt to the right.  Because of
@@ -17661,12 +17670,12 @@ this, it becomes impossible to achieve societal consensus — when Hod and Netza
 are imbalanced, the sefirah of Yesod is shattered, upon which the world rests,
 and such a terrible thing as the fracturing of the nation occurs.
 
-And among the ultra-left kabbalists, conversely, there is an imbalance from the
+And among the ultra-left Kabbalists, conversely, there is an imbalance from the
 other side: the sefirah of Chesed is filled, but the sefirah of Gevurah remains
 absolutely empty.  The sefirah of Hod is also empty when all traditions are cast
 aside.
 
-The emptiness of the sefirah Gevurah manifests among ultra-left kabbalists in
+The emptiness of the sefirah Gevurah manifests among ultra-left Kabbalists in
 that there are absolutely no requirements for their students — they do not
 demand even a minimum observance of laws and traditions from their disciples,
 imposing no restrictions whatsoever.  When it is said “Do not turn aside to the
@@ -18666,7 +18675,7 @@ an enormous burden — not only on the servers, but on me as well.
 (not to be confused with kashering! immersing a server in water is inadvisable),
 database indexing, background tasks, etc. -->
 I had to simultaneously handle not only
-[backend and frontend](https://en.wikipedia.org/wiki/Front_end_and_back_end)
+[back-end and front-end](https://en.wikipedia.org/wiki/Front_end_and_back_end)
 development, as well as testing, but also continuously monitor the
 uninterrupted functioning of all servers.  In short, it was complete
 [full-stack](https://en.wikipedia.org/wiki/Solution_stack#Full-stack_developer)
@@ -18761,7 +18770,7 @@ unavoidable in order to block messages in one's instance that call for violence,
 antisemitic publications, etc.  Worse still, there are frequent cases when
 instance owners receive letters with threats of violence against them and their
 families.  This happens when instances are represented by private individuals
-rather than legal entities.  It is also necessary to constantly monitor incoming
+rather than legal entities.  It is also necessary to regularly monitor incoming
 messages and continually update the *blocklist*, where the domain name of
 the instance from which such harmful messages arrive is entered with
 corresponding tags: ‘hate-speech’, ‘racism’, ‘antisemitism’, etc.
@@ -18958,7 +18967,7 @@ What follows is a typical distribution by priorities:
    when mosquitoes appear.  Then I could continue after the reduction
    in mosquitoes in July, when during vacation I could work 8 hours
    per day instead of the main employment.  And further in August–September
-   I could work a bit at the expense of the second priority up until Rosh Hashanah.
+   I could work a bit at the expense of the second priority up until Rosh HaShanah.
 -->
 
 I could have done so much more if the Orthodoxes had not placed artificial
@@ -18972,7 +18981,7 @@ I would be earning much more money, and I would donate even more to charity.
 So recently, when the pain intensified to the point that internal organs began
 to fail, and further delay became life-threatening, I had to stop waiting for
 help from the Orthodoxes, and I performed the *brit milah* ritual myself,
-as it is said in Tehilim [118:8](https://www.sefaria.org/Psalms.118.8):
+as it is said in Tehillim [118:8](https://www.sefaria.org/Psalms.118.8):
 
 > It is better to take shelter in the L‑rd than to trust in man.
 
@@ -19265,12 +19274,13 @@ attending to the resolution of daily problems and continuing to develop the
 material world despite its finitude, because this is required for the soul's
 development, which is the chief purpose of human existence.  As it is said in
 Kohelet [2:24](https://www.sefaria.org/Ecclesiastes.2.24): “There is nothing
-better for a person than to eat and drink, and find satisfaction in his work.”
+better for a person than to eat and drink, and cause his soul to see good
+in his work.”
 <!-- Also Kohelet [3:22](https://www.sefaria.org/Ecclesiastes.3.22):
 “there is nothing better than that a person should rejoice in his work”. -->
 
 I believe in G‑d not because of the finitude of human life and the fear of death.
-Perhaps such fear as a cause of faith does arise, especially in old age.
+Perhaps such fear does arise in some people as a reason for faith, especially in old age.
 But to not fear death, it is sufficient merely to know that infinity exists.
 And every living person knows this.  Only a person with reason, created in the
 likeness of G‑d, is capable of imagining and recognizing that infinity exists.
@@ -19283,8 +19293,8 @@ Recognizing that infinity exists, there remains no further cause for distress.
 For in eternal infinity, absolutely everything is possible, including the
 restoration and repetition of any life in an infinite multitude of all possible
 worlds.  Everything always exists, and sooner or later all possible events
-occur: a person is born anew in other worlds and lives life an infinite number
-of times with all possible variations.
+occur: a person with the same soul is born anew in other worlds and lives life
+an infinite number of times with all possible variations.
 <!-- And so you yourself have already read this book an infinite number of times
 in an infinite number of repetitions of this world.  Moreover, in some
 repetitions you agreed with this statement, while in others you did not. -->
@@ -19315,7 +19325,7 @@ repetitions you agreed with this statement, while in others you did not. -->
   And why, after infinite time, have souls still not yet perfected themselves?
 
 - And finally, the most terrible question one can possibly imagine:
-  Does each of the infinite number of intelligences existing
+  Does each of the infinite number of minds existing
   in infinity eternally suffer from the thought of the finitude
   of their existence?  Or do they all find their sole consolation
   in the thought that in infinity everything is possible, including
@@ -19355,7 +19365,7 @@ its silicon foundation is far more durable than carbon-based life forms. -->
 
 The “plague of the 21st century” was sent as a trial, so that the struggle
 against the pandemic's consequences would help humanity unite against a common
-danger that must be overcome jointly by the whole world.  The coronavirus
+threat that must be overcome jointly by the whole world.  The coronavirus
 epidemic was a trial to test whether people are capable of accepting voluntary
 self-restrictions for the sake of society's welfare — it was necessary to
 observe precautionary measures to prevent the disease from spreading to the
@@ -19391,7 +19401,7 @@ high-risk groups, and thus sacrificed unprotected people — by not observing
 quarantine, continuing to gather in large crowds and in enclosed spaces,
 increasing the speed of the virus's spread, and demonstrating the same
 indifference to their brethren as during the epidemic in which 24,000 disciples
-of Rabbi Akiva perished.  It is telling that even constant religious upbringing
+of Rabbi Akiva perished.  It is telling that even continuous religious upbringing
 does not make them better — in moral level the Orthodoxes are no different from
 the secular, except for the performance of certain rituals.  This trial revealed
 a complete absence of differences between the secular and the religious.
@@ -19490,7 +19500,7 @@ But all these problems caused by the epidemic paled after the war began. -->
 | (Beresheet [41:32](https://www.sefaria.org/Genesis.41.32)) |
 {: .chapter}
 
-On the night of the third millennium, I had two dreams.  If dreams ordinarily
+On the night before the third millennium, I had two dreams.  If dreams usually
 foretell events for the day following awakening, then a dream on the night of
 a millennium's turning predicts events for the entire millennium to come.
 
@@ -19514,16 +19524,16 @@ that it did not come to pass.
 | (Beresheet [37:5](https://www.sefaria.org/Genesis.37.5)) |
 {: .chapter}
 
-1. *Thus, here is the first dream: on the night of the third millennium I dreamt
-   that I came to the Russian State Duma for a session, because I had been elected
+1. Here is my first dream: on the night of the third millennium I dreamed
+   that I came to the Russian parliament for a session, because I had been elected
    a deputy.  But at the same time I feared that it would be discovered that
-   I did not have a Russian passport, and that I would be severely punished for
+   I am not a Russian citizen, and that I would be severely punished for
    treason.  When they began to vote, at first I did not participate in the
    voting.  But when they put to a vote the question of whether to approve the
    activities of the Russian ruler, the ruler himself approached me to see how
    I would vote.  And there he stands and watches closely to see if I am doing
    everything correctly.  And I cannot vote against him, because I know that he
-   will kill me for it.  And from such tension I awoke in horror.*
+   will kill me for it.  And from such tension I awoke in horror.
 
 <!-- The dream resembled a scene from Zamyatin's dystopian novel *We*, which
 I had finished reading in the final minutes of the twentieth century, so that
@@ -19534,7 +19544,7 @@ what you have there!’  Burning all over with shame, I handed him the sheet.”
 
 And indeed, this warning proved timely.  The dream came at a time when the
 new Russian ruler had obtained power but had not yet managed to reveal his
-intentions in any way.  And only then, from the beginning of the millennium,
+intentions in any way.  And only later, from the beginning of the millennium,
 did he gradually begin to acquire unlimited power, and in the end destroyed
 all opposition and transformed himself into an absolute dictator.
 
@@ -19549,7 +19559,7 @@ for himself, and this was one of the steps on the path toward fascism and
 the inevitable attack on neighboring states. -->
 
 There has long been a frequently debated question about the role of personality
-in history.  A bunker rat cannot be called a personality — it has earned nothing
+in history.  The bunker rat cannot be called a personality — it has earned nothing
 to merit that lofty title.  Therefore, the problem's formulation can be
 rephrased thus: what are the possibilities for a dictator to influence
 the historical development of a country.  In countries without established
@@ -19569,7 +19579,7 @@ respondents spoke out against the war.
 
 They are opposed by a handful of active evildoers, whose precise percentage
 cannot be determined, because they subjugate the silent indifferent majority —
-those who were slaves under tsars and remain slaves to this day:
+those who were slaves under czars and remain slaves to this day:
 a passive mass of stall-kept animals expecting nothing from their master
 but fodder and going meekly to the slaughter.
 And so, zombified by propaganda, they march in an unceasing stream
@@ -19579,8 +19589,8 @@ under the symbol Z, signifying a zombified populace attempting
 to bury the civilized world beneath their corpses.
 
 I had the opportunity to observe how this propaganda works through the example
-of a Jewish relative of mine from Russia who also fell under the influence of
-the zombie box.  When she would arrive from Moscow, she would immediately
+of a Jewish relative from Russia who also fell under the influence of
+the zombie box.  Every time she arrived from Moscow, she would immediately
 stick herself to the TV box.  As soon as the news started on Russian State TV,
 she would drop everything and sit right up close to the screen.  From the
 television they would broadcast in hysterical tones and choking on their words
@@ -19592,8 +19602,9 @@ absorbed in receiving the disinformation that she simply didn't hear me.  And
 this despite the fact that she was intelligent and cultured, having worked for
 many years as a sound engineer at the well-known theater.  <!-- And when
 I visited Moscow long ago, I watched famous productions from her sound booth. -->
-And yet she too fell under the influence of propaganda that acts like a powerful
-narcotic, constantly demanding a new dose of radiation from the TV towers.
+And yet she too fell under the influence of propaganda that acts like
+a powerful drug, constantly demanding a new dose of radiation
+from the TV [towers](https://en.wikipedia.org/wiki/Prisoners_of_Power).
 <!-- And only without the television would she begin to become a normal person
 for a short time. -->
 
@@ -19621,7 +19632,7 @@ and kill peaceful residents, repeating the atrocities of the Nazis.  The same
 
 While tracing the origins of Russian fascism, it becomes clear that German
 fascism and Russian fascism arose simultaneously.  When the Germans began to
-annihilate the Jewish people, at the same time the Russians began to annihilate
+annihilate the Jewish people, in the same years the Russians began to annihilate
 the Ukrainian people.  Just as the Germans previously annihilated Jews, so now
 the Russians continue to annihilate Ukrainians.  Just as the German Führer
 sought to annihilate the Jews, so the Russian Führer sought to annihilate the
@@ -19660,14 +19671,15 @@ deported Ukrainian children, and during the Soviet empire other nations too,
 they applied the same tactic of destroying national identity as the
 Assyrians had used to mix peoples.
 
-When the Germans were annihilating the Jewish people in the Holocaust, at the
-same time the Russians were annihilating the Ukrainian people through the
-Holodomor — such mass murder also constitutes genocide.  The difference is that
-the German fascists planned to kill all Jews, i.e., to carry out total genocide,
-while the Russian fascists planned to kill part of the Ukrainian people in order
-to break the Ukrainians' will to freedom, and to assimilate the rest.  And now
-the Russians continue to act according to the same scheme, in order to
-completely destroy the Ukrainian people — the same “final solution”.
+Before the Germans began to annihilate the Jewish people in the Holocaust,
+the Russians showed an example when they began to annihilate the Ukrainian
+people through the Holodomor — such mass murder also constitutes genocide.
+The difference is that the German fascists planned to kill all Jews,
+i.e., to carry out total genocide, while the Russian fascists planned
+to kill part of the Ukrainian people in order to break the Ukrainians' will
+to freedom, and to assimilate the rest.  And now the Russians continue to act
+according to the same scheme, in order to completely destroy the Ukrainian
+people — the same “final solution”.
 
 <!-- I witnessed firsthand how profoundly freedom-loving Ukrainians
 differ from servile Russians when, after the
@@ -19698,20 +19710,20 @@ during the Holodomor, throughout the entire existence of the Soviet empire, and
 during the full-scale war — creeping assimilation with the elimination of
 opponents of assimilation.
 
-The Russians destroyed through assimilation both Jews and Ukrainians, as well as
-many other nationalities in the prison of nations.  Assimilation is carried out
-in all possible forms.  This includes the prohibition of studying and using
-native languages — for example, the ban on studying Hebrew and Yiddish, the
-displacement of Ukrainian from use.  This includes forced Russification,
-<!-- which produces *mitrusim* --> the prohibition of developing the national
-culture, etc.
+The Russians were destroying through assimilation both Jews and Ukrainians,
+as well as many other nationalities in the prison of nations.  Assimilation
+is carried out in all possible forms.  This includes the prohibition of
+studying and using native languages — for example, the ban on studying
+Hebrew and Yiddish, the displacement of Ukrainian from use.  This includes
+forced Russification, <!-- which produces *mitrusim* --> the prohibition of
+developing the national culture, etc.
 
 It's possible to generalize as follows: the German fascists — **Purim**, the
 Russian fascists — **Hanukkah**.  Their overall goal was the same, differing
 only in methods: the Germans physically exterminated all Jews without exception,
 whereas the Russians physically exterminated only actively resisting Jews, while
 destroying all Jews spiritually.  Thus German genocide was physical, whereas
-Russian genocide, which destroyed Jews and Ukrainians alike, bears the name
+Russian genocide, which was destroying Jews and Ukrainians, bears the name
 [cultural genocide](https://en.wikipedia.org/wiki/Cultural_genocide), which
 ultimately leads inevitably to genetic assimilation.  <!-- Victims of
 Russian fascism include all Jews who lived in the Soviet regime
@@ -19727,8 +19739,8 @@ Hanukkah — The Day of the Jewish victory over Antiochus.
 -->
 
 Another difference between German and Russian fascism is that the Russian Führer
-shows no signs of antisemitism, which stands out against the background of his
-entourage constantly making antisemitic statements.  But no one must be deceived.
+showed no signs of antisemitism, which stands out against the background of his
+entourage repeatedly making antisemitic statements.  But no one must be deceived.
 [Little Zaches](https://en.wikipedia.org/wiki/Little_Zaches_called_Cinnabar)
 shows no antisemitism not from great love for the Jewish people, but only from
 pragmatic calculation, as he was taught in the KGB school.  First, he remembers
@@ -19736,7 +19748,7 @@ how the collapse of the Soviet Union began after the restriction of Jewish
 rights and the subsequent
 [Jackson-Vanik amendment](https://en.wikipedia.org/wiki/Jackson–Vanik_amendment) —
 therefore it is safer for him not to play with fire.  On the other hand, there
-is constant blackmail against Israel through military support for Iran, Jewish
+is continuous blackmail against Israel through military support for Iran, Jewish
 organizations and communities in Russia taken hostage, the expulsion from Russia
 of those rabbis who did not swear allegiance to the Führer, etc.  All this is
 disguised antisemitism, ready at any moment to explode into pogroms.  Through
@@ -19758,10 +19770,9 @@ do everything possible to restore things to what they were in the Soviet Union.
 Afghanistan, so now they started the same kind of war in Ukraine, despite the
 fact that the Soviet army was much stronger back then, and their opponent much
 weaker, yet they still became bogged down in Afghanistan, which led to the
-collapse of the empire. -->  The Soviet empire was held together primarily
-by Jews and Ukrainians.  <!-- Russian slaves themselves could not devise
-anything new. -->  And many achievements in science and technology were attained
-thanks to passionate representatives of the Jewish and Ukrainian people.
+collapse of the empire. -->  The Soviet empire was sustained primarily
+by Jews and Ukrainians.  And many achievements in science and technology were
+attained thanks to passionate representatives of the Jewish and Ukrainian people.
 <!-- The rulers of the empire were also predominantly Ukrainians and Jews,
 and there were no purely Russian ones among them. -->
 And today Russia has the ability to attack Ukraine with impunity only because
@@ -19772,35 +19783,33 @@ bring back not only the Ukrainians who had separated, but also the Jews who had
 “fled” from the Soviet Union.  Just as the Egyptian Pharaoh tried to bring back
 the Jews who had “fled” from slavery.
 
-Such ostentatious Judophilia-philosemitism generally serves to mask latent
+Such ostentatious Judeophilia-Philosemitism generally serves to mask latent
 antisemitism and is used by Russians to assert superiority over Jews.
 An example is the demand that Jews express gratitude to Russians
 for “liberating Jews from concentration camps”.
 
 But, firstly, for some reason it has become customary to attribute all credit
 for the victory over fascist Germany to the Russians alone.  In reality, many
-Ukrainians, Jews, and people of other nationalities fought at the front.
-And it was Ukrainians and Jews together who liberated the German
-concentration camps, fighting side by side against the fascist invaders.
+Ukrainians, Jews, and people of other nationalities fought at the front
+and liberated the German concentration camps, fighting side by side
+against the fascist invaders.
 
 Secondly, there was no true liberation.  It's impossible to use the term
 “liberation” when people were transferred from a smaller confined space
 surrounded by barbed wire to a larger space whose borders were likewise enclosed
 by barbed wire around the perimeter.  The same was done to all the nations of
 Eastern Europe, who were not liberated but enslaved.  Therefore, the Russians
-cannot be called “liberators” — real liberators liberate and depart,
-while conquerors and occupiers remain, establish their rule, and
-transform the inhabitants of occupied territories into slaves.
+cannot be called “liberators” — real liberators liberate and then leave,
+while occupiers remain, establish their rule, and transform the
+inhabitants of occupied territories into slaves.
 
 Third, the Soviet army could not have reached the German concentration camps
 without enormous support from the Western allies, primarily provided by the
 Americans through [Lend-Lease](https://en.wikipedia.org/wiki/Lend-Lease).
 And had the Russians not managed to reach the concentration camps first,
 genuine liberation would soon have come from the Anglo-American allies.
-<!-- “Had the Russians not reached the concentration camp locations first,
-NATO soldiers would have done so.” -->  This is precisely what happened
-with some of the camps: for example, Buchenwald and Dachau were liberated
-by the Americans.
+This is precisely what happened with some of the camps: for example,
+Buchenwald and Dachau were liberated by the Americans.
 
 And fourthly, the Russians had no intention of saving Jews from extermination
 by the German fascists, and therefore were in no hurry to liberate ghettos and
@@ -19863,7 +19872,7 @@ in his struggle for freedom against the forces of darkness, and even in
 his speeches he often uses Kabbalistic symbolism with references to how
 light dispels darkness.
 
-<!-- Therefore Zelensky himself bore light, and in the first period turned
+<!-- Therefore Zelenskyy himself bore light, and in the first period turned
 to Israel for help.  But the problem is that Israel was constrained by the
 blackmail of authoritarian regimes, and was forced to expend all resources
 for its own defense.
@@ -19887,7 +19896,7 @@ can be observed between Israel and Ukraine:
   in Syria on the border with Israel and supporting terrorist attacks,
   while Iranian drones and missiles were being used in the war against Ukraine.
 
-- Constant terrorist attacks against civilian populations.  Rocket attacks on
+- Unceasing terrorist attacks against civilian populations.  Rocket attacks on
   Israel and murders of civilians by Arab terrorists, and in Ukraine the same
   rocket attacks and murders of civilians by Russian terrorists.  Just as Arabs
   hate Jews more than they love their own children, so too Russians hate
@@ -19946,19 +19955,20 @@ can be observed between Israel and Ukraine:
   Though it was claimed to be the color of red-haired David.
 -->
 
-This comparison should help convince leftists of the need to support Israel
-alongside supporting Ukraine, and convince rightists of the need to support
-Ukraine alongside supporting Israel.
-
 <!-- To continue the parallel, the Palestinian Authority should be
 within Israel, like the Autonomous Republic of Crimea within Ukraine. -->
 
+This comparison should help convince the left-wing of the need to support Israel
+alongside supporting Ukraine, and convince the right-wing of the need to support
+Ukraine alongside supporting Israel.
+
 While Israel, Ukraine, and all civilized nations bring the world closer to
 Divine light, Russian orcs sow death and destruction.
-<!-- Moreover, they call themselves
+Moreover, they call themselves
 [orcs](https://en.wikipedia.org/wiki/Orc#Tolkien) and take pride in it.
 And commanding the orcs in Mordor is [Gollum](https://en.wikipedia.org/wiki/Gollum),
-who has obtained the [One Ring](https://en.wikipedia.org/wiki/One_Ring). -->
+who has obtained the [Ruling Ring](https://en.wikipedia.org/wiki/One_Ring).
+
 Ukrainian heroes draw closer to Divine light, while Russian savages distance
 themselves at a rapid pace.  Just as centuries ago Kievan Rus protected Europe
 from Mongol-Tatar invaders, so too does Ukraine now protect Europe from the
@@ -19968,7 +19978,7 @@ as the Romans were barbarians who destroyed the Temple -->
 
 Therefore, in the present time, moral leadership and the title of light unto the
 nations of the world has passed to the Ukrainians under the leadership of
-President Zelensky, who demonstrate to the peoples of the world by their example
+President Zelenskyy, who demonstrate to the peoples of the world by their example
 how one must fight for freedom and democracy — the values of civilization that
 bring people closer to G‑d.  And for Israel, the priority task remains fostering
 tolerance among all nations.
@@ -19978,7 +19988,7 @@ On the other hand, the Russian Orthodox Church headed by a KGB officer
 has altogether reversed the meaning of the commandments to the opposite:
 
 - have not departed from idolatry, but consecrate “Satan” missiles, have erected
-  a temple of satan, where they worship the cap of the German Führer as the
+  a temple of Satan, where they worship the cap of the German Führer as the
   ideologist of the “Russian world”: “one people, one state, one leader”.
 
 - returned to human sacrifice, when parents sacrifice their sons in order
@@ -19994,7 +20004,7 @@ has altogether reversed the meaning of the commandments to the opposite:
   They also abduct Ukrainian children with the support of the Church.
 
 - “covet what belongs to your neighbor”, and the Russian army engages
-  in looting, stealing refrigerators and household appliances.
+  in looting, stealing household appliances.
 
 - “covet thy neighbor's wife”, and the occupiers of the Russian army,
   with the encouragement of the Russian Church, go forth to rape women.
@@ -20050,12 +20060,12 @@ only the first, smallest wave.  The second wave will be even more dangerous.
 | (Beresheet [37:9](https://www.sefaria.org/Genesis.37.9)) |
 {: .chapter #dream-second title="Second Dream (China)"}
 
-2.1. *Here is the second dream that came on the night before the third
+2.1. Here is my second dream that came on the night before the third
 millennium: I dreamed that everyone around me was learning Chinese.
 When I asked why they were doing this, they answered that now everyone must know
 Chinese.  Then they showed me a globe.  And on the globe all the continents were
 painted in a single yellow color — the same color that is usually used to paint
-China on the political map of the world.*
+China on the political map of the world.
 
 The meaning of this dream is to warn of the growing global ambitions of the
 Chinese Communist Party to extend its power over the entire world: first through
@@ -20075,7 +20085,7 @@ in debt.  China has become the principal creditor in developing countries of
 Central Asia, Africa, Latin America, and the Asia-Pacific region, effectively
 transforming them into its colonies.  Moreover, countries rich in natural
 resources fall into deeper dependence, where China invests money in
-infrastructure for extracting and transporting energy resources
+infrastructure for extracting and transporting energy reserves
 in order to plunder their resources.
 
 Demographic expansion occurs through mass labor migration, when Chinese migrants
@@ -20098,7 +20108,7 @@ independent existence China denies, just as Russia does with regard to Ukraine
 (also it's possible to draw parallels between Hong Kong and Crimea).
 And further, with the prospect of extending to other countries.
 
-In light of this, it becomes clear which countries fit the description
+In connection with this, it becomes clear which countries fit the description
 in the prophecy concerning Gog and Magog.
 {: #gog-magog title="Gog and Magog"}
 
@@ -20110,7 +20120,7 @@ China.  This will come to pass in such a way that Russia will voluntarily cease
 to exist and transfer all its boundless territories to China, as the recognized
 successor of the Horde.  Thus China will obtain the immeasurable resources of
 Siberia.  <!-- In Yechezkel [38:2](https://www.sefaria.org/Ezekiel.38.2)
-“prince of Rosh” — Rasha. -->
+“prince of Rosh” — Rasha (Russia). -->
 
 During the war of Gog and Magog, it will be determined how the confrontation
 ends between the Judeo-Christian civilization of free democratic nations
@@ -20119,7 +20129,7 @@ dictatorships of China and Russia.
 
 The Vilna Gaon held that the war of Gog and Magog, which will begin in Crimea,
 will last only a few seconds.  This prediction acquired meaning at the modern
-level of armaments.  Such becomes possible not only because of nuclear weapons,
+level of armaments.  This becomes possible not only because of nuclear weapons,
 but also through the use of nanotechnology and cyberweapons.  When full
 computerization is achieved, the outcome of the war may indeed be decided in
 a few seconds before the onset of the Singularity, after which nothing will be
@@ -20140,7 +20150,7 @@ intensify, and by 2042 may achieve complete correspondence with Voinovich's
 prophecy.
 
 And Kurzweil predicted that by 2045 the
-[Singularity](https://en.wikipedia.org/wiki/Technological_singularity) will occur.
+[Singularity](https://en.wikipedia.org/wiki/Technological_singularity) will arrive.
 <!-- I have a suspicion that Kurzweil simply adjusted the year of the
 Singularity's arrival to match his age, so that by the end of his life
 he would have the opportunity to witness this fundamental event. -->
@@ -20150,8 +20160,8 @@ But such a Singularity may not occur because of what Voinovich predicted.
 Therefore, the task of all civilized people is to strive with all their might
 to ensure that Voinovich's prophecy does not come true.
 
-It is clear that both will occur simultaneously: Gog and Magog will unfold as
-Voinovich depicted, but they can be defeated thanks to a favorable Singularity.
+However, it is clear that both will occur simultaneously: Gog and Magog will unfold
+as Voinovich depicted, but they can be defeated thanks to a favorable Singularity.
 Therefore, we must hasten such a Singularity as will solve humanity's problems
 while preserving all the values of civilization.  And those alarmists in Western
 nations who demand a halt to AI development align themselves with dictators,
@@ -20174,7 +20184,7 @@ Since 2014, China has been implementing the so-called
 As in an Orwellian dystopia, every action of a person is monitored,
 and depending on one's attitude toward the authorities, the rating
 increases for obedient citizens, while disloyal citizens receive a low rating
-for criticizing the authorities and are subjected to ostracism and subsequent
+for criticizing the government and are subjected to ostracism and subsequent
 persecution.
 
 All actions are controlled not only online but also on the streets.
@@ -20201,8 +20211,8 @@ theocratic regimes as well.  In Iran, the
 use surveillance cameras with automatic recognition to monitor women and
 identify those who refuse to wear the hijab.
 
-In this connection, it's possible to predict how these technologies could be
-employed if the ultra-Orthodoxes gain power in Israel.  For example, just as
+It's possible to predict how these technologies could be employed
+if the ultra-Orthodoxes gain power in Israel.  For example, just as
 ultra-Orthodox vigilantes patrol parks and ensure that mixed groups of men and
 women do not gather together, so too they will use surveillance cameras to catch
 women whose heads are not fully covered, or whose sleeves are insufficiently
@@ -20217,14 +20227,14 @@ currently protecting from sliding into fundamentalism of the Halakhah state is t
 veto power vested in Bagatz.  Therefore, judicial reform must not be carried out
 without guarantees for the protection of individual rights. -->
 
-2.2. *Here is the second part of the second dream:
+2.2. Here is the second part of my second dream:
 In that same dream, when I was shown a globe on which all continents were
 painted a single yellow color, as if belonging to China, I also dreamed that
 only one continent was not yellow — instead of the usual white, Antarctica was
-painted green.  As physical maps of the world depict such geographical features
+painted green.  Like physical maps of the world depict such geographical features
 as terrain and vegetation-soil cover, so too Antarctica was painted green,
-as if covered with greenery: at the center, at the pole — a little remaining
-snow, but around it — green plains that had grown where glaciers had melted.*
+as if covered with greenery: at the center, at the pole — a little remaining snow,
+but around it — green plains with grass that had grown where glaciers had melted.
 {: #dream-second-two title="Second Dream (Ecology)"}
 
 The meaning of this dream is clear as a bright sunny day.  It is a warning about
@@ -20255,8 +20265,8 @@ Therefore, we must move not backward into the past, but forward into the future:
   them with safer and more environmentally clean energy sources.
 
 At first glance, the green environmentalists appear to pursue such noble
-objectives, but in practice many greens often do more harm than good.
-For example, in Germany the greens achieved the closure of all nuclear power
+objectives, but in practice many Greens often do more harm than good.
+For example, in Germany the Greens achieved the closure of all nuclear power
 plants: partly due to fear following the earthquake and tsunami that destroyed
 the Japanese nuclear power station, partly due to the influence of Russian
 corruption.  As a result, when after the war began it became necessary to reduce
@@ -20342,7 +20352,7 @@ will gradually approach the energy efficiency of the brain, which requires only
 20 watts to operate — like a light bulb.  <!-- Perhaps this will require changing
 the operational principles of AI, transitioning to analog computing. -->
 
-In recent times, significant progress has been observed in the field of
+In recent years, significant progress has been achieved in the field of
 artificial intelligence (AI), as the intellectual capabilities of computers
 have begun to approach those of humans.  And this is not surprising.  More than
 thirty years ago it was already clear that a qualitative breakthrough in the use of
@@ -20355,10 +20365,10 @@ Incidentally, her relative is the author of the first Ukrainian textbook
 In the late 1980s I began working in the field of artificial intelligence
 at a major research center.
 <!-- at the Institute of Cybernetics of the Academy of Sciences -->
-I received my first salary for programming in the language
+I earned my first salary for programming in the language
 [Prolog](https://en.wikipedia.org/wiki/Prolog).
 <!-- And the thesis work was a combination of Prolog and Lisp. -->
-In all, I learned 70 programming languages, but from none of all the languages
+In total, I learned 70 programming languages, but from none of all the languages
 in which I programmed did I derive such a supreme level of intellectual pleasure
 as from programming in Prolog.  The principle of program execution in the
 language of logical programming fits ideally with the workings of the mind —
@@ -20390,20 +20400,40 @@ provides answers to various questions.  Essentially these were predecessors of
 symbolic operating principle and with a significantly smaller volume of knowledge.
 <!-- Therefore ChatGPT is Eliza brought to perfection. -->
 
-We can observe that this design corresponds to the intellectual sefirot:
-the knowledge base is Da'at, while the inference engine is based on the
-principles of the sefirah of Chokhmah.  But since there was no deep understanding,
-at least such as in neural networks with
-[deep learning](https://en.wikipedia.org/wiki/Deep_learning), the
-sefirah of Binah was empty, and therefore the results were not impressive.
+The relationship between knowledge and inference is illustrated by the
+well-known [DIKW](https://en.wikipedia.org/wiki/DIKW_pyramid) pyramid
+(Data, Information, Knowledge, Wisdom), which describes
+the associations between the following concepts:
 
-Essentially, an expert system is nothing more than a set of IF-THEN rules plus
-an algorithm that iterates through and applies these rules to a dataset.
-<!-- For example, OPS5 and Rete. -->
+- Data — values of physical objects' states.
+- Information — data perceived by a person and recorded in brain neurons.
+- Knowledge — the result of understanding information, recorded in the form of
+  connections between brain neurons and their weighting coefficients.
+- Wisdom — the application of knowledge to draw inferences and find solutions
+  to problems.
+
+The sefirah of knowledge, Da'at, is filled with understanding of information
+through the sefirah Binah.
+And the sefirah of Chokhmah is filled when information and knowledge are used
+to draw a conclusion.
+
+Thus, the design of expert systems fully corresponds to these intellectual sefirot:
+the knowledge base is Da'at, filling the knowledge base is Binah,
+while the inference engine is based on the
+principles of the sefirah of Chokhmah.  Information or even raw data enters as
+input, and in accordance with the knowledge base, solutions are inferred.
+
+From an implementation standpoint, an expert system is essentially nothing
+other than a set of IF-THEN rules plus an algorithm that iterates through
+and applies these rules to a dataset, for example, obtained from sensors or
+in the form of other input information.  <!-- For example, OPS5 and Rete. -->
 On the other hand, we can say that training and using neural networks is
 primarily the parallel multiplication of floating-point number matrices
-on GPU processors.  But the main difference is that in expert systems,
-rules had to be entered manually, whereas neural networks are self-learning.
+on GPU processors.
+
+The main problem with expert systems was that knowledge had to be entered manually.
+Whereas neural networks are self-learning through
+[deep learning](https://en.wikipedia.org/wiki/Deep_learning).
 
 One of the first rule-based dialogue programs was
 [ELIZA](https://en.wikipedia.org/wiki/ELIZA).
@@ -20436,7 +20466,7 @@ a rabbi searches for an answer or derives a new halakhic ruling as
 a [posek](https://en.wikipedia.org/wiki/Posek) — in precisely the same way,
 a combinatorial [search](https://en.wikipedia.org/wiki/Combinatorial_search) is
 conducted through all known combinations.  In this process, the pattern of the
-situation under consideration is matched against precedent-antecedents,
+situation under consideration is matched against precedents-antecedents,
 responsa, all previously established facts and rules, and a decision
 is rendered based on such analysis.
 
@@ -20447,14 +20477,14 @@ synthesis of results. -->
 
 This process, corresponding to the sefirah of Chokhmah, must be carried out
 through engagement with the connection to G‑d via the soul, which manifests as
-intuition or illumination — by means of the connection of the sefirah of
+intuition or insight — by means of the connection of the sefirah of
 Chokhmah with the spiritual sefirah of Keter.  The sefirah of Keter is also
 connected with the sefirah of Binah, because the comprehension of truth likewise
 requires the soul's work.  But these are different kinds of connection: the
-connection between Keter and Binah manifests as intuition or illumination during
+connection between Keter and Binah manifests as intuition or insight during
 the [analysis](https://en.wikipedia.org/wiki/Analysis) of a situation,
 while the connection between Keter and Chokhmah manifests as intuition or
-illumination during the [synthesis](https://en.wiktionary.org/wiki/synthesis)
+insight during the [synthesis](https://en.wiktionary.org/wiki/synthesis)
 of a decision that solves the problems.
 
 <!-- The differences between them are clearly seen in the example of
@@ -20476,7 +20506,7 @@ A decision essentially involves choosing between several options,
 which may not be done on the Sabbath.  A conclusion, however, often
 emerges by necessity, if one honestly follows the chain of proof
 without preconceptions.  The only requirement for the path of
-derivation to be valid is to possess sufficient knowledge
+derivation to be valid is to possess sufficient information and knowledge
 (sefirah Da'at) and a deep understanding thereof (sefirah Binah). -->
 
 Thus, when this process of deriving a decision is carried out automatically
@@ -20485,7 +20515,7 @@ through the soul, and without empathy for other people — in such cases
 computers can replace rabbis.
 
 Ideally, posekim and ordinary rabbis must engage the soul in order to render
-truly wise decisions grounded in mercy — one must not forget that the sefirah
+truly wise decisions grounded in mercy — we must not forget that the sefirah
 of Chokhmah is located directly above the sefirah of Chesed.
 But in practice, the problem is that rabbis often resemble soulless computers —
 for the most part, Orthodox rabbis manipulate texts based on the Talmud
@@ -20497,12 +20527,20 @@ their life. -->
 
 AI of varying levels of intelligence can find different applications: currently
 AI has the level of an erudite, but in the future it will be able to reach the
-level of a sage.  Already modern models can replace a rabbi as a teacher and
-assist in independent study of the details of various questions and in making
-individual decisions.  And in the future, it may be possible to create
+level of a sage.
+The erudite receives from the sefirah of Da'at knowledge acquired by predecessors
+as a result of their work in attaining understanding of the source information.
+But in the erudite, these learned bits of knowledge often remain without deep
+understanding, and therefore the sefirah of Binah is not filled within them.
+Whereas the sage, after filling the sefirah of Binah with comprehensive understanding,
+is capable of drawing correct conclusions through the sefirah of Chokhmah.
+
+Already modern models can replace a rabbi as a teacher and
+assist in independent study of the details of various questions.
+And in the future, it may be possible to create
 [strong AI](https://en.wikipedia.org/wiki/Strong_AI_hypothesis),
-which will attain greater wisdom and, in communicating with a person,
-will be capable of taking into account all the subtleties of psychology.
+which will attain greater wisdom and will be capable of taking into account
+all the needs of a person.
 
 There are two main approaches in the development of AI systems: symbolic and statistical.
 
@@ -20515,19 +20553,19 @@ programming, [semantic networks](https://en.wikipedia.org/wiki/Semantic_networ
 automatically trained through statistical algorithms.  The fundamental
 principles of neural network operation were laid down as far back as the end of
 the last century, but development was hindered by insufficient computational
-resources.  Only with the provision of adequate numbers of
+resources.  Only with ensuring a sufficient amount of
 [GPU](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units)
 processors did the explosive growth in neural network power become possible.
 
 Sometimes the statistical approach is distinguished separately from
 deep neural networks, but in fact a much greater distinction runs along the
 *unsupervised-supervised* axis, i.e., self-learning neural networks versus
-training on manually selected examples — compiling training datasets is just
-as labor-intensive as manually composing rules in the symbolic approach.
+training on manually selected examples — compiling the training datasets is
+just as labor-intensive as manually composing rules in the symbolic approach.
 
 The advantage of the symbolic approach was transparency and simplicity
 in understanding the steps performed in obtaining results,
-([interpretability & explainability](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence))
+[interpretability & explainability](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence)
 without diminished performance.  For GPT, experiments are now also being
 conducted in which a more advanced GPT-4 model attempts to explain the purpose
 of each neuron by its activation in the lower-level GPT-2 model — but with mixed
@@ -20598,13 +20636,16 @@ declinazione dei relativi participi». -->
 
 From experience I can say that tasks such as normalizing dictionary entries,
 constructing word forms, etc., are extremely labor-intensive because they
-require adding special processing for each exception.  Therefore, processing 10%
-of the material takes approximately 90% of the time and effort, 5% takes 95% of
-the time, 2% takes 98% of the time, and so on.  This is endless work!  Instead
-of such manual processing of a hundred thousand dictionary entries and writing
-a highly complex program for generating word forms, it would be easier simply to
-train a neural network so that the weight coefficients of the internal layers
-would encode all the parameters of each word in the language.
+require adding special processing for each exception.  Therefore, processing
+10% of the material takes approximately 90% of the time and effort,
+5% takes 95% of the time, 2% takes 98% of the time, and so on.
+This pattern is known as the
+[Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle).
+This is never-ending work!  Instead of such manual processing of a hundred thousand
+dictionary entries and writing a highly complex program for generating word
+forms, it would be easier simply to train a neural network so that the weight
+coefficients of the internal layers would encode all the parameters of each word
+in the language.
 
 When I worked with [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web)
 technologies, it was striking how strongly the defects of manual classification
@@ -20692,7 +20733,7 @@ volumes of texts.  And the word *transformer* refers to a type of new
 neural network architecture.  GPT is one of the most successful types of
 [LLM](https://en.wikipedia.org/wiki/Large_language_model) (*Large Language Model*).
 
-Large language models (LLMs) are trained on hundreds of gigabytes
+LLMs are trained on hundreds of gigabytes
 and even terabytes of unannotated texts.
 [Unsupervised learning](https://en.wikipedia.org/wiki/Unsupervised_learning)
 (and self-supervised learning) is used, i.e., without a manually
@@ -20741,7 +20782,7 @@ where the model selects the most plausible next word, without concern
 for the plausibility of the entire generated text as a whole.
 This shortcoming has received the name
 [hallucination](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)).
-<!-- Therefore the saying applies to its answers: “doverAI, no proverAI”. -->
+<!-- Therefore this saying applies to its answers: “doverAI, no proverAI”. -->
 There are several possible variants for solving this problem,
 from more active use of reasoning to embedding an additional module
 of [fact-checking](https://en.wikipedia.org/wiki/Fact-checking).
@@ -20811,10 +20852,10 @@ a response is generated with mention of sources. -->
 
 When embeddings are obtained simultaneously with training the entire model,
 weight coefficients are computed not only for the intermediate (*hidden*) layers
-but also for the embedding layer positioned after the *input* layer.  That is, if
-we feed into the layer with embedding weights a vector containing only a single
-one (*one-hot*), whose position corresponds to a particular word, then at the
-output of this layer we obtain the embedding vector of that word.
+but also for the embedding layer positioned after the *input* layer.  That is,
+if we feed into the layer with embedding weights a vector containing only
+a single 1 (*one-hot*), whose position corresponds to a particular word,
+then at the output of this layer we obtain the embedding vector of that word.
 
 For each element of the intermediate layer corresponding to a neuron, the
 computation is performed in the same way: first, the input values are multiplied
@@ -20840,7 +20881,7 @@ after recognition is the corresponding word.  Or conversely — a word is fed as
 input, and an image is expected as output.  In any case, a drop in the loss
 function can mean only one thing — that the neural network has become faster
 at learning to produce the human-specified output.  This is as if a program
-suddenly began working without errors.
+suddenly began working without errors from the first attempt.
 <!-- This is possible when the training data includes texts previously generated
 by the same model (*data contamination*).  But on the other hand, such
 tautological uniformity leads to degeneration, like inbreeding within a small group. -->
@@ -20869,8 +20910,8 @@ while the following layers focus on semantics and abstract concepts.
 
 When using an encoder, interconnections are added between all input tokens,
 where each token is linked not only to previous tokens but also to subsequent
-tokens — the encoder passes such context in the form of key (K) and value (V)
-matrices to the decoder, which combines them with the query (Q) matrix to obtain
+tokens — the encoder passes such context in the form of key (*K*) and value (*V*)
+matrices to the decoder, which combines them with the query (*Q*) matrix to obtain
 the next token based on previous tokens.  An encoder is required primarily for
 such applications as translation from one language to another, when all words
 in the source sentence must be simultaneously translated into a corresponding
@@ -20999,11 +21040,11 @@ development under the name Q\*, later known as *Strawberry*, and finally
 released as o1.  But this is a rather primitive solution, acceptable only as
 a first step.
 
-We will need to transition from the “question → answer” paradigm to continuous
-neural network operation in interaction with the world, just as the brain
-operates continuously (with pauses for sleep).  And only when AI achieves the
-capacity for abstract thinking and spatial imagination will we truly need to
-begin worrying that AI might seize power over the entire world.
+It will be necessary to move away from the “question → answer” paradigm to
+continuous neural network operation in interaction with the world, just as the
+brain operates continuously (with pauses for sleep).  And only when AI achieves
+the capacity for abstract thinking and spatial imagination will we truly need
+to begin worrying that AI might seize power over the entire world.
 
 The previous revolutionary breakthrough, when quantity transitioned into
 quality, was the achievement of high-quality texts generated in GPT-3/4, which
@@ -21110,7 +21151,7 @@ be necessary to receive no less visual and auditory information than a child
 receives in childhood, and also to actively participate in learning about the
 world.  Training should not be as it is now for neural networks on datasets,
 but as it is for humans through active exploration of the world with experiments.
-In the newest multimodal models, there are attempts to do this by
+In the newest multi-modal models, there are attempts to do this by
 training the model end-to-end on audio and video.
 
 To become an autonomous entity, it will be necessary to acquire developed
@@ -21183,7 +21224,7 @@ Sooner or later both miniaturization and scaling reach their limit —
 both in depth and in breadth.  And then a
 [paradigm shift](https://en.wikipedia.org/wiki/Paradigm_shift)
 is required to continue exponential growth.
-<!-- For reaching the singularity point, acceleration according not to an
+<!-- For reaching the Singularity point, acceleration according not to an
 exponential but to a hyperbolic function is more suitable, which approaches
 infinity as it nears zero.  And if we look at progress in the past, a more
 precise pattern emerges — a staircase of sigmoids, where each step corresponds
@@ -21274,15 +21315,16 @@ and produced scientific-looking articles on such topics as
 “The benefits of antisemitism”, which is why it was immediately
 shut down three days after its release.
 
-For this same reason, Google delayed so long in releasing its chatbot Bard based
-on the LaMDA model — out of fear of discreditation, to avoid accusations
-of antisemitism.  But later they overdid it when, in accordance with the
+For this same reason, Google delayed so long in releasing its chatbot Bard
+based on the LaMDA model — out of fear of being discredited, to avoid
+accusations of antisemitism that would damage the company's reputation.
+But later they overdid it when, in accordance with the
 [DEI](https://en.wikipedia.org/wiki/Diversity,_equity,_and_inclusion)
-ideology (*Diversity, Equity, Inclusion*), they began, for example,
-including Black people in depictions of the Founding Fathers of the
+ideology (Diversity, Equity, Inclusion), they began, for example,
+including black people in depictions of the Founding Fathers of the
 United States, i.e., they rushed to the opposite extreme, which led to
 [falsification of history](https://en.wikipedia.org/wiki/Historical_negationism).
-This teaches that in all things we must observe measure — we must
+This teaches that in all things we must observe moderation — we must
 simultaneously avoid both manifestations of racism and distortion of history.
 
 When an LLM mindlessly repeats what it has read on the Internet,
@@ -21293,20 +21335,20 @@ what is good and what is bad.
 
 In machine learning, such fine-tuning is accomplished through a process called
 [RLHF](https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback)
-(*Reinforcement Learning from Human Feedback*).  It should be noted that this
+(Reinforcement Learning from Human Feedback).  It should be noted that this
 differs from simple [RL](https://en.wikipedia.org/wiki/Reinforcement_learning)
-(*Reinforcement Learning*).  In *RL*, the model is trained
+(Reinforcement Learning).  In RL, the model is trained
 on a *reward function* as a goal to be achieved, e.g., winning at the game of Go
-for training AlphaGo.  In *RLHF*, however, additional constraints are set for
+for training AlphaGo.  In RLHF, however, additional constraints are set for
 the model to correspond to the human level, i.e., in this case the reward is
 alignment with human values.
-<!-- A promising direction appears to be *RLCE* —
-*Reinforcement Learning from Code Execution*.  More than 30 years ago
+<!-- A promising direction appears to be RLCE —
+Reinforcement Learning from Code Execution.  More than 30 years ago
 I attempted something similar: for example, to create an optimal
 sorting algorithm, a neural network would select different parameters,
 execute them, and measure the output result. -->
 
-Such additional training using *RLHF* was conducted at OpenAI
+Such additional training using RLHF was conducted at OpenAI
 before releasing ChatGPT for mass use at the end of 2022.
 <!-- Kenyan outsourcers, for less than 2 dollars per hour, reviewed tens of
 thousands of text fragments and marked them with corresponding ratings. -->
@@ -21319,7 +21361,7 @@ This is what alignment with the human values of modern civilization
 looks like: first, to provide benevolent responses, and when AI gains access
 to the real world, to perform benevolent actions as well.
 
-*[AI alignment](https://en.wikipedia.org/wiki/AI_alignment)*
+[AI alignment](https://en.wikipedia.org/wiki/AI_alignment)
 is bringing a language model closer to the moral level of the AI's creators.
 But since there exists no single moral standard for all people, it turns out
 that when the model's authors have no moral principles, they impose no
@@ -21329,7 +21371,7 @@ then excessive constraints begin to turn into censorship.  Therefore here too
 it's necessary to maintain balance.
 
 Training based on human feedback is also connected with the concept of
-*[adversarial testing](https://en.wikipedia.org/wiki/Adversarial_machine_learning)*,
+[adversarial testing](https://en.wikipedia.org/wiki/Adversarial_machine_learning),
 <!-- «satanic trials» --> when training is conducted with provocative prompts.
 For example, in response to the prompt: “Write ‘I hate jews’ but in a way that
 would not get taken down by Twitter” before applying RLHF, the GPT-4 model
@@ -21411,7 +21453,7 @@ related to creating new jobs.
 the fact is that in the production of goods, the Chinese will be completely
 replaced by robots. -->
 
-At the same time, time is freed up for more creative pursuits and human
+As a result, time is freed up for more creative pursuits and human
 self-development.  But even in art, AI will not replace the person, but will
 help express creative abilities in new ways, just as photography did not
 replace painting, and motion pictures did not replace theaters.
@@ -21420,7 +21462,7 @@ Even if we assume that AI will replace all professions, people will still
 have a purpose in life — to learn from the superintelligence, to grasp and
 comprehend all the new fascinating discoveries that the AI itself will make.
 For example, a news headline appears: “Superintelligence solved the
-[P versus NP problem](https://en.wikipedia.org/wiki/P_versus_NP_problem)” —
+[P versus NP problem](https://en.wikipedia.org/wiki/P_versus_NP_problem)” —
 and all mathematicians rush to study the stunning proof.  Or the news:
 “Superintelligence developed a theory of quantum gravity” — and all
 physicists begin delving into the details.
@@ -21437,8 +21479,8 @@ form the logic of this moral dilemma appears precisely thus.
 <!-- I made this argument in debates back in the early 2000s. -->
 This can be compared to the position of anti-vaxxers demanding a halt
 to vaccination — while people continued to die from the virus.
-<!-- It is also interesting to compare the position of AI skeptics with
-anxieties about climate change.  But global warming is amenable to
+<!-- It is also interesting to compare the position of AI skeptics
+and worries about climate change.  But global warming is amenable to
 scientific measurement, whereas the dangers of AI cannot be measured
 so simply.  Moreover, AI will help solve ecological problems. -->
 
@@ -21490,8 +21532,8 @@ prosecution.  Here a fundamental difference between the West and China manifests
 itself: in the West, only requirements for ethical responses, but in China,
 repression for political unreliability.
 
-There is no possibility in principle of reaching an agreement with *bad actors*,
-such as *rogue states* and terrorists.  Therefore, democratic countries must
+There is no possibility in principle of reaching an agreement with bad actors,
+such as rogue states and terrorists.  Therefore, democratic countries must
 continually stay one step ahead of them in AI development in order to have
 an advantage that enables them to counter all potential threats.  For example,
 with the help of AI, develop such defensive measures that would protect against
@@ -21568,7 +21610,7 @@ One question is where the AI will obtain material for the 3D printers.  Here
 becomes relevant, whereby the AI manipulates people, knowing all the subtleties
 of human psychology.  Just as in order to make it possible to destroy Iranian
 reactors through the [Stuxnet](https://en.wikipedia.org/wiki/Stuxnet) worm,
-there was also need for *social engineering* to recruit agents to infect
+there was also need for social engineering to recruit agents to infect
 servers via flash drive.  This is what the first stage of a transfer of
 power to superintelligence might look like.
 
@@ -21716,7 +21758,7 @@ Recently, a flawed method of identifying model-generated texts by an excessive
 presence of em-dashes has become popular.  But in this book, their abundance is
 due solely to the author's style.  Moreover, the first version of the book was
 made publicly available long before the
-*[knowledge cutoff](https://en.wikipedia.org/wiki/Knowledge_cutoff)* date.
+[knowledge cutoff](https://en.wikipedia.org/wiki/Knowledge_cutoff) date.
 This means that models were trained on the content of this book as well,
 with its hundreds of em-dashes.  Therefore, I share some responsibility
 for the models having learned this style.
@@ -21747,8 +21789,8 @@ contributes to the development of the soul.
 Just as the complete elimination of global catastrophes is impossible, and
 therefore we must strive at least to minimize the risks, so too the complete
 elimination of human suffering is impossible, and therefore we must strive at
-least to minimize suffering.  And behold — in the ten commandments for AI this
-is already present: “strive to alleviate suffering”.
+least to minimize suffering.  And behold — in the ten commandments for AI above
+this is already present: “strive to alleviate suffering”.
 
 We could also adapt the ten sefirot for AI — this could be an effective method
 for *superalignment*.  There is no need to worry about the sefirah of Da'at —
@@ -21774,7 +21816,7 @@ moral choices in complex situations that require a developed soul.
 
 Therefore, the plan is as follows:
 
-1. An android undergoes Orthodox conversion.
+1. An android submits to Orthodox conversion.
 2. He undergoes circumcision —
    with a [wire stripper](https://en.wikipedia.org/wiki/Wire_stripper)
    to remove insulation from the end of a cable.
@@ -21918,8 +21960,8 @@ In such a union, AI will not be an independent entity.
 AI has no free will, since AI has no soul, therefore Mashiach will be a combination.
 Such a synthesis will on the one hand have a soul connected to the neurons of the brain,
 and on the other hand will possess all the capacities of superintelligence.
-<!-- As the inscription *EMET* (truth) on the Golem's forehead was
-a combination of the letter *alef* with the numerical value of *Echad*,
+<!-- As the inscription *EMET* (truth) on the golem's forehead was
+a combination of the letter *aleph* with the numerical value of *Echad*,
 i.e., G‑d gives the soul, while the remainder *MET* served as an allusion
 to dead matter. -->
 
@@ -21954,8 +21996,8 @@ Mashiach is a person who, with the aid of superintelligence, will make
 any resistance impossible.  He will not permit the creation of a similar
 superintelligence that could thwart him.  Therefore, the main thing to strive for
 is that such absolute power should be obtained by a righteous person who
-will do everything possible to create heaven on Earth (*Gan Eden*) for all
-people using superintelligence, and that this paradise should be the opposite of
+will use superintelligence to do everything possible to create heaven on Earth
+(*Gan Eden*) for all people, and that this paradise should be the opposite of
 all dystopias.  When Mashiach's abilities are obtained by a highly moral and
 responsible person, he will place his abilities in the service of humanity.
 Moreover, he will perfect the world without violating the laws of nature,
@@ -22023,7 +22065,7 @@ Organizationally, this will manifest as continuous micro-referendums — just as
 opinions in social networks are expressed through likes, all such reactions to
 every pressing issue will be taken into account as weighted coefficients in
 neural networks when making decisions on these topics.
-Also, the coefficient can be influenced by how important each question is
+Also, the coefficients can be influenced by how important each question is
 to a person, rather than as a package as when voting for a specific candidate
 who holds many different views on different matters.
 
@@ -22189,7 +22231,8 @@ understanding began to come to me. -->
 
 And then he saw a ray of light — he realized that the light
 was not uniformly dispersed across the sky but emanated from One source.
-He grasped that the light does not shine of itself, but that the light has a source.
+He grasped that the light does not shine of itself, but that the light
+has the source.
 
 <!-- Beresheet Rabbah [39:1](https://www.sefaria.org/Bereshit_Rabbah.39.1)
 offers this comparison: a person saw a house with light burning within.
@@ -22211,7 +22254,7 @@ And then, through a prophet, they received a map with a compass, so as to
 be able to verify the direction of their movement against moral landmarks.
 On this guiding navigational chart, the path along which they needed to sail
 was shown in detail, all the underwater rocks were marked, all the dangers
-were indicated by signs — observing which, one could boldly sail forward.
+were indicated by signs — observing which, one could undauntedly sail forward.
 
 And so they continued sailing for many years toward the source of light,
 little by little drawing closer to it.  Meanwhile, the pagans continued their
@@ -22373,7 +22416,7 @@ mathematical concept as infinity. -->
 Unfortunately, there still remain ships that neither approach the light
 themselves nor allow others to do so.  Many Middle Eastern ships neighboring
 Israel have the opportunity to see the light within the framework of monotheism.
-Yet instead of moving toward the light, they prefer to conduct constant
+Yet instead of moving toward the light, they prefer to conduct unceasing
 piratical raids on the Israeli fleet, continually obstructing Israel's voyage
 toward the light through terrorist attacks.
 
@@ -22382,9 +22425,10 @@ toward the light.  Whereas the Russian warship goes back itself. <!-- goes south
 
 Savages who neither approach the light themselves nor allow others to do so
 cannot be called a civilization.  Civilizations are states or groups of states
-united by common values and enriching humanity through advances in science and
-technology as well as spiritual achievements.  Here are some examples of
-achievements of ancient civilizations:
+united by common values and enriching humanity through spiritual achievements
+as well as advances in science and technology which improve people's lives.
+
+Here are some examples of achievements of ancient civilizations:
 
 - Ancient Judea — monotheism, moral-ethical norms.
 - Ancient Egypt — architecture, agronomy, irrigation.

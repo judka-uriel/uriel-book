@@ -38,7 +38,7 @@ and in Sefer HaZohar Beresheet
 
 ![white noise image](../../../files/book/white_noise.jpg){:.center}
 
-| and darkness over the surface of the abyss | וְחֹ֖שֶׁךְ עַל־פְּנֵ֣י תְה֑וֹם |
+| and darkness over the surface of the abyss | וְחֹ֖שֶׁךְ עַל־פְּנֵ֣י תְה֑וֹם |
 || (Beresheet [1:2](https://www.sefaria.org/Genesis.1.2)) |
 {: .chapter .page-break}
 
@@ -1354,6 +1354,7 @@ religion and science is as follows:
 
 - science without religion is like a body without a soul;
 - religion without science is like a soul without a body.
+{: style="page-break-inside: avoid"}
 
 Or as Einstein said: “science without religion is lame,
 religion without science is blind”.
@@ -8693,6 +8694,7 @@ among Jews with such a gentile surname — as Ashkenazim with German surnames to
 <!-- And it's even worse with Russian surnames inherited from non-Jewish fathers. -->
 When the Orthodoxes trampled on my Jewish surname and shamed me for
 my Jewish surname, it was an insult to all my Jewish ancestors.
+{: style="page-break-inside: avoid"}
 
 I wonder if those Orthodox rabbis with German surnames would not be ashamed
 to approach my Litvak ancestors with a Litvish surname and present to them
@@ -17263,6 +17265,7 @@ divides people into four categories:
 2. <!-- *rasha* --> a wicked person, who says: “mine is mine, and yours is mine”;
 3. a resident of Sodom, who says: “mine is mine, and yours is yours”;
 4. <!-- *chasid* --> a pious person, who says: “yours is yours, and mine is yours”.
+{: style="page-break-inside: avoid"}
 
 Here it is evident that the property of Sodom is nothing other than egoism,
 when every man is for himself alone. <!-- “and G‑d against all”,

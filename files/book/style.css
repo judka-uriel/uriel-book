@@ -13,7 +13,7 @@
 }
 html {
   font-family: GreatHebrewFont, DejaVu Sans;
-  font-size: 120%;
+  /* MOVED TO HTML HEADER: font-size: 120%; */
   /* SAME: font-size: 19.2px; */
 }
 code {

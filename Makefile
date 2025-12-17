@@ -82,6 +82,7 @@ $(URIEL_EN_HTML): $(URIEL_EN_MD) files/book/style.css files/book/header.html fil
 #	convert -size 320x200 xc:gray +noise random -colorspace gray images/white_noise.jpg
 	LANG=en_US.UTF-8 kramdown $< \
 	| cat files/book/header.html - files/book/footer.html \
+	| LANG=en_US.UTF-8 ruby -pe 'sub("font-size: 120", "font-size: 124")' \
 	> $@
 
 $(dir $(URIEL_EN_PDF)):

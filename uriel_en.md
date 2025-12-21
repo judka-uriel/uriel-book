@@ -13475,8 +13475,8 @@ And right in the middle of the room was a built-in shower stall with glass
 walls.  When the time came for the young woman to wash, I modestly turned away
 to face the opposite direction.  Throughout the entire time she was washing,
 I exerted every effort not to turn my head and look through the transparent
-walls of the shower stall at the naked young woman.  I shook like the Chernobyl
-reactor before its explosion, but nevertheless I withstood this trial and,
+walls of the shower stall at the naked young woman.  I was shaking like the
+Chernobyl reactor before its explosion, but nevertheless I withstood this trial and,
 despite the enormous temptation, restrained myself and did not transgress
 this commandment.
 
@@ -18521,8 +18521,7 @@ every day I have been freely helping people in this way, performing good deeds.
 
 <!-- By the calculations, my 3,000 commits amount to more than 100 commits
 per year.  That is, on average, 3 days go into discussion, following which
-a commit is made.  (Interestingly, during this time I watched exactly
-the same number of films — on average, 1 film every 3 days.) -->
+a commit is made. -->
 
 <!-- An interesting fact is that I continued the development of a certain package
 originally begun by
@@ -20347,10 +20346,11 @@ as much energy as 17 thousand households.
 
 One possible solution is to use the generated heat for warming buildings.
 Alternatively, data centers could be moved beyond Earth's atmosphere: into
-near-Earth orbit or onto the Moon (Mars is too far away due to excessive
+near-Earth orbit or onto the Moon, <!-- Mars is too far away due to excessive
 [ping](https://en.wikipedia.org/wiki/Round-trip_delay) — depending on the
-planets' orbital positions, between 6 and 44 minutes), and then power them
-with solar energy.  It is possible that AI, in the course of its development,
+planets' orbital positions, between 6 and 44 minutes --> and then power them
+with solar energy.  But for implementing this idea too many unsolved problems
+still remain.  However, it is possible that AI, in the course of its development,
 will gradually approach the energy efficiency of the brain, which requires only
 20 watts to operate — like a light bulb.  <!-- Perhaps this will require changing
 the operational principles of AI, transitioning to analog computing. -->

@@ -4832,14 +4832,14 @@ Canaanite woman was a Jew, a son of Yisrael.  Other Jews also took non-Jewish
 wives, e.g., Egyptian women, Midianite women, but Shimon took a wife from the
 forbidden nations, therefore the Torah emphasizes this.
 
-This Canaanite woman is commonly identified as the daughter of Dinah.
-Then the mother of Shaul is called a Canaanite because her father was the
-gentile Shekhem.  <!-- And probably Shimon took her as a wife because of how
-the inhabitants of Canaan treated Dinah (Beresheet Rabbah
-[80:11](https://www.sefaria.org/Bereshit_Rabbah.80.11)). -->  But despite the
-fact that she was the daughter of the Jewess Dinah, she was still considered
-a non-Jewess.  That is, the daughter of the non-Jewish father Shekhem and the
-Jewish mother Dinah was a Canaanite, notwithstanding that she grew up among Jews.
+Beresheet Rabbah [80:11](https://www.sefaria.org/Bereshit_Rabbah.80.11)
+identifies this Canaanite woman with Dinah — but it's too problematic
+to assert a marriage between brother and sister.
+[Shadal](https://www.sefaria.org/Shadal_on_Genesis.46.8.1) calls her
+the daughter of Dinah.  Then Shaul's mother is called a Canaanite because
+her father was the gentile Shekhem.  That is, the daughter of the non-Jewish
+father Shekhem and the Jewish mother Dinah was considered non-Jewish, despite
+having been raised among Jews.
 
 > And Yehudah saw there the daughter of a certain Kenaani whose name was Shua
 (Beresheet [38:2](https://www.sefaria.org/Genesis.38.2))
@@ -5736,7 +5736,7 @@ to undergo conversion.  After conversion he became part of *erev rav*
 (the mixed multitude) — part of the mixed marriages whose fathers were Egyptians
 and whose mothers were Jewish women who had been enslaved by the Egyptians.
 But Jews through the father had no such problem, because Jews by paternal lineage
-retained their affiliation with their tribe.
+retained their tribal affiliation.
 
 The situation then unfolded as follows: a proselyte from the camp of *erev rav*
 came to the camp of bnei Yisrael, i.e. <!-- *ezrachim* --> the native

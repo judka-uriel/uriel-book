@@ -153,9 +153,9 @@ life would have been impossible.
 (*Book of Creation*, *Book of Abraham*) says that G‑d created the Universe
 through three derivatives of one root (books — *sefarim*):
 
-1. *sippur* — utterance
+1. *sippur* — speaking, utterance
 2. *sefer* — writing
-3. *sfar* — number
+3. *safar* — counting, number
 
 As explained by [Yehuda Halevi](https://en.wikipedia.org/wiki/Judah_Halevi)
 in the book *[Kuzari](https://www.sefaria.org/Kuzari.4.25)*: *sippur* is
@@ -7596,6 +7596,7 @@ Also Yirmeyahu [8:8-9](https://www.sefaria.org/Jeremiah.8.8-9):
 the lying pen of the scribes has distorted it.  The wise are put to shame,
 they are dismayed and trapped; behold, they have rejected the word of G‑d —
 what wisdom is theirs?”
+<!-- Also Mishlei [3:7](https://www.sefaria.org/Proverbs.3.7). -->
 
 A true sage may be called one to whom the interconnections between the
 phenomena of the world and their place on the path of drawing near to G‑d are
@@ -14610,8 +14611,10 @@ knowledge current at that time.  And now the errors of earlier sages are even
 more evident.
 
 The Torah teaches that not only sages but also prophets can err when they act
-according to their own will rather than following the will of G‑d.  Even the
-greatest prophet, upon whose legislation modern civilization is built, made mistakes.
+according to their own will rather than following the will of G‑d.
+<!-- (Mishlei [3:5-6](https://www.sefaria.org/Proverbs.3.5-6)) -->
+Even the greatest prophet, upon whose legislation modern civilization is built,
+made mistakes.
 
 | And G‑d said to Moshe: Take the staff and gather the congregation, you and your brother Aharon, and before their eyes speak to the rock, that it may give water. |
 | (Bemidbar [20:7-8](https://www.sefaria.org/Numbers.20.7-8)) |
@@ -17488,7 +17491,7 @@ And the right-side sefirot are connected with altruism, with giving.
 
 The sefirah of understanding, Binah, is positioned on the left side above
 the sefirah of Gevurah.  And indeed, the process of gaining understanding is
-performed for oneself — to construct in one's own mind a complete and clear
+performed for oneself — to build in one's own mind a complete and clear
 picture with all the associations between details, with all the interrelations
 of the parts of the full structure.  This is an egoistic process.
 
@@ -17551,7 +17554,7 @@ The emotional sefirot:
 2. Chesed — the manifestation of mercy, primarily characteristic of liberals.
 3. Tiferet — the equilibrium of the sefirot.
 
-The physical sefirot:
+The sefirot of actions (including social and political):
 
 1. Hod — preservation of the old order, this is the direction of activity of conservatives.
 2. Netzach — development, this is the direction of activity of progressives.
@@ -17640,7 +17643,7 @@ The first mention in Kabbalah dates no later than the 12th century:
 in [Sefer HaBahir](https://en.wikipedia.org/wiki/Bahir)
 [108](https://www.sefaria.org/Sefer_HaBahir.108)
 it is described how Gabriel, representing gevurah, was on the left side,
-Michael on the right, and Uriel and truth in the center.
+Michael on the right, and Uriel as the truth in the middle.
 <!-- Moreover, when deviation occurs toward gevurah,
 the angel is called Nuriel, and when toward chesed, Uriel
 (Zohar I 23b:21,
@@ -19642,7 +19645,7 @@ Ukrainians.
 
 But besides the similarities, there are also differences among varieties
 of fascism.  The German fascists killed Jews solely because of their
-nationality, to prevent Jews from mixing with Germans and corrupting
+nationality, to prevent Jews from mixing with Germans and defiling
 the “purity of Aryan blood” with their so-called
 “[racially inferior genes](https://en.wikipedia.org/wiki/Racial_antisemitism)”.
 Such ideology forms the foundation of Nazism.  Hence the requirement to wear
@@ -21987,9 +21990,10 @@ by a bloodthirsty dictator with an unbridled evil inclination (*yetzer ha‑ra*)
 under the complete control of Satan, he will turn the entire world into utter hell.
 
 And a positive example until recently was America, when it truly was great in the
-recent past, when it took upon itself the duties of world policeman and strove
-to maintain peace and stability throughout the world — albeit with varying
-degrees of success, since it was subject to errors and limitations.
+recent past, when it took upon itself the duties of
+[world policeman](https://en.wikipedia.org/wiki/Global_policeman)
+and strove to maintain peace and stability throughout the world — albeit with
+varying degrees of success, since it was subject to errors and limitations.
 But despite committing many mistakes, any other country in maintaining world
 order would have been a greater evil.  For example, in recent times China has
 been desperately seeking to obtain this privilege, but in the role of world

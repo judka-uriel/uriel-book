@@ -92,7 +92,7 @@ the allocation of space for subsequent Creation.
 
 Thus Creation was performed in the following order:
 memory allocation (*tzimtzum*) → primordial chaos → memory initialization → void
-(uniform filling) → setting of initial state <!-- (*Atziluth*, Primordial Emanation) -->
+(uniform filling) → setting of initial state <!-- (*Atzilut*, Primordial Emanation) -->
 → launching the program of Universe's development (Big Bang).
 {: #big-bang title="Big Bang" }
 
@@ -186,11 +186,11 @@ of the process of developing and executing a program
 In Kabbalah these stages correspond to the
 [spiritual worlds](https://en.wikipedia.org/wiki/Four_Worlds):
 
-<!-- 0\. Atziluth — the world of Emanation; -->
+<!-- 0\. Atzilut — the world of Emanation (intention, will, corresponds to Keter); -->
 
-1. Beriah — the world of Creation, designing the program;
-2. Yetzirah — the world of Formation, writing the program;
-3. Asiyah — the world of Action, launching the program.
+1. Beriah — the world of Creation, designing the program; <!-- intellectual sefirot -->
+2. Yetzirah — the world of Formation, writing the program; <!-- sefirot of inclinations -->
+3. Asiyah — the world of Action, launching the program. <!-- sefirot of actions -->
 
 In the beginning, G‑d programmed the physical laws of this world, which
 operate upon a three-dimensional array whose elements have states that
@@ -232,12 +232,12 @@ the program began its work, and gradually space began to fill with matter,
 as memory fills with bits, which differ mathematically in numerical values,
 and physically in different voltage levels.
 
-Filling memory with initial values and subsequent launch appeared as
-emanation of the ray *Ohr Ein Sof* — the Infinite Divine Light
+Filling memory with initial values and subsequent launch appeared
+as emanation of *Ohr Ein Sof* — the infinite Divine light
 into the center of empty space.
 In [Lurianic Kabbalah](https://en.wikipedia.org/wiki/Lurianic_Kabbalah)
-this ray is called *kav* (line) — through it the light descended
-into the space and became the source of all subsequent Creation.
+this emanating beam of light is called *kav* (line) — through it the light
+descended into the space and became the source of all subsequent Creation.
 {: #light title="Light"}
 
 <!-- Divine light — *URIEL*, [אוריאל](https://he.wikipedia.org/wiki/אוריאל). -->
@@ -17548,7 +17548,7 @@ The intellectual sefirot:
 2. Binah — analysis of the problem, the process of investigation and understanding the situation.
 3. Chokhmah — synthesis of the solution, the process of searching for and deriving the conclusion.
 
-The emotional sefirot:
+The emotional sefirot (inclinations):
 
 1. Gevurah — the manifestation of severity, primarily characteristic of authoritarians.
 2. Chesed — the manifestation of mercy, primarily characteristic of liberals.

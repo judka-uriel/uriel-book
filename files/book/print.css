@@ -14,3 +14,7 @@ table {
 button {
   display: none;
 }
+/* Second chapter */
+table.nowrap tr:nth-child(1) td:nth-child(2) {
+  white-space: nowrap;
+}

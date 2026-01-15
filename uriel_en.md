@@ -38,9 +38,9 @@ and in Sefer HaZohar Beresheet
 
 ![white noise image](../../../files/book/white_noise.jpg){:.center}
 
-| and darkness over the surface of the abyss | וְחֹ֖שֶׁךְ עַל־פְּנֵ֣י תְה֑וֹם |
+| and darkness over the surface of the abyss | וְחֹ֖שֶׁךְ עַל־פְּנֵ֣י תְה֑וֹם |
 || (Beresheet [1:2](https://www.sefaria.org/Genesis.1.2)) |
-{: .chapter .page-break}
+{: .chapter .nowrap .page-break}
 
 And when the entire array of cells is set to its initial state, this
 appears as a black screen — when the computer is already turned on,
@@ -2443,9 +2443,10 @@ Therefore when you have already made a decision and there are no doubts about th
 correctness of the choice, then everything must be done immediately — for then
 Satan does not have time to arrange obstacles.
 
-In connection with this, it is necessary to mention such an important concept
-as *chutzpah*.  The word *chutzpah* often evokes disapproval,
-being considered synonymous with impudence or audacity.  But this is incorrect.
+In connection with this, it is necessary to mention such an important concept as
+*[chutzpah](https://en.wikipedia.org/wiki/Chutzpah)*.  The word *chutzpah* often
+evokes disapproval, being considered synonymous with impudence or audacity.
+But this is incorrect.
 {: #chutzpah title="Chutzpah"}
 
 Chutzpah is not impudence, but self-confidence, determination,
@@ -17200,13 +17201,18 @@ that they may reasonably practice altruism by helping all peoples in their
 development.  But uncivilized savages are capable only of egoism, manifested
 in the seizure of neighboring lands and in hatred toward civilized nations,
 including in the form of antisemitism.  The majority in the UN remain savages,
-therefore we have what we have.  But since history teaches that all
+therefore we have what we have.
+
+But since history teaches that all
 antisemitic organizations eventually disintegrate, such a fate awaits
 all affiliated UN structures, such as the terrorist-linked
 [UNRWA](https://en.wikipedia.org/wiki/UNRWA), as well as the International
 Criminal Court (ICC), biased by ultra-left ideology, which is destroying
 from within the international justice system created by Western nations, which
-previously fought against real dictators.  Therefore all such dysfunctional
+previously fought against real dictators, rather than against defending democracies.
+And as a result they destroyed international law.
+
+Therefore all such dysfunctional
 organizations inevitably cease to exist, and this will happen because of their
 unwillingness to fight genuine terrorists, many of whom sit even on the UN
 Security Council.  The problem is not only antisemitism — that is merely one of

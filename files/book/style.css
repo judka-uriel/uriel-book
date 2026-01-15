@@ -81,6 +81,10 @@ table.chapter tr:nth-child(2) td {
 table.capitalize tr:nth-child(1) td:nth-child(2)::first-letter {
   font-size: 150%;
 }
+/* Second chapter */
+table.nowrap tr:nth-child(1) td:nth-child(2) {
+  white-space: nowrap;
+}
 blockquote {
   margin: 1em 0 0 0;
   padding: 0 0 0 1em;

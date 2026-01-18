@@ -186,11 +186,14 @@ of the process of developing and executing a program
 In Kabbalah these stages correspond to the
 [spiritual worlds](https://en.wikipedia.org/wiki/Four_Worlds):
 
-<!-- 0\. Atzilut — the world of Emanation (intention, will, corresponds to Keter); -->
+<!-- 0\. Atzilut — the world of Emanation (intention, will, corresponds to the sefirah Keter); -->
 
-1. Beriah — the world of Creation, designing the program; <!-- intellectual sefirot -->
-2. Yetzirah — the world of Formation, writing the program; <!-- sefirot of inclinations -->
-3. Asiyah — the world of Action, launching the program. <!-- sefirot of actions -->
+1. Beriah — the world of Creation, designing the program;
+   <!-- intellectual sefirot (Mishlei [3:19](https://www.sefaria.org/Proverbs.3.19)) -->
+2. Yetzirah — the world of Formation, writing the program;
+   <!-- sefirot of inclinations -->
+3. Asiyah — the world of Action, launching the program.
+   <!-- sefirot of actions -->
 
 In the beginning, G‑d programmed the physical laws of this world, which
 operate upon a three-dimensional array whose elements have states that
@@ -276,7 +279,7 @@ the unity of form and content.
 
 And in linguistic terms, words that have the properties
 described by the meanings of the words themselves are called
-[autological](https://en.wikipedia.org/wiki/Autological_word).
+*[autological](https://en.wikipedia.org/wiki/Autological_word)*.
 For example, the word *mul-ti-syl-lab-ic* indeed has multiple syllables.
 When the form of a word corresponds to its content, when a word depicts the
 concept denoted by that very word, and is essentially an autological image,
@@ -289,9 +292,8 @@ existence.
 
 In the emanating light G‑d placed the meaning of existence of this world,
 and of each person in particular — the reception of Divine light and the
-filling with Divine light of all
-[Sefirot](https://en.wikipedia.org/wiki/Sefirot): filling with knowledge,
-understanding, wisdom, severity, mercy, balance, and so on.
+filling of all [Sefirot](https://en.wikipedia.org/wiki/Sefirot) with Divine light:
+filling with knowledge, understanding, wisdom, severity, mercy, balance, and so on.
 
 Thus, G‑d gave meaning to Creation, and one of the purposes is coming closer
 to the Creator, which includes the necessity to study Creation and improve it,
@@ -921,7 +923,7 @@ of the brain at the
 lies in
 [wave function collapse](https://en.wikipedia.org/wiki/Wave_function_collapse).
 Opponents of this hypothesis raise such an objection,
-that a warm and moist brain cannot avoid
+that a warm and wet brain cannot avoid
 [decoherence](https://en.wikipedia.org/wiki/Quantum_decoherence).
 But at present experiments continue to be conducted,
 confirming that for sufficiently long periods of time in
@@ -12896,7 +12898,7 @@ we can better follow the Torah.
 Progress is the driving force of the Messianic process of returning to Gan Eden.
 <!-- That is, everything that brings closer the times of Gan Eden is progress. -->
 
-Gan Eden is not the same thing as Paradise.  Paradise is such a place in the
+Gan Eden is not the same thing as celestial paradise.  Paradise is such a place in the
 Heavens, i.e. in the infinity outside our Universe, where after death arrive the
 souls of people who lived a sufficiently righteous and pious life on Earth — as
 opposed to the wicked, who go to *Gehinnom*.  This is what Rambam meant when in

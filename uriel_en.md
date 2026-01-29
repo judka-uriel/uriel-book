@@ -59,7 +59,7 @@ with the others.
 In the very same way it occurs throughout the entire world,
 only at the foundation of the Universe lies not a two-dimensional,
 but a three-dimensional array of states.  Just as we gaze from the
-three-dimensional dimension upon a two-dimensional computer screen, which
+three-dimensional space upon a two-dimensional computer screen, which
 projects the state of memory, so does G‑d gaze upon our three-dimensional
 world, which displays the state of the Universe.
 
@@ -94,7 +94,6 @@ Thus Creation was performed in the following order:
 memory allocation (*tzimtzum*) → primordial chaos → memory initialization → void
 (uniform filling) → setting of initial state <!-- (*Atzilut*, Primordial Emanation) -->
 → launching the program of Universe's development (Big Bang).
-{: #big-bang title="Big Bang" }
 
 <!--
 Disorder, chaos — a state with maximum entropy.
@@ -102,7 +101,7 @@ Void, emptiness — a state with minimum entropy.
 Disorder, chaos with maximum entropy is transformed
 into a state of emptiness with zero entropy, i.e.,
 an absolute decrease of entropy has occurred.
-And after the program is launched, entropy begins to increase.-->
+And after the program is launched, entropy begins to increase. -->
 
 The entire world is the result of the program written by G‑d.  <!-- As the
 midrash Beresheet Rabbah [1:4](https://www.sefaria.org/Bereshit_Rabbah.1.4)
@@ -116,7 +115,7 @@ Israel, the Temple and the name of Mashiach. -->
 
 | and the spirit of G‑d levitated over the waters | וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת עַל־פְּנֵ֥י הַמָּֽיִם |
 || (Beresheet [1:2](https://www.sefaria.org/Genesis.1.2)) |
-{: .chapter}
+{: .chapter #big-bang title="Big Bang" }
 
 The word *levitated* <!-- root word *Levite* --> <!-- *merachefet* -->
 means that the spirit, as the presence of G‑d in the creation
@@ -241,19 +240,18 @@ into the center of empty space.
 In [Lurianic Kabbalah](https://en.wikipedia.org/wiki/Lurianic_Kabbalah)
 this emanating beam of light is called *kav* (line) — through it the light
 descended into the space and became the source of all subsequent Creation.
-{: #light title="Light"}
 
 <!-- Divine light — *URIEL*, [אוריאל](https://he.wikipedia.org/wiki/אוריאל). -->
 
 | And G‑d said: Let there be light, and there was light. | וַיֹּ֥אמֶר אֱלֹהִ֖ים יְהִ֣י א֑וֹר וַֽיְהִי־אֽוֹר |
 || (Beresheet [1:3](https://www.sefaria.org/Genesis.1.3)) |
-{: .chapter}
+{: .chapter #light title="Light" }
 
 The essence of this Torah passage is most accurately conveyed
 by the famous painting of the renowned Israeli artist:
 
 <figure>
-  <img src="../../../files/book/ohr.jpg" alt="[ohr light]">
+  <img src="../../../files/book/ohr.jpg" alt="[ohr light]" />
   <figcaption>LIGHT, S.LENKER, Composition no III, oil</figcaption>
   <!-- <figcaption>
     SIMON LENKER
@@ -1465,7 +1463,7 @@ of the project.
 
 The complete process of implementing each task consists of two recurring stages:
 
-1. first the main stage — contemplating the task and making decisions regarding its implementation;
+1. first the main stage — contemplating the task and making decisions regarding its design and implementation;
 2. then writing the program by typing text on the keyboard.
 
 When Shabbat began, I was engaged only in the first stage of programming,
@@ -1971,7 +1969,7 @@ seek them, and Shaul himself was directed by an angel to the city of Shmuel.
 
 > But they mocked the messengers of G‑d, and despised His words,
 and scoffed at His prophets
-(Divrei ha‑yamim II, 36:16) II [36:16](https://www.sefaria.org/II_Chronicles.36.16))
+(Divrei ha‑yamim II [36:16](https://www.sefaria.org/II_Chronicles.36.16))
 
 In some cases G‑d sends thoughts to people through angels, and in special cases
 transmits thoughts directly, which is why prophets are often called messengers.
@@ -3559,7 +3557,7 @@ country.
 Photo of the synagogue to which I went every Sabbath in London:
 
 <a href="https://www.youtube.com/watch?v=S727AvKfP-Y">
-<img src="../../../files/book/krugom_odni.jpg" class="center">
+<img src="../../../files/book/krugom_odni.jpg" class="center" />
 </a>
 -->
 
@@ -7882,7 +7880,7 @@ i.e., this is a moral problem.
 
 | in these commandments, which I command you today, there is nothing incomprehensible or inaccessible |
 | (Devarim [30:11-14](https://www.sefaria.org/Deuteronomy.30.11-14)) |
-{: .chapter #addition title="Additions"}
+{: .chapter #addition title="Stringencies"}
 
 “There is nothing incomprehensible” — this means that the Torah assumes there
 can arise no two opinions regarding the details of fulfilling the commandments,
@@ -8371,9 +8369,10 @@ permissible only in parallel with criticizing Arab countries' treatment of Jews
 living there — if Jews were expelled from those countries, then critics have no
 right to speak.  Or when terrorists attack Israel's civilian population, those
 who do not condemn the terror attacks have no right to criticize Israel's
-retaliatory measures.  Likewise, those who do not condemn the actions of
-authoritarian governments oppressing other nations — for example, such as the
-Kurds, etc. — have no right to criticize.  Therefore, only one who also demands the
+retaliatory measures.  Likewise, those have no right to criticize who do not
+condemn the actions of authoritarian governments: mass executions in Iran,
+oppressing other nations, such as the Kurds, etc.
+Therefore, only one who also demands the
 establishment of a State of Kurdistan for the Kurds may support the
 establishment of a Palestinian state.  But such bias with double standards, where
 no one cares what Arabs and authoritarian regimes do to other nations, yet at the
@@ -9546,7 +9545,7 @@ we voluntarily renounce freedom of choice, so as to remember the tremendous
 freedom G‑d has given us, and for this we dedicate one day to G‑d.
 
 In general, two rationales were given for observing the Sabbath:
-{: #shabbat title="Meaning of Shabbat"}
+{: #shabbat title="Essence of Shabbat"}
 
 1. for G‑d rested on that day after the creation of the world
    (Shemot [20:11](https://www.sefaria.org/Exodus.20.11));
@@ -9654,10 +9653,10 @@ such spiritual blindness, the Orthodoxes violate certain important commandments
 of the Torah, and therefore they move further and further away from G‑d.
 
 Chess is the most prominent example of games of the type
-[game of skill](https://en.wikipedia.org/wiki/Game_of_skill),
+*[game of skill](https://en.wikipedia.org/wiki/Game_of_skill)*,
 when decisions during the game are made by the player.
 The opposite of this are board games of the type
-[game of chance](https://en.wikipedia.org/wiki/Game_of_chance),
+*[game of chance](https://en.wikipedia.org/wiki/Game_of_chance)*,
 when during the game decisions are made in Heaven.
 Examples of such games: lottery, dice, roulette — when from Heaven influence
 is exerted upon the human mind, to affect which lottery ball a person will draw,
@@ -9795,7 +9794,7 @@ and more accurately than the Orthodoxes, following the spirit of the Torah.
 
 All the lengthy descriptions of Sabbath prohibition details with often
 strained and unfounded explanations can be replaced with one general principle,
-the meaning of which can be expressed in one phrase —
+the meaning of which can be expressed in one phrase:
 **ON SHABBAT, ANY ACTIVITY INVOLVING DECISION-MAKING IS FORBIDDEN**.
 All 39 melakhot are covered by this Torah principle, and on its basis it's
 possible to answer any question concerning the prohibition of any action on
@@ -11323,7 +11322,7 @@ in the past there were many similar examples.
 Let us consider historical examples of modifications to commandments, when
 commandments that came into conflict with the development of civilization
 were not abrogated, but rather modernized.
-{: #obsolete title="Obsolete Commandments"}
+{: #obsolete title="Modernized Commandments"}
 
 | life for life, eye for eye, tooth for tooth, hand for hand, foot for foot, burn for burn, wound for wound, bruise for bruise |
 | (Shemot [21:23-25](https://www.sefaria.org/Exodus.21.23-25)) |
@@ -15575,6 +15574,7 @@ all accumulated errors and find paths for their correction.
 The fundamental error of the Orthodoxes is that they have become stuck
 at a local maximum — which is a dead end preventing the attainment of
 the global maximum.
+{: #global-maximum title="Global Maximum" }
 
 To understand concepts such as
 [local maximum](https://en.wikipedia.org/wiki/Backpropagation#Limitations) and
@@ -16781,7 +16781,7 @@ In precisely the same way, G‑d said: “If I create the world solely with the 
 of mercy, then sinners will multiply.  But if I create the world solely with the
 attribute of justice, who will endure?  Therefore, I shall create the world with
 justice and mercy mingled together, and then the world will endure.”
-{: #righteous title="The Righteous"}
+{: #righteous title="Righteous"}
 
 In Chagigah [14a](https://www.sefaria.org/Chagigah.14a.5),
 an explanation by Rabbi Akiva is brought as to why the book of Daniel
@@ -20071,7 +20071,7 @@ only the first, smallest wave.  The second wave will be even more dangerous.
 
 | And he dreamed yet another dream, and he told it to his brothers |
 | (Beresheet [37:9](https://www.sefaria.org/Genesis.37.9)) |
-{: .chapter #dream-second title="Second Dream (China)"}
+{: .chapter #dream-second title="Second Dream (CCP)"}
 
 2.1. Here is my second dream that came on the night before the third
 millennium: I dreamed that everyone around me was learning Chinese.
@@ -20423,7 +20423,7 @@ the associations between the following concepts:
 - Information — data perceived by a person and recorded in brain neurons.
 - Knowledge — the result of understanding information, recorded in the form of
   connections between brain neurons and their weighting coefficients.
-- Wisdom — the application of knowledge to draw inferences and find solutions
+- Wisdom — application of knowledge to draw inferences and find solutions
   to problems.
 
 The sefirah of knowledge, Da'at, is filled with understanding of information

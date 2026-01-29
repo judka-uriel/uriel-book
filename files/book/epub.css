@@ -1,0 +1,67 @@
+
+.titlepage .main {
+  font-size: 1.85rem;
+  letter-spacing: 0.25rem;
+  line-height: 1.2em;
+  margin-top: 4.8em;
+  margin-left: 10.0%;
+  margin-right: 10.0%;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.titlepage .subtitle {
+  font-size: 1.2rem;
+  line-height: 1.2em;
+  margin-top: 1.2em;
+  margin-left: 10.0%;
+  margin-right: 10.0%;
+  text-align: center;
+}
+
+.titlepage .author {
+  font-size: 1.4rem;
+  line-height: 1.2em;
+  margin-top: 1.8em;
+  margin-left: 15.0%;
+  margin-right: 15.0%;
+  text-align: center;
+}
+
+.titlepage .rights {
+  font-size: 1.0rem;
+  margin-top: 4.8em;
+  margin-bottom: 1.2em;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.25rem;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: justify;
+  text-indent: 0.2in;
+}
+
+blockquote p, li p {
+  text-indent: 0;
+}
+
+figure {
+  max-width: 100%;
+  text-align: center;
+  page-break-inside: avoid;
+}
+
+p img {
+  margin-top: revert;
+  margin-bottom: revert;
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+}

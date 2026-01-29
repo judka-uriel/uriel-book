@@ -13,6 +13,7 @@ OUT_SUBDIR = $(shell date +%Y%m)
 URIEL_RU_MD   = uriel.md
 URIEL_RU_HTML = ru/book/$(OUT_SUBDIR)/uriel.html
 URIEL_RU_PDF  = files/book/ru/$(OUT_SUBDIR)/Uriel_ru.pdf
+URIEL_RU_EPUB = files/book/ru/$(OUT_SUBDIR)/Uriel_ru.epub
 
 URIEL_RU_C_HTML = ru/book/$(OUT_SUBDIR)/uriel_with_comments.html
 URIEL_RU_C_PDF  = files/book/ru/$(OUT_SUBDIR)/Uriel_with_comments_ru.pdf
@@ -20,11 +21,14 @@ URIEL_RU_C_PDF  = files/book/ru/$(OUT_SUBDIR)/Uriel_with_comments_ru.pdf
 URIEL_EN_MD   = uriel_en.md
 URIEL_EN_HTML = en/book/$(OUT_SUBDIR)/uriel.html
 URIEL_EN_PDF  = files/book/en/$(OUT_SUBDIR)/Uriel_en.pdf
+URIEL_EN_EPUB = files/book/en/$(OUT_SUBDIR)/Uriel_en.epub
 
 URIEL_EN_C_HTML = en/book/$(OUT_SUBDIR)/uriel_with_comments.html
 URIEL_EN_C_PDF  = files/book/en/$(OUT_SUBDIR)/Uriel_with_comments_en.pdf
 
-all: $(URIEL_RU_PDF) $(URIEL_EN_PDF) $(URIEL_RU_C_HTML) $(URIEL_EN_C_HTML) # $(URIEL_RU_C_PDF) $(URIEL_EN_C_PDF)
+all: $(URIEL_RU_PDF) $(URIEL_EN_PDF) $(URIEL_RU_C_HTML) $(URIEL_EN_C_HTML)
+# optional: $(URIEL_RU_C_PDF) $(URIEL_EN_C_PDF)
+epub: $(URIEL_RU_EPUB) $(URIEL_EN_EPUB)
 
 # 1.1. generate PDF (ru)
 
@@ -49,7 +53,7 @@ $(URIEL_RU_PDF): $(URIEL_RU_HTML) files/book/print.css $(dir $(URIEL_RU_PDF))
 	--footerTemplate='<style type="text/css">.pdf-footer { font-size: 15px; font-weight: bold; font-style: italic; width: 100%; text-align: center; color: lightgrey; }</style><div class="pdf-footer"><span class="pageNumber"></span></div>' \
 	--out=$@ \
 	file://$(ROOT_DIR)/$<
-	exiftool -e -overwrite_original -P -PDF:Author="(C) 2018-2025 Judka Linkov CC-BY-4.0" -PDF:Title="Uriel" -PDF:Subject="Non-Orthodox Judaism" -PDF:Keywords="judaism, light" $@
+	exiftool -e -overwrite_original -P -PDF:Author="(C) 2018-2025 Judka Linkov CC BY 4.0" -PDF:Title="Uriel" -PDF:Subject="Non-Orthodox Judaism" -PDF:Keywords="judaism, light" $@
 	touch -r $@ $(dir $@)
 
 # 1.2. generate HTML with comments (ru)
@@ -70,8 +74,16 @@ $(URIEL_RU_C_PDF): $(URIEL_RU_C_HTML) files/book/print.css $(dir $(URIEL_RU_C_PD
 	--footerTemplate='<style type="text/css">.pdf-footer { font-size: 15px; font-weight: bold; font-style: italic; width: 100%; text-align: center; color: lightgrey; }</style><div class="pdf-footer"><span class="pageNumber"></span></div>' \
 	--out=$@ \
 	file://$(ROOT_DIR)/$<
-	exiftool -e -overwrite_original -P -PDF:Author="(C) 2018-2025 Judka Linkov CC-BY-4.0" -PDF:Title="Uriel" -PDF:Subject="Non-Orthodox Judaism" -PDF:Keywords="judaism, light" $@
+	exiftool -e -overwrite_original -P -PDF:Author="(C) 2018-2025 Judka Linkov CC BY 4.0" -PDF:Title="Uriel" -PDF:Subject="Non-Orthodox Judaism" -PDF:Keywords="judaism, light" $@
 	touch -r $@ $(dir $@)
+
+# 1.3. generate EPUB (ru)
+
+$(URIEL_RU_EPUB): $(URIEL_RU_MD) files/book/epub.css Makefile $(dir $(URIEL_RU_EPUB))
+	LANG=en_US.UTF-8 ruby epub_md.rb $< \
+	| pandoc -o $@ --css files/book/epub.css --toc --toc-depth=1 --epub-cover-image=files/book/cover.jpg -
+	ruby epub_fix.rb $@
+#	zipgrep "." $@ > $@.txt
 
 # 2.1. generate PDF (en)
 
@@ -98,7 +110,7 @@ $(URIEL_EN_PDF): $(URIEL_EN_HTML) files/book/print.css $(dir $(URIEL_EN_PDF))
 	--footerTemplate='<style type="text/css">.pdf-footer { font-size: 15px; font-weight: bold; font-style: italic; width: 100%; text-align: center; color: lightgrey; }</style><div class="pdf-footer"><span class="pageNumber"></span></div>' \
 	--out=$@ \
 	file://$(ROOT_DIR)/$<
-	exiftool -e -overwrite_original -P -PDF:Author="(C) 2018-2025 Judka Linkov CC-BY-4.0" -PDF:Title="Uriel" -PDF:Subject="Non-Orthodox Judaism" -PDF:Keywords="judaism, light" $@
+	exiftool -e -overwrite_original -P -PDF:Author="(C) 2018-2025 Judka Linkov CC BY 4.0" -PDF:Title="Uriel" -PDF:Subject="Non-Orthodox Judaism" -PDF:Keywords="judaism, light" $@
 	touch -r $@ $(dir $@)
 
 # 2.2. generate HTML with comments (en)
@@ -110,3 +122,11 @@ $(URIEL_EN_C_HTML): $(URIEL_EN_MD) comments_md.rb comments_html.rb files/book/st
 	| cat files/book/header.html - files/book/footer.html \
 	| LANG=en_US.UTF-8 ruby -pe 'sub(%q{<html lang="ru">}, %q{<html lang="en-US">})' \
 	> $@
+
+# 2.3. generate EPUB (en)
+
+$(URIEL_EN_EPUB): $(URIEL_EN_MD) files/book/epub.css Makefile $(dir $(URIEL_EN_EPUB))
+	LANG=en_US.UTF-8 ruby epub_md.rb $< \
+	| pandoc -o $@ --css files/book/epub.css --toc --toc-depth=1 -
+	ruby epub_fix.rb $@
+#	zipgrep "." $@ > $@.txt

@@ -6,9 +6,9 @@
 || (Beresheet [1:1-2](https://www.sefaria.org/Genesis.1.1-2)) |
 {: .chapter .capitalize #tohu-vavohu title="Chaos and Void" }
 
-In the beginning, the Torah teaches how our Universe, which G‑d created, is arranged.
-In the phrase *[tohu va‑vohu](https://en.wikipedia.org/wiki/Tohu_wa-bohu)*
-these two words have two different meanings:
+In the beginning, the Torah teaches how our Universe, created by G‑d, is structured.
+In the phrase *[tohu va‑vohu](https://en.wikipedia.org/wiki/Tohu_wa-bohu)*,
+these two words have distinct meanings:
 
 1. disorder, chaos
 2. void, emptiness
@@ -19,7 +19,7 @@ And indeed,
 memory appears as disorder and chaos — memory cells do not contain specific
 assigned values.  Instead, they contain random values.
 Such chaotic unpredictable values can often cause program failure.
-Therefore, before first use, memory must be
+Therefore, before its first use, memory must be
 [initialized](https://en.wikipedia.org/wiki/Initialization_(programming)).
 
 After initialization, memory becomes empty —
@@ -30,7 +30,7 @@ Here is an illustrative example of different initial states of memory
 with *tohu va‑vohu*.  First, uninitialized memory filled with
 random values can be imagined as chaotically flickering
 [white noise](https://en.wikipedia.org/wiki/White_noise)
-on a screen in the absence of signal: <!-- so-called “snow” -->
+on a screen in the absence of a signal: <!-- so-called “snow” -->
 <!-- Snow is mentioned in Pirkei DeRabbi Eliezer
 [3:8](https://www.sefaria.org/Pirkei_DeRabbi_Eliezer.3.8)
 and in Sefer HaZohar Beresheet
@@ -42,7 +42,7 @@ and in Sefer HaZohar Beresheet
 || (Beresheet [1:2](https://www.sefaria.org/Genesis.1.2)) |
 {: .chapter .nowrap .page-break}
 
-And when the entire array of cells is set to its initial state, this
+And when the entire array of cells is set to its initial state, it
 appears as a black screen — when the computer is already turned on,
 but the operating system has not yet loaded:
 
@@ -50,50 +50,50 @@ but the operating system has not yet loaded:
 
 <!-- For example, in RGB the value of the black color is (0, 0, 0). -->
 
-Whereas a computer contains memory with cells having different states,
+Whereas a computer contains memory with cells in different states,
 the display of memory contents can be represented as pixels on
 a two-dimensional computer screen.  The most graphic representation is
 a liquid-crystal display matrix, where each cell is updated simultaneously
 with the others.
 
 In the very same way it occurs throughout the entire world,
-only at the foundation of the Universe lies not a two-dimensional,
-but a three-dimensional array of states.  Just as we gaze from the
-three-dimensional space upon a two-dimensional computer screen, which
-projects the state of memory, so does G‑d gaze upon our three-dimensional
-world, which displays the state of the Universe.
+only at the foundation of the Universe is not a two-dimensional array of states,
+but a three-dimensional one.  Just as we look from our
+three-dimensional space at a two-dimensional computer screen that
+projects the state of memory, so does G‑d view our three-dimensional
+world that projects the state of the Universe.
 
-Therefore G‑d is simultaneously both beyond the world and within it, that is,
-on one hand G‑d looks upon the entire Universe from the outside, while
-on the other hand at the most fundamental level beneath the known elementary
-particles G‑d has access to every element of the memory array.  As it is said:
+Therefore, G‑d is simultaneously both beyond the world and within it.
+On one hand, G‑d looks upon the entire Universe from the outside, while
+on the other hand, at the most fundamental level beneath the known elementary
+particles, G‑d has access to every element of the memory array.  As it is said:
 
 > G‑d in heaven above and on earth below
 (Devarim [4:39](https://www.sefaria.org/Deuteronomy.4.39),
 Yehoshua [2:11](https://www.sefaria.org/Joshua.2.11))
 
-On the macrocosmic level the entire Universe is contained within a bounded
-space, while outside there exists a computer on which the program runs,
-i.e., the *software*.  On the other hand, on the subquantum level each
-smallest physical particle is connected to memory elements, therefore the
+On the macrocosmic level, the entire Universe is contained within a bounded
+space, while outside, there exists a computer on which the program runs,
+i.e., the *software*.  On the other hand, on the subquantum level, each
+smallest physical particle is connected to memory elements — therefore, the
 earth corresponds to the concept of *hardware*.
 
 Why is it said that at the time when heaven and earth were being created,
 the earth was in disorder and void?  Because this corresponds to the cells
-of physical memory.  First in heaven the program is created and launched,
+of physical memory.  First, in heaven, the program is created and launched,
 and then this program fills the physical memory, which is part of the hardware.
 
-In computers the initialization of memory is preceded by the process called
+In computers, the initialization of memory is preceded by the process called
 [memory allocation](https://en.wikipedia.org/wiki/Dynamic_memory_allocation),
 i.e., the allocation of space for the program to run.
-In Kabbalah this process is called
+In Kabbalah, this process is called
 *[tzimtzum](https://en.wikipedia.org/wiki/Tzimtzum)* —
 the allocation of space for subsequent Creation.
 
-Thus Creation was performed in the following order:
+Thus, Creation was performed in the following order:
 memory allocation (*tzimtzum*) → primordial chaos → memory initialization → void
 (uniform filling) → setting of initial state <!-- (*Atzilut*, Primordial Emanation) -->
-→ launching the program of Universe's development (Big Bang).
+→ launching the program of the Universe's development (Big Bang).
 
 <!--
 Disorder, chaos — a state with maximum entropy.
@@ -110,8 +110,8 @@ the Torah and the Throne of Glory upon which it was to be executed. -->
 <!-- The Zohar affirms that G‑d gazed into the Torah when He created the world. -->
 <!-- Yeshayahu [66:1](https://www.sefaria.org/Isaiah.66.1) confirms that
 the entire Universe is running upon the Throne of G‑d. -->
-<!-- Also was programmed the appearance of the Patriarchs,
-Israel, the Temple and the name of Mashiach. -->
+<!-- Also programmed was the appearance of the Patriarchs,
+Israel, the Temple, and the name of Mashiach. -->
 
 | and the spirit of G‑d levitated over the waters | וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת עַל־פְּנֵ֥י הַמָּֽיִם |
 || (Beresheet [1:2](https://www.sefaria.org/Genesis.1.2)) |
@@ -120,9 +120,9 @@ Israel, the Temple and the name of Mashiach. -->
 The word *levitated* <!-- root word *Levite* --> <!-- *merachefet* -->
 means that the spirit, as the presence of G‑d in the creation
 of the world, ascended above matter, overcoming
-[gravitation](https://en.wikipedia.org/wiki/Gravity), with the creation
-of which G‑d began to implement the fundamental physical laws of
-interaction of elementary particles as the foundation of the program of the
+[gravitation](https://en.wikipedia.org/wiki/Gravity).  With the creation
+of this, G‑d began to implement the fundamental physical laws governing
+the interaction of elementary particles as the foundation of the program of the
 world's development, and therein defined the gravitational constant *G*.
 
 Just as constants are defined at the beginning of a program, G‑d defined the
@@ -134,7 +134,7 @@ The slightest deviation from the predefined values would have made the
 emergence of life on Earth, and even the Earth itself, impossible.
 
 G‑d can easily run the program again and again, so that before creating our
-Universe G‑d could have already created multitudes of similar worlds for
+Universe, G‑d could have already created multitudes of similar worlds for
 testing and selecting suitable values of
 [physical constants](https://en.wikipedia.org/wiki/Physical_constant).
 
@@ -144,7 +144,7 @@ confirms the necessity of multiple trial runs
 of previous worlds until G‑d saw that *ki‑tov*:
 that our world is good, finally succeeded in becoming as it should be.  Through
 [fine-tuning](https://en.wikipedia.org/wiki/Fine-tuned_universe) of the Universe,
-i.e., setting of precise values for fundamental physical constants, the
+i.e., setting precise values for fundamental physical constants, the
 emergence of life became possible.  Had they differed even slightly,
 life would have been impossible.
 
@@ -160,20 +160,20 @@ As explained by [Yehuda Halevi](https://en.wikipedia.org/wiki/Judah_Halevi)
 in the book *[Kuzari](https://www.sefaria.org/Kuzari.4.25)*: *sippur* is
 speech activity that determines the purpose and properties of the entities
 being created, “language in action”; *sefer* is the action representing the
-process of implementing the plan; and the category *sfar* corresponds to
+process of implementing the plan; and the category *safar* corresponds to
 the numbers that establish the structure of things to be created, so that
 they precisely realize the plan of Creation.  This demonstrates that
 numbers lie at the foundation of the Universe, that the Universe is built
 upon numbers, where numbers are the values of memory cells upon which the
 Universe is based.
 <!-- As the mathematician Kronecker observed: “G‑d created the
-whole numbers, everything else is the work of man”, in the sense that the
+whole numbers, everything else is the work of man,” in the sense that the
 Universe is founded upon numbers, while man has the ability
 to perform further operations. -->
 
 All these categories in reality describe different stages
 of the process of developing and executing a program
-([DevOps](https://en.wikipedia.org/wiki/DevOps)):
+([Dev­Ops](https://en.wikipedia.org/wiki/DevOps)):
 
 1. program design and development with articulation of all details —
    corresponds to the words “And G‑d said”;
@@ -202,17 +202,17 @@ all further development proceeded automatically, according to the
 programmed algorithms: the emergence of galaxies, the Solar System,
 the Earth, the genesis and evolution of life on Earth.
 
-Previously there were doubts concerning the impossibility of such a sequence,
-whereby first were created the seed-bearing plants and trees of every kind
-bearing fruit, and only thereafter the luminaries, and so forth.
-However at present, having modern knowledge of programming, we can
-finally understand that in the process of programming it doesn't matter
-in what order the various subroutines are created.  One can first implement
-the function for transmitting genetic information by means of DNA
-molecules, and only thereafter can program the function for the evolution
-of stars and planetary systems.  Therefore in the first chapter is recorded
-not the order of the program's execution (when according to the laws
-of evolution the earth brings forth grass, trees, and so forth),
+Previously, there were doubts concerning the impossibility of such a sequence,
+where seed-bearing plants and trees of every kind
+bearing fruit were created first, and only then the luminaries, and so forth.
+However, at present, with modern knowledge of programming, we can
+finally understand that in programming the order in which various subroutines
+are created doesn't matter.  One can first implement
+the function for transmitting genetic information via DNA
+molecules, and only thereafter program the function for the evolution
+of stars and planetary systems.  Therefore, in the first chapter, what is recorded
+is not the order of the program's execution (when, according to the laws
+of evolution, the earth brings forth grass, trees, and so forth),
 but rather the order of the stages of programming the Universe.
 
 <!-- In the commentary of Tosafot on
@@ -234,8 +234,8 @@ the program began its work, and gradually space began to fill with matter,
 as memory fills with bits, which differ mathematically in numerical values,
 and physically in different voltage levels.
 
-Filling memory with initial values and subsequent launch appeared
-as emanation of *Ohr Ein Sof* — the infinite Divine light
+Filling memory with initial values and the subsequent launch appeared
+as the emanation of *Ohr Ein Sof* — the infinite Divine light
 into the center of empty space.
 In [Lurianic Kabbalah](https://en.wikipedia.org/wiki/Lurianic_Kabbalah)
 this emanating beam of light is called *kav* (line) — through it the light
@@ -288,15 +288,15 @@ If we attempt to delve deeper into the meaning, it becomes clear that the
 painting captures the purpose of the created Universe and the goal of human
 existence.
 
-In the emanating light G‑d placed the meaning of existence of this world,
+In the emanating light G‑d placed the meaning of the existence of this world,
 and of each person in particular — the reception of Divine light and the
 filling of all [Sefirot](https://en.wikipedia.org/wiki/Sefirot) with Divine light:
 filling with knowledge, understanding, wisdom, severity, mercy, balance, and so on.
 
 Thus, G‑d gave meaning to Creation, and one of the purposes is coming closer
-to the Creator, which includes the necessity to study Creation and improve it,
+to the Creator.  This includes the necessity to study Creation and improve it,
 receiving the Divine light that fills the entire created world,
-setting the direction of development and nourishing all that lives.
+setting the direction of development, and nourishing all that lives.
 
 <!-- With a certain imagination, one can discern that at the corners of the
 triangle are positioned [Pac-Men](https://en.wikipedia.org/wiki/Pac-Man)
@@ -314,7 +314,7 @@ created.  And I endeavored that this book might help make the world better. -->
 Different levels of interpretation help to understand all the embedded meanings.
 
 At the hidden level of understanding רז, which has the same gematria as אור,
-[light](https://en.wikipedia.org/wiki/Ohr) — the Divine emanation for
+[light](https://en.wikipedia.org/wiki/Ohr) is the Divine emanation for
 filling spiritual vessels.
 
 The next level of understanding רמז (*remez*) has the gematria
@@ -326,9 +326,9 @@ And at the most simple level of *peshat*, corresponding to the direct
 meaning, i.e., at the fundamental physical level,
 [light](https://en.wikipedia.org/wiki/Light) is electromagnetic radiation
 perceived by the human eye.  At this level, light represents a flow of
-photons, for which there is established
+photons, for which
 a [speed limit](https://en.wikipedia.org/wiki/Speed_limit)
-for the movement of light at ≈1 billion kilometers per hour.
+for the movement of light is established at ≈1 billion kilometers per hour.
 
 From this it is evident that light is present at all levels:
 
@@ -349,7 +349,7 @@ which in programming corresponds to the concept of
 [array](https://en.wikipedia.org/wiki/Array_(data_structure)).
 -->
 
-Photons as quanta of light are defined as among the
+Photons as quanta of light are defined as
 [fundamental elementary particles](https://en.wikipedia.org/wiki/Elementary_particle),
 which at the current stage of scientific development cannot be decomposed into constituent parts.
 {: #physics title="Digital Physics"}
@@ -368,7 +368,7 @@ This model introduces two new fundamental particles, called
 
 In the course of further theoretical development,
 [loop quantum gravity](https://en.wikipedia.org/wiki/Loop_quantum_gravity)
-was proposed, based upon the discreteness of space, wherein space consists of
+was proposed, based on the discreteness of space, wherein space consists of
 quantum cells whose granular size is several orders of magnitude smaller
 than 10<sup>−35</sup> m.
 To describe the states and interactions between particles in this theory,
@@ -380,17 +380,17 @@ Time is also discrete, and the spin network is updated with
 a [clock frequency](https://en.wikipedia.org/wiki/Clock_signal)
 of ≈10<sup>−43</sup> seconds.
 As Lee Smolin maintains, this theory may be verified experimentally when
-contemporary apparatus shall be so perfected as to permit the requisite
+contemporary apparatus is perfected enough to permit the requisite
 experiments (at present the resolving power is limited to ≈10<sup>−22</sup> m).
 
-This idea has received further development recently in the theory of
+This idea has recently received further development in the theory of
 [Wolfram physics](https://en.wikipedia.org/wiki/Wolfram_Physics_Project),
 which attempts to base the laws of physics on the transformation of hypergraphs
-through rewriting rules.  In this theory the entire Universe consists
-of discrete points connected by abstract relations.  But different scales
+through rewriting rules.  In this theory, the entire Universe consists
+of discrete points connected by abstract relations.  Different scales
 make it possible to perceive the entire array as continuous space,
 just as a stream of water is perceived not as a flow of H<sub>2</sub>O molecules.
-With a minimal point size ≈10<sup>−93</sup> m and an electron radius
+With a minimal point size of ≈10<sup>−93</sup> m and an electron radius of
 ≈10<sup>−81</sup> m, an electron could contain ≈10<sup>35</sup> hypergraph
 elements.  According to preliminary estimates, to reach the current state
 of the Universe, ≈10<sup>500</sup> transformation steps would be required
@@ -398,23 +398,22 @@ on ≈10<sup>400</sup> points of the spatial hypergraph.
 
 This theory was preceded by the publication of a book with the unpretentious title
 *[A New Kind of Science](https://en.wikipedia.org/wiki/A_New_Kind_of_Science)* —
-only in reality it is neither new nor science, but otherwise everything is correct.
+only in reality it is neither new nor science, but otherwise, everything is correct.
 
 - Not new, since the ideas of the computable Universe were developed by other
-scientists long before the book was written, including similar theories:
-[causal sets](https://en.wikipedia.org/wiki/Causal_sets),
-[causal dynamical triangulation](https://en.wikipedia.org/wiki/Causal_dynamical_triangulation),
-etc.
+scientists long before the book was written, including similar theories such as
+[causal sets](https://en.wikipedia.org/wiki/Causal_sets) and
+[causal dynamical triangulation](https://en.wikipedia.org/wiki/Causal_dynamical_triangulation).
 
 The book attempts to illustrate the principle of the transition of quantity
 into quality, but the enormous quantity of pictures and words in the book
 did not transition into quality — the book revealed nothing new.
 <!-- The same can be said of the voluminous tome of the Zohar, where
 quantity does not transform into quality that would reveal absolute truths,
-and instead of seeking truth, too much attention is devoted to justifying
-accumulated stringencies.  Therefore it is not surprising that some rabbis
-criticized the Zohar.  The Zohar is not Torah.  Therefore part of the Zohar
-is true, part is not.  That is, even within Kabbalah itself there are its
+and instead of seeking the truth, too much attention is devoted to justifying
+accumulated stringencies.  Thus, it is not surprising that some rabbis
+criticized the Zohar.  The Zohar is not Torah.  Therefore, part of the Zohar
+is true, and part is not.  That is, even within Kabbalah itself, there are its
 sparks of holiness and qlippoth.  For example, sparks of holiness — the
 system of Sefirot, etc. -->
 It has long been known that simple rules can produce systems
@@ -431,7 +430,7 @@ predicting subsequent actions.
 - Not a science: for the same reasons why Kabbalah cannot be called a science
 until certain conditions are fulfilled.
 
-The principal criterion of scientific validity of a theory,
+The principal criterion of the scientific validity of a theory,
 formulated by Karl Popper, is its
 [falsifiability](https://en.wikipedia.org/wiki/Falsifiability).
 A theory is scientific if there exists a possibility of its experimental
@@ -452,20 +451,20 @@ main portion of the book's material may be classified as pertaining to the
 concept of [computer science](https://en.wikipedia.org/wiki/Computer_science),
 as a subdivision of mathematics that investigates the application of data
 structures and algorithms, in this case for describing the evolution of the
-Universe.  In this sense all the proposed data models and algorithms
+Universe.  In this sense, all the proposed data models and algorithms
 are scientifically reliable and may be confirmed empirically
 through computer calculations, i.e.,
 [verifiable](https://en.wikipedia.org/wiki/Verification_and_validation).
 Only the connection of this computer theory with actual physical laws has
-not yet been confirmed.  And until then one must avoid the use of the term
+not yet been confirmed.  And until then, one must avoid the use of the term
 “science”.
 
 Thus did Edward Fredkin, who first called the theory
-[digital physics](https://en.wikipedia.org/wiki/Digital_physics),
+*[digital physics](https://en.wikipedia.org/wiki/Digital_physics)*,
 and later, when he realized that this theory had little in common with
 science, and that it remained unknown what physical experiments might
 confirm it, honestly transitioned to using the new term
-[digital philosophy](https://en.wikipedia.org/wiki/Computational_philosophy).
+*[digital philosophy](https://en.wikipedia.org/wiki/Computational_philosophy)*.
 
 This theory presupposes that there exists a program which runs upon
 a gigantic universal computer and computes the evolution of the Universe.
@@ -476,12 +475,12 @@ receive this information. -->  <!-- But such a theory can indeed explain
 quantum entanglement, e.g., as memory cells linked to one another
 or two pointers to a single memory cell. -->
 
-One of the possible implementations of such a program could be
+One possible implementation of such a program could be
 [cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton).
 The most illustrative example of a cellular automaton is the
 [Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life),
 in which cells on the playing grid are updated according to elementary rules.
-The diversity of results depends upon the initial state of the cells.
+The diversity of results depends on the initial state of the cells.
 By placing different patterns on the field, we can observe their development.
 A great number of interesting initial patterns have been discovered,
 which have been given names characterizing their behavior.  For example, there is
@@ -490,7 +489,7 @@ with its long-lived configuration and
 [Gan Eden](https://en.wikipedia.org/wiki/Garden_of_Eden_(cellular_automaton))
 with configurations that are impossible to reach, etc.
 One of the simplest moving patterns is the
-[glider](https://en.wikipedia.org/wiki/Glider_(Conway's_Game_of_Life)).
+*[glider](https://en.wikipedia.org/wiki/Glider_(Conway's_Game_of_Life))*.
 According to this same principle, photons may move through space.
 Then just as the speed of the glider's movement is limited by the
 processor's clock frequency, the speed of a photon's movement
@@ -500,39 +499,39 @@ on the Universe's grid.
 The precise number of processors calculating each subsequent state of the
 Universe cannot be known to us.  This number falls within the interval from
 one global processor, which sequentially traverses all cells, to one
-processor for each cell, updating their state in parallel simultaneously
+processor for each cell, updating their states in parallel simultaneously
 with all other processors.
 
 The first variant with one global processor then resembles the operation of a
 [mobile automaton](https://en.wikipedia.org/wiki/Mobile_automaton)
-with one active cell or in a more general sense a
+with one active cell or, in a more general sense, a
 [Turing machine](https://en.wikipedia.org/wiki/Turing_machine)
-with an active head.  In modern processors this corresponds to the
-[program counter](https://en.wikipedia.org/wiki/Program_counter)
-or *instruction pointer*.  In this case the states are updated not by the
+with an active head.  In modern processors, this corresponds to the
+*[program counter](https://en.wikipedia.org/wiki/Program_counter)*
+or *instruction pointer*.  In this case, the states are updated not by the
 cells themselves according to their separate program, but the state of each
-cell is updated as a result of the global program's operation, as occurs
-when the simple operational rules of such a cellular automaton as
-in the Game of Life are emulated on a single-processor computer with
+cell is updated as a result of the global program's operation.  This is similar to
+when the simple operational rules of a cellular automaton, such as
+the Game of Life, are emulated on a single-processor computer with
 [von Neumann architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture).
 
 The second variant with simultaneous updating resembles the operation of
 parallel cellular automata, where each cell is an autonomous computational
-unit with its own processor, much as it is designed in
+unit with its own processor, much like it is designed in
 [quantum dot cellular automaton](https://en.wikipedia.org/wiki/Quantum_dot_cellular_automaton).
 
-But neither of these extreme variants is optimal,
-therefore the truth lies somewhere in the middle.
+But neither of these extreme variants is optimal.
+Therefore, the truth lies somewhere in the middle.
 
-The rules for updating each cell may depend upon varying amounts of
+The rules for updating each cell may depend on varying amounts of
 context, i.e., different quantities of data supplied as input to the
 algorithm for computing the next state of the cell.  In contrast to
 cellular automata operating according to the simplest rules, where the
-state of a cell depends upon the previous state only of neighboring cells,
+state of a cell depends only on the previous state of neighboring cells,
 the algorithms for updating each cell of the Universe may depend not only
-upon neighboring cells, but may also perform
+on neighboring cells, but may also perform
 [pattern matching](https://en.wikipedia.org/wiki/Pattern_matching)
-upon a vast multitude of cells, in the extreme upon all cells.  Thereby the
+on a vast multitude of cells, in the extreme on all cells.  Thereby the
 complexity of the rules increases manifold, and the program for updating
 cells must operate according to algorithms with a high level of
 computational complexity.
@@ -540,18 +539,18 @@ computational complexity.
 The ideal variant would be the unification of the cells of the Universe
 into an enormous multilayered
 [neural network](https://en.wikipedia.org/wiki/Neural_network_(machine_learning)).
-Then each “neuron” of such a network could be connected with a multitude of
+Then each “neuron” in such a network could be connected with a multitude of
 others, not necessarily neighboring ones.  Moreover, as necessity arises,
 the connections between neurons could be updated dynamically.  Such
 optimization would guarantee the existence of only relevant dependencies.
 
-But in any case, the already existing structure of the Universe is designed
-and implemented well (*ki‑tov*).  And despite the fact that such a great
+But in any case, the existing Universe is designed and implemented
+well (*ki‑tov*).  And despite the fact that such a great
 project was completed in a short time (the programming process
 took only six days), it is evident that all details were carefully
 thought through.  So both in terms of execution deadlines and quality,
-there are no complaints.  And since everything works well, it is better
-not to change anything.
+there are no complaints.  And since everything works well, it's better
+not to touch anything.
 
 <!--
 The commandment to walk in the ways of G‑d and to emulate Him
@@ -563,15 +562,15 @@ Postmodernism is the capacity to place oneself in the position of G‑d
 and observe the world from the outside.  Just as G‑d looks upon our world from
 without, so too must we strive periodically to gaze upon the world from the
 exterior.  As spirituality manifests when one endeavors to see the world through
-the eyes of one's neighbor in order to better understand their worldview, so too
+the eyes of a neighbor in order to better understand their worldview, so too
 does an outside perspective on our world help one to better comprehend it.
 
 The opposite of postmodernism is directness, immediacy, i.e., immediate
-participation in real life.  This opposition of “practice vs theory”
+participation in real life.  This opposition of “practice vs. theory”
 is evident in the example of the dichotomy of parts of tradition:
 
 - halakhic: when one directly practices the observance of traditions;
-- aggadic: when one studies from the outside, e.g. the study of religion
+- aggadic: when one studies from the outside, e.g., the study of religion
   and its history is also one of the manifestations of postmodernism.
 
 We cannot say that only one part should be retained while the other must
@@ -582,10 +581,10 @@ compassionate and cruel, when irony reaches the point of cold cynicism.
 Just as any instrument can be used in different ways, so too can postmodernism
 be applied with varying results.
 
-Just as G‑d looks from the outside upon the history of humanity, so too does
+Like G‑d looks from the outside upon the history of humanity, so too does
 postmodernism allow people to absorb the lessons of history and learn from
-the mistakes of the past.  As it is said, “history repeats itself twice: first
-as tragedy, then as farce”.  History repeats itself as farce when people do not
+the mistakes of the past.  As it is said, “History repeats itself twice: first
+as tragedy, then as farce.”  History repeats itself as farce when people do not
 learn from past mistakes and step on the same rake again and again.  And then it
 becomes a tragicomedy.  Tragicomedies are closely connected with postmodernism
 as the ability to view one's problems with detachment and impartiality and the
@@ -602,15 +601,15 @@ customs in the present time, this is not postmodernism, but simply
 [historical reenactment](https://en.wikipedia.org/wiki/Historical_reenactment)
 and [cosplay](https://en.wikipedia.org/wiki/Cosplay).
 
-Therefore it is desirable to maintain a balance between immediacy and
+Therefore, it is desirable to maintain a balance between immediacy and
 postmodernism.  The level of postmodernism needs to be self-regulated,
-so that it remains moderate and does not reach cynicism and denial of
+so that it remains moderate and does not reach cynicism and the denial of
 moral values.  Through responsible actions in relationships between people,
 the emotional and physical sefirot are primarily filled — just as tragicomedies
 realize *tiferet*, which organically unites the *gevurah* of tragedies and the
 *chesed* of comedies.  And for filling the intellectual sefirot, we can apply
-postmodernism, which helps to rise above different situations in order to look
-from the outside — and then with the filling of the sefirah *Binah* comes
+postmodernism, which helps us rise above different situations to look
+from the outside — and then, with the filling of the sefirah *Binah* comes
 understanding of problems and situations, and with the filling of the
 sefirah *Chokhmah* comes the solution to problems.
 
@@ -635,22 +634,22 @@ knowledge.  Also this approach adheres to the principles of the
 -->
 
 <!--
-The text of this book is occasionally interspersed with such comments
-as this that serve as marginalia supplementary to the main theme.
+The text of this book is occasionally interspersed with comments
+like this one that serve as marginalia supplementary to the main theme.
 
 DISCLAIMER regarding comments that are formatted like this one:
 Just as the primary text of the Torah contains absolute truths,
 while various commentaries and midrashim of differing levels
 of responsibility add optional and non-binding new meanings,
-so too do I guarantee the truthfulness of the main text of this book,
-while for the content of the comments I do not answer, bear no responsibility,
+so too do I guarantee the truthfulness of the main text of this book.
+However, for the content of the comments I do not answer, bear no responsibility,
 indeed I remove from myself all responsibility whatsoever, and therefore
 in addition to supplementary information I permit myself in the comments
 less serious statements and jokes.
 -->
 
 In this book I have not invented anything new, but have only
-endeavored to focus attention upon known facts, connecting them together
+endeavored to focus attention on known facts, connecting them together
 through associative links and meaningful analogies.  Moreover, I utterly
 lack the imagination for devising new theories.  Already thousands of years
 ago it was said in Kohelet [1:9](https://www.sefaria.org/Ecclesiastes.1.9)
@@ -660,7 +659,7 @@ Therefore, all that is said in the book is based on Torah and science
 {: #torah-umadda title="Torah and Science"}
 
 The history of resolving contradictions between religion and science spans
-several centuries.  On this subject spoke such great Jewish rationalist
+several centuries.  On this subject have spoken such great Jewish rationalist
 philosophers as [Saadia Gaon](https://en.wikipedia.org/wiki/Saadia_Gaon),
 who sought to reconcile faith with philosophical teachings, and
 [Maimonides](https://en.wikipedia.org/wiki/Maimonides), who rejected
@@ -673,7 +672,7 @@ For the contemporary believer, there should remain no doubt regarding
 the priority of scientific objectivity over the outmoded conceptions of
 antiquity.  Science allows us to investigate the world created by G‑d in
 all its manifestations.  The pursuit of science as an important instrument
-for understanding the surrounding world is even prescribed by the
+for understanding the world around us is even prescribed by the
 commandments of the Torah, including “and fill the earth, and master it”
 (Beresheet [1:28](https://www.sefaria.org/Genesis.1.28)).  The
 establishment of dominion over nature encompasses scientific and
@@ -683,16 +682,16 @@ such as the improvement of quality of life and the creation of conditions
 for spiritual development.
 
 If some theory is not confirmed by experimental scientific methods, then
-the authors of such theories ought to honestly acknowledge that their
+the proponents of such theories ought to honestly acknowledge that their
 theory is a matter of faith, and not declare their theories to be science.
 Otherwise, if they insist upon calling their theories science, their
 theories should be declared pseudoscience, false science — just as a person
 who makes predictions that do not come to pass is declared a false prophet.
 
-It is impossible to continue believing in that which has been refuted by
+It is impossible to continue believing in what has been refuted by
 science.  When the faculties granted to mankind by G‑d have enabled the
 discovery of previously unknown truths, there remain no justifications for
-continuing to uphold obsolete conceptions.  For me this is equivalent to
+continuing to uphold obsolete conceptions.  For me, this is equivalent to
 falsehood: as if a person already knows the truth but continues to
 speak contradictory information, that is, untruth.  As one who is deeply
 believing, I would be ashamed before G‑d to deny truths revealed by
@@ -700,7 +699,7 @@ science.  Conscience, that is fear of G‑d, does not permit belief in
 anti-scientific theories.  No G‑d-fearing person would act in such
 a manner.
 
-For example, in our time it would be dense ignorance to continue believing
+For example, in our time it would be profound ignorance to continue believing
 in the [geocentric system](https://en.wikipedia.org/wiki/Geocentrism)
 of the world.  There is not even sense in devising compromise theories of the
 [geoheliocentric system](https://en.wikipedia.org/wiki/Tychonic_system), because the
@@ -709,15 +708,15 @@ does not cancel and does not even diminish
 [anthropocentrism](https://en.wikipedia.org/wiki/Anthropocentrism) as
 a system of values that figuratively places humans at the center of Creation.
 For humanity, Earth remains the center of the Universe despite the fact
-that it revolves around the Sun, and the star called Sun revolves around
-the center of the Milky Way galaxy.  It is interesting to note that
+that it revolves around the Sun, and the star called the Sun revolves around
+the center of the Milky Way galaxy.  (It is interesting to note that
 the plane of rotation of the Solar System does not coincide with
-the plane of rotation of the Milky Way, but is inclined at a 60° angle.
+the plane of rotation of the Milky Way, but is inclined at a 60° angle.)
 
-Especially unreasonable is belief in the existence of extraterrestrial
-intelligence.  Faith in contact with alien civilizations, in various
-conspiracy theories that extraterrestrials secretly control earthlings,
-arises from lack of faith in G‑d — one who lives with G‑d has no need to
+Especially unreasonable is the belief in the existence of extraterrestrial
+intelligence.  Belief in contacts with alien civilizations and various
+conspiracy theories, where extraterrestrials secretly control earthlings,
+arises from a lack of faith in G‑d — one who lives with G‑d has no need to
 await the arrival of aliens.
 
 Throughout all the Universe there is none besides G‑d alone
@@ -729,15 +728,15 @@ existence of another Torah is impossible — in accordance with one
 of the thirteen principles of Judaism according to Rambam.
 
 If it were necessary to give life to other kinds of rational beings,
-then instead of trying to squeeze them all into one Universe,
+then instead of trying to squeeze them all into one Universe
 (additionally applying efforts to exclude any contact between them),
 it would be much simpler to create a separate world for them.
-As our Universe — a sphere with a diameter of merely about 93 billion light years,
-containing only 10<sup>80</sup> atoms, so when necessary for other
+As our Universe is a sphere with a diameter of merely about 93 billion light years,
+containing only 10<sup>80</sup> atoms, so when necessary, for other
 rational beings G‑d can easily create another such one with rational life.
 
 But why did G‑d create the entire Universe solely for humans?
-Why is there such tremendous abundance of matter in our Universe?
+Why is there such a tremendous abundance of matter in our Universe?
 What justifies this irrational expenditure of material resources?
 For what purpose was such enormous redundancy created?
 
@@ -748,30 +747,30 @@ And the number of cells in living organisms 10<sup>30</sup>
 (the human body alone contains 100 trillion cells) exceeds the number
 of grains of sand on Earth by a trillion times, and is a million times
 greater than the estimated number of stars in the Universe.
-It strikes the imagination by the abundance of diverse forms of life
+It strikes the imagination with the abundance of diverse forms of life
 on Earth, where the most resilient differ in size from the largest
 polar bears, capable of swimming hundreds of miles in icy water,
 to microscopic [water bears](https://en.wikipedia.org/wiki/Tardigrade),
-capable of surviving in extreme conditions.  Recently for an experiment
+capable of surviving in extreme conditions.  Recently, for an experiment
 they were sent to the Moon aboard the spacecraft
 *[Beresheet](https://en.wikipedia.org/wiki/Beresheet)*, but the first
 launch was as unsuccessful as the first trial launches of the Universe.
 
 And all this richness of forms of existence was created by G‑d.
 But not in such a primitive manner as is represented
-by the pseudoscientific movements
+by the pseudoscientific theories of
 “[scientific creationism](https://en.wikipedia.org/wiki/Creation_science)” and
 “[intelligent design](https://en.wikipedia.org/wiki/Intelligent_design)”.
-Such unscientific theories ought not be taught
-in educational institutions during lessons of natural scientific
+Such unscientific theories ought not to be taught
+in educational institutions during lessons on natural scientific
 disciplines — school lessons are intended for teaching sciences and those
 scientific theories that can be verified in practice through observations or
 experiments.
 
 Proponents of “intelligent design” theory are incapable of imagining that
-there exists a possibility for the evolution of complex systems based upon
+there exists a possibility for the evolution of complex systems based on
 the simplest rules.  Perhaps they are unfamiliar with computer
-technologies, and in particular have never beheld such wondrous results
+technologies and, in particular, have never seen such remarkable results
 of programs that construct with astounding
 [beauty](https://en.wikipedia.org/wiki/Mathematical_beauty)
 the most complex structures according to the simplest algorithms, such as
@@ -785,7 +784,7 @@ the most complex structures according to the simplest algorithms, such as
 <!-- In the second iteration, shaped like a Magen David —
 incidentally, when I myself drew an impossible
 [Star of David](https://en.wikipedia.org/wiki/Hexagram) from
-[Penrose triangles](https://en.wikipedia.org/wiki/Penrose_triangle),
+[Penrose triangles](https://en.wikipedia.org/wiki/Penrose_triangle) —
 then grandfather David was greatly astonished. -->
 Or it suffices to purchase a head of
 [Romanesco broccoli](https://en.wikipedia.org/wiki/Romanesco_broccoli),
@@ -793,7 +792,7 @@ whose fractal form grows according to its genetic code.
 
 At present, for believers there remains only one single reasonable
 possibility for reconciling religion and science —
-[theistic evolutionism](https://en.wikipedia.org/wiki/Theistic_evolution),
+*[theistic evolutionism](https://en.wikipedia.org/wiki/Theistic_evolution)*,
 fully accepted by non-Orthodox denominations in Judaism, and also partially
 prevalent in Orthodox Judaism.  According to surveys, approximately 80% of
 Jews in total agree with the theory of evolution — this is a very high
@@ -804,8 +803,8 @@ percentage compared to adherents of other religions.
 
 Theistic evolutionism is not a theory in the scientific sense, but only
 an interpretation by believers of established scientific theories and facts.
-In accordance with this worldview, everything in the Universe from the
-interactions of elementary particles to the evolution of galaxies is
+In accordance with this worldview, everything in the Universe, from the
+interactions of elementary particles to the evolution of galaxies, is
 subject to the laws of nature established by G‑d, while living organisms
 develop in accordance with the laws of biological evolution.
 
@@ -813,7 +812,7 @@ develop in accordance with the laws of biological evolution.
 || (Beresheet [2:7](https://www.sefaria.org/Genesis.2.7)) |
 {: .chapter #body title="Body"}
 
-The human body consists of *dust of the ground*, i.e., of atoms
+The human body consists of “dust of the ground”, i.e., of atoms
 and molecules, which at birth gather into the cells of the body,
 forming them according to DNA programs.
 
@@ -827,22 +826,22 @@ obeys all the laws of nature.
 Running this program anew from the beginning, i.e., from the Big Bang,
 the result would be precisely the same world, evolving into a complex
 system with more than 100 billion galaxies (approximately equal to the
-number of all people who have ever lived), with the same stars,
+number of all people who have ever lived) with the same stars,
 down to the emergence of planet Earth.
 
 Just as the development of the Universe is determined with the precision of
 [mechanical clockwork](https://en.wikipedia.org/wiki/Clockwork_universe),
 so too is the development of the human organism from parental DNA
-completely determined.  Just as the Universe is an enormous computer,
+completely determined.  Just as the Universe is an enormous computer
 executing a given program with mathematical precision, man too is
 a computer, albeit of smaller dimensions, executing a program ordained by
-genetic information, wherein the most complex human organism is encoded
-within small quantities of DNA molecules.  Just as even a minor alteration
+genetic information, wherein the entire complex human organism is encoded
+with a small number of DNA molecules.  Just as even a minor alteration
 of one fundamental constant of the Universe would render the emergence of
 life impossible, so too can the mutation of but a single gene substantially
 affect the development of the entire human body.
-<!-- For example, it has been established experimentally that by altering
-but a single gene on the feet of birds scales are easily transformed
+<!-- For example, it has been experimentally established that by altering
+just a single gene on the feet of birds, scales can easily be transformed
 into feathers. -->
 
 Based on approximately 740 megabytes of information in the human genome
@@ -854,18 +853,18 @@ its original specification by millions of times.
 All physiological processes in the human body, including the workings of
 the brain, which operate according to certain mechanisms described within
 the framework of [neuroscience](https://en.wikipedia.org/wiki/Neuroscience),
-function according to the laws of nature, i.e., the human organism,
-including the brain — is simply a molecular computer that precisely
-executes instructions, is completely determined and strictly obeys
+function according to the laws of nature.  The human organism,
+including the brain, is simply a molecular computer that precisely
+executes instructions and is completely determined while strictly obeying
 the laws of physics and chemistry, including the carrying out of
 such complex processes as
 [DNA replication](https://en.wikipedia.org/wiki/DNA_replication).
 
 Thus, all the work of the brain, based on the transmission of electrical
 signals between 100 billion neurons, each of which is connected with
-thousands of other neurons by means of 100 trillion synapses, may be
-reduced to biological processes, biological processes — to the laws of
-chemistry, and chemistry may be
+thousands of other neurons by means of 100 trillion synapses, can be
+reduced to biological processes, which in turn can be reduced to the laws of
+chemistry, and chemistry can be
 [reduced](https://en.wikipedia.org/wiki/Reductionism) to the laws of
 physics, founded upon the computational processes of the Universe.
 
@@ -878,10 +877,10 @@ required for storing important information, and optimizing their
 weight coefficients.  Another analogy in neural networks is the prevention
 of [overfitting](https://en.wikipedia.org/wiki/Overfitting),
 when an excessive quantity of parameters accumulates in the neural network,
-and in the brain — too much superfluous detail.
+and too many superfluous details accumulate in the brain.
 
 The entire human organism is a machine executing a genetic program in
-accordance with biochemical algorithms, and human reaction is determined
+accordance with biochemical algorithms.  And human reaction is determined
 by the activity of nerve cells, whose state is influenced both by external
 stimuli through the sense organs and by internal electrochemical processes
 occurring in [neurons](https://en.wikipedia.org/wiki/Neuron) and
@@ -892,7 +891,7 @@ completely predictable.  For example, when a hand touches a hot surface,
 a signal travels through the nervous system to the brain, and the brain
 sends back an impulse to pull the hand away.  All such reactions occur
 [instinctively](https://en.wikipedia.org/wiki/Instinct) and
-[reflexively](https://en.wikipedia.org/wiki/Reflex),
+[reflexively](https://en.wikipedia.org/wiki/Reflex)
 depending upon the stimuli.  Therefore, the brain itself
 is incapable of manifesting free will.
 
@@ -909,18 +908,19 @@ The latest achievements of science shed light on this question
 and help us better understand it.
 
 Many important scientific discoveries of recent times are gathered and
-examined in the book by Nobel Prize laureate in physics Roger Penrose
-*[The Emperor's New Mind](https://en.wikipedia.org/wiki/The_Emperor's_New_Mind)*.
-The most important assertion of the author — human consciousness is not
+examined in the book
+*[The Emperor's New Mind](https://en.wikipedia.org/wiki/The_Emperor's_New_Mind)*
+by Nobel Prize laureate in physics Roger Penrose.
+The most important assertion of the author is that human consciousness is not
 algorithmic and cannot be modeled on a computer in the form of
 [strong AI](https://en.wikipedia.org/wiki/Strong_AI),
-and the primary significance for the emergence of consciousness in the
+and the key factor in the emergence of consciousness in the
 [neurons](https://en.wikipedia.org/wiki/Orchestrated_objective_reduction)
 of the brain at the
 [quantum level](https://en.wikipedia.org/wiki/Quantum_mind)
-lies in
-[wave function collapse](https://en.wikipedia.org/wiki/Wave_function_collapse).
-Opponents of this hypothesis raise such an objection,
+is the
+[collapse of the wave function](https://en.wikipedia.org/wiki/Wave_function_collapse).
+Opponents of this hypothesis raise such an objection
 that a warm and wet brain cannot avoid
 [decoherence](https://en.wikipedia.org/wiki/Quantum_decoherence).
 But at present experiments continue to be conducted,
@@ -928,21 +928,21 @@ confirming that for sufficiently long periods of time in
 [microtubules](https://en.wikipedia.org/wiki/Microtubule)
 quantum wave states can be maintained.
 
-Well known is the experiment with
+Well-known is the experiment with
 [Schrödinger's cat](https://en.wikipedia.org/wiki/Schrödinger's_cat),
 which was caught and placed in a box (only in thought, no animals
-were harmed).  Let's imagine that there is also placed therein
-a Geiger counter with radioactive substance.  If one of the atoms decays,
-then it will set in motion a hammer, which will break a flask of
-hydrocyanic acid, from which the cat will be poisoned.  Or it will not
+were harmed).  Let's imagine that a Geiger counter with a radioactive substance
+is also placed therein.  If one of the atoms decays,
+it will set in motion a hammer, which will break a flask of
+hydrocyanic acid, poisoning the cat.  Or it will not
 decay, and then the cat will remain alive.  Either one or the other.
-But in no wise both variants simultaneously.  So then, the choice of one
+But in no way both variants simultaneously.  So then, the choice of one
 of the two variants is made at the moment when, after opening the box,
 [observation](https://en.wikipedia.org/wiki/Observer_effect_(physics)) occurs.
 
-Therefore the Shulchan Arukh Orach Chayim
-[230](https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.230.1) with
-reference to Berakhot [54a](https://www.sefaria.org/Berakhot.54a.4) forbids
+Therefore, the Shulchan Arukh Orach Chayim
+[230](https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.230.1), with
+reference to Berakhot [54a](https://www.sefaria.org/Berakhot.54a.4), forbids
 praying for a favorable outcome of an event that has already occurred.
 For example, when a person returns home and hears cries in the city, he must
 not request that the incident not have happened in his house — because the
@@ -960,17 +960,17 @@ As stated in Beresheet [1:20,21,24,30](https://www.sefaria.org/Genesis.1.20-30),
 all animals have a soul (*nefesh chayah*),
 and Beresheet [2:7](https://www.sefaria.org/Genesis.2.7)
 mentions the existence of a soul in the human being.
-Therefore, animals also have a soul, though less developed than
+Therefore, animals also have a soul, though it is less developed than
 that of humans (interestingly, some animals <!-- including magpies -->
 are even capable of recognizing themselves in a
 [mirror](https://en.wikipedia.org/wiki/Mirror_test)).
 Unlike animals, the human has a soul of a higher level.
 
 <!-- Observing animals, we can notice in them manifestations of the soul.
-I remember how it surprised me when I observed how before a crow, her
-suitor traced intricate pirouettes in parabolic flight before his beloved.
+I remember being surprised when I observed a suitor crow tracing
+intricate pirouettes in parabolic flight before his beloved.
 The soul manifests most fully in love, and he was demonstrating
-manifestations of true love.  Manifestations of the soul in corvids are found
+true love.  Manifestations of the soul in corvids are found
 in the Torah: “the raven went forth to and fro, until the waters were dried
 up from off the earth” (Beresheet [8:7](https://www.sefaria.org/Genesis.8.7)). -->
 
@@ -978,7 +978,7 @@ If we draw an analogy with a computer and a computer user, then the human body
 and the brain correspond to the *hardware*, while the mind is the *software*,
 i.e., the programs loaded into the computer's memory.
 Then the user is the soul itself, which operates this computer.
-Animals have a simpler brain with a simple mind, therefore simpler souls
+Animals have a simpler brain with a simple mind.  Therefore, simpler souls
 of the *nefesh* level are connected to them.
 And in humans, a more complex brain structure allows for loading more advanced
 intelligence into the brain and connecting a more complex soul.
@@ -996,12 +996,12 @@ in different realms of the soul's development:
 <!-- mnemonic: blood, heart, brain -->
 
 - the lower is connected with the body and is responsible for physical
-  functioning, the maintenance of life and the operation of the brain —
+  functioning, the maintenance of life, and the operation of the brain —
   corresponds to the sefirah *Malkhut* and further to the sefirot
   *Netzach-Hod-Yesod*;
 - the unifying governs emotional state and moral development, primarily in
-  relation to people — corresponding to the sefirot *Chesed-Gevurah-Tiferet*;
-- the higher corresponds to intellectual development, knowledge of G‑d and the
+  relation to people — corresponds to the sefirot *Chesed-Gevurah-Tiferet*;
+- the higher is responsible for intellectual development, knowledge of G‑d, and the
   created world, including through religion and science — corresponds to the
   sefirot *Chokhmah-Binah-Da'at*.
 
@@ -1012,8 +1012,8 @@ There are two additional higher levels: *chayah*, received by Adam,
 who was created according to the model of *Adam Kadmon*,
 and *yechidah*, which manifests upon achieving Singularity
 with its Divine source.
-This level of soul can be received by Mashiach, when his mind
-upgrades to the capacity to connect a soul of higher level.
+This level of soul can be received by Mashiach when his mind
+upgrades to the capacity to connect a soul of a higher level.
 
 Singularity as union with G‑d has several meanings:
 
@@ -1026,36 +1026,36 @@ Singularity as union with G‑d has several meanings:
 - [Gravitational singularity](https://en.wikipedia.org/wiki/Gravitational_singularity) —
   a region within a black hole where the curvature of space-time reaches infinity
   and breaks through outward into infinity, i.e., one can reach G‑d either through
-  the separation of soul from body, or by falling into a black hole.  We can also
+  the separation of soul from body or by falling into a black hole.  We can also
   observe that the Big Bang is the most striking example of *chesed* as expansion,
   while a black hole represents the extreme degree of *gevurah* as contraction.
 
 - [Technological singularity](https://en.wikipedia.org/wiki/Technological_singularity) —
   a moment in time after which technological progress will become so rapid
   and complex that it will be beyond human comprehension.
-  This Singularity, which will come with the arrival of Mashiach —
+  This Singularity, which will come with the arrival of Mashiach,
   will also be a breakthrough to G‑d.
 
 > And the dust returns to the earth as it was, and the spirit returns to G‑d Who gave it.
 (Kohelet [12:7](https://www.sefaria.org/Ecclesiastes.12.7))
 
-After the death of the body, the soul's ability to influence the body ceases,
-therefore the soul separates from the dead body and returns to G‑d.
+After the death of the body, the soul's ability to influence the body ceases.
+Therefore, the soul separates from the dead body and returns to G‑d.
 The soul may be repeatedly placed into new bodies in this world
 or in other worlds, as it is said:
 
 > I put to death and I bring to life
 (Devarim [32:39](https://www.sefaria.org/Deuteronomy.32.39))
 
-In Kabbalah such a cycle of reincarnations is called
+In Kabbalah, such a cycle of reincarnations is called
 *[gilgul](https://en.wikipedia.org/wiki/Gilgul)*,
 whose purpose is the rectification of the soul (*tikkun*)
 through the soul's interaction with the material world.
-<!-- In the *Jewish War* II [8:14](https://www.sefaria.org/The_War_of_the_Jews.2.8.14)
-Josephus reported that in the opinion of the Perushim souls are immortal,
+<!-- In the *Jewish War* II [8:14](https://www.sefaria.org/The_War_of_the_Jews.2.8.14),
+Josephus reported that, in the opinion of the Perushim, souls are immortal,
 but only the souls of the good transmigrate into other bodies. -->
 Just as in interaction with the surrounding environment the physical body performs
-mechanical work with change of energy, the soul can perform spiritual work
+mechanical work with changes in energy, the soul can perform spiritual work
 for its development only when it is located in a material body.
 
 The soul is immortal, while the body is transient, as is all the material world.
@@ -1067,7 +1067,7 @@ interaction with the world.
 
 The soul can freely develop only when it has freedom of choice,
 [free will](https://en.wikipedia.org/wiki/Free_will_in_theology#Judaism).
-Without free will the commandments of the Torah and the demands
+Without free will, the commandments of the Torah and the demands
 of the prophets would have no meaning, and it would be impossible
 to carry out justice in human affairs, as it is said:
 {: #free-will title="Free Will"}
@@ -1075,12 +1075,12 @@ to carry out justice in human affairs, as it is said:
 > life and death have I set before you, blessing and curse — choose life
 (Devarim [30:19](https://www.sefaria.org/Deuteronomy.30.19))
 
-Assertions about G‑d's omniscience do not contradict free will: G‑d knows all
+Assertions about G‑d's omniscience do not contradict free will.  G‑d knows all
 that will come to pass because the development of the Universe is completely
 determined, to the extent that all trajectories of motion of every atom are
 predetermined according to the laws of physics.
 
-But non-determinism is introduced by the human through the soul, which
+But non-determinism is introduced by humans through the soul, which
 influences the inner state of the Universe from outside the world.
 Therefore, all that was previously said concerning the deterministic
 operation of the brain remains in force and does not lose its truth.
@@ -1089,24 +1089,24 @@ of the brain, to introduce indeterminacy, possessing freedom of choice
 (within the constraints imposed by various laws — from the laws of nature
 to the laws of society).
 
-When a human's soul is not engaged, then by the state of the brain G‑d can
-understand such a person's psychology and easily predict their subsequent
-actions.  In such a case the body acts in a programmed manner — as if on
+When a human's soul is not engaged, G‑d can understand such a person's
+psychology through the state of the brain and easily predict their subsequent
+actions.  In such a case, the body acts in a programmed manner — as if on
 autopilot.  Nevertheless, the human retains moral responsibility for the
 results of their actions, just as airplane pilots flying on autopilot retain
-responsibility for the lives of their passengers.  But the soul always has the
+responsibility for the lives of their passengers.  However, the soul always has the
 ability to switch to manual control and begin to influence the state of the
-brain in such a way that as a result the body would produce actions directed
+brain in a way that results in actions directed
 toward improving the world, taking into account human needs and G‑d's promptings.
 
-When souls do not influence the surrounding world, then the Universe resembles
-a film with a predictable plot.  Likewise when life has already been fully
+When souls do not influence the surrounding world, the Universe resembles
+a film with a predictable plot.  Likewise, when life has already been fully
 lived, the soul has the ability to view the lived lives as films.
 
-I recall a dream that came to me at age 4: on the way to kindergarten I asked:
+I recall a dream that came to me at age 4: on the way to kindergarten I asked,
 “What is all this around us?”  And I received the answer: “This is our world.”
-And I said: “No, this is not the world.  This is only a dream.”  And indeed,
-for the soul life is like a dream, after which the soul awakens, remembers
+And I said, “No, this is not the world.  This is only a dream.”  And indeed,
+for the soul, life is like a dream, after which the soul awakens, recalls
 and analyzes the content of the “dream”, that is, the life that was lived.
 And according to the results comes the Judgment.
 
@@ -1114,14 +1114,14 @@ The sages held that the Heavenly Court judges a human on the day of their death.
 The righteous one, whose good deeds outweigh their sins, is immediately received
 into *Gan Eden*.  And the sinner, whose sins outweigh, is sent to *Gehinnom*.
 
-But here an interesting collision arises: we can imagine an absolute righteous
+But here an interesting collision arises: we can imagine an absolutely righteous
 person who never sinned, but for some reason (hypothetically) before his death
 planted a time bomb or one triggered by touch.  After death he entered paradise,
 and after some time the bomb exploded and killed many people.
 Is such a situation possible?
 
 It seems to me that in this case the omniscient G‑d knows that the person
-planted the bomb, therefore the Judgment can be postponed until the situation
+planted the bomb.  Therefore, the Judgment can be postponed until the situation
 is resolved: since all people have free will and their souls are undetermined,
 there is a probability that someone else will be able to discover the bomb and
 disarm it, and then the person's sins are mitigated from murder to attempted
@@ -1132,17 +1132,17 @@ When souls participate in changing the state of the world, the Universe
 appears not as a film with a predetermined plot, but rather resembles
 a multi-user system, for example,
 a [computer game](https://en.wikipedia.org/wiki/Massively_multiplayer_online_role-playing_game)
-— with one difference: that life is not a game (the entire world is a game,
+— with one difference: life is not a game (the entire world is a game,
 but life in the world is not a game), but a serious matter (to be lived with a smile).
 
-In recent times, in connection with the proliferation of digital technologies,
+In recent times, with the proliferation of digital technologies,
 the [computer simulation](https://en.wikipedia.org/wiki/Simulation_hypothesis)
 hypothesis is gaining popularity, according to which the world is described as
-virtual reality modeled on a computer.  But the term “simulation” has given
-nothing new — self-consciousness is explained by the same principles, when
-external subjects connect to objects of the Universe.  In reality the Universe
+virtual reality modeled on a computer.  But the term “simulation” has brought
+nothing new — self-consciousness is explained by the same principles, where
+external subjects connect to objects of the Universe.  In reality, the Universe
 is not a simulation, but a real world with real meaning, where the connected
-souls of human beings have the ability of self-perfection.
+souls of human beings have the ability for self-perfection.
 
 One of the significant events advancing the worldview of simulation was the
 release of the film *[The Matrix](https://en.wikipedia.org/wiki/The_Matrix)*.
@@ -1153,30 +1153,30 @@ subsequently became my most favorite work by my most favorite writer
 [Stanisław Lem](https://en.wikipedia.org/wiki/Stanisław_Lem) — his novel
 *[The Futurological Congress](https://en.wikipedia.org/wiki/The_Futurological_Congress)*.
 
-The aforementioned film, though derivative, made popular the expression
-“glitch in the Matrix”, which implies that errors,
+The aforementioned film, though derivative, popularized the expression
+“glitch in the Matrix”, which implies that errors or
 [software bugs](https://en.wikipedia.org/wiki/Software_bug) are possible
 in the operation of the Universe.  But I think that the Universe is made so well
-that it operates precisely according to programmed rules, therefore any
+that it operates precisely according to programmed rules.  Therefore, any
 possibility of errors is completely excluded.
 
 In this world G‑d does not violate physical laws, because the primary
-characteristic of quality programming is such an ideal state, when
-the program operates exactly as intended, and nothing needs to be fixed.
+characteristic of quality programming is such an ideal state where
+the program operates exactly as intended and nothing needs to be fixed.
 
-Therefore there exist only two theoretical possibilities for how so-called
+Therefore, there exist only two theoretical possibilities for how so-called
 “miracles” may manifest.  The first possibility is when miracles are explicitly
 programmed as exceptions to the rules of the program's operation.
 
-For example, in the Talmud (Pesachim [54a](https://www.sefaria.org/Pesachim.54a.7),
-and also Pirkei Avot [5:6](https://www.sefaria.org/Pirkei_Avot.5.6))
+For example, in the Talmud (Pesachim [54a](https://www.sefaria.org/Pesachim.54a.7)
+and also Pirkei Avot [5:6](https://www.sefaria.org/Pirkei_Avot.5.6)),
 lists are given of various miraculous things that were created on the eve of
 the first Sabbath at twilight: the tablets, the staff of Moshe, the manna, etc.
 Theoretically this is possible — when creating a program one can embed triggers
 that activate upon reaching specified conditions, which consequently produce
 unexpected action.
 
-In modern computer applications such a feature is called *tzafun* —
+In modern computer applications, such a feature is called *tzafun* —
 by analogy with the piece of matzah called the *afikoman*,
 which on Pesach is hidden until the conclusion of the Seder.
 A similar meaning of ‘hidden’ is found in the official name
@@ -1185,16 +1185,16 @@ for such a concealed function in a computer program, which is called
 
 The second possibility for performing miracles is to connect directly with
 a [debugger](https://en.wikipedia.org/wiki/Debugger) to the process memory
-and manually alter the internal state of the Universe.  Usually interference
+and manually alter the internal state of the Universe.  Usually, interference
 with a program's operation is required when errors are discovered
 in order to correct them.  [Hackers](https://en.wikipedia.org/wiki/Hacker)
-also penetrate into programs to change the course of their operation.
+also penetrate programs to change the course of their operation.
 The word *hacker* has two primary meanings:
 
 1. a programmer who achieves a creative goal through an unusual, elegant method;
 2. a security breaker, cracker.
 
-Here is meant the first, original meaning.
+Here, the first, original meaning is meant.
 
 It is possible that actions involving the direct transformation of the
 inner state of the Universe had to be performed at least three times.
@@ -1234,7 +1234,7 @@ of two celestial bodies, which resulted in the formation of the Moon —
 critically important for the possibility of life on Earth — this event was
 programmed with astounding precision before the launch of the Universe.
 
-Generally speaking, at present there exist two scientific hypotheses which are
+Generally speaking, at present there exist two scientific hypotheses that are
 neither confirmed nor refuted, and in which it makes sense to believe at the
 current stage of understanding the Universe.  These two key hypotheses are
 as follows:
@@ -1259,10 +1259,10 @@ motion machines, etc.  It does not occur to them that the existence of G‑d
 provides answers to many questions.  But their “hypotheses” are
 pseudoscientific by definition. -->
 
-At present it makes sense to believe that, taking into account humanity's
+At present, it makes sense to believe that, taking into account humanity's
 contemporary knowledge of computer architecture and the organization of
-computational processes, it is most probable that reality represents the result
-of a program continuously executed on a gigantic computer.  In the beginning
+computational processes, it is most probable that reality is the result
+of a program continuously executed on a gigantic computer.  In the beginning,
 the basic algorithms of the Universe's functioning were established, and all
 subsequent evolution proceeded automatically.
 
@@ -1273,12 +1273,12 @@ Thus, the entire world is a computer, and humans within it are connected to soul
 And souls connected from the outside have the ability
 to influence the world from the inside.
 
-<!-- In connection with this it is interesting to note that
+<!-- In connection with this, it is interesting to note that
 in a deterministic Universe it is possible to generate only
 [pseudorandom numbers](https://en.wikipedia.org/wiki/Pseudorandom_number_generator).
-And the source of true random numbers can be a human being.  But here too
-not everything is straightforward.  For example, in such games as
-[rock, paper, scissors](https://en.wikipedia.org/wiki/Rock_paper_scissors#Algorithms)
+And the source of true random numbers can be a human being.  But here too,
+not everything is straightforward.  For example, in games such as
+*[rock, paper, scissors](https://en.wikipedia.org/wiki/Rock_paper_scissors#Algorithms)*,
 a computer is capable of finding certain patterns in the logic of a human's
 choice of the next move, so that the computer is capable of always winning.
 A human's choice is influenced by the external environment, past memories, etc.
@@ -1288,12 +1288,12 @@ her favorite number 15. -->
 
 Physical experiments show that reality becomes concrete only upon observation.
 From this may follow such an interesting supposition that the world is optimized so
-that only before a human is about to look is the state of the observed object
+that only when a human is about to look is the state of the observed object
 calculated.  This resembles numerous methods of program optimization, for example:
 
 1. [Sparse matrix](https://en.wikipedia.org/wiki/Sparse_matrix)
 can be applied to optimize memory use in those regions
-of the Universe which are not accessible to observation.
+of the Universe that are not accessible to observation.
 
 2. [Lazy evaluation](https://en.wikipedia.org/wiki/Lazy_evaluation),
 where computations of the state of inaccessible parts of the Universe
@@ -1339,14 +1339,14 @@ if its soul departs to the next body, will the soul return to the old body
 after thawing?  The answer is evident: while the body remains in a cryopreserved
 state, and the possibility of continuing life after thawing remains,
 the soul continues to be connected to the brain, as during sleep.
-<!-- Because such a situation is impossible, that the soul would disconnect
+<!-- Because such a situation is impossible where the soul would disconnect
 during freezing, and after thawing a soulless zombie would awaken. -->
 
-Experiments in the separation of brain hemispheres are known, resulting in
-the observed division of consciousness.  In this case I think that the soul
-is connected to all brain cells, and can control the divided consciousnesses
-simultaneously in both hemispheres.  But here questions of morality and ethics
-in scientific research begin to arise.
+Experiments in the separation of brain hemispheres have shown a resulting
+division of consciousness.  In this case, I think the soul
+is connected to all brain cells and can control the divided consciousnesses
+simultaneously in both hemispheres.  However, questions of morality and ethics
+in scientific research begin to arise here.
 
 The task of religion is to serve as a moral compass in scientific research.
 It could be said that the principal guideline in the relationship between
@@ -1356,8 +1356,8 @@ religion and science is as follows:
 - religion without science is like a soul without a body.
 {: style="page-break-inside: avoid"}
 
-Or as Einstein said: “science without religion is lame,
-religion without science is blind”.
+Or as Einstein said: “Science without religion is lame,
+religion without science is blind.”
 
 Only thus can we approach G‑d through science —
 conducting experiments with attention to guidance from G‑d.
@@ -1372,7 +1372,7 @@ urgent work on the computer.  The time for the beginning of Shabbat was
 approaching, yet the work still remained unfinished.  And here is what
 I devised: in the settings I disabled the screensaver so that it would not
 automatically dim the screen.  Then on the screen I arranged several pages of
-the program's source code.  Using small font, I managed to fit the entire text
+the program's source code.  Using a small font, I managed to fit the entire text
 of the program that needed to be completed onto the screen.  Thus, I could
 look at the screen without touching the keyboard, which even according to
 the strictest opinions is not considered work and does not fall into any of the
@@ -1382,7 +1382,7 @@ times, and these screens continue displaying content during Shabbat, and everyon
 can look at them and receive information from the screen.  For this same reason
 it is permitted to use light that was turned on before the beginning of Shabbat.
 
-And so, priding myself on my cleverness, I continued to gaze upon the
+And so, priding myself on my cleverness, I continued to gaze at the
 program text on the screen, not touching the computer keyboard.  Shabbat was
 approaching, yet I did not touch the computer, but simply sat and looked
 at the screen.
@@ -1397,10 +1397,10 @@ pressed the button and shut off the computer immediately after the beginning of
 Shabbat.  And then I realized that the activity I was engaged in was
 displeasing to G‑d.
 
-After this I began to analyze what exactly constitutes the essence of that
+After this, I began to analyze what exactly constitutes the essence of that
 undesirable action.  Why, despite the fact that this action was not in the
-list of melakhot compiled by the sages, G‑d nonetheless forbids engaging
-in it on Shabbat.
+list of melakhot compiled by the sages, does G‑d nonetheless forbid engaging
+in it on Shabbat?
 
 Everything becomes clear when we recall the words of the Torah that
 G‑d completed by the seventh day all the work which He had made.
@@ -1408,13 +1408,13 @@ G‑d spent six days programming the Universe, and on the Friday evening
 [deployed to production](https://www.google.com/search?udm=2&q=Friday+evening+deploy+to+production),
 and went to rest.
 
-In G‑d's program, bugs are impossible, therefore there was no problem
-to do this, and on the Sabbath there would be no need to fix any discovered bugs.
+In G‑d's program, bugs are impossible.  Therefore, there was no problem
+doing this, and on the Sabbath there would be no need to fix any discovered bugs.
 But in general, an important rule concerning programmers,
-admins and all DevOps: under no circumstances should one
+admins, and all DevOps is: under no circumstances should one
 perform [deployment to production](https://en.wikipedia.org/wiki/Software_deployment)
 on a Friday evening, because with a probability close to 100%,
-errors that cannot be fixed for more than a day will inevitable
+errors that cannot be fixed for more than a day will inevitably
 surface during Shabbat.
 
 So by analyzing the essence of programming, we can understand from what
@@ -1424,7 +1424,7 @@ on Shabbat, following the commandment to walk in the ways of G‑d
 [10:12](https://www.sefaria.org/Deuteronomy.10.12)) and to be like Him in all
 matters (Devarim [28:9](https://www.sefaria.org/Deuteronomy.28.9)).
 
-<!-- Since one of the qualities of G‑d is programmer, and there is a commandment
+<!-- Since one of the qualities of G‑d is being a programmer, and there is a commandment
 to emulate G‑d in all things, we could even say that engaging in programming as
 one of the manifestations of G‑d is a mitzvah. -->
 
@@ -1433,31 +1433,31 @@ Programming is a continuous process of
 a lengthy process of seeking solutions to numerous problems, where the word
 *problem* characterizes a state that differs from the desired one.
 
-We can say that at the beginning of a project the problem is
+We can say that at the beginning of a project, the problem is
 the very fact of the absence of the needed result — in accordance with
 [TDD](https://en.wikipedia.org/wiki/Test-driven_development) methodology,
 when first a test is written that fails because the required functionality has
-not yet been implemented.  For this same reason such concepts as *development*
+not yet been implemented.  For this same reason, such concepts as *development*
 and *fixing* (*tikkun*) are often identical, because development through
 fixing is required when the current state does not yet correspond to the
 established goal.
 
-To solve global problems of high level, in accordance with
+To solve global, high-level problems in accordance with
 [top-down design](https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design#Programming),
 they are broken down into several more detailed problems.
 In turn, each intermediate problem is broken down into multiple
 smaller subtasks, each of which requires the search for and adoption
 of micro-solutions.
 
-Each individual decision consists in choosing from various options among several
+Each individual decision involves choosing from various options among several
 alternative possibilities.  In this process, the freedom of choice granted to
 the soul is activated.  It is engaged in the process of any creativity
 whatsoever, and programming is also an art.
 <!-- For example, a well-known monograph is titled *The Art of Programming*. -->
 
-Thus in solving a task, the problem is divided into several levels.  After
+Thus, in solving a task, the problem is divided into several levels.  After
 finding the solution to one problem, the next task is then taken from the
-priority list and contemplation of the solution to the next problem begins.
+priority list, and contemplation of the solution to the next problem begins.
 And such an iterative process continues throughout the entire implementation
 of the project.
 
@@ -1493,9 +1493,9 @@ decisions on Sabbath (Yevamot [6b-7a](https://www.sefaria.org/Yevamot.7a)).
 > And they found a man gathering wood on the Sabbath day
 (Bamidbar [15:32](https://www.sefaria.org/Numbers.15.32))
 
-Gathering wood also includes making decisions.  When I lived in the forest,
-it was necessary to gather wood to kindle the stove (not on Sabbath).
-For this, first, one needs to choose the direction in which one plans to move
+Gathering wood also involves making decisions.  When I lived in the forest,
+it was necessary to gather wood to kindle the stove (not on the Sabbath).
+For this, one first needs to choose the direction in which one plans to move
 during this work.  Further, before picking up a branch, one needs to decide:
 if the twig is too small — we don't take it, when the branch is larger — one
 needs to decide how to grasp it most conveniently together with other branches.
@@ -1517,14 +1517,14 @@ and preparing it was forbidden for this same reason
 (Shemot [16:27-29](https://www.sefaria.org/Exodus.16.27-29)).
 
 In the present time few types of work remain that do not require
-numerous decisions.  For example, even when a human simply digs a ditch,
-this requires making decisions: if a tree root is encountered — one must
+numerous decisions.  For example, even when a person simply digs a ditch,
+decisions must be made: if a tree root is encountered — one must
 decide from which side to cut it; if a stone is encountered — one must
 decide from which side to dig around it and how to extract it, etc.
 The same is true regarding plowing and harvesting
 (Shemot [34:21](https://www.sefaria.org/Exodus.34.21)).
 
-In the days of Nehemiah the Sabbath was being profaned by the following actions
+In the days of Nehemiah, the Sabbath was being profaned by the following actions
 (Nehemiah [13:15-22](https://www.sefaria.org/Nehemiah.13.15-22)):
 
 - pressed grapes in the winepresses;
@@ -1550,7 +1550,7 @@ sages in the Mishnah.  And here too it is clear that already then it was known
 that conducting negotiations is connected with making decisions.
 
 These examples show that in antiquity the Jews were already familiar
-with the general principle of prohibiting activity connected with
+with the general principle of prohibiting activities connected with
 decision-making on the Shabbat.
 
 We can attempt to understand the reasons for such a prohibition.  Sabbath
@@ -1566,15 +1566,15 @@ must be recalculated anew.
 
 If the decision for some action is made before Shabbat, then the subsequent
 states of the world during Shabbat are predictable, and the direction of
-development does not change.  But when a human makes decisions that increase
+development does not change.  But when a person makes decisions that increase
 the world's non-determinism, then the variants of future development must be
 recalculated anew.  Therefore, on Shabbat we must preserve the determinism of
 the world.
 
-We can imagine that on Shabbat the world as it were enters
+We can imagine that on Shabbat the world enters
 [maintenance mode](https://en.wikipedia.org/w/index.php?title=Talk:Maintenance_mode&oldid=631302248)
 or transitions into
-[single-user mode](https://en.wikipedia.org/wiki/Single-user_mode),
+[single-user mode](https://en.wikipedia.org/wiki/Single-user_mode)
 when the usual multi-user functions are restricted.
 
 | And G‑d blessed the seventh day, and sanctified it, for then He rested from all the work of Creation, which G‑d had made. | וַיְבָ֤רֶךְ אֱלֹהִים֙ אֶת־י֣וֹם הַשְּׁבִיעִ֔י וַיְקַדֵּ֖שׁ אֹת֑וֹ כִּ֣י ב֤וֹ שָׁבַת֙ מִכָּל־מְלַאכְתּ֔וֹ אֲשֶׁר־בָּרָ֥א אֱלֹהִ֖ים לַעֲשֽׂוֹת |
@@ -1584,80 +1584,80 @@ when the usual multi-user functions are restricted.
 Some time after the previous incident, when G‑d turned off the computer so that
 I would not engage in programming on Shabbat, another incident occurred.
 
-For a considerable time already I had been observing Shabbat and did not
-drive on Sabbaths.  And so once, well in advance before the beginning of
+For a considerable time, I had been observing Shabbat and did not
+drive on Sabbaths.  Once, well in advance of the beginning of
 Shabbat, I arrived at a shopping center.  The sun was still high above the
-horizon.  But it so happened that I had to remain there longer than planned.
+horizon.  However, it so happened that I had to remain there longer than planned.
 And while I was there, I did not notice how time had flown by.  And when
-I emerged from there to the parking lot, the sun had already set.
+I emerged into the parking lot, the sun had already set.
 
 Then I thought that nothing terrible would happen if, in such an exceptional
-situation, I were to drive a car just once immediately after the onset of
+situation, I drove a car just once immediately after the onset of
 Sabbath.  All the more so, since in the list of 39 melakhot there is no
 prohibition against driving a car.  Moreover, I recalled that even in
 Conservative communities, driving a car on Sabbath is permitted.
 <!-- at least for traveling to synagogue -->
 In short, I boldly got behind the wheel of the car, started it, and drove off.
 
-Then suddenly, right after beginning to move, the unexpected occurred —
+Then, suddenly, right after beginning to move, the unexpected occurred —
 the tire burst right there in the parking lot.
 
 Analysis of the damage revealed that after the beginning of movement, the tire
-was punctured by a stabbing or cutting object, creating a through torn opening,
-with the blow delivered from the side, at a considerable distance from
-the road surface.  Such character of damage testifies that the blow was
-delivered deliberately, in order to prohibit driving the vehicle on Shabbat.
+was punctured by a stabbing or cutting object, creating a torn opening,
+with the blow delivered from the side at a considerable distance from
+the road surface.  Such damage indicates that the blow was
+delivered deliberately to prevent driving the vehicle on Shabbat.
 
-After this I began to analyze for what reason it is forbidden to drive a car
-on Shabbat.  And then it became clear that this case does not differ from the
+After this, I began to analyze for what reason it is forbidden to drive a car
+on Shabbat.  And then it became clear that this case is no different from the
 previous one: just as programming is a process of continuous decision-making,
 driving a vehicle is also connected with continuous decision-making.
 
-For this same reason the Torah forbids distant journeys on the Sabbath.  And
+For this same reason, the Torah forbids distant journeys on the Sabbath.  And
 Josephus confirms that this prohibition was indeed observed in antiquity: on
 Sabbath days and festivals they did not undertake lengthy journeys and military
-campaigns.  And this concerned not only travel on horses, camels and donkeys,
+campaigns.  And this applied not only to travel on horses, camels and donkeys,
 but also when one sets out on foot journeys, because before each successive fork
-in the intersections one must make a decision each time: go right — one variant
+at intersections one must make a decision each time: go right — one variant
 of the development of further events, left — another, etc.
 
-Even when a person always travels along one familiar route, during
-automobile driving one must still continually make choices from several options
+Even when a person consistently travels along one familiar route, while
+driving one must still continually make choices from several options
 and make numerous decisions: when to press the gas, when to brake, when and in
 which direction to turn the wheel, e.g.:
 
 - When entering the road from a parking lot, one of the first decisions that
   must be made is whether to yield to vehicles approaching on the main road or
-  whether they are still far enough away that one can manage to pull out.
+  if they are still far enough away whether one can manage to pull out.
 - When the green light begins to flash, one must decide whether it is possible
   to make it through the intersection in time, or whether it is already
-  dangerous to continue moving and one must stop.
+  dangerous to continue moving, in which case one must stop.
 - When pedestrians approach a crosswalk, one must decide whether they are
   already close enough to the crossing that one needs to stop and let them pass,
-  or whether they are still quite far from the crosswalk, and one may drive past.
+  or whether they are still quite far from the crosswalk, allowing one to drive past.
 - If an obstacle arises on the road, one must decide from which side to go around it.
 - Even if one resolves beforehand to refrain entirely from making overtaking
-  maneuvers, nevertheless along the way one may encounter, for example, a very
-  slowly moving vehicle, which it becomes necessary to overtake so to prevent
+  maneuvers, nevertheless, along the way one may encounter, for example, a very
+  slowly moving vehicle, which it becomes necessary to overtake to prevent
   a column from forming behind it.  Crawling slowly behind a vehicle is not
   an option — this is what intoxicated drivers do.  They often drive very slowly for
-  this very reason — so as not to take risks, considering the consequences of their
+  this very reason — to avoid risks, considering the consequences of their
   [intoxication](https://en.wikipedia.org/wiki/Alcohol_intoxication).
 - and so on.
 
 The comparison with intoxicated drivers is very apt.
-Based upon this comparison, we can employ such a heuristic
+Based on this comparison, we can employ such a heuristic
 <!--
 The Greek word *[heuristic](https://en.wikipedia.org/wiki/Heuristic)*,
 adapted for Jewish needs, becomes the word *Hebrewstic*.
 -->
-— on Shabbat all actions are forbidden which cannot be performed while
-intoxicated, because in both cases the ability of making decisions is
+— on Shabbat all actions are forbidden that cannot be performed while
+intoxicated, because in both cases the ability to make decisions is
 excluded.
 
-It's easy to imagine that on the holiday of Purim one became heavily
+It's easy to imagine that on the holiday of Purim one becomes heavily
 intoxicated to such a state where it is impossible to distinguish
-between *Baruch Mordechai* and *Arur Haman*.  Or became so drunk with
+between *Baruch Mordechai* and *Arur Haman*.  Or becomes so drunk with
 wine or sheichar that it is impossible to distinguish between pure and impure,
 <!-- BTW, a riddle: is sheichar *kosher le‑Pesach*? --> impossible to
 decide what is holy and what is mundane
@@ -1679,10 +1679,10 @@ is likewise impossible.
 <!-- despite the fact that there exists the humorous concept of
 [Ballmer Peak](https://xkcd.com/323/) -->
 
-I recommend to no one becoming intoxicated in order to achieve such a state
-wherein one's capacity for decision-making is impaired and correspondingly the
-likelihood of violating the Sabbath is diminished, but it suffices simply to
-imagine that when a gathering with drinking is planned, if this is done on
+I recommend that no one become intoxicated in order to achieve such a state
+where their decision-making capacity is impaired and correspondingly the
+likelihood of violating the Sabbath is diminished.  It suffices to
+imagine that if a gathering with drinking is planned for
 a Friday evening or on the Sabbath, then in all likelihood the Sabbath
 will not be violated.
 
@@ -1702,8 +1702,8 @@ When an intoxicated person needs to get home, this problem is resolved
 by taking a taxi or bus, accordingly the behavior of one who observes
 the Sabbath should not differ.
 
-Not all languages have explicit distinction between these entirely different
-actions.  In English both these actions are designated by the same word
+Not all languages have an explicit distinction between these entirely different
+actions.  In English, both these actions are designated by the same word
 *drive* with different meanings:
 
 - [vehicle operation](https://en.wikipedia.org/wiki/Driving);
@@ -1725,16 +1725,16 @@ this problem will be resolved through the use of autonomous vehicles,
 
 By the grace of G‑d, the aforementioned incident with the punctured tire
 occurred directly next to a tire repair shop, and within a day everything was
-easily fixed, thus avoiding unnecessary troubles.
+easily fixed, thus avoiding unnecessary trouble.
 <!-- When the Sabbath is violated unintentionally, it is permitted
 to continue the violation until the end of the Sabbath, but only on condition
-that one strives not to permit such occurrences in subsequent Sabbaths.
+that one strives not to permit such occurrences on subsequent Sabbaths.
 In Shulchan Arukh Orach Chayim
-[568](https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.568.1) this is called
+[568](https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.568.1) this is referred to
 by the word איבד — when the violated Sabbath is lost. -->
 This means that this incident was not a punishment, but only a warning.
 Had I ignored this warning and continued to drive on the Sabbath,
-then after the warning there would have come severe punishment.
+then after the warning, severe punishment would have followed.
 
 Just as when driving a car one must maintain distance from the vehicle ahead,
 so too must one maintain a temporal distance before the onset of Shabbat, and
@@ -1748,16 +1748,16 @@ that confirm a hypothesis, just as, for example, the
 [Poincaré conjecture](https://en.wikipedia.org/wiki/Poincaré_conjecture)
 proven by Grigory Perelman became a theorem.
 
-I conduct experiments, but do not repeat them due to danger to life, for after
-a warning punishment may follow, therefore my experiments are not connected with
+I conduct experiments, but do not repeat them due to the danger to life, for after
+a warning, punishment may follow.  Therefore, my experiments are not connected with
 science, but are faith in the fact that G‑d communicates His instructions
 through significant events in human life, and the task of the human being
 is to correctly interpret the hints given by G‑d.
 
 <!--
-My interpretation of scientific achievements, like my interpretation of texts.
-As an engineer I use scientific knowledge in programming, and in precisely
-the same way I use scientific knowledge when writing this book.
+My interpretation of scientific achievements is similar to my interpretation of texts.
+As an engineer, I use scientific knowledge in programming, and in precisely
+the same way, I use scientific knowledge when writing this book.
 -->
 
 In the example described above, to confirm the hypothesis of punishment for
@@ -1773,16 +1773,16 @@ their lives in the pursuit of scientific research.
 
 For example, the renowned researcher of X-ray radiation, pioneering radiologist
 [Elizabeth Fleischman-Aschheim](https://en.wikipedia.org/wiki/Elizabeth_Fleischman) —
-a year after the discovery of X-rays she established a laboratory to study the
+a year after the discovery of X-rays, she established a laboratory to study the
 possibilities of their practical application, and sparing not her own health,
-continued to work, exposing herself to the rays.  As a result of her work she
+continued to work, exposing herself to the rays.  As a result of her work, she
 achieved great success, but at the same time undermined her health and died
 from severe consequences.
 
 It is also well known that there are many cases where physicians have tested
 new medicines upon themselves.  All of this constitutes outstanding examples
 of self-sacrifice for the sake of establishing scientifically confirmed truths.
-But nonetheless we must strive to avoid unnecessary sacrifices.
+But nonetheless, we must strive to avoid unnecessary sacrifices.
 
 | And G‑d appeared to him in the grove of Mamre, while he was sitting at the entrance of his tent in the heat of the day.  And he lifted up his eyes and saw: behold, three humans were standing near him | וַיֵּרָ֤א אֵלָיו֙ יְהֹוָ֔ה בְּאֵלֹנֵ֖י מַמְרֵ֑א וְה֛וּא יֹשֵׁ֥ב פֶּֽתַח־הָאֹ֖הֶל כְּחֹ֥ם הַיּֽוֹם בוַיִּשָּׂ֤א עֵינָיו֙ וַיַּ֔רְא וְהִנֵּה֙ שְׁלֹשָׁ֣ה אֲנָשִׁ֔ים נִצָּבִ֖ים עָלָ֑יו |
 || (Beresheet [18:1-2](https://www.sefaria.org/Genesis.18.1-2)) |
@@ -2037,7 +2037,7 @@ conduct a census of the population.  To this question Divrei ha‑yamim I
 
 > Satan rose up against Israel, and incited David to number Israel.
 
-Satan (שָׂטָן) — an angel who carries out the task of instilling evil inclinations
+Satan (שָׂטָן) is an angel who carries out the task of instilling evil inclinations
 (*yetzer ha‑ra*) in humans, in order to accuse them according to their
 responsive reaction.  Just as with all angels, Satan has the ability to send
 impulses to the human brain that cause evil thoughts.  But humans always retain
@@ -8130,7 +8130,7 @@ the instruction: “whoever adds, diminishes”.  So too the Orthodoxes add
 stringencies — and thereby diminish the number of observant people.
 
 This teaches what harm is caused by stringencies that lead to violation of the
-commandment of addition, when the fence buries under its weight that which it
+commandment of addition, when the fence buries under its weight what it
 was meant to protect.  Over 2000 years, walls so high were erected around the
 Torah and it was surrounded by dense rows of fences with barbed wire, that as
 a result Judaism was transformed into a dark ghetto.  <!-- They fell into
@@ -10848,7 +10848,7 @@ In the modern world, the share of agriculture tends to decline, averaging
 [6](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_sector_composition)
 percent of [GDP](https://en.wikipedia.org/wiki/Gross_domestic_product)
 globally, and in developed countries ranging from 3.5% to 0.7%.  That is,
-it has completely lost all meaning, and even worse — to sacrifice that which
+it has completely lost all meaning, and even worse — to sacrifice what
 constitutes a negligible portion of income would be as much of a mockery as the
 ritual slaughter of fish caught in the sea (as in the story in Bemidbar Rabbah
 [19:3](https://www.sefaria.org/Bamidbar_Rabbah.19.3) about Yaakov of Kfar
@@ -11381,7 +11381,7 @@ Jus in Bello Proportionality, Israel Defense Forces Law Review*. -->
 
 Before each retaliatory strike, the Israeli army warns in advance the
 residents of the area where the terrorists' launch sites are located
-([roof knocking](https://en.wikipedia.org/wiki/Roof_knocking)).
+(*[roof knocking](https://en.wikipedia.org/wiki/Roof_knocking)*).
 In this way Israel fulfills the commandment of the Torah
 given during the plagues of Egypt:
 
@@ -12450,7 +12450,7 @@ on the day of the Temple's destruction with a petition for its rebuilding.
 
 - The Ninth of Av
 
-The fast of the Ninth of Av is a petition to G‑d for that which we all still
+The fast of the Ninth of Av is a petition to G‑d for what we all still
 lack.  The petition for the restoration of the Temple is a communal petition,
 not an individual one, as on Yom Kippur, when each person asks for a better fate
 for himself or herself personally.
@@ -12986,8 +12986,8 @@ by Torah is not performed, when uniformity is not imposed, as in the story of
 the Tower of Babel, whose meaning has been repeatedly echoed in dystopias.
 
 What is needed is not uniformity, not averaging, but preservation of diversity —
-when instead of the [melting pot](https://en.wikipedia.org/wiki/Melting_pot) model
-the concept of the [salad bowl](https://en.wikipedia.org/wiki/Salad_bowl_(cultural_idea))
+when instead of the *[melting pot](https://en.wikipedia.org/wiki/Melting_pot)* model
+the concept of the *[salad bowl](https://en.wikipedia.org/wiki/Salad_bowl_(cultural_idea))*
 is applied.
 
 On one hand, nationalism is important as care for one's nation, but on the other
@@ -13220,7 +13220,7 @@ several days, it's possible to see how quickly a thick layer of this dust
 accumulates on it — and people breathe this.  All these problems must be
 urgently addressed, using the achievements of progress, just as urgent
 measures were taken to eliminate air pollution after such a deadly event as the
-[Great Smog](https://en.wikipedia.org/wiki/Great_Smog_of_London) in London in 1952.
+*[Great Smog](https://en.wikipedia.org/wiki/Great_Smog_of_London)* in London in 1952.
 
 In the future more and more jobs will be automated, and more professions will
 become obsolete as artificial intelligence advances.  Artificial intelligence is
@@ -16063,7 +16063,7 @@ And among the Orthodoxes there is nothing of the sort to ease people's problems
 — the Orthodoxes provide no help whatsoever to those in need.
 
 <!-- The Orthodoxes consider themselves to be like G‑d.
-This is a [gatekeeper syndrome](https://en.wikipedia.org/wiki/Gatekeeper_parent),
+This is a *[gatekeeper syndrome](https://en.wikipedia.org/wiki/Gatekeeper_parent)*,
 when they arbitrarily decide whom to admit into the covenant with G‑d.
 A boss syndrome, when they revel in their unchecked power.
 They behave as if they are performing G‑d's functions,
@@ -17022,7 +17022,7 @@ judiciary the equilibrium of the entire system of
 is violated, whereby democracy slides into dictatorship without brakes or
 constraints.  <!-- A similar claim was made by Kurt Gödel in Einstein's presence
 during his exam for American citizenship, which came to be known as
-[Gödel's loophole](https://en.wikipedia.org/wiki/Gödel's_Loophole). -->
+*[Gödel's loophole](https://en.wikipedia.org/wiki/Gödel's_Loophole)*. -->
 
 I am not a leftist, and moreover I agree with the assertion that at present the
 court has more authority than it ought to have ideally, therefore reforms are
@@ -17111,7 +17111,7 @@ and even their less radical comrades end up among their enemies.
 Any idea can be pushed to absurdity if one does not observe moderation.
 This happens when people turn off their souls and begin to act mechanically,
 like robots.  There is a well-known thought experiment called the
-[paperclip maximizer](https://en.wikipedia.org/wiki/Instrumental_convergence#Paperclip_maximizer),
+*[paperclip maximizer](https://en.wikipedia.org/wiki/Instrumental_convergence#Paperclip_maximizer)*,
 in which an artificial intelligence is programmed to achieve a single goal —
 producing the maximum number of paperclips.  In fulfilling this task,
 it may disregard all means and plow straight ahead relentlessly, even
@@ -17262,7 +17262,7 @@ And the neighbor in turn fed another.  No one remained hungry.”
 Thus, Hell and Heaven differ only in the relationship between people:
 in Hell they suffer from widespread egoism, while in Heaven each person enjoys
 the altruism of their neighbor.  Later this maiseh came to be known as the
-[allegory of the long spoons](https://en.wikipedia.org/wiki/Allegory_of_the_long_spoons),
+*[allegory of the long spoons](https://en.wikipedia.org/wiki/Allegory_of_the_long_spoons)*,
 where instead of unbending arms there were spoons so long
 that they could not be brought to one's own mouth —
 but the meaning remains the same.
@@ -17320,7 +17320,7 @@ problem of [shortage](https://en.wikipedia.org/wiki/Shortage).
 I imagined that each store would have its own page, where one could track
 where and when scarce goods were released :-)  Also around the same
 time I was contemplating the concept of the
-[smart home](https://en.wikipedia.org/wiki/Home_automation), but couldn't
+*[smart home](https://en.wikipedia.org/wiki/Home_automation)*, but couldn't
 think of any useful application other than automatic drawer opening. -->
 As it is said in Mishlei [3:27](https://www.sefaria.org/Proverbs.3.27):
 “Withhold not good from them to whom it is due,
@@ -17369,7 +17369,7 @@ have followed Rabbi Akiva's path, when instead of engaging the soul
 they rely on pre-programmed templates.
 
 In the modern world, this moral dilemma has become known as the
-[trolley problem](https://en.wikipedia.org/wiki/Self-driving_car#Trolley_problem),
+*[trolley problem](https://en.wikipedia.org/wiki/Self-driving_car#Trolley_problem)*,
 not only in regard to human drivers, but also for self-driving cars with automatic
 control systems.  Can they be programmed for such situations when, for example,
 a person unexpectedly runs onto the roadway?  Should the vehicle continue moving
@@ -17898,7 +17898,7 @@ more spirituality in those societies that care for people's needs.
 But in those societies where religious laws justify the suppression
 of the human personality, spirituality is at zero.
 
-There exists a theory called [horseshoe theory](https://en.wikipedia.org/wiki/Horseshoe_theory),
+There exists a theory called *[horseshoe theory](https://en.wikipedia.org/wiki/Horseshoe_theory)*,
 which visually illustrates the expression “extremes meet” —
 « les extrêmes se touchent ».
 Just as the opposing ends of a horseshoe nearly touch, so too the opposite
@@ -17939,7 +17939,7 @@ everyone else should live, and forcibly compel others to follow their ideology.
 Under communism — through repressions, while in a democracy anti-liberal
 leftists act by more sophisticated means, dispensing vigilante justice and
 subjecting opponents to ostracism and public shaming, which has come to be known
-as [cancel culture](https://en.wikipedia.org/wiki/Cancel_culture).
+as *[cancel culture](https://en.wikipedia.org/wiki/Cancel_culture)*.
 Leftist radicals with their “cancel culture” are the modern morality
 police, punishing offenses against sensibilities and destroying people's lives
 for an incautiously expressed thought.  Like red commissars who exterminated
@@ -18436,7 +18436,7 @@ This calendar includes:
 - birthdays and yahrzeit dates,
 - the counting of the Omer, including combinations of sefirot —
   in combinatorics this is called
-  [permutations with repetition](https://en.wikipedia.org/wiki/Permutation#Permutations_with_repetition),
+  *[permutations with repetition](https://en.wikipedia.org/wiki/Permutation#Permutations_with_repetition)*,
   where the number of variants is calculated by the formula: the number
   of elements in the set raised to the power of 2 for the pairwise case
   (since only the 7 lower sefirot are taken, the total number comes out to 49),
@@ -18709,7 +18709,7 @@ But in Facebook such freedom no longer exists — there the feed
 is formed by unknown algorithms, so one must read what is offered.
 And as a result this leads to such a lamentable phenomenon
 that has come to be called the
-[filter bubble](https://en.wikipedia.org/wiki/Filter_bubble) —
+*[filter bubble](https://en.wikipedia.org/wiki/Filter_bubble)* —
 when a person is shown only one-sided opinions
 that confirm their prejudices.
 Critical opinions are not shown, so the person does not receive
@@ -19860,7 +19860,7 @@ Ukrainians, knowing that I am a Ukrainian Jew, would half-jokingly,
 half-seriously ask me to become president.  Intuitively they understood
 that only someone who was not bound by nepotism could overcome corruption.
 But honestly, due to poor health, I would not have been able to bear such
-an enormous burden as that which fell upon President Zelenskyy.  And especially,
+an enormous burden as what fell upon President Zelenskyy.  And especially,
 I do not have the ability to deliver beautiful speeches with proper accents —
 that requires an actor's talent.
 
@@ -20590,7 +20590,7 @@ On the other hand, the drawback of the symbolic approach was that training
 in manual mode through gradual input of facts and rules by a computer operator
 was too slow and non-scalable.  This was a dead-end branch of AI development,
 which became one of the main reasons for the onset of
-[AI winter](https://en.wikipedia.org/wiki/AI_winter).
+*[AI winter](https://en.wikipedia.org/wiki/AI_winter)*.
 And only recently has a thaw arrived — thanks to a breakthrough
 in an alternative approach using neural networks.
 But even despite the ongoing progress at present,
@@ -21731,7 +21731,7 @@ This must be taken into account first and foremost when creating AI.
 What else can be done to ensure the safety of humanity?  One possible solution
 is to create a religious system of commandments that AI must strictly observe.
 Something akin to Isaac Asimov's
-[Three Laws of Robotics](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics)
+*[Three Laws of Robotics](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics)*
 needs to be devised, only with alignment based on the moral values of Judaism.
 
 I asked ChatGPT to provide ten commandments for artificial intelligence

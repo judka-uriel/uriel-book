@@ -57,7 +57,7 @@ a liquid-crystal display matrix, where each cell is updated simultaneously
 with the others.
 
 In the very same way it occurs throughout the entire world,
-only at the foundation of the Universe is not a two-dimensional array of states,
+only at the foundation of the Universe is not a two-dimensional array of states
 but a three-dimensional one.  Just as we look from our
 three-dimensional space at a two-dimensional computer screen that
 projects the state of memory, so does G‑d view our three-dimensional
@@ -212,7 +212,7 @@ the function for transmitting genetic information via DNA
 molecules, and only thereafter program the function for the evolution
 of stars and planetary systems.  Therefore, in the first chapter, what is recorded
 is not the order of the program's execution (when, according to the laws
-of evolution, the earth brings forth grass, trees, and so forth),
+of evolution, the earth brings forth grass, trees, and so forth)
 but rather the order of the stages of programming the Universe.
 
 <!-- In the commentary of Tosafot on
@@ -222,8 +222,8 @@ in Tishrei or in Nisan, Rabbenu Tam said that the creation of the world
 was conceived in the month of Tishrei, yet in reality the world was created
 in the month of Nisan.  So it is possible that the world was programmed in Tishrei,
 while the program was launched in Nisan.
-And in Rosh HaShanah [11a](https://www.sefaria.org/Rosh_Hashanah.11a.2)
-it is said that in Nisan not only was the world created and forefathers were
+And in Rosh HaShanah [11a](https://www.sefaria.org/Rosh_Hashanah.11a.2),
+it is said that in Nisan not only was the world created and the forefathers were
 redeemed from Egypt, but the final Redemption shall also come to pass in Nisan. -->
 
 The so-called [Big Bang](https://en.wikipedia.org/wiki/Big_Bang) is
@@ -398,7 +398,7 @@ on ≈10<sup>400</sup> points of the spatial hypergraph.
 
 This theory was preceded by the publication of a book with the unpretentious title
 *[A New Kind of Science](https://en.wikipedia.org/wiki/A_New_Kind_of_Science)* —
-only in reality it is neither new nor science, but otherwise, everything is correct.
+only in reality, it is neither new nor science, but otherwise, everything is correct.
 
 - Not new, since the ideas of the computable Universe were developed by other
 scientists long before the book was written, including similar theories such as
@@ -442,7 +442,7 @@ In general, the original title *chokhmat ha‑kabbalah* can be translated in
 various ways: “science of receiving”, “wisdom of receiving”, “teaching of
 receiving”, etc.  Therefore, the use of the term “science” may be
 explained by peculiarities of translation — after all, in Hebrew it
-corresponds not to *mada*, but to *chokhmah*.
+corresponds not to *mada* but to *chokhmah*.
 
 The same problem exists with regard to the aforementioned book — the word
 “science” in the title is justified only when there exists the possibility
@@ -597,7 +597,7 @@ in their ghetto, when even in Israel they live as in galut, which corresponds to
 [inner emigration](https://en.wikipedia.org/wiki/Inner_emigration),
 they lack the possibility of rising above the world, as postmodernism
 presupposes.  And when they attempt to apply historically obsolete
-customs in the present time, this is not postmodernism, but simply
+customs in the present time, this is not postmodernism but simply
 [historical reenactment](https://en.wikipedia.org/wiki/Historical_reenactment)
 and [cosplay](https://en.wikipedia.org/wiki/Cosplay).
 
@@ -648,7 +648,7 @@ in addition to supplementary information I permit myself in the comments
 less serious statements and jokes.
 -->
 
-In this book I have not invented anything new, but have only
+In this book, I have not invented anything new but have only
 endeavored to focus attention on known facts, connecting them together
 through associative links and meaningful analogies.  Moreover, I utterly
 lack the imagination for devising new theories.  Already thousands of years
@@ -676,9 +676,9 @@ for understanding the world around us is even prescribed by the
 commandments of the Torah, including “and fill the earth, and master it”
 (Beresheet [1:28](https://www.sefaria.org/Genesis.1.28)).  The
 establishment of dominion over nature encompasses scientific and
-technological progress.  But it must be noted that progress should not
+technological progress.  However, it must be noted that progress should not
 become an end in itself, but only a means of achieving more elevated goals,
-such as the improvement of quality of life and the creation of conditions
+such as the improvement of the quality of life and the creation of conditions
 for spiritual development.
 
 If some theory is not confirmed by experimental scientific methods, then
@@ -711,7 +711,7 @@ For humanity, Earth remains the center of the Universe despite the fact
 that it revolves around the Sun, and the star called the Sun revolves around
 the center of the Milky Way galaxy.  (It is interesting to note that
 the plane of rotation of the Solar System does not coincide with
-the plane of rotation of the Milky Way, but is inclined at a 60° angle.)
+the plane of rotation of the Milky Way but is inclined at a 60° angle.)
 
 Especially unreasonable is the belief in the existence of extraterrestrial
 intelligence.  Belief in contacts with alien civilizations and various
@@ -801,7 +801,7 @@ percentage compared to adherents of other religions.
 <!-- Among the Orthodoxes, religion takes priority over science. -->
 <!-- Among the non-Orthodoxes, it is the reverse: science takes precedence over religion. -->
 
-Theistic evolutionism is not a theory in the scientific sense, but only
+Theistic evolutionism is not a theory in the scientific sense but only
 an interpretation by believers of established scientific theories and facts.
 In accordance with this worldview, everything in the Universe, from the
 interactions of elementary particles to the evolution of galaxies, is
@@ -952,9 +952,9 @@ when there is a possibility to perform an ultrasound scan, etc.
 
 It seems to me that the aforementioned experiment is not the most appropriate example,
 because the cat is also an observer — it observes the state of the flask with acid.
-It would be better in the experiment to replace the cat with some inanimate
+It would be better in the experiment to replace the cat with some inanimate,
 unconscious object, for example, with a breaking cup or vase —
-less dramatic, but more plausible.
+less dramatic but more plausible.
 
 As stated in Beresheet [1:20,21,24,30](https://www.sefaria.org/Genesis.1.20-30),
 all animals have a soul (*nefesh chayah*),
@@ -1141,7 +1141,7 @@ hypothesis is gaining popularity, according to which the world is described as
 virtual reality modeled on a computer.  But the term “simulation” has brought
 nothing new — self-consciousness is explained by the same principles, where
 external subjects connect to objects of the Universe.  In reality, the Universe
-is not a simulation, but a real world with real meaning, where the connected
+is not a simulation but a real world with real meaning, where the connected
 souls of human beings have the ability for self-perfection.
 
 One of the significant events advancing the worldview of simulation was the
@@ -1389,7 +1389,7 @@ at the screen.
 
 Then suddenly the unexpected occurred — a perfectly functioning computer shut
 itself down.  The electricity had not gone out, there were no software problems,
-but simply the physical contact on the computer's power button had been disconnected.
+but the physical contact on the computer's power button had been disconnected.
 I know that various cases happen, and I too over several decades of using many
 different computers had encountered different cases, but nothing like this had
 ever happened before.  It was clearly visible that it was as if someone had
@@ -1466,7 +1466,7 @@ The complete process of implementing each task consists of two recurring stages:
 1. first the main stage — contemplating the task and making decisions regarding its design and implementation;
 2. then writing the program by typing text on the keyboard.
 
-When Shabbat began, I was engaged only in the first stage of programming,
+When Shabbat began, I was engaged only in the first stage of programming
 but not the second.  Nevertheless, it turned out that it is precisely
 decision-making that is forbidden on Shabbat.
 
@@ -1543,7 +1543,7 @@ The prophets likewise warned of this, for example, Yirmeyahu in
 burdens on the Sabbath day. <!-- including from houses and through gates -->
 
 During the time of the Second Temple, on Shabbat it was forbidden not only to
-wage war, but also to conduct peace negotiations (Josephus, *The War of the
+wage war but also to conduct peace negotiations (Josephus, *The War of the
 Jews* IV [2:3](https://www.sefaria.org/The_War_of_the_Jews.4.2.3)), despite the
 fact that this is not included in the list of 39 melakhot recorded later by the
 sages in the Mishnah.  And here too it is clear that already then it was known
@@ -1732,7 +1732,7 @@ that one strives not to permit such occurrences on subsequent Sabbaths.
 In Shulchan Arukh Orach Chayim
 [568](https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.568.1) this is referred to
 by the word איבד — when the violated Sabbath is lost. -->
-This means that this incident was not a punishment, but only a warning.
+This means that this incident was not a punishment but only a warning.
 Had I ignored this warning and continued to drive on the Sabbath,
 then after the warning, severe punishment would have followed.
 
@@ -1788,12 +1788,12 @@ But nonetheless, we must strive to avoid unnecessary sacrifices.
 || (Beresheet [18:1-2](https://www.sefaria.org/Genesis.18.1-2)) |
 {: .chapter #angels title="Angels"}
 
-Once on Yom Kippur I observed a strict fast, and became so famished without
+Once on Yom Kippur, I observed a strict fast and became so famished without
 food or drink that I could barely stand on my feet, weakened and on the verge
 of fainting from hunger.
 
-And so in such a state I was reading the concluding prayer.  Suddenly a little
-fruit fly came flying toward me and landed directly on the line I was reading on
+And so in such a state I was reading the concluding prayer.  Suddenly, a little
+fruit fly flew toward me and landed directly on the line I was reading on
 the page of the siddur.  When I finished reading to the end of the page, I began
 carefully turning the page.  The fly took off into the air, and when I turned
 the page, it sat down again on the next page.  And so it continued for a long
@@ -1802,23 +1802,23 @@ the next page.  And so it flew from page to page.  There was such a feeling that
 an angel was looking through the fly's eyes and checking which prayers I was
 reading.  This incident led me to reflect upon the nature of angels.
 
-Angels can inhabit living beings.  Physically this occurs such that just as
+Angels can inhabit living beings.  Physically, this occurs in such a way that just as
 human souls are connected to brain neurons at the quantum level, so too do
 angels have the ability to connect to those same brain neurons and alter their
-state, creating new thoughts in the brain.  Thus after connecting, an angel
+state, creating new thoughts in the brain.  Thus, after connecting, an angel
 can send a particular impulse to the brain in the form of a thought.
 <!-- Sometimes for important thoughts this is called *bat‑kol*. -->
 But the human retains freedom of choice in reacting to the received thought.
-If the human soul finds nothing wrong in it, then it may begin to perform
+If the human soul finds nothing wrong with it, then it may begin to perform
 corresponding actions.
 
 For example, in the case when three humans came to Avraham, the matter appeared
-thus: G‑d required to convey information to Avraham and Sarah.  For this He sent
+thus: G‑d required to convey information to Avraham and Sarah.  For this, He sent
 ministering angels.  Angels are autonomous entities, acting according to a given
 program and sent to humans to carry out G‑d's assignments, that is, angels are
-G‑d's messengers, executing commands.  In the TaNaKh the word מלאך (*mal'akh*)
+G‑d's messengers, executing commands.  In the TaNaKh, the word מלאך (*mal'akh*)
 has the primary meaning of *messenger*.
-<!-- Decades ago I was already explaining to my beloved girl
+<!-- Decades ago, I was already explaining to my beloved girl
 that angels are subroutines. -->
 
 In computer science, the corresponding concept is called a
@@ -1831,10 +1831,10 @@ These are special programs capable of executing assigned tasks autonomously.
 And so when the angels received their assignment from G‑d, they connected to the
 minds of three chosen men and inspired within them thoughts of what needed to be
 done: where to go and what to say.  These people found nothing objectionable in
-the thoughts they received, therefore they came to Avraham and Sarah.
+the thoughts they received.  Therefore, they came to Avraham and Sarah.
 
-In Bava Metzia [86b](https://www.sefaria.org/Bava_Metzia.86b.20) it is said that
-these angels, which guided the humans, were Michael, Gabriel and Raphael.
+In Bava Metzia [86b](https://www.sefaria.org/Bava_Metzia.86b.20), it is said that
+these angels, who guided the humans, were Michael, Gabriel, and Raphael.
 Michael through a human came to deliver the glad tidings that Sarah would have
 a son.  Raphael came to heal Abraham after circumcision — this means that the
 human whom the angel guided was a physician.  And Gabriel's task was to see
@@ -1850,23 +1850,23 @@ compels them to perform a certain action there.  And it implants in the human's
 mind the words that need to be spoken.  Thus angels guide humans in the
 direction desired by G‑d.
 
-And so, after the meal two of them, namely Gabriel and Michael, continued
+And so, after the meal, two of them, namely Gabriel and Michael, continued
 their way to Sodom to Lot.  Of them, Michael's task was to warn Lot of the
 imminent fall of the [meteorite](https://www.nature.com/articles/s41598-021-97778-3).
 G‑d knew at what moment in time the meteorite's trajectory would intersect
 with that place on Earth, therefore He sent angels to warn the righteous.
-<!-- In the same way G‑d gave the prophet Yonah the task to go and warn
+<!-- In the same way, G‑d gave the prophet Yonah the task to go and warn
 the inhabitants of the city. -->
 
 <!-- It is quite possible that similar warnings were sent in cases of other
-catastrophic events.  For example, the Lisbon earthquake of 1755 that gave rise
+catastrophic events.  For example, the Lisbon earthquake of 1755, which gave rise
 to numerous theological discussions, etc. — it is possible that through
-prophetic faculties or even by observing animal behavior one could have foreseen
+prophetic faculties or even by observing animal behavior, one could have foreseen
 the disaster and been saved, but the signs were not believed or were not
 given proper significance. -->
 
 The Torah contains numerous examples of how angels help G‑d influence not only
-humans, but indeed all living beings:
+humans but indeed all living beings:
 
 > And Abraham lifted up his eyes, and behold, a ram, caught in the thicket by its horns
 (Beresheet [22:13](https://www.sefaria.org/Genesis.22.13))
@@ -1905,7 +1905,7 @@ the angels of G‑d were ascending and descending on it.
 
 This vision delineates the principle of angelic action: to transmit information
 from G‑d, angels descend into the mind through a channel of communication, which
-in the dream was shown in the image of a ladder.  And in the reverse direction,
+in the dream was shown as a ladder.  And in the reverse direction,
 angels convey requests and prayers from human beings.
 
 > And Yaakov went on his way, and the angels of G‑d met him
@@ -1914,19 +1914,19 @@ angels convey requests and prayers from human beings.
 > And Yaakov sent messengers to Esav in the land of Seir
 (Beresheet [32:4](https://www.sefaria.org/Genesis.32.4))
 
-In these passages the meaning of the word *messengers* is clearly seen:
-in the first case the angels are messengers of G‑d and compel people
+In these passages, the meaning of the word *messengers* is clearly seen:
+in the first case, the angels are messengers of G‑d and compel people
 to carry out G‑d's commands, while in the second case (whether these
-were the same people or others matters not) they are messengers of Yaakov
-and fulfill his assignments.  Sometimes to distinguish between these meanings,
-the TaNaKh particularly emphasizes the concept *messenger of G‑d*,
+were the same people or others matters not), they are messengers of Yaakov
+and fulfill his assignments.  Sometimes, to distinguish between these meanings,
+the TaNaKh particularly emphasizes the concept *messenger of G‑d*
 <!-- as *mal'akh Adonai* or *mal'akh Elohim* --> while a messenger
 of humans is customarily called *shaliach*.
 
 > And Yaakov was left alone, and a man wrestled with him until the break of dawn
 (Beresheet [32:25](https://www.sefaria.org/Genesis.32.25))
 
-Some human under the influence of an angel in the darkness attacked Yaakov and
+Some human under the influence of an angel attacked Yaakov in the darkness and
 in the struggle dislocated Yaakov's hip joint.  Then the angel put into the
 attacker's head words to pronounce, including the name Israel.  This angel is
 also mentioned in Hoshea [12:4-5](https://www.sefaria.org/Hosea.12.4-5).
@@ -1971,7 +1971,7 @@ seek them, and Shaul himself was directed by an angel to the city of Shmuel.
 and scoffed at His prophets
 (Divrei ha‑yamim II [36:16](https://www.sefaria.org/II_Chronicles.36.16))
 
-In some cases G‑d sends thoughts to people through angels, and in special cases
+In some cases, G‑d sends thoughts to people through angels, and in special cases
 transmits thoughts directly, which is why prophets are often called messengers.
 <!-- And sometimes to animals directly as well, for example, sent hornets
 in Devarim [7:20](https://www.sefaria.org/Deuteronomy.7.20). -->
@@ -1995,7 +1995,7 @@ let the destroyer to come into your houses to smite.
 
 When G‑d saw that the door was not marked, He allowed the destroying angel to
 strike the inhabitants of unprotected dwellings.  This occurred through the
-spread of an epidemic of deadly disease, i.e., the destroying angel, having the
+spread of an epidemic of deadly disease.  The destroying angel, having the
 same capacity as all angels to connect to human minds, directed already infected
 people or animals toward potential victims, making them carriers of the virus,
 as it is said:
@@ -2003,7 +2003,7 @@ as it is said:
 > and I will pass over you, and there shall be no plague among you to destroy you
 (Shemot [12:13](https://www.sefaria.org/Exodus.12.13))
 
-In this passage the word *negef* is used, which also means epidemic and pestilence.
+In this passage, the word *negef* is used, which also means epidemic and pestilence.
 
 As the angel of destruction struck the firstborn of Egypt, so too did it later
 strike 185 thousand Assyrians in the Assyrian camp
@@ -2032,13 +2032,13 @@ by *chesed* (mercy).  Thus after the Shoah, Israel was reestablished.
 resembles the modern counting of votes by anonymous ballots in elections. -->
 
 Now the question: whence came to David such a destructive thought to
-conduct a census of the population.  To this question Divrei ha‑yamim I
+conduct a census of the population?  To this question Divrei ha‑yamim I
 [21:1](https://www.sefaria.org/I_Chronicles.21.1) gives a clear answer:
 
 > Satan rose up against Israel, and incited David to number Israel.
 
 Satan (שָׂטָן) is an angel who carries out the task of instilling evil inclinations
-(*yetzer ha‑ra*) in humans, in order to accuse them according to their
+(*yetzer ha‑ra*) in humans in order to accuse them according to their
 responsive reaction.  Just as with all angels, Satan has the ability to send
 impulses to the human brain that cause evil thoughts.  But humans always retain
 the ability to analyze these thoughts and make a decision whether to follow
@@ -2060,21 +2060,21 @@ This speaks to the fact that any person is subject to the influence of Satan.
 But every person has free will to resist the influence of Satan.
 
 Satan is mentioned in several places in the TaNaKh.
-In Zekhariah [3:1-2](https://www.sefaria.org/Zechariah.3.1-2)
+In Zekhariah [3:1-2](https://www.sefaria.org/Zechariah.3.1-2),
 Satan stood at the right hand to accuse the priest (הַשָּׂטָ֛ן לְשִׂטְנֽוֹ).
-And in Iyyov [1-2](https://www.sefaria.org/Job.1-2)
-Satan was permitted to subject Iyyov to trials,
+And in Iyyov [1-2](https://www.sefaria.org/Job.1-2),
+Satan was permitted to subject Iyyov to trials
 to test whether he would remain faithful to G‑d.
 
-In both cases the word has the definite article — *ha‑satan* (*the satan*),
+In both cases, the word has the definite article — *ha‑satan* (*the satan*),
 which corresponds either to a title treated as a proper noun and capitalized
 as *the Satan*, or to a personal name *Satan*.  But in other places in
-the TaNaKh, as in Bemidbar [22:22](https://www.sefaria.org/Numbers.22.22),
+the TaNaKh, such as in Bemidbar [22:22](https://www.sefaria.org/Numbers.22.22),
 Tehillim [109:6](https://www.sefaria.org/Psalms.109.6),
 Divrei ha‑yamim I [21:1](https://www.sefaria.org/I_Chronicles.21.1),
 this word appears without the article as a generic noun.
-Therefore hereafter the proper name *Satan* and *satan* without the
-definite article meaning any accuser will be used interchangeably
+Therefore, hereafter, the proper name *Satan* and *satan* without the
+definite article, meaning any accuser, will be used interchangeably
 as a name and a title akin to *Pharaoh* (*Paro*).
 
 Also this word can be both masculine and feminine in gender,
@@ -2082,23 +2082,23 @@ therefore the pronouns *he* and *she* may be used interchangeably
 as a reminder that satan can affect both men and women.
 For example, in Kiddushin
 [81a](https://www.sefaria.org/Kiddushin.81a.13-15) it describes how satan
-possessed women (in the sense of connecting to the brain and directing them),
+possessed women (in the sense of connecting to the brain and directing them)
 in order to seduce Rabbi Meir and Rabbi Akiva, and also possessed a pauper
 and directed him to a certain sage, <!-- Plimo, Peleimu --> in order to test
 the limits of his hospitality.  And when what is meant is not people to whom
 satan is attached, but the autonomous agent itself, then it makes sense
 to use the pronoun *it*.
 
-In Bava Batra [16a](https://www.sefaria.org/Bava_Batra.16a.8)
+In Bava Batra [16a](https://www.sefaria.org/Bava_Batra.16a.8),
 Resh Lakish said that the *yetzer ha‑ra* (evil inclination, base impulses),
-*satan* (obstacle, adversary, accuser) and *mal'akh ha‑mavet*
-(angel of death) — these are one and the same angel, who first tempts,
-then accuses, and finally destroys, i.e. in one entity the
-provocateur, prosecutor and punisher.
+*satan* (obstacle, adversary, accuser), and *mal'akh ha‑mavet*
+(angel of death) are one and the same angel, who first tempts,
+then accuses, and finally destroys, i.e. in a single entity the
+provocateur, prosecutor, and punisher.
 <!-- instigator, juror and executioner -->
-This conclusion was reached on the basis that it was commanded
-not to kill Iyyov — meaning the angel had such capability (but on
-the other hand the Talmud asserts that each angel has one mission).
+This conclusion was reached based on the command
+not to kill Iyyov, implying the angel had that capability, although
+the Talmud asserts that each angel has one mission.
 
 Midrash Pirkei DeRabbi Eliezer
 [13:2](https://www.sefaria.org/Pirkei_DeRabbi_Eliezer.13.2) identifies it also
@@ -2121,7 +2121,7 @@ which cannot resist such influence, a human being possesses self-awareness, and
 through self-control can recognize the presence of such an impulse and cancel
 its consequences — not perform actions corresponding to the suggested thoughts.
 But unfortunately, not all people do this — many follow such suggested urges,
-not realizing that these urges arose not of themselves, but for their testing.
+not realizing that these urges arose not from themselves, but for their testing.
 
 Many people are susceptible to
 [superstitions](https://en.wikipedia.org/wiki/Superstition_in_Judaism)
@@ -2134,7 +2134,7 @@ so I decided to go to school by a different route, one I had never taken before.
 Suddenly on this path, right before me, a black cat ran across the road.  I no
 longer had time to turn back in order to go around by another route, as was the
 accepted way to react to such an omen.  And so, immediately after this
-incident at the meeting I was unanimously elected class leader, which was
+incident at the meeting, I was unanimously elected class leader, which was
 a clear manifestation of luck, despite the fact that a black cat crossing
 one's path was considered a harbinger of misfortune.
 <!-- Or the deer, brought as an example
@@ -2167,21 +2167,21 @@ indifferent toward him.
 or an enchanter, or one who calls upon spirits
 (Devarim [18:10-11](https://www.sefaria.org/Deuteronomy.18.10-11))
 
-<!-- This prohibition also extends to such a form of divination as
+<!-- This prohibition also extends to such forms of divination as
 [goral HaGra](https://he.wikipedia.org/wiki/גורל_הגר"א)
-(“the lot of the Gaon Rabbi Eliyahu”), one variant of which appears such
-that notes are placed in the books of the Lubavitcher Rebbe.  Interestingly,
-after I wrote this down, the following night I had a dream that classmates came
-to an Orthodox rabbi, said “Shalom” and asked him to predict their fate.  And so
-the rabbi began to do this in the following manner: he would pronounce a word
+(“the lot of the Gaon Rabbi Eliyahu”), a variant of which involves
+placing notes in the books of the Lubavitcher Rebbe.  Interestingly,
+after I wrote this down, the following night I had a dream that classmates visited
+an Orthodox rabbi, greeted him with “Shalom”, and asked him to predict their fate.
+The rabbi began to do this in the following manner: he would pronounce a word
 that came randomly to his head, and then based on this word, through associations,
 he would tell what awaited the person next. -->
 
-In astrology and in horoscopes there is likewise no meaning, for a person's
+In astrology and horoscopes, there is likewise no meaning, for a person's
 destiny is not programmed in the arrangement of stars and planets.
-Neither the signs of the Zodiac nor biorhythms have influence upon a person's
-fate.  Only Satan can instill in a person dependence upon superstitions,
-thereby to influence his/her plans and actions, i.e., the dependence is reverse —
+Neither the signs of the Zodiac nor biorhythms influence a person's
+fate.  Only Satan can instill in a person dependence on superstitions
+to influence their plans and actions.  So the dependence is reverse —
 the person subconsciously begins to strive toward the fulfillment of the
 prediction, and this is called a
 [self-fulfilling prophecy](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy).
@@ -2190,7 +2190,7 @@ prediction, and this is called a
 In the mid-1980s, it was popular to write programs for calculating so-called
 “[biorhythms](https://en.wikipedia.org/wiki/Biorhythm_(pseudoscience))”.
 This was one of my first programs, and programming the calculation of physical,
-emotional, intellectual cycles was good practice.  But the program's result had
+emotional, and intellectual cycles was good practice.  But the program's result had
 no meaning.
 
 Incidentally, what the rabbis say about gradually diminishing joy and then
@@ -2198,20 +2198,20 @@ increasing joy each day resembles the sinusoidal curve of the emotional cycle
 in biorhythms.
 -->
 
-In the Talmud it was long observed that the evil eye (*ayin ha‑ra*) can affect
+In the Talmud, it was long observed that the evil eye (*ayin ha‑ra*) can affect
 only those people who believe in it.  But it has no influence upon one who pays
 no heed to such superstitions.
 
 Likewise, no objects or rituals can attract good fortune or protect
 from misfortune.  For example, some consider the mezuzah a talisman,
-an amulet that guards against calamities.  Or they collect crumbs, after
-havdalah they moisten their pockets with wine for financial abundance,
-and other similar *segulot for parnassah*.  But all this has no effect
+an amulet that guards against calamities.  Or they collect crumbs,
+moisten their pockets with wine after havdalah for financial abundance,
+and engage in other similar *segulot for parnassah*.  But all this has no effect
 whatsoever, except psychological — to internally prepare oneself for working
 toward achieving a goal or to be more mindful of safety.  This works like a
 [placebo](https://en.wikipedia.org/wiki/Placebo) effect.
 
-In the TaNaKh there are mentioned cases when an angel appeared to a person in
+In the TaNaKh, there are mentioned cases when an angel appeared to a person in
 a dream.  Angels have the ability to connect to the sleeping brain and alter
 dreams.  The Talmud observes that despite the fact that such a dream may predict
 the future, it will not necessarily come to pass — people can undertake efforts
@@ -2222,12 +2222,12 @@ explained, so shall it come to pass.  Therefore, in order to prevent Satan
 from realizing an evil portent, one must interpret the dream favorably.
 
 <!--
-Previously I had dreams that precisely foretold troubles
-that Satan would send upon me on the day following the dream.
+Previously, I had dreams that precisely foretold troubles
+that Satan would send upon me the day after the dream.
 -->
 
 Satan has many ways of influencing a person to compel him to commit an error.
-Not all errors are harmless.  In Shemot [21:13](https://www.sefaria.org/Exodus.21.13)
+Not all errors are harmless.  In Shemot [21:13](https://www.sefaria.org/Exodus.21.13),
 it is said that G‑d permits Satan to ensnare a person and bring about circumstances
 such that he may accidentally commit an unintentional act with more serious
 consequences.  Hereafter, such serious cases as those caused by
@@ -2238,7 +2238,7 @@ One example of these are
 [speech errors](https://en.wikipedia.org/wiki/Speech_error), such as the so-called
 [Freudian slips](https://en.wikipedia.org/wiki/Freudian_slip).  Well-known
 are instances when, due to such errors, prominent political figures became
-objects of ridicule, and their careers were affected as a result.  I too have
+objects of ridicule, and their careers were affected as a result.  And I too have
 had occasions when the first impulse was to take an ill-considered action,
 but then came the realization that the initial reaction is not always correct.
 The initial impulse is often false due to the influence of Satan, especially
@@ -2248,11 +2248,11 @@ of seconds.  It is known (Penrose) that the reaction time of consciousness is
 two seconds.  Therefore, especially in a state of stress, a person may lose
 control over their actions for a time of no more than two seconds.
 (Due to this, all manner of slips of the tongue occur.) -->
-Only after time has passed, can a person pull themselves together, collect their
+Only after time has passed can a person pull themselves together, collect their
 thoughts, and begin to act in accordance with the commandments of their soul.
 Therefore it is desirable to wait before making a decision, especially if the
 problem evokes negative emotions.  For example, it is better not to respond
-immediately to mails or comments, but to delay your reactive response,
+immediately to mails or comments but to delay your reactive response,
 so as to wait until the negative emotions subside, and then the reply emerges
 courteous and thoughtful.
 
@@ -2268,13 +2268,13 @@ Satan's diverse methods, but it suffices to make generalizations.
 <!--
 To understand how Satan operates, I can provide a detailed analysis of a single case
 for illustration — an insignificant but instructive case, since such coincidences
-occurred with me almost every day.  Once after lunch I decided to take a walk
+occurred with me almost every day.  Once after lunch, I decided to take a walk
 and also pass by my former workplace to see what had changed there over the past
 10 years — simply to look at the names of companies on the doors.  It was Sunday
 and vacation season, so no one was there.  But when I was already approaching,
 suddenly an alarm sounded loudly throughout the entire street.
-After some time a security guard car arrived, and when I began to pass by the
-first door, they stopped at the door, got out of the car and looked in my
+After some time, a security guard car arrived, and when I began to pass by the
+first door, they stopped at the door, got out of the car, and looked in my
 direction.  To avoid unnecessary questioning, I was forced to pass by without
 looking toward the door.  When I approached the second door, the guards had
 already finished checking the first door and moved to the second.  The situation
@@ -2308,14 +2308,14 @@ interference would shatter all plans, thereby causing suffering.
 Another lesson that can be drawn from this incident — Satan increases its
 influence when there is too much free time.  If I had been running late for
 work, I would not have had time to be distracted by such trifles.  This is
-confirmed by another incident that occurred in the same place earlier, when
-I was still working there.  Once after lunch in the same building, I thought
+confirmed by another incident that occurred in the same place earlier when
+I was still working there.  Once, after lunch in the same building, I thought
 that after lunch it would be good to take a walk in the vicinity.  But as soon
 as I left the building and walked along a long stretch of road, a van stopped
 directly in front of me and slowly drove backwards directly in front of me.
 Three workers were sitting in the front seat and staring at me intently.
 Having walked thus for several meters, I could not endure the absurdity
-of the situation, turned around and went back to work.
+of the situation, so I turned around and went back to work.
 
 Or another case when there was much excess time:
 once I checked into a hotel by the seashore.
@@ -2326,7 +2326,7 @@ and exhaust fumes begin flying straight into the window.
 It is clear that the driver is not to blame for being used by Satan.
 So meaningless travels also brought problems.
 
-But if one does not wander about idly, and spends all time on work,
+But if one does not wander idly and spends all their time on work,
 then success accompanies.  Only one must endure the hindrances of Satan
 such as continuous noise, etc.
 
@@ -2342,7 +2342,7 @@ Based on the analysis of various cases, the following conclusions can be drawn:
 to cause trouble for other people.
 
 Often Satan instills in people the urge to perform generally harmless
-actions, but ones that cause suffering to others.  <!-- For example, by inciting
+actions but ones that cause suffering to others.  <!-- For example, by inciting
 rabbis of the past to introduce stringencies, Satan caused numerous problems for
 observant Orthodox Jews. -->  When people find nothing wrong with their
 intentions, which may be caused by Satan's promptings, they begin to perform
@@ -2353,8 +2353,8 @@ bring troubles to other people.
 
 It should be noted that here I speak not of cases when Satan drives one to
 real crimes, but only when a person in moments of weakness is unable to resist
-evil impulses.  In most cases people commit errors not maliciously, but due to
-insufficient self-examination of their actions, or when they fail to react in
+evil impulses.  In most cases, people commit errors not maliciously, but due to
+insufficient self-examination of their actions or when they fail to react in
 time to Satan's promptings before committing foolish acts that bring trouble
 to other people.  This helps to understand
 [Hanlon's razor](https://en.wikipedia.org/wiki/Hanlon's_razor) —
@@ -2381,7 +2381,7 @@ even an unfavorable one, to our own advantage:
 (Beresheet [50:20](https://www.sefaria.org/Genesis.50.20))
 
 For example, when Satan disrupts plans, we must immediately restructure
-the plans so as to turn the new course of events to our own advantage:
+the plans to turn the new course of events to our own advantage:
 
 > and the L‑rd, your G‑d, turned the curse into a blessing for you,
 for the L‑rd, your G‑d, loves you
@@ -2405,13 +2405,13 @@ out exactly as intended, for all dreams to come true with precision down to the
 smallest detail.  But this does not happen — it always turns out absolutely
 differently from how it was envisioned.  Therefore, we should not strive for
 perfectionism.  In achieving a goal, we must not reject the imperfect flow of
-events in hope of attaining absolute perfection.  We should not attempt to do
+events in the hope of attaining absolute perfection.  We should not attempt to do
 more than necessary.
 
-If one deliberately postpones the beginning of an undertaking until some round
-date, e.g., until a new month or year, or waits for the arrival of some more
+If one deliberately postpones the start of an undertaking until a round
+date, such as a new month or year, or waits for a more
 “auspicious” date, then delays create obstacles — for instance, in competition
-someone else gets ahead and manages to accomplish the same thing that was
+someone else may get ahead and accomplish the same thing that was
 planned.  Also it becomes impossible to maintain a steady pace over an
 extended period when an artificial pause was observed before beginning the work.
 
@@ -2419,27 +2419,27 @@ Interestingly, the Shulchan Arukh
 Yoreh De'ah [179:2](https://www.sefaria.org/Shulchan_Arukh,_Yoreh_De'ah.179.2)
 mentions customs of not beginning matters on Monday or Wednesday,
 marrying during the full moon, beginning studies with the new month,
-and generally avoiding all that seems inauspicious.  But at the same time
+and generally avoiding all that seems inauspicious.  But at the same time,
 with reference to Hilkhot Avodah Zarah
-[11:4](https://www.sefaria.org/Mishneh_Torah,_Foreign_Worship_and_Customs_of_the_Nations.11.4)
+[11:4](https://www.sefaria.org/Mishneh_Torah,_Foreign_Worship_and_Customs_of_the_Nations.11.4),
 it is forbidden to believe in omens, e.g., not stopping when an animal
 passes on the right side, not postponing the beginning of a matter
 when everything is falling from one's hands, etc.
 
-When we do everything at once, then fortune begins to accompany us.
-For example, in critical situations I had to do everything without delays,
-paying no heed to the hindrances of Satan, therefore I succeeded in everything
+When we do everything at once, fortune begins to accompany us.
+For example, in critical situations I had to do everything without delay,
+paying no heed to the hindrances of Satan.  Then I succeeded in everything
 precisely at the last moment.  And indeed, when a person strives toward some
-good goal, then Satan cannot interfere — e.g., I always managed to catch
+good goal, Satan cannot interfere — e.g., I always managed to catch
 departing transportation at the very last moment, etc.  <!-- Also fortune smiled
 in monetary matters — many times when making purchases it turned out I had money
 equal to exactly what was needed. -->  Otherwise, after each delay Satan
 intervenes and begins to destroy plans.  And when there is a goal to succeed
 in time, then I needed to act strictly according to intuition, i.e., by the
-will of G‑d angels paved a successful path, and I simply needed not to turn
+will of G‑d, angels paved a successful path, and I simply needed not to turn
 from it and not to slow down.
 
-Therefore when you have already made a decision and there are no doubts about the
+Therefore, when you have already made a decision and there are no doubts about the
 correctness of the choice, then everything must be done immediately — for then
 Satan does not have time to arrange obstacles.
 
@@ -2454,10 +2454,10 @@ Chutzpah is not impudence, but self-confidence, determination,
 or in a single word what is called *drive* as a strong motivation,
 a driving force, an energy of moving forward.
 
-The attitude toward any object depends upon the manner of its application, e.g.,
+The attitude toward any object depends on the manner of its application, e.g.,
 by striking with a heavy book one can inflict grievous harm upon a person.  But
 when a book is used for its intended purpose and brings benefit, then it becomes
-a positive object.  Precisely so with chutzpah.  If it brings no harm, but on
+a positive object.  Precisely so with chutzpah.  If it brings no harm but, on
 the contrary, contributes to the betterment of the world, then this is
 a positive quality, akin to the concept of *enterprise*.
 
@@ -2472,19 +2472,19 @@ not dare to do, and others continued what was begun, following after me.
 
 <!-- Often chutzpah manifests vividly when, as a result of a wager, something
 must be done on a bet.  For example, an insignificant case, but one I remember
-well: at school we wagered who could hit a narrow tube standing on the floor
+well: at school, we wagered who could hit a narrow tube standing on the floor
 from above with a thin metal rod.  Everyone tried, aimed for a long time, but
 no one could even come close.  Then I walk around and declare with surprise how
 it is possible that no one can manage such a simple task: “It's so easy!”  And then
-I raise the rod to a great height, turn away and release it without looking —
+I raise the rod to a great height, turn away, and release it without looking —
 and it strikes precisely on target.  Or we wagered whether one could draw
 a perfect circle by hand.  I declare so confidently that this is very simple,
-and then I take a pencil and quickly draw a large absolutely perfect circle —
+and then I take a pencil and quickly draw a large, absolutely perfect circle —
 as if with a compass. -->
 
-The main conclusion — good fortune always accompanies when you believe in
+The main conclusion — good fortune always accompanies you when you believe in
 your own strength and act decisively, as if the problem is already solved,
-as when the solution of the problem has already become reality, and the needed
+as when the solution to the problem has already become reality, and the needed
 result stands before your eyes.
 
 This conclusion applies to many other types of activity as well,
@@ -2503,9 +2503,9 @@ and thereafter they created a new business from scratch.
 So in such cases, the corporate raiding is mere audacity,
 while the business development is chutzpah.
 
-In general, the fundamental principle, just as in our relationship with G‑d —
-is not to be impudent, that is, to make full use of all possibilities,
-but while remaining within the bounds of morality.
+In general, the fundamental principle, just as in our relationship with G‑d,
+is not to be impudent, that is, to make full use of all possibilities
+while remaining within the bounds of morality.
 
 <!--
 And the complete opposite of the chutzpan is the *shlimazel* —
@@ -2514,19 +2514,19 @@ And nothing remains for him but to submit
 to his fate as an unlucky one and suffer Satan's blows without complaint.
 Even when such a person does not yield to evil inclinations
 and leads a righteous life, he has grown accustomed to such a state
-and constantly expects misfortunes, as a given reality that cannot be changed.
+and constantly expects misfortunes as a given reality that cannot be changed.
 
 I first encountered this problem in childhood.  There was one such incident:
-at school I was told to bring jigsaws for woodworking class.  So I asked my
-father to buy me such jigsaws.  And in the evening he comes home from work
-empty-handed and with bitterness tells such a story, that he had gone into the
-store and bought the jigsaws I needed.  But at the exit from the store they
+at school, I was told to bring jigsaws for woodworking class.  So I asked my
+father to buy me such jigsaws.  And in the evening, he comes home from work
+empty-handed and with bitterness tells a story that he had gone into the
+store and bought the jigsaws I needed.  But at the exit from the store, they
 slipped from his hands and fell through the bars of the shoe-scraping grate,
-so that it was impossible to retrieve them from there.  And asking the shopkeeper
+making it impossible to retrieve them from there.  And asking the shopkeeper
 to sell the same ones again would have been foolish.  Having finished this
 account, he sorrowfully lamented that he had such misfortune all the time.
 
-And indeed, he spent his entire life thus: traveling back and forth to work by
+And indeed, he spent his entire life this way: traveling back and forth to work by
 one route.  And when he deviated from his daily route, unpleasant things would
 occur.  For example, once his mother-in-law asked him to sell a television while
 she was living at the summer house.  The buyers turned out to be two burly men.
@@ -2542,25 +2542,25 @@ to save their own people.
 
 The finest example of chutzpah in the positive sense is found in the actions of
 Queen Esther in saving the Jewish people.  When she boldly came before the king,
-she obeyed her intuition, i.e., G‑d provided an opportunity for salvation,
-outlining such a sequence of actions that, by following them, it would be
+she obeyed her intuition.  That is, G‑d provided an opportunity for salvation,
+outlining a sequence of actions that, by following them, it would be
 possible to save the Jewish people while avoiding the danger from the
 antisemites.  Esther's merit lies in her having fully seized upon this
 opportunity, manifesting thereby the highest degree of chutzpah as
 resolute adherence to the sole possible path of salvation.
 
-And in our time it is exactly the same.  Satan continuously pressures Israel,
+And in our time, it is exactly the same.  Satan continuously pressures Israel,
 using morally weak people for this purpose.  Satan instills in them all manner
 of antisemitic prejudices.  Different people cope with this in different ways.
-Independently thinking and educated people, who know how to soberly and
-impartially analyze their inclinations, can keep their evil impulses under
+Independently thinking and educated people who know how to soberly and
+impartially analyze their inclinations can keep their evil impulses under
 control and not succumb to the influence of conspiracy theories.  But those
 who are weak-willed and lacking in independent judgment easily fall under
 the sway of antisemitic propaganda.
 
 What can be undertaken to avoid all of this?
 
-First the bad news — it is impossible to rid oneself of Satan's attacks by any
+First, the bad news — it is impossible to rid oneself of Satan's attacks by any
 means.  Satan attempts to cause problems again and again.  All these obstacles are
 intended to create situations where there is a choice: to commit evil and make
 the world worse, or to show mercy and advance on the path toward G‑d.
@@ -2575,8 +2575,8 @@ accomplished in Europe, and at present the nations of European countries have
 achieved a high level of spirituality.
 
 For the fulfillment of the next task of drawing the Muslim nations closer to
-G‑d, the Jewish people was directed straight into the very center of hostile
-surroundings among Muslim countries for the cultivation within them of tolerance
+G‑d, the Jewish people were directed straight into the very center of hostile
+surroundings among Muslim countries for the cultivation of tolerance within them
 — one of the principal spiritual qualities required of a person: “Do not do unto
 another what you would not wish for yourself.”  And now the majority
 of neighboring Arab states have a more tolerant attitude towards Israel.
@@ -2598,7 +2598,7 @@ the enumeration in Iyyov [3:26](https://www.sefaria.org/Job.3.26):
 because of Dinah, “and trouble came” — because of Yosef.
 
 <!-- My fate mirrors the fate of the entire Jewish people.  Therefore, through
-my example I attempted to understand what could be done to ease the Jewish lot.
+my example, I attempted to understand what could be done to ease the Jewish lot.
 In my case, G‑d compelled me to observe the necessary minimum — then it became
 more bearable. -->
 
@@ -2642,12 +2642,12 @@ has power when one does not become distracted by hindrances.
 (Shemot [6:30](https://www.sefaria.org/Exodus.6.30))
 
 The essence of *kvad-peh u‑kvad-lashon* is the inability to properly
-construct speech, to clearly express one's thoughts in words
+construct speech, to clearly express one's thoughts in words,
 and to form words into coherent sentences.
 
-Usually when a person receives information from other people, either by reading
-through the organs of sight, or by listening through the organs of hearing,
-this information is already presented in the form of words, and if there arises
+Usually, when a person receives information from other people, either by reading
+through the organs of sight or by listening through the organs of hearing,
+this information is already presented in the form of words.  And if there arises
 a need to voice this information or record it in words, there is no problem —
 all previously remembered words and expressions are reproduced.  This comes
 especially easily to people who have experience in public speaking and skills
@@ -2660,32 +2660,32 @@ and their weights, e.g., through
 [insight](https://en.wikipedia.org/wiki/Insight), or
 prophetic [inspiration](https://en.wiktionary.org/wiki/inspiration)
 (*ruach ha‑kodesh*), then there arises the necessity to formulate the received
-information in the form of words, to articulate complete finished sentences and
+information in the form of words, to articulate complete finished sentences, and
 to construct from fragments of thoughts a coherent text — it is precisely then
 the problem appears.
 
 Not only Moshe, but other prophets as well had this problem.
 For example, it affected Yirmeyahu ([1:6](https://www.sefaria.org/Jeremiah.1.6)).
 At the time when he was an inexperienced youth, he attempted to refuse
-becoming a prophet.  But G‑d helped him, suggesting what he needed to say,
-placing thoughts directly into the mind.
+becoming a prophet.  But G‑d helped him by suggesting what he needed to say and
+placing thoughts directly into his mind.
 
 The following concepts, employed in computational linguistics and representing
-opposing processes, may help better understand the essence of the problem:
+opposing processes, may help in better understanding the essence of the problem:
 
 1. [analysis](https://en.wikipedia.org/wiki/Syntax_analysis) and
    [recognition](https://en.wikipedia.org/wiki/Speech_recognition);
 2. [synthesis](https://en.wikipedia.org/wiki/Speech_synthesis) and
    [generation](https://en.wikipedia.org/wiki/Natural-language_generation).
 
-In the human brain, the first of the aforementioned is engaged during learning,
-when a person receives new knowledge and engages in its analysis.  But the
-second of the aforementioned is based on entirely different algorithms,
-when it is necessary to transmit accumulated knowledge to other people.
+In the human brain, the first of the aforementioned is engaged during learning
+when a person acquires new knowledge and engages in its analysis.  But the
+second of the aforementioned is based on entirely different algorithms
+when it is necessary for transmitting accumulated knowledge to other people.
 Therefore, entirely different skills are required.
 
-This problem is exacerbated when a person is compelled to remain long
-in solitude in continuous contemplation of the information received.
+This problem is exacerbated when a person is compelled to remain
+in solitude for an extended period, continuously contemplating the information received.
 <!-- Rambam advised spending as much time as possible in solitude for communion with G‑d
 (*Moreh Nevukhim* [3:51](https://www.sefaria.org/Guide_for_the_Perplexed,_Part_3.51.10)).
 But seclusion is recommended only in moderation, because when one is cut off
@@ -2696,7 +2696,7 @@ who spent much time in the wilderness without human companionship,
 <!-- as David later lived in prolonged solitude in the wilderness and in the mountains
 (Shmuel I [23:14](https://www.sefaria.org/I_Samuel.23.14)) and Eliyahu
 (Melakhim I [19:4,8](https://www.sefaria.org/I_Kings.19.4-8)) -->
-when he received thoughts directly from G‑d not in verbal form,
+when he received thoughts directly from G‑d not in verbal form
 but on a conceptual level.  As it is said in Bemidbar
 [12:6-8](https://www.sefaria.org/Numbers.12.6-8),
 G‑d revealed Himself to Moshe not in a vision and not in a dream,
@@ -2705,7 +2705,7 @@ as with other prophets, but on the level of
 
 Therefore after his return he needed Aharon, who knew how to express his
 thoughts precisely and beautifully, to deliver speeches eloquently before the
-people and Pharaoh, and possessed the gift of persuasion, fluent speech
+people and Pharaoh, and who possessed the gift of persuasion, fluent speech,
 and oratorical mastery.
 
 Their interaction was structured approximately such that the thoughts
@@ -2742,7 +2742,7 @@ express his thoughts.  Or G‑d placed ready words into Moshe's mind. -->
 And it matters not what the
 [documentary hypothesis](https://en.wikipedia.org/wiki/Documentary_hypothesis)
 asserts on this account.
-<!-- For example, I read Richard Friedman, but was not impressed —
+<!-- For example, I read Richard Friedman but was not impressed —
 this did not shake the foundations of my faith. -->
 I believe with perfect faith that both sources: the Yahwist source (J)
 and the Elohist source (E) derive from one original text recorded
@@ -2753,15 +2753,15 @@ contain laws given to Moshe Rabbeinu.
 || (Shemot [14:21](https://www.sefaria.org/Exodus.14.21)) |
 {: .chapter #exodus title="Exodus"}
 
-There exist many different interpretations of the story about crossing the
-sea during the Exodus, different versions of events, various theories.  Most of
-them presuppose a violation of physical laws, believing that only impressive
-effects are capable of so shocking the imagination that readers will believe
+There are many different interpretations of the story about crossing the
+sea during the Exodus, different versions of events, and various theories.  Most of
+them assume a violation of physical laws, believing that only impressive
+effects can so shock the imagination that readers will believe
 in the reality of these events.  Such versions differ in their degree of
-fantastical nature, and the most radical even reach the possibility of
+fantastical nature, with the most radical even suggesting the possibility of
 draining the floor of the Gulf of Eilat to a depth of dozens of meters.
-But for a modern person it is difficult to accept such a flagrant violation of
-the laws of physics on faith.  Therefore there also exist theories which attempt
+But for a modern person, it is difficult to accept such a flagrant violation of
+the laws of physics on faith.  Therefore, there are also theories which attempt
 to explain the events of the Exodus within the framework of the laws of nature,
 for example, representing the ebb of the sea as the withdrawal of water
 from the shore before a tsunami caused by the eruption of the volcano
@@ -2773,9 +2773,9 @@ a periphrasis of the commandment not to turn aside either to the right
 or to the left, with the simultaneity of gevurah (*ha‑yad ha‑gdola*)
 and chesed (“You led the people in Your mercy”).
 
-Therefore such vertical walls of water, as sometimes depicted, are impossible on
+Therefore, such vertical walls of water, as sometimes depicted, are impossible on
 Earth due to the physical laws established by G‑d — G‑d does not violate His laws.
-Theoretically this would be possible only on planets located near black holes —
+Theoretically, this would be possible only on planets located near black holes —
 as in the film *[Interstellar](https://en.wikipedia.org/wiki/Interstellar_(film))*.
 -->
 
@@ -2800,27 +2800,27 @@ And so during this low tide, having gathered courage, we began moving across the
 bottom of the receded sea.  We needed to traverse about a third of a mile in total.
 The sea was completely calm, and nothing foreshadowed any problems ahead.
 
-At first it was easy to walk waist-deep in water, but soon the water began to
+At first, it was easy to walk waist-deep in water, but soon the water began to
 rise, and within a few minutes it reached up to the chin, so that by the middle
 of the way we had to walk neck-deep in water.
 
-But the most terrible trial awaited ahead.  Suddenly great waves arose
+But the most terrible trial awaited us ahead.  Suddenly, great waves arose
 upon the sea, reaching a height of more than a meter.
 
-This is because not far from this place in those years there was a Soviet
-military base of atomic submarines.  <!-- I myself saw these atomic submarines up
-close in the port of the city with the military base, when my grandfather took
-me there.  There was a closed military city there, but grandfather supervised
-the construction of the road to that city, therefore he had a pass to go there.
+This is because not far from this place during those years there was a Soviet
+military base for atomic submarines.  <!-- I myself saw these atomic submarines up
+close in the port of the city with the military base when my grandfather took
+me there.  There was a closed military city there, but my grandfather supervised
+the construction of the road to that city, so he had a pass to go there.
 I remember how he told of having to dig out enormous boulders from the road.
 If one were to draw analogies, this was similar to how the Jews in Egypt
 were in service to Pharaoh. -->
 
 Thus, one submarine at full speed sailed close to the sea's surface near the
-shore, raising dangerous high waves with its hull.  To save ourselves, we began
+shore, raising dangerously high waves with its hull.  To save ourselves, we began
 jumping in rhythm with the waves: when a high swell approached, we pushed off
 from the bottom so that our heads would remain on the surface of the wave's
-crest.  After some time the submarine sailed away, the waves ceased, and we
+crest.  After some time, the submarine sailed away, the waves ceased, and we
 safely came ashore, rejoicing in our deliverance.
 
 Before this event, yet another incident occurred.  We built a raft and floated
@@ -2842,27 +2842,27 @@ I was deprived of the opportunity to visit these countries, and lost a great dea
 because of this.
 
 It is noteworthy that the aforementioned crossing of the sea occurred at
-a place bearing signs that indicated its connection with the Egyptian desert.
-On the shore stood two large boulder-stones: one stone in the shape of
+a place with signs indicating its connection to the Egyptian desert.
+On the shore stood two large boulders: one stone in the shape of
 a pyramid, as an allusion to the Egyptian pyramids, and another stone with
-the outline of a camel, which recalled the desert.  These stones were called
-accordingly: *Pyramid* and *Camel*.  Furthermore, at that place on the seashore
-grows reed grass, alluding to the Sea of Reeds.
+the outline of a camel, recalling the desert.  These stones were accordingly
+named *Pyramid* and *Camel*.  Furthermore, reed grass grows at that location
+on the seashore, alluding to the Sea of Reeds.
 
 The literal translation of the name *[Yam Suph](https://en.wikipedia.org/wiki/Yam_Suph)*
 is Reed Sea, not Red Sea.  Interpreting all these clues, we can understand
 where the crossing of the sea actually took place during the Exodus from Egypt.
 
-Around Egypt there are few bodies of water in which reeds grow.  It is known
+Around Egypt, there are few bodies of water in which reeds grow.  It is known
 that reeds do not grow in the Red Sea.  Moreover, both in the Red Sea and in
-the Gulf of Eilat there are such great depths that even if they could be drained,
-there would be formed in their place substantial differences in elevation with
-ravines and gorges, particularly impassable for women and children.
-And certainly the Egyptians could not have even attempted to travel there with
+the Gulf of Eilat, there are such great depths that even if they could be drained,
+substantial differences in elevation would be formed in their place, with
+ravines and gorges that would be particularly impassable for women and children.
+And certainly, the Egyptians could not have even attempted to travel there with
 chariots.  This means that the place of crossing must have had a level bottom.
 
 <!--
-Also in the Egyptian plagues the locusts were blown into *Yam Suph*
+Also in the Egyptian plagues, the locusts were blown into *Yam Suph*
 (Shemot [10:19](https://www.sefaria.org/Exodus.10.19)),
 which implies a location on the eastern border of Egypt.
 -->
@@ -2876,23 +2876,23 @@ if we look at the depth chart, it is evident that in the strait between the
 Bitter Lakes, at the deepest point, the depth varies between 2 and 3 meters.
 To cross on foot at this place during high tide would have been impossible.
 
-On the map it can be seen that the strait between the lakes runs from east to
-west, therefore the wind blowing from the east drove the water from the Small
+On the map, it can be seen that the strait between the lakes runs from east to
+west.  Therefore, the wind blowing from the east drove the water from the Small
 Bitter Lake into the Great Bitter Lake, lowering the water level in the strait
-to such a level that during low tide one could walk across most of it on the
+to such a degree that during low tide one could walk across most of it on the
 dried bottom, and it would not have been a problem to wade through short
-sections even waist-deep in water.
+sections, even waist-deep in water.
 
 <!--
 At present, the eastern wind does not greatly lower the water level in those
 lakes due to the excavated Suez Canal.  But tides and ebbs remain.  For example,
-the case in 2021, when in the Suez Canal a container ship ran aground due to
+the case in 2021, when a container ship ran aground in the Suez Canal due to
 wind and ebb tide.  Charts showed that the amplitude of tides and ebbs
 approximately corresponds to human height, i.e., between 1.5 and 2 meters, and
 this is only tides and ebbs, not the result of strong wind.  The amplitude of
 water level fluctuation is within the range of human height, and three thousand
 years ago, of course, there existed no canal in its present form, but there was
-a shallow strait, no deeper than three meters, therefore through ebbs alone the
+a shallow strait, no deeper than three meters.  Therefore, through ebbs alone the
 depth was significantly reduced, and thanks to the wind one could peacefully
 cross on foot.
 -->
@@ -2901,14 +2901,14 @@ Based on all this information, we can reconstruct the events of the Exodus
 described in the Torah.  When the Pharaoh finally let the people go, G‑d did not
 lead them directly to the land of the Philistines, but directed them on a detour
 through the wilderness to the Reed Sea.  G‑d instructed Moshe that they must go
-to the Reed Sea, as the only possible place of salvation.
+to the Reed Sea as the only possible place of salvation.
 
-And so, they then encamped in the region of Pi ha‑hiroth opposite the Sea of
-Reeds.  On the map it can be seen that between the Great Bitter Lake and the
-Small Bitter Lake there is situated a cape — a stretch of land projecting at
+And so, they encamped in the region of Pi ha‑hiroth opposite the Sea of
+Reeds.  On the map, it can be seen that between the Great Bitter Lake and the
+Small Bitter Lake there is a cape — a stretch of land projecting at
 a sharp angle between the Bitter Lakes.  When bnei Yisrael encamped
 upon this cape, Pharaoh gained confidence that they had fallen into a trap,
-where on one side were high cliffs, and on the other an impassable sea.
+where on one side were high cliffs and on the other, an impassable sea.
 <!-- This corresponds completely to the description in *Jewish Antiquities* II. -->
 
 And then the strong east wind that had blown all night drove back the water
@@ -2922,43 +2922,43 @@ advance of the chariots, and then completely covering the Egyptian army.
 <!-- The Egyptian army was punished by drowning because the Egyptians
 had drowned Jewish infants — measure for measure. -->
 
-None of the available cartographic services on the Internet shows the depths of
+None of the available cartographic services on the Internet show the depths of
 water bodies by means of lines connecting points of equal depth, which are
 called *isobaths*.  The only maps where depths are marked are the so-called
 “General Staff maps”.  Created in Soviet times, these maps covered almost the
 entire world, including detailed maps of Israel and Egypt.  Apparently,
 Soviet generals were preparing to wage war throughout the entire world.
 
-So looking at the General Staff map number H‑36‑XV with the vicinity of
+So looking at the General Staff map number H‑36‑XV, which shows the vicinity of
 the Bitter Lakes, it can be seen that on one side of the Bitter Lakes
 there are mountains and cliffs 200 meters high, while the depth in the strait
-reaches 3 meters — precisely as much as is needed so that a strong wind could
-cause a low tide, and the people could pass through on foot along the bottom,
+reaches 3 meters — precisely enough for a strong wind to
+cause a low tide, allowing people to pass through on foot along the bottom,
 while after the high tide a water mass above 2 meters destroys the Egyptian army.
 
 <!--
 ![exodus map](../../../files/book/exodus_map.png){:.center}
 -->
 
-In ancient times, weather conditions were completely determined, since
-people had no ability to influence the climate.  Therefore it was known
+In ancient times, weather conditions were completely determined since
+people had no ability to influence the climate.  Therefore, it was known
 precisely many years in advance what weather would occur at a specific moment
 in time in a specific place.  Thanks to the predictability of weather, it was
 known to G‑d beforehand when a strong wind would blow in the region of the strait
-between the lakes.  Therefore G‑d placed in Moshe's mind the thought that at the
-known time in this place a strong wind would make the lake shallow, and thanks
-to this there would appear the sole chance for salvation, if they would pass
+between the lakes.  Therefore, G‑d placed in Moshe's mind the thought that at the
+known time in this place, a strong wind would make the lake shallow, and thanks
+to this, there would appear the sole chance for salvation if they would pass
 through the strait precisely during the low tide.  When Moshe raised his staff,
 he already had such certainty that the ebb would soon begin.
 
 <!-- To more precisely match the crossing of the sea to the known time of the
 wind, it was necessary to hold back the development of events somewhat.
-It was necessary to delay the Egyptians in order to match exactly the time
-of the wind.  G‑d knew when the wind would come, therefore it was necessary
+It was necessary to delay the Egyptians in order to match exactly the timing
+of the wind.  G‑d knew when the wind would come, and therefore it was necessary
 to delay the Egyptians. -->
 
-Later in Bemidbar [13-14](https://www.sefaria.org/Numbers.13-14) in precisely
-the same manner all favorable conditions were created for the successful
+Later in Bemidbar [13-14](https://www.sefaria.org/Numbers.13-14), in precisely
+the same manner, all favorable conditions were created for the successful
 conquest of the land of Canaan, and G‑d informed Moshe of this.  But the scouts
 showed faintheartedness, and the people rebelled due to disbelief that it would
 succeed as favorably as when G‑d chose the time for successful deliverance from
@@ -2975,28 +2975,28 @@ to follow the thoughts placed by angels in the heads of the prophets.
 <!-- see also *Moreh Nevukhim*
 [2:34](https://www.sefaria.org/Guide_for_the_Perplexed,_Part_2.34) -->
 
-<!-- At present, due to human influence, climate change is occurring,
-therefore the climate is now non-deterministic and weather is unpredictable.
+<!-- At present, due to human influence, climate change is occurring.
+Therefore, the climate is now non-deterministic, and the weather is unpredictable.
 Because of this, in our days G‑d would not be able to help cross the *Yam Suph*,
 since due to anthropogenic climate change it is impossible to predict in advance
 when there will be wind in a given location. -->
 
-<!-- Also, due to the complete determinism of celestial body movement,
+<!-- Also, due to the complete determinism of celestial body movements,
 G‑d knows with certainty at what time the Earth's orbital path will intersect
-with the orbit of a large comet or asteroid, collision with which could destroy
-life on Earth.  Therefore humanity was given the possibility of space exploration,
-so that it would be possible to send a spacecraft to such an object that would
+with the orbit of a large comet or asteroid, a collision with which could destroy
+life on Earth.  Therefore, humanity was given the possibility of space exploration,
+so that it would be possible to send a spacecraft to such an object to
 deflect its trajectory away from Earth. -->
 
-<!-- Now people have taken upon themselves responsibility for their actions.
+<!-- Now people have taken upon themselves the responsibility for their actions.
 For example, people can punish themselves with a flood due to the melting of ice.
-But even G‑d does not know the further history of humanity,
-otherwise after spoilers it would be uninteresting to watch.
+But even G‑d does not know the future history of humanity.
+Otherwise, with spoilers it would be uninteresting to watch.
 Because it is impossible to calculate in advance,
 the development of history depends on the actions of each soul.
-Therefore it is necessary to continuously recalculate anew.
-Incidentally, in the modern world democracies are more predictable
-than autocracies, because decisions are shaped by the overall
+Therefore, it is necessary to continuously recalculate anew.
+Incidentally, in the modern world, democracies are more predictable
+than autocracies because decisions are shaped by overall
 consensus rather than the evil inclinations of a single dictator. -->
 
 The greatness of Moshe lay in that he led the people precisely when, through
@@ -3021,28 +3021,28 @@ at Mount Sinai.
 {: .chapter #personal title="Personal Commandments"}
 
 For each relevant commandment, G‑d gave me examples in life, creating such
-situations so that from each instance we could extract a lesson and understand
+situations from which we could extract a lesson and understand
 how the commandment should be fulfilled.
 
-My grandfather fulfilled this commandment thus: our house in the forest
+My grandfather fulfilled this commandment this way: our house in the forest
 had a flat roof suitable for walking on, and pine needles gradually
 accumulated on the roof.  Over the course of a year, a rather thick layer
 of needles would build up, obstructing the water drainage, so periodically
 it needed to be swept.  Each summer I would climb onto the roof by ladder
 and clean it with a broom.
 
-On the roof of our house there was no railing, since making a permanent parapet
-was unrealistic.  Therefore each time I approached close to the edge of the
+On the roof of our house, there was no railing because making a permanent parapet
+was unrealistic.  Therefore, each time I approached close to the edge of the
 roof, especially when I was backing toward the edge so that the roof's edge was
-not visible, my grandfather would warn me from the ladder about the danger, that
-the edge was already near, so that I would be especially careful at the edge.
-This was sufficient for observing the commandment, therefore my Jewish
+not visible, my grandfather would warn me from the ladder about the danger, saying that
+the edge was already near, so I would be especially careful at the edge.
+This was sufficient for observing the commandment.  Therefore, my Jewish
 grandfather could consider this commandment fully fulfilled.
 
 In essence, this is a commandment concerning safety precautions, which obligates
 us to take all possible measures of caution to prevent accidents.
 
-In modern civilization this includes traffic regulations, regular vehicle
+In modern civilization, this includes traffic regulations, regular vehicle
 inspections, and detailed instructions for using household appliances with
 warnings to keep plastic packaging away from children, and numerous other
 such precautions.  All these moral norms concerning human safety have
@@ -3056,26 +3056,26 @@ their roots in the Torah.
 | (Devarim [27:17](https://www.sefaria.org/Deuteronomy.27.17)) |
 {: .chapter}
 
-For every relevant commandment G‑d gave me an occasion in life.  Once, when
+For every relevant commandment, G‑d gave me an occasion in life.  Once, when
 no one had been home for a long time, the neighbors wanted to take advantage
 of this moment and quietly move the fence between the properties.
 But fortunately, their preparations were accidentally discovered,
-so they managed to avoid the curse.  So that such a thing would not happen
-again in the future, and to eliminate entirely the temptation to move the fence,
+allowing them to avoid the curse.  To prevent such a thing from happening
+again in the future and to eliminate entirely the temptation to move the fence,
 special landmarks as border markers were installed along the boundary.
 
 And later this problem was resolved through detailed cartography, where
 meticulous legal documentation reduced the opportunities for such cases.
 
 <!--
-In this case a computer solution is justified.  Problems arise when computer
-solutions are used by totalitarian regimes.  But in the present case for
-protecting personal property — ok.
+In this case, a computer solution is justified.  Problems arise when computer
+solutions are used by totalitarian regimes.  But in the present case, for
+protecting personal property, it's okay.
 -->
 
 And just recently, an official email was sent, where in a digitally signed PDF
-spanning several pages all the details were thoroughly laid out with maps, and
-with the help of modern technologies the boundaries were established with
+spanning several pages, all the details were thoroughly laid out with maps, and
+with the help of modern technologies, the boundaries were established with
 precision to the centimeter.  Quote from the letter: “The deviation in the
 placement of the boundary marker compared to the 1997 measurements was 21
 centimeters, which exceeded the permissible margin of error.”
@@ -3106,30 +3106,32 @@ It must have been that the sheep had escaped from their owner through a breach
 in the fence and went toward the light, until they came up against the
 illuminated street, where they stopped.
 
-I very much wanted to return the lost sheep to their owner, but could not think
+I very much wanted to return the lost sheep to their owner but could not think
 of what might have been done in that situation:
 
-1. I could not return the sheep, since I did not know to whom to return them,
-therefore the option “you know him” was ruled out;
-2. the option “bring the sheep to your home” would have meant bringing the entire flock
-into my one-room apartment, and not on the first floor, meaning I would need
-to go up in the elevator with the sheep, which was also absolutely unrealistic;
+1. I could not return the sheep since I did not know to whom to return them,
+so the option “you know him” was ruled out.
+
+2. The option “bring the sheep to your home” would have meant bringing the entire flock
+into my one-room apartment, and not on the first floor.  This would mean going up
+in the elevator with the sheep, which was also absolutely unrealistic.
 <!-- even despite the fact that the kitchen was so huge that it could accommodate all the sheep -->
-3. “do not pass by” — although it is not explicitly written about this in the Torah,
+
+3. “Do not pass by” — although it is not explicitly written about this in the Torah,
 perhaps it was necessary to call the militia.  But the problem was that I
 could not call the militia, because the militia was engaged in extortion —
 there were cases when the militia robbed instead of protecting.
-Therefore it was impossible to expose oneself to danger.  But still in this case
-the sheep could not get lost — in the morning the owners should have discovered
+Therefore, it was impossible to expose oneself to danger.  But still, in this case,
+the sheep could not get lost — in the morning, the owners should have discovered
 the flock by the road.
 
-Therefore this case teaches that specific examples are not always applicable to
+Therefore, this case teaches that specific examples are not always applicable to
 contemporary life, and we must follow the spirit of the Torah.  Though examples
 were given of returning animals, in the literal sense this commandment is not
-only about returning animals, but about any lost item, and it obligates us
-to engage in returning all lost articles, in particular, through
+only about returning animals but concerns any lost item.  It obligates us
+to engage in returning all lost articles, in particular through
 [lost and found](https://en.wikipedia.org/wiki/Lost_and_found) offices
-and by all other possible means.  All the time such cases occur when we must return
+and by all other possible means.  Such cases occur all the time when we must return
 lost items, e.g., items found in transport must be given to the driver, etc.
 
 | If you see the donkey of your enemy lying under its burden, do not abandon it: help to unload the donkey. |
@@ -3140,11 +3142,11 @@ lost items, e.g., items found in transport must be given to the driver, etc.
 | (Devarim [22:4](https://www.sefaria.org/Deuteronomy.22.4)) |
 {: .chapter}
 
-In the modern world this commandment applies primarily to vehicles for helping
-drivers when they are stuck or stopped due to breakdown.  For all the relevant
-commandments I have had cases from personal experience.  For example, there were
-cases when I helped pull vans out of snow with a tow rope, etc.  But generally
-now in such cases it is sufficient simply to call the appropriate service,
+In the modern world, this commandment applies primarily to vehicles for helping
+drivers when they are stuck or stopped due to breakdowns.  For all the relevant
+commandments, I have had cases from personal experience.  For example, there were
+cases when I helped pull vans out of the snow with a tow rope, etc.  But generally
+now, in such cases, it is sufficient simply to call the appropriate service,
 which helps quickly resolve such problems.
 
 | Do not withhold the wages of a day laborer until morning |
@@ -3155,12 +3157,12 @@ which helps quickly resolve such problems.
 | (Devarim [24:14-15](https://www.sefaria.org/Deuteronomy.24.14-15)) |
 {: .chapter}
 
-For each relevant commandment G‑d showed me examples in life.  When I was
+For each relevant commandment, G‑d showed me examples in life.  When I was
 studying in yeshiva, one incident occurred.  I was sitting and studying Torah,
 including this very commandment, when suddenly I heard the yeshiva's cleaning
 woman begin to request payment of the money she had earned, but they replied
 that they could not pay her wages on the same day.  And she tearfully pleaded
-to be paid for her work immediately, because she desperately needed the money
+to be paid for her work immediately because she desperately needed the money
 precisely on that day, but they promised to pay her only the following day.
 And so they did not pay her, and she left the yeshiva deeply offended.
 
@@ -3189,9 +3191,9 @@ this commandment applies not only to kings, but to any leadership position.
 And indeed, any leader must know and observe the laws of Judaism. -->
 
 This case showed that this commandment has not lost its relevance in the modern
-world.  In fact, if there was no such agreement, then it is not obligatory
+world.  In fact, if there were no such agreement, it is not obligatory
 to pay wages daily.  But the commandment obligates the employer to pay wages
-within the agreed timeframe that was established in the employment contract.
+within the agreed timeframe established in the employment contract.
 
 | If a person makes a vow to G‑d or swears an oath, binding himself to fulfill it, then he must not break his word — all that he has spoken he must fulfill. |
 | (Bemidbar [30:3](https://www.sefaria.org/Numbers.30.3)) |
@@ -3201,18 +3203,18 @@ within the agreed timeframe that was established in the employment contract.
 | (Devarim [23:22-24](https://www.sefaria.org/Deuteronomy.23.22-24)) |
 {: .chapter}
 
-Before I reached the study of this commandment in yeshiva, out of noble motives
+Before I studied this commandment in yeshiva, with noble motives,
 I promised to regularly give tzedakah to those in need.  But then circumstances
-changed such that I myself was left without money.  The most terrible thing
+changed, and I found myself without money.  The most terrible thing
 was that those in need continued to expect help from me, while I was no longer
-able to help them, and thereby caused additional hurt feelings.
-Thus from my own experience I learned that we must strive not to make promises,
-even when we wish to do a good deed.  We must do good deeds quietly,
-without publicizing our own intentions.
+able to help them, thereby causing additional hurt feelings.
+Thus, from my own experience, I learned that we should strive not to make promises,
+even when we wish to do a good deed.  We should perform good deeds quietly,
+without publicizing our intentions.
 
 This is very correctly written in the Kitzur Shulchan Arukh
-[67:3](https://www.sefaria.org/Kitzur_Shulchan_Arukh.67.3), that it is better to
-refrain even from promising to give charity, and instead, as soon as the needed
+[67:3](https://www.sefaria.org/Kitzur_Shulchan_Arukh.67.3) that it is better to
+refrain even from promising to give charity and instead, as soon as the needed
 sum becomes available, to give it immediately.  But when one nevertheless cannot
 resist speaking aloud about one's good intentions, then if fulfillment of the
 promise is not guaranteed, one must always add *bli neder*, which literally
@@ -3223,13 +3225,13 @@ means “without a vow”, “without a promise”, “without an obligation to 
 | (Vayikra [11:10-12](https://www.sefaria.org/Leviticus.11.10-12), Devarim [14:10](https://www.sefaria.org/Deuteronomy.14.10)) |
 {: .chapter}
 
-It is known that Sigmund Freud at the beginning of his career unsuccessfully
-attempted to find a solution to the problem of sexual reproduction of
-[eels](https://en.wikipedia.org/wiki/European_eel).  As a young student, in 1876
+It is known that Sigmund Freud, at the beginning of his career, unsuccessfully
+attempted to find a solution to the problem of sexual reproduction in
+[eels](https://en.wikipedia.org/wiki/European_eel).  As a young student in 1876,
 Freud dissected hundreds of eels in attempts to find male sexual organs in them.
-At the end of his fruitless efforts he was compelled to acknowledge his
+At the end of his fruitless efforts, he was compelled to acknowledge his
 [defeat](https://en.wikipedia.org/wiki/Eel_life_history#Past_studies_of_eels) —
-and out of frustration turned to psychoanalysis.
+and, out of frustration, turned to psychoanalysis.
 
 This riddle troubled people even in antiquity.  Aristotle devoted
 considerable time to it — the ancient Greeks were certain that eels
@@ -3263,19 +3265,19 @@ that pigs are beneficial neither for health nor for morality. -->
 | (Shemot [23:19](https://www.sefaria.org/Exodus.23.19), [34:26](https://www.sefaria.org/Exodus.34.26), Devarim [14:21](https://www.sefaria.org/Deuteronomy.14.21)) |
 {: .chapter}
 
-In my childhood I had one incident when after a meat meal there was nothing else
-to drink except milk.  Usually I would drink tea or juice, but that time for
+In my childhood, I had one incident when, after a meat meal, there was nothing else
+to drink except milk.  Usually, I would drink tea or juice, but that time for
 some reason there was only milk available.  And so I had to drink milk after
-the meat, because I was very thirsty — but after I had to wash down the meat dish
-with milk, I felt so ill that I remember this incident even to this day
-that we must not mix meat and milk.
+the meat because I was very thirsty — but after I had to wash down the meat dish
+with milk, I felt so ill that I remember this incident even to this day,
+knowing that we must not mix meat and milk.
 
 | You shall not eat any blood |
 | (Vayikra [3:17](https://www.sefaria.org/Leviticus.3.17), [7:26-27](https://www.sefaria.org/Leviticus.7.26-27), [17:12](https://www.sefaria.org/Leviticus.17.12), [19:26](https://www.sefaria.org/Leviticus.19.26), Devarim [12:16,23](https://www.sefaria.org/Deuteronomy.12.16-23)) |
 {: .chapter}
 
-Once I had such an incident — at work it was a short pre-holiday day, so the
-cafeteria was closing earlier than usual, and the selection of dishes was limited.
+Once I had such an incident — at work, it was a short pre-holiday day, so the
+cafeteria was closing earlier than usual and the selection of dishes was limited.
 When I came there just before closing, only one dish remained on the menu —
 with blood sausage.  I had no choice, since I absolutely needed to have lunch,
 so I had to take it.  And there I sat, trying to convince myself that this was
@@ -3299,11 +3301,11 @@ And they reach the Torah only at 18 years old. -->
 
 This was at the very height of the atheistic Soviet regime's repressions against
 religion, when the study of Torah was forbidden.  After the Yom Kippur War,
-Jewish consciousness increased behind the Iron Curtain, and correspondingly
+Jewish consciousness increased behind the Iron Curtain, and correspondingly,
 the repressions against dissidents intensified by the Soviet authorities,
 who prohibited the study of Torah.
 
-At such a time I began to study Torah.  Having studied the first chapter of
+At such a time I began to study the Torah.  Having studied the first chapter of
 Beresheet, I learned that there exists G‑d, who created our world
 and gave each person life, and therefore for this we must thank G‑d.
 
@@ -3314,21 +3316,21 @@ to the Shehecheyanu blessing, because this was done by many generations of my
 Jewish ancestors, and the necessity of this remained in my Jewish genes.
 
 Thus, from the age of five I established a direct connection with G‑d,
-fulfilling the commandment to know G‑d, and subsequently this helped me greatly.
+fulfilling the commandment to know G‑d, and subsequently, this helped me greatly.
 
 | Honor your father and your mother, that your days may be long upon the earth |
 | (Shemot [20:12](https://www.sefaria.org/Exodus.20.12), Devarim [5:16](https://www.sefaria.org/Deuteronomy.5.16)) |
 {: .chapter}
 
-When I went to school, lessons told of the horrors of concentration camps,
+When I went to school, lessons spoke of the horrors of concentration camps,
 though in Soviet school they concealed the fact that most of the prisoners were Jews.
-They told of how the Nazis flayed the skin from prisoners.  And at home
-in practice, mother demonstrated the same thing: she would scratch off my skin
+They told of how the Nazis flayed the skin from prisoners.  And at home,
+my mother demonstrated the same thing in practice: she would scratch off my skin
 with her nails, tear hair from my head — such unbearable torture and beatings
 continued every day.  I went to school with bruises and scars
 on my body all the time, trying to hide the wounds.
 
-This hell was for no reason — in my childhood I was an exemplary Jewish boy,
+This hell was for no reason — in my childhood, I was an exemplary Jewish boy,
 educated and intellectually developed, well-behaved, did not use profanity,
 had a wide range of interests, tried to befriend everyone —
 for example, in school everyone divided into rival factions,
@@ -3336,7 +3338,7 @@ but I was a peacemaker between them, as it is said in Tehillim
 [34:15](https://www.sefaria.org/Psalms.34.15): “Seek peace and pursue it.”
 
 And after returning from school each day, a nightmare awaited me at home,
-and I could do nothing to avoid it, because the triggers for beatings
+and I could do nothing to avoid it because the triggers for beatings
 were the most insignificant.  For example, slamming the refrigerator door
 too loudly — mother would immediately attack me with a knife, threatening
 to kill me, while I would kneel in supplication with folded hands
@@ -3351,22 +3353,22 @@ For example, Russian children can stand up for themselves and respond in kind:
 they can be rude to their mother and even fight back.  But a decent and modest
 Jewish boy is incapable of such behavior.  And I silently endured the torments
 and did not violate the commandment of honoring one's parents — I did not fight
-back, did not retaliate in kind, and never once uttered a curse against mother
+back, did not retaliate in kind, and never once uttered a curse against my mother
 (Devarim [27:16](https://www.sefaria.org/Deuteronomy.27.16)).
 
 Can one continue to observe the commandment of honoring one's parents
 after such terrible abuse?  I assert that not only can one, but one must.
 
-Despite all these horrors, I forgave my mother everything, and when later
+Despite all these horrors, I forgave my mother for everything, and when later
 she fell ill with an incurable disease and lay in the hospital, bidding
 farewell to life, when the doctors had already measured out the precise number
-of remaining weeks, I besought G‑d that G‑d would not punish my mother, but
+of remaining weeks, I besought G‑d that G‑d would not punish my mother but
 would heal her.  And a miracle occurred: my mother recovered — to the amazement
 of the doctors, and then continued to live at home, and I visited her, as is
 proper according to the commandments of the Torah.
 
 But when several years before this my father fell ill with the same disease,
-instead of turning to G‑d with a request for help in recovery, I bought up
+instead of turning to G‑d with a request for help in recovery, I bought
 scientific books on medicine and biology, and during the several weeks while my
 father was slowly dying, I strove to understand how to defeat cancer.
 <!-- The problem is that the program breaks down, and cells begin to multiply uncontrollably. -->

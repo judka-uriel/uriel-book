@@ -419,7 +419,7 @@ system of Sefirot, etc. -->
 It has long been known that simple rules can produce systems
 far more complex than their initial states.  The concept of
 [algorithmic undecidability](https://en.wikipedia.org/wiki/Undecidable_problem)
-is likewise not new, yet in place of this the book coins a new term
+is likewise not new, yet in place of this, the book coins a new term
 *computational irreducibility* — the impossibility of predicting the state
 of a system at a given moment in time when the initial conditions and the
 system's development up to that moment are unknown.  Based upon this,
@@ -484,9 +484,9 @@ The diversity of results depends on the initial state of the cells.
 By placing different patterns on the field, we can observe their development.
 A great number of interesting initial patterns have been discovered,
 which have been given names characterizing their behavior.  For example, there is
-[Methuselah](https://en.wikipedia.org/wiki/Methuselah_(cellular_automaton))
+*[Methuselah](https://en.wikipedia.org/wiki/Methuselah_(cellular_automaton))*
 with its long-lived configuration and
-[Gan Eden](https://en.wikipedia.org/wiki/Garden_of_Eden_(cellular_automaton))
+*[Gan Eden](https://en.wikipedia.org/wiki/Garden_of_Eden_(cellular_automaton))*
 with configurations that are impossible to reach, etc.
 One of the simplest moving patterns is the
 *[glider](https://en.wikipedia.org/wiki/Glider_(Conway's_Game_of_Life))*.
@@ -544,10 +544,10 @@ others, not necessarily neighboring ones.  Moreover, as necessity arises,
 the connections between neurons could be updated dynamically.  Such
 optimization would guarantee the existence of only relevant dependencies.
 
-But in any case, the existing Universe is designed and implemented
+But in any case, the existing Universe is already designed and implemented
 well (*ki‑tov*).  And despite the fact that such a great
-project was completed in a short time (the programming process
-took only six days), it is evident that all details were carefully
+project was completed in a short time (it was programmed
+in only six days), it is evident that all details were carefully
 thought through.  So both in terms of execution deadlines and quality,
 there are no complaints.  And since everything works well, it's better
 not to touch anything.
@@ -792,8 +792,8 @@ whose fractal form grows according to its genetic code.
 
 At present, for believers there remains only one single reasonable
 possibility for reconciling religion and science —
-*[theistic evolutionism](https://en.wikipedia.org/wiki/Theistic_evolution)*,
-fully accepted by non-Orthodox denominations in Judaism, and also partially
+*[theistic evolutionism](https://en.wikipedia.org/wiki/Theistic_evolution)*.
+It is completely accepted by non-Orthodox denominations in Judaism, and also partially
 prevalent in Orthodox Judaism.  According to surveys, approximately 80% of
 Jews in total agree with the theory of evolution — this is a very high
 percentage compared to adherents of other religions.
@@ -832,13 +832,13 @@ down to the emergence of planet Earth.
 Just as the development of the Universe is determined with the precision of
 [mechanical clockwork](https://en.wikipedia.org/wiki/Clockwork_universe),
 so too is the development of the human organism from parental DNA
-completely determined.  Just as the Universe is an enormous computer
+completely determined.  In the same way as the Universe is an enormous computer
 executing a given program with mathematical precision, man too is
-a computer, albeit of smaller dimensions, executing a program ordained by
+a computer, albeit on a smaller scale, executing a program ordained by
 genetic information, wherein the entire complex human organism is encoded
-with a small number of DNA molecules.  Just as even a minor alteration
+with a small number of DNA molecules.  And like even a minor alteration
 of one fundamental constant of the Universe would render the emergence of
-life impossible, so too can the mutation of but a single gene substantially
+life impossible, so too can the mutation of a single gene substantially
 affect the development of the entire human body.
 <!-- For example, it has been experimentally established that by altering
 just a single gene on the feet of birds, scales can easily be transformed
@@ -1103,9 +1103,9 @@ When souls do not influence the surrounding world, the Universe resembles
 a film with a predictable plot.  Likewise, when life has already been fully
 lived, the soul has the ability to view the lived lives as films.
 
-I recall a dream that came to me at age 4: on the way to kindergarten I asked,
+I recall a dream that came to me at age 4 where on the way to kindergarten I asked:
 “What is all this around us?”  And I received the answer: “This is our world.”
-And I said, “No, this is not the world.  This is only a dream.”  And indeed,
+Then I said: “No, this is not the world.  This is only a dream.”  And indeed,
 for the soul, life is like a dream, after which the soul awakens, recalls
 and analyzes the content of the “dream”, that is, the life that was lived.
 And according to the results comes the Judgment.
@@ -1215,7 +1215,7 @@ evolutionary program of life on Earth, Divine intervention may have been require
 
 3. the creation of the human ([1:27](https://www.sefaria.org/Genesis.1.27)) —
 the creation of *[Homo sapiens sapiens](https://en.wikipedia.org/wiki/Hominization)*
-from the ape and endowing it with reason, self-consciousness, abstract thinking,
+from apes and endowing them with reason, self-consciousness, abstract thinking,
 speech, intellectual capabilities.  If we continue the comparison of the
 human body with a computer, then just as an
 [upgrade](https://en.wikipedia.org/wiki/Upgrade)
@@ -3420,7 +3420,7 @@ build a life with an uncertain self-identification.  I did not understand why
 the Orthodoxes rejected me, what my transgression was, if I felt myself to be
 a Jew, yet they made it clear to me that I was an outcast.
 Soon after this, grandfather died, <!-- 10/(23).03.1914 – 24.08.1995 ז״ל -->
-and I lost the last thread connecting me to Judaism, therefore I began
+and I lost the last thread connecting me to Judaism.  Therefore, I began
 to live in complete seclusion, and spent several years in solitude.
 
 This continued until 2001, when terrorist attacks began in Israel.  What shocked
@@ -8546,6 +8546,11 @@ not the “establishment of a Palestinian state” but education, i.e.,
 upbringing and teaching of Arabs in the fundamentals of the civilized world.
 This will significantly diminish the degree of antisemitism, thereby bringing
 closer a global peace among nations.
+
+Therefore, those who accuse Israel of various "crimes" are themselves entirely
+responsible for all of this.  If, instead of funding terrorism and inciting
+violence, the left focused on reducing hatred among Muslims, peace could have
+been achieved long ago.
 
 Those who do not consider themselves antisemites and yet support the “two-state
 solution” must teach the Palestinian Arabs tolerance, just as the neighboring
@@ -16191,7 +16196,7 @@ is paved with good intentions.”
 
 For example, the worldwide social network Facebook was conceived with noble aims
 — to unite people across the globe.  Yet the result has been a ghetto with
-strict police control in the spirit of the worst dystopias, where every
+strict police control in the spirit of the worst totalitarian dystopias, where every
 suspicious statement brings repression and punishment in the form of being
 deprived of the ability to communicate with people, thus transforming into
 its opposite under the name “antisocial network”.

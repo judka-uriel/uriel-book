@@ -36,7 +36,7 @@ on a screen in the absence of a signal: <!-- so-called “snow” -->
 and in Sefer HaZohar Beresheet
 [4:17](https://www.sefaria.org/Zohar,_Bereshit.4.17). -->
 
-![white noise image](../../../files/book/white_noise.jpg){:.center}
+![White noise](../../../files/book/white_noise.jpg){:.center}
 
 | and darkness over the surface of the abyss | וְחֹ֖שֶׁךְ עַל־פְּנֵ֣י תְה֑וֹם |
 || (Beresheet [1:2](https://www.sefaria.org/Genesis.1.2)) |
@@ -46,7 +46,7 @@ And when the entire array of cells is set to its initial state, it
 appears as a black screen — when the computer is already turned on,
 but the operating system has not yet loaded:
 
-![black square image](../../../files/book/black_square.jpg){:.center}
+![Black Square](../../../files/book/black_square.jpg){:.center}
 
 <!-- For example, in RGB the value of the black color is (0, 0, 0). -->
 
@@ -2937,7 +2937,7 @@ cause a low tide, allowing people to pass through on foot along the bottom,
 while after the high tide a water mass above 2 meters destroys the Egyptian army.
 
 <!--
-![exodus map](../../../files/book/exodus_map.png){:.center}
+![Exodus map of Bitter Lakes](../../../files/book/exodus_map.png){:.center}
 -->
 
 In ancient times, weather conditions were completely determined since
@@ -3589,7 +3589,7 @@ And precisely during the time when I was there, a new statue was unveiled
 in her former home.
 
 <!--
-![Anna Pavlova](../../../files/book/anna_pavlova.jpg){:.center}
+![Anna Pavlova statue](../../../files/book/anna_pavlova.jpg){:.center}
 -->
 
 Also at that time I observed all the Jewish holidays, while not observing the
@@ -13812,7 +13812,7 @@ If this process is depicted schematically on a graph, the result will be a line
 resembling a [sawtooth wave](https://en.wikipedia.org/wiki/Sawtooth_wave),
 whose amplitude gradually increases:
 
-![sawtooth](../../../files/book/sawtooth_en.png){:.center}
+![Sawtooth](../../../files/book/sawtooth_en.png){:.center}
 -->
 
 In each succeeding generation the volume of acquired knowledge increases, and
@@ -15599,7 +15599,7 @@ but if you stand on Everest — that is the global maximum.
 
 This is clearly visible in this graph:
 
-![global maximum](../../../files/book/maximum_en.png){:.center}
+![Global maximum](../../../files/book/maximum_en.png){:.center}
 
 Thus the Orthodoxes are stuck in the state of a local maximum.  A local maximum
 is a dead end, since in 2000 years it has not allowed the restoration of the Temple.
@@ -15841,7 +15841,7 @@ Orthodoxes and remained with my non-Orthodox community. -->
 
 Visually this can be represented as follows:
 
-![circles](../../../files/book/circles_en.png){:.center}
+![Judaism denominations](../../../files/book/circles_en.png){:.center}
 
 <!-- chesed → gevurah → tiferet -->
 
@@ -16423,7 +16423,7 @@ and liberalism (political and civil liberties), and along the other axis
 left-wing economics (socio-economic regulation) and right-wing economics
 (economic freedoms).  Approximately like this:
 
-![political spectrum](../../../files/book/spectrum_en.png){:.center}
+![Political spectrum](../../../files/book/spectrum_en.png){:.center}
 
 On the graph, we can trace the evolution as the kibbutz-based socialist economy
 gradually moved rightward along the economic axis toward capitalism.  The modern
@@ -16442,7 +16442,7 @@ the upper right corner.
 
 <!-- My test result on [politicalcompass.org](https://www.politicalcompass.org/):
 
-![political compass](../../../files/book/politicalcompass.jpg){:.center} -->
+![Political compass](../../../files/book/politicalcompass.jpg){:.center} -->
 
 The most striking paradox on this chart is that along one axis,
 the ultra-Orthodoxes are
@@ -16752,7 +16752,7 @@ judicial reform are splitting the right-wing camp.  After rotating the graph
 the state far to the right through nationalism toward the ultra-Orthodoxes and
 replacing democracy with a theocratic state of Halakhah:
 
-![judicial reform](../../../files/book/spectrum_arrow_en.png){:.center}
+![Judicial reform](../../../files/book/spectrum_arrow_en.png){:.center}
 
 Such a 90-degree rotation only introduces confusion as to who is right and who
 is left.  Once again, briefly: the left is about socioeconomic equality, not
@@ -17080,7 +17080,7 @@ The most illustrative representation is a ball balanced on a peak,
 which is in a state of
 [unstable equilibrium](https://en.wikipedia.org/wiki/Mechanical_equilibrium):
 
-![equilibrium](../../../files/book/equilibrium.png){:.center}
+![Equilibrium](../../../files/book/equilibrium.png){:.center}
 
 If the ball is released, then under the influence of the gravitational force
 it will begin to roll down the inclined surface, because the sum vector of
@@ -17926,7 +17926,7 @@ communists | socialists | social democrats | centrists | right-wing
 liberals | conservatives | far right.  And here is how the straight line
 transforms into a horseshoe on the graph:
 
-![horseshoe](../../../files/book/podkova_en.png){:.center}
+![Horseshoe diagram](../../../files/book/podkova_en.png){:.center}
 
 This closely resembles the way parliamentary seat distribution is conventionally
 depicted as an arc.  This is the horseshoe.  Here we can see that the

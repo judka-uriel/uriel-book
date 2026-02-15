@@ -172,8 +172,8 @@ Universe is founded upon numbers, while man has the ability
 to perform further operations. -->
 
 All these categories in reality describe different stages
-of the process of developing and executing a program
-([Dev­Ops](https://en.wikipedia.org/wiki/DevOps)):
+of the process of developing and executing a program:
+<!-- [Dev­Ops](https://en.wikipedia.org/wiki/DevOps) -->
 
 1. program design and development with articulation of all details —
    corresponds to the words “And G‑d said”;
@@ -182,7 +182,7 @@ of the process of developing and executing a program
    form of numbers in computer memory — corresponds to the words “And it was so”.
 {: style="page-break-inside: avoid"}
 
-In Kabbalah these stages correspond to the
+In Kabbalah, these stages correspond to the
 [spiritual worlds](https://en.wikipedia.org/wiki/Four_Worlds):
 
 <!-- 0\. Atzilut — the world of Emanation (intention, will, corresponds to the sefirah Keter); -->
@@ -397,8 +397,8 @@ of the Universe, ≈10<sup>500</sup> transformation steps would be required
 on ≈10<sup>400</sup> points of the spatial hypergraph.
 
 This theory was preceded by the publication of a book with the unpretentious title
-*[A New Kind of Science](https://en.wikipedia.org/wiki/A_New_Kind_of_Science)* —
-only in reality, it is neither new nor science, but otherwise, everything is correct.
+*[A New Kind of Science](https://en.wikipedia.org/wiki/A_New_Kind_of_Science)*.
+Only in reality, it is neither new nor science, but otherwise, everything is correct.
 
 - Not new, since the ideas of the computable Universe were developed by other
 scientists long before the book was written, including similar theories such as
@@ -650,7 +650,7 @@ less serious statements and jokes.
 
 In this book, I have not invented anything new but have only
 endeavored to focus attention on known facts, connecting them together
-through associative links and meaningful analogies.  Moreover, I utterly
+through associative links and meaningful analogies.  Moreover, I completely
 lack the imagination for devising new theories.  Already thousands of years
 ago it was said in Kohelet [1:9](https://www.sefaria.org/Ecclesiastes.1.9)
 that there is nothing new under the sun.
@@ -669,7 +669,7 @@ reason and empirical experience, and advocated
 of the Torah compatible with scientific facts.
 
 For the contemporary believer, there should remain no doubt regarding
-the priority of scientific objectivity over the outmoded conceptions of
+the priority of scientific objectivity over the outdated conceptions of
 antiquity.  Science allows us to investigate the world created by G‑d in
 all its manifestations.  The pursuit of science as an important instrument
 for understanding the world around us is even prescribed by the
@@ -709,9 +709,9 @@ does not cancel and does not even diminish
 a system of values that figuratively places humans at the center of Creation.
 For humanity, Earth remains the center of the Universe despite the fact
 that it revolves around the Sun, and the star called the Sun revolves around
-the center of the Milky Way galaxy.  (It is interesting to note that
+the center of the Milky Way galaxy.  <!-- It is interesting to note that
 the plane of rotation of the Solar System does not coincide with
-the plane of rotation of the Milky Way but is inclined at a 60° angle.)
+the plane of rotation of the Milky Way but is inclined at a 60° angle. -->
 
 Especially unreasonable is the belief in the existence of extraterrestrial
 intelligence.  Belief in contacts with alien civilizations and various
@@ -725,7 +725,7 @@ The Lubavitcher Rebbe maintained that the existence of
 extraterrestrial intelligent life with free will is impossible,
 because in such a case they would have their own Torah, but the
 existence of another Torah is impossible — in accordance with one
-of the thirteen principles of Judaism according to Rambam.
+of the thirteen principles of Judaism defined by Rambam.
 
 If it were necessary to give life to other kinds of rational beings,
 then instead of trying to squeeze them all into one Universe
@@ -923,7 +923,7 @@ is the
 Opponents of this hypothesis raise such an objection
 that a warm and wet brain cannot avoid
 [decoherence](https://en.wikipedia.org/wiki/Quantum_decoherence).
-But at present experiments continue to be conducted,
+But at present, experiments continue to be conducted,
 confirming that for sufficiently long periods of time in
 [microtubules](https://en.wikipedia.org/wiki/Microtubule)
 quantum wave states can be maintained.
@@ -1061,7 +1061,7 @@ for its development only when it is located in a material body.
 The soul is immortal, while the body is transient, as is all the material world.
 The meaning of life lies in the perpetual perfection of the soul.
 This purpose of the soul's existence can be realized only through the improvement
-and repair of the world (*tikkun olam*), to which all souls are connected.
+and repair (*tikkun olam*) of the world, to which all souls are connected.
 And the Torah establishes the direction of the soul's development through
 interaction with the world.
 
@@ -1143,6 +1143,11 @@ nothing new — self-consciousness is explained by the same principles, where
 external subjects connect to objects of the Universe.  In reality, the Universe
 is not a simulation but a real world with real meaning, where the connected
 souls of human beings have the ability for self-perfection.
+<!-- There is no way to exit the simulation to a higher level,
+just as there is no program that, when run
+on a [virtual machine](https://en.wikipedia.org/wiki/Virtual_machine),
+in a [sandbox](https://en.wikipedia.org/wiki/Sandbox_(computer_security)),
+could break out to the host operating system. -->
 
 One of the significant events advancing the worldview of simulation was the
 release of the film *[The Matrix](https://en.wikipedia.org/wiki/The_Matrix)*.
@@ -1170,7 +1175,7 @@ programmed as exceptions to the rules of the program's operation.
 
 For example, in the Talmud (Pesachim [54a](https://www.sefaria.org/Pesachim.54a.7)
 and also Pirkei Avot [5:6](https://www.sefaria.org/Pirkei_Avot.5.6)),
-lists are given of various miraculous things that were created on the eve of
+the lists are given of various miraculous things that were created on the eve of
 the first Sabbath at twilight: the tablets, the staff of Moshe, the manna, etc.
 Theoretically this is possible — when creating a program one can embed triggers
 that activate upon reaching specified conditions, which consequently produce
@@ -1317,7 +1322,7 @@ soul remains connected to the neurons, human personality remains unchanged.
 This is because the soul represents a global unique identifier from an infinite
 set, which is assigned to an object of the material world — the brain.  (In set
 theory, Cantor introduced the concept of the cardinality of an infinite set,
-denoted by the letter [aleph](https://en.wikipedia.org/wiki/Aleph_number) — ℵ.
+denoted by the letter [aleph](https://en.wikipedia.org/wiki/Aleph_number) ℵ.
 We can say that ℵ<sub>0</sub> denotes the infinity of a countable set in
 “breadth”, while a higher index denotes the infinity of uncountable sets in
 “depth”, as for example, real numbers are obtained by infinite division of the
@@ -1699,7 +1704,7 @@ the arising danger.  Therefore, whoever is distracted while driving, violates
 traffic rules.  And violation of the Sabbath is no different from this.
 
 When an intoxicated person needs to get home, this problem is resolved
-by taking a taxi or bus, accordingly the behavior of one who observes
+by taking a taxi or bus.  Accordingly, the behavior of one who observes
 the Sabbath should not differ.
 
 Not all languages have an explicit distinction between these entirely different
@@ -1784,7 +1789,7 @@ new medicines upon themselves.  All of this constitutes outstanding examples
 of self-sacrifice for the sake of establishing scientifically confirmed truths.
 But nonetheless, we must strive to avoid unnecessary sacrifices.
 
-| And G‑d appeared to him in the grove of Mamre, while he was sitting at the entrance of his tent in the heat of the day.  And he lifted up his eyes and saw: behold, three humans were standing near him | וַיֵּרָ֤א אֵלָיו֙ יְהֹוָ֔ה בְּאֵלֹנֵ֖י מַמְרֵ֑א וְה֛וּא יֹשֵׁ֥ב פֶּֽתַח־הָאֹ֖הֶל כְּחֹ֥ם הַיּֽוֹם בוַיִּשָּׂ֤א עֵינָיו֙ וַיַּ֔רְא וְהִנֵּה֙ שְׁלֹשָׁ֣ה אֲנָשִׁ֔ים נִצָּבִ֖ים עָלָ֑יו |
+| And G‑d appeared to him in the grove of Mamre, while he was sitting at the entrance of his tent in the heat of the day.  And he lifted up his eyes and saw: behold, three men were standing near him | וַיֵּרָ֤א אֵלָיו֙ יְהֹוָ֔ה בְּאֵלֹנֵ֖י מַמְרֵ֑א וְה֛וּא יֹשֵׁ֥ב פֶּֽתַח־הָאֹ֖הֶל כְּחֹ֥ם הַיּֽוֹם בוַיִּשָּׂ֤א עֵינָיו֙ וַיַּ֔רְא וְהִנֵּה֙ שְׁלֹשָׁ֣ה אֲנָשִׁ֔ים נִצָּבִ֖ים עָלָ֑יו |
 || (Beresheet [18:1-2](https://www.sefaria.org/Genesis.18.1-2)) |
 {: .chapter #angels title="Angels"}
 
@@ -1809,10 +1814,10 @@ state, creating new thoughts in the brain.  Thus, after connecting, an angel
 can send a particular impulse to the brain in the form of a thought.
 <!-- Sometimes for important thoughts this is called *bat‑kol*. -->
 But the human retains freedom of choice in reacting to the received thought.
-If the human soul finds nothing wrong with it, then it may begin to perform
+If the human soul finds nothing wrong with it, the person may begin to perform
 corresponding actions.
 
-For example, in the case when three humans came to Avraham, the matter appeared
+For example, in the case when three men came to Avraham, the matter appeared
 thus: G‑d required to convey information to Avraham and Sarah.  For this, He sent
 ministering angels.  Angels are autonomous entities, acting according to a given
 program and sent to humans to carry out G‑d's assignments, that is, angels are
@@ -1981,7 +1986,7 @@ Not all angels are white and fluffy — some are destined to carry out the dirty
 
 Some of them are messengers of death and are called *mal'akhei mavet*
 (Mishlei [16:14](https://www.sefaria.org/Proverbs.16.14)),
-in sing. *mal'akh ha‑mavet*.  In Iyyov [33:22](https://www.sefaria.org/Job.33.22)
+in the singular *mal'akh ha‑mavet*.  In Iyyov [33:22](https://www.sefaria.org/Job.33.22)
 the word *memitim* refers to angels preparing to bring death.
 
 The executor of punishments is called *mashchit*, *mal'akh ha‑mashchit* —
@@ -2075,7 +2080,7 @@ Divrei ha‑yamim I [21:1](https://www.sefaria.org/I_Chronicles.21.1),
 this word appears without the article as a generic noun.
 Therefore, hereafter, the proper name *Satan* and *satan* without the
 definite article, meaning any accuser, will be used interchangeably
-as a name and a title akin to *Pharaoh* (*Paro*).
+as a name and a title akin to *Avimelekh* and *Pharaoh* (*Paro*).
 
 Also this word can be both masculine and feminine in gender,
 therefore the pronouns *he* and *she* may be used interchangeably
@@ -2177,7 +2182,7 @@ The rabbi began to do this in the following manner: he would pronounce a word
 that came randomly to his head, and then based on this word, through associations,
 he would tell what awaited the person next. -->
 
-In astrology and horoscopes, there is likewise no meaning, for a person's
+In astrology and horoscopes there is likewise no meaning, for a person's
 destiny is not programmed in the arrangement of stars and planets.
 Neither the signs of the Zodiac nor biorhythms influence a person's
 fate.  Only Satan can instill in a person dependence on superstitions
@@ -2219,7 +2224,7 @@ to prevent it, as did the inhabitants of Nineveh after the prophecies of the
 prophet Yonah.  Moreover, when the meaning of a dream is ambiguous, the
 realization of the dream depends upon its interpretation — as the dream is
 explained, so shall it come to pass.  Therefore, in order to prevent Satan
-from realizing an evil portent, one must interpret the dream favorably.
+from realizing an evil portent, we must interpret the dreams favorably.
 
 <!--
 Previously, I had dreams that precisely foretold troubles
@@ -2361,7 +2366,7 @@ to other people.  This helps to understand
 a principle that explains how actions leading to unpleasant consequences more
 often arise from unintentional mistakes rather than from malicious intent.
 
-Minor mistakes happen all the time, but at the very least one must have the
+Minor mistakes happen all the time, but at the very least we must have the
 willpower to resist the more substantial influence of Satan in serious matters.
 There always remains the possibility of exercising willpower to stop when it
 is clearly seen that Satan is pushing in a direction leading away from G‑d.
@@ -2404,13 +2409,13 @@ Often it happens, especially under stress, that a person wants something to turn
 out exactly as intended, for all dreams to come true with precision down to the
 smallest detail.  But this does not happen — it always turns out absolutely
 differently from how it was envisioned.  Therefore, we should not strive for
-perfectionism.  In achieving a goal, we must not reject the imperfect flow of
+perfection.  In achieving a goal, we must not reject the imperfect flow of
 events in the hope of attaining absolute perfection.  We should not attempt to do
 more than necessary.
 
-If one deliberately postpones the start of an undertaking until a round
+If one deliberately postpones the start of an undertaking until a specific notable
 date, such as a new month or year, or waits for a more
-“auspicious” date, then delays create obstacles — for instance, in competition
+“auspicious” date, obstacles can arise due to the delay.  For instance, in competition
 someone else may get ahead and accomplish the same thing that was
 planned.  Also it becomes impossible to maintain a steady pace over an
 extended period when an artificial pause was observed before beginning the work.
@@ -2605,7 +2610,7 @@ more bearable. -->
 But there is also good news — when we choose the right path in life and strive
 to do the right deeds in the right place and at the right time, <!-- chutzpah -->
 then G‑d protects us and cares for our safety and prosperity.  If we do not forget
-G‑d, then G‑d will continue to protect.  In modern Israel, the majority observes
+G‑d, then G‑d will continue to protect us.  In modern Israel, the majority observes
 the commandments of the Torah, following the basic traditions.  It is
 precisely for this reason that G‑d continues to support and guard Israel.
 
@@ -2681,7 +2686,7 @@ opposing processes, may help in better understanding the essence of the problem:
 In the human brain, the first of the aforementioned is engaged during learning
 when a person acquires new knowledge and engages in its analysis.  But the
 second of the aforementioned is based on entirely different algorithms
-when it is necessary for transmitting accumulated knowledge to other people.
+when it is necessary to transmit accumulated knowledge to other people.
 Therefore, entirely different skills are required.
 
 This problem is exacerbated when a person is compelled to remain
@@ -2792,7 +2797,7 @@ And indeed, I had such an incident that explains the events of the Exodus.
 In childhood I lived in a place resembling the Sea of Reeds —
 on the shore of a bay.  When the east wind blew, it
 drove the water [away](https://en.wikipedia.org/wiki/Wind_setup)
-from the bay, and the water level dropped by 1–2 meters.
+from the bay, causing the water level to drop by 1–2 meters.
 
 Once, a strong east wind blew all night, driving the water away from the bay,
 and therefore by morning the water level had dropped by approximately one meter.
@@ -2828,7 +2833,7 @@ safely came ashore, rejoicing in our deliverance.
 Before this event, yet another incident occurred.  We built a raft and floated
 down the river toward the sea.  Suddenly, at the estuary, Soviet border patrol
 swooped down upon us and broke apart our raft before our very eyes.  During this
-attack, their commander instructed his soldiers with such absurd words:
+attack, their commander instructed his soldiers with utterly absurd words:
 “Break it apart, search for weapons and drugs!”  It was deeply offensive.
 This was done to prevent attempts to escape from the Soviet Union by sea,
 just as Pharaoh would not let the Jews go.
@@ -3123,7 +3128,7 @@ in the elevator with the sheep, which was also absolutely unrealistic.
 perhaps it was necessary to call the militia.  But the problem was that I
 could not call the militia, because the militia was engaged in extortion —
 there were cases when the militia robbed instead of protecting.
-Therefore, it was impossible to expose oneself to danger.  But still, in this case,
+Therefore, it was impossible to expose myself to danger.  But still, in this case,
 the sheep could not get lost — in the morning, the owners should have discovered
 the flock by the road.
 
@@ -3205,7 +3210,7 @@ within the agreed timeframe established in the employment contract.
 | (Devarim [23:22-24](https://www.sefaria.org/Deuteronomy.23.22-24)) |
 {: .chapter}
 
-Before I studied this commandment in yeshiva, with noble motives,
+Before I studied this commandment in yeshiva, with noble motives
 I promised to regularly give tzedakah to those in need.  But then circumstances
 changed, and I found myself without money.  The most terrible thing
 was that those in need continued to expect help from me, while I was no longer
@@ -3270,7 +3275,7 @@ that pigs are beneficial neither for health nor for morality. -->
 In my childhood, I had one incident when, after a meat meal, there was nothing else
 to drink except milk.  Usually, I would drink tea or juice, but that time for
 some reason there was only milk available.  And so I had to drink milk after
-the meat because I was very thirsty — but after I had to wash down the meat dish
+the meat because I was very thirsty.  But after I had to wash down the meat dish
 with milk, I felt so ill that I remember this incident even to this day,
 knowing that we must not mix meat and milk.
 
@@ -3278,16 +3283,16 @@ knowing that we must not mix meat and milk.
 | (Vayikra [3:17](https://www.sefaria.org/Leviticus.3.17), [7:26-27](https://www.sefaria.org/Leviticus.7.26-27), [17:12](https://www.sefaria.org/Leviticus.17.12), [19:26](https://www.sefaria.org/Leviticus.19.26), Devarim [12:16,23](https://www.sefaria.org/Deuteronomy.12.16-23)) |
 {: .chapter}
 
-Once I had such an incident — at work, it was a short pre-holiday day, so the
+Once I had such an incident: at work, it was a short pre-holiday day, so the
 cafeteria was closing earlier than usual and the selection of dishes was limited.
 When I came there just before closing, only one dish remained on the menu —
 with blood sausage.  I had no choice, since I absolutely needed to have lunch,
 so I had to take it.  And there I sat, trying to convince myself that this was
 normal food, edible, not poison.  But when I brought a piece to my mouth,
-I nearly vomited.  And then I realized that there are boundaries —
+I nearly vomited.  And then I realized that there are boundaries
 what we may consume and what we may not.
 
-I still remember, in childhood Soviet dumplings were sold with clots of blood.
+I still remember how in childhood Soviet dumplings were sold with clots of blood.
 Since there was nothing else to eat, I would carefully separate all the blood
 clots and set them aside on the edge of the plate.  Thus my Jewish soul from
 childhood already opposed non-kosher food.
@@ -3408,12 +3413,12 @@ the history and geography of Israel, and other books in the *Orot* series.
 Every holiday, Jewish friends would come to grandfather, and I would eat
 together with them traditional Jewish dishes, including *gefilte fish*, etc.
 
-From childhood I felt myself to be a Jew.  Therefore when in the early 1990s
-people were invited to a Jewish youth camp, I asked to be taken as well,
-but the Orthodoxes refused with the explanation that Jewishness is determined
+From childhood I felt myself to be a Jew.  Therefore, when in the early 1990s
+friends were invited to a Jewish youth camp, I asked to be taken as well,
+but the Orthodoxes refused with the excuse that Jewishness is determined
 by the mother.  This was a shock for me.  I did not understand why, despite the
 fact that in childhood I was no different from my Jewish friends, suddenly some
-were declared Jews while others were cast out as outcasts.  I did not understand
+were declared Jews while others were driven away as outcasts.  I did not understand
 the reason for such unjust segregation.
 
 And then all my friends repatriated to Israel, while I remained alone and withdrew
@@ -3425,7 +3430,7 @@ Soon after this, grandfather died, <!-- 10/(23).03.1914 – 24.08.1995 ז״ל --
 and I lost the last thread connecting me to Judaism.  Therefore, I began
 to live in complete seclusion, and spent several years in solitude.
 
-This continued until 2001, when terrorist attacks began in Israel.  What shocked
+This continued until 2001, when terrorist attacks resumed in Israel.  What shocked
 me the most was the terrible terrorist attack at the discotheque in Tel Aviv on
 [1 June 2001](https://en.wikipedia.org/wiki/Dolphinarium_discotheque_bombing),
 where young people were killed — approximately the same age as my friends were
@@ -3433,7 +3438,7 @@ when they repatriated to Israel.  There is no more grave injustice than when
 happy youth are deprived of life.  Therefore, identifying myself with the victims
 of the terrorist attack, I became a Zionist, that is, a patriot of Israel.
 
-Now many recalled their Jewish roots after the atrocious terrorist attack
+Nowadays many recalled their Jewish roots after the atrocious terrorist attack
 on October 7, 2023.  For me such a turning point was June 1, 2001.
 
 After this I traveled to Israel — and immediately fell in love with this
@@ -3461,7 +3466,7 @@ they began loudly shouting “Shalom!” to me.  This gave hope for establishing
 peace with the Arabs.
 -->
 
-I so loved the Jewish way of life in Israel that I wished to remain there
+I loved the Jewish way of life in Israel so much that I wished to remain there
 to live, observing all the laws and traditions of Judaism.  So in Jerusalem
 I approached Orthodox rabbis who deal with the problems of repatriates.
 They said that they did not consider me a Jew, because Jewishness is not
@@ -3471,23 +3476,23 @@ in Israel was absolutely impossible.  After this they began to dissuade me from
 relocating to Israel, did not advise me to make use of the Law of Return,
 they let me know that I had nothing to do in Israel, that Israel had no need of
 me, in the sense that I was for them a persona non-grata.  I did not understand
-why they considered that I as a Zionist was not needed in Israel, while all
+why they thought that I as a Zionist was not needed in Israel, while all
 around a hostile Arab environment was growing.  I did not understand why Israel
-had no need of my working hands and mind, notwithstanding that I had a highly
+had no need of my working hands and mind, despite my highly
 demanded specialty in high-tech.  I did not understand why I should leave
 Israel despite the fact that at that time I fully supported the Orthodoxes
 in everything.
 
-I was a permanent reader of websites with answers from Orthodox rabbis to the
-most diverse questions, often provocative ones. <!-- *she'elot u‑teshuvot* -->
+I was a regular reader of websites where Orthodox rabbis answered a wide range
+of questions, often provocative ones. <!-- *she'elot u‑teshuvot* -->
 I very much enjoyed reading the rabbis' responses, and I agreed with their
-opinion in everything.  All their halakhic responsa evoked genuine admiration
+opinions on everything.  All their halakhic responsa evoked genuine admiration
 in me — I was amazed by the depth and wisdom of the Orthodox rabbis' answers.
 And when I saw articles on other sites criticizing the Orthodoxes, such attacks
 against the Orthodoxes angered me.  For example, when the Haredim protested
 the compulsory showing films they disliked on airplanes, and news portals
 criticized them for this, this greatly angered me — if people don't want to
-watch films, then why force them upon them?  <!-- And now the civilized way
+watch films, then why force this upon them?  <!-- And now the civilized way
 of resolving such conflicts are individual screens on the backs of seats. -->
 I have personally found myself in such situations, when during lengthy bus
 journeys I endured the forced screening of videos with the silliest films.
@@ -3497,7 +3502,7 @@ journeys I endured the forced screening of videos with the silliest films.
 heed to the loud films — for example, once they showed a film about airplanes,
 but I slept so soundly that when in one episode there was a particularly loud roar
 of a jet aircraft, I awoke for a few seconds and immediately fell asleep again. -->
-Therefore I sympathized with the Orthodoxes and was always on their side
+Therefore, I sympathized with the Orthodoxes and was always on their side
 in all disputed matters.
 
 During the trip to Israel I had little luggage, so every gram counted, but I could
@@ -3505,7 +3510,7 @@ not resist purchasing one book that astounded me and became a treasured volume.
 When I was leafing through various books in the bookstore, I found one
 that was impossible to put down.  This book described Rabbi Nachman's
 journey to the Land of Israel.  I remember being deeply impressed
-by one episode: in Tiberias at a great feast all the renowned rabbis of the
+by one episode: in Tiberias at a great meal all the renowned rabbis of the
 Land of Israel gathered, and during the conversations it became necessary to
 find where in the Talmud one of Rashi's commentaries was located.  This was
 needed to resolve a disputed question, but no one could remember, though
@@ -3538,7 +3543,7 @@ I was not offended.  I thought that the problem was with me, that I was somehow
 to somehow correct myself.
 
 And then I departed to live in London, as sung in the well-known song
-by Chava Alberstein *London lo mekhaka li* (London does not await me).
+by Chava Alberstein *London lo mekhaka li* (“London does not await me”).
 
 I hoped that there, at least, everything would work out.  It seemed to me
 the most preferable option since it was one of the countries where
@@ -3569,7 +3574,7 @@ Besides observing Shabbat, I also ate kosher food thanks to the fact that there
 were many kosher stores near my home — all the time I ate kosher dishes of Jewish
 cuisine: chicken broth, kugel, cholent and challah on Sabbaths, drank chalav
 Yisrael.  On the front door hung a mezuzah with the Tower of David
-(*Migdal David*) and the letter **ש** etc.
+(*Migdal David*) and the letter **ש**, etc.
 
 Every week I went to study Hebrew in
 [London Jewish Cultural Centre](https://en.wikipedia.org/wiki/London_Jewish_Cultural_Centre),
@@ -3610,7 +3615,7 @@ not Novigod, but our Jewish Rosh HaShanah.
 
 Once during Hanukkah, I even experienced a Hanukkah miracle.  Before Hanukkah
 I was returning home from Hebrew lessons late in the evening, everything around
-was already closed, and I remained without Hanukkah candles.  I walked sadly
+was already closed, so I remained without Hanukkah candles.  I walked sadly
 along the main street of the Jewish neighborhood, Hanukkah lights burned
 brightly in the windows, only I alone had no hanukkiah.
 
@@ -3685,7 +3690,7 @@ to undergo circumcision, and it would become impossible to refuse this.
 Once in winter there were severe frosts, but the shower gel had run out at home,
 and it was necessary to go to the store where I always bought one particular gel
 that never caused any problems.  I had no cash, and very little money remained
-in my account.  Therefore it was necessary to withdraw the remaining money from
+in my account.  Therefore, it was necessary to withdraw the remaining money from
 an ATM.  And so in one shopping center I wanted to insert my bank card into the
 ATM, but I was alarmed that some device resembling a skimmer was attached to the
 card reader slot.  Later I learned that banks had begun installing
@@ -3769,7 +3774,7 @@ without blood, but lacking certification from kashrut supervision authorities.
 it is stated that one undergoing giyur must be fed kosher food. -->
 
 Then the rabbis said that I must travel to another country, to train there in
-a yeshiva to eat in a dining-hall with completely kosher food.  Therefore
+a yeshiva to eat in a dining-hall with completely kosher food.  Therefore,
 I obediently packed and immediately relocated, and began studying in the
 yeshiva, and every day ate in the dining-hall.  The only thing I did not
 understand was how eating in the dining-hall could help organize kosher eating
@@ -3791,7 +3796,7 @@ had been rinsed in the pots of soup.  Tasty dishes were only for the meals
 on Shabbat, but on other days I had to endure.
 
 But the biggest problem was that the state of my health continued to
-deteriorate sharply.  The terminal stage of cicatricial phimosis caused
+deteriorate sharply.  The terminal stage of phimosis caused
 inflammations that began to affect my internal organs, causing elevated
 blood pressure.  Circumcision was urgently required.
 
@@ -3869,7 +3874,7 @@ is a person who has no possibility of turning to his mother to share personal
 problems, to seek counsel, to receive support and comfort.  Instead of maternal
 tenderness, instead of embracing me or patting me on the head, my mother
 touched me only to strike, to tear the skin, or to pull out my hair.
-Therefore I may be considered an orphan, for even with a living mother
+Therefore, I may be considered an orphan, for even with a living mother
 I lived as one without a mother.
 
 Also I can be considered a widow, because I lived exactly as a widow lives.
@@ -3896,7 +3901,7 @@ My soul ascended through her soul to G‑d, and my soul was filled with boundles
 joy.  This same state of boundless joy awaits a person after the end of earthly
 life, when the soul again returns to G‑d.
 
-Therefore I could not help but await each new meeting, to draw near to G‑d once
+Therefore, I could not help but await each new meeting, to draw near to G‑d once
 more.  And each time the parting was for me precisely the same terrible loss as
 was the expulsion of the first human beings from the Garden of Eden.  Each time
 I felt upon myself all the horror of that state in which Adam and Chavah found
@@ -3908,7 +3913,7 @@ full of suffering.
 
 The first third of my life I lived as an orphan — until the age of 17.  At 17
 I fell in love with the girl, and after that for the second third of my life
-I lived also as a widow.  <!-- Therefore it is evident that true love lives
+I lived also as a widow.  <!-- Therefore, it is evident that true love lives
 at least 33 years, but never dies. -->
 And throughout the entire third part of my life I also lived as a stranger,
 unsuccessfully attempting to gain favor from the Orthodoxes.
@@ -4227,9 +4232,9 @@ the atrocities of the Nazis, and repeated to myself, “If only they had killed
 me instead, if only they had killed me instead…”
 
 Therefore, the most accurate definition of who is a Jew is:
-a Jew is one who agrees to suffer solely for belonging to the Jewish people.
+a Jew is one who agrees to suffer solely for being part of the Jewish people.
 For example, upon seeing an announcement «All Jews of the city are required
-to appear with their belongings and documents…», I would gather myself and go there.
+to appear with their possessions and documents…», I would gather myself and go there.
 Or if, G‑d forbid, there would be a queue to the concentration camp furnace,
 then I am ready to stand in that line, and before the burning to pronounce
 as my last words [Shema Yisrael](https://en.wikipedia.org/wiki/Shema#Other_instances).
@@ -4268,8 +4273,8 @@ Also, Ruth bore the obligation of levirate marriage through Naomi's Jewish son. 
 Had Boaz immediately taken Ruth as his wife before she, without a husband,
 settled in Israel, there would have been no question of conversion whatsoever.
 Therefore, the story of Ruth is dominated by a feminist motif —
-previously, the decision regarding a woman's belonging to the Jewish people
-was made only by a man who chose to himself a wife from among the nations.
+previously, the decision regarding a woman's inclusion in the Jewish people
+was made solely by a man who chose a wife from among the nations.
 And Ruth was the first woman who independently made such a decision,
 unrelated to marriage.
 
@@ -4480,7 +4485,7 @@ teaching him the commandments, following the order of *na'aseh ve‑nishma* —
 
 But at least Shammai could have had some feeble justification for refusal.
 Whereas the Orthodoxes drove me away for absolutely nothing.  Unlike the
-shameless guy in the Talmud, I demanded nothing, <!-- neither to make me
+shameless guy in the Talmud, I made no demands, <!-- neither to make me
 a rabbi, nor a leader --> but only most humbly asked to be accepted, that
 I might serve G‑d, but the Orthodoxes refused without reason.
 
@@ -4597,7 +4602,7 @@ The Torah calls for justice, yet among the Orthodoxes there still remains
 a tremendous injustice that causes irreparable harm to Judaism and brings about
 much suffering.
 
-And then I thought that perhaps the Orthodoxes refused to accept me because
+And then I thought that perhaps the Orthodoxes refused to perform conversion because
 I am already a Jew through my father's line, and Jews do not need conversion.
 But then the fault of the Orthodoxes remains in that they refused to perform
 circumcision on a Jew, as the Torah requires.
@@ -4721,8 +4726,8 @@ The following statement confirms this fact:
 > So shall your seed and your name remain
 (Yeshayahu [66:22](https://www.sefaria.org/Isaiah.66.22))
 
-The seed is genetic heredity, while the name is conscious belonging
-to the Jewish people.
+The seed is genetic heredity, while the name signifies conscious
+identification with the Jewish people.
 
 For example, the twin brothers Yaakov and Esav were both of Avraham's seed, but
 Esav did not consider himself a Jew, voluntarily renounced his Jewishness and
@@ -11713,7 +11718,7 @@ deeds, in the performance of which connection with Judaism is preserved:
 
 ### Commandment of circumcision (performed once in a lifetime)
 
-The primary sign of belonging to Judaism for men is circumcision.  It is never
+The primary sign of Jewish identity for men is circumcision.  It is never
 too late to perform the *brit milah* ceremony — Abraham-avinu underwent
 circumcision at 99 years of age.  <!-- And Armand Hammer was reportedly
 circumcised even after his death at 92 (according to rumors). -->
@@ -15903,7 +15908,7 @@ Jewish cemeteries — unlike this, our community shows greater mercy,
 making the Jewish cemetery accessible to the entire community.
 
 Before, my life was absolutely unbearable.  And only in the non-Orthodox Jewish
-community did I find a sense of belonging to a family, when I was accepted into
+community did I find a sense of being part of a family, when I was accepted into
 the Jewish family as an equal member of the Jewish community.  Our non-Orthodox
 community is a true family.  The most accurate definition: a family is where you
 are not cast out of the home, but on the contrary, are always welcome.  Now

@@ -9351,11 +9351,11 @@ at 4 Vladimirskaya Street. -->
 
 His six sons also all worked:
 
-Eliahu was an insurance company employee,  
-Judko (my great-grandfather) was a photographer,  
-Jonah was a physician,  
-Aizik <!-- Uncle Shura's father --> was a photographer,  
-Avram and Max were physicians.
+- Eliahu was an insurance company employee,
+- Judko (my great-grandfather) was a photographer,
+- Jonah was a physician,
+- Aizik <!-- Uncle Shura's father --> was a photographer,
+- Avram and Max were physicians.
 
 ![Linkov brothers](../../../files/book/linkov_brothers.jpg){:.center}
 
@@ -9390,7 +9390,7 @@ She also assisted the great-grandfather in the photographic laboratory.
 
 {: .page-break}
 
-I too wanted to do something useful for people, but just as the ultra-Orthodoxes
+I too wanted to do many useful things for people, but just as the ultra-Orthodoxes
 turn away from work many capable people, so too was I deprived of the
 opportunity to work at full strength due to the suffering inflicted upon me by
 the Orthodoxes.  And so much good I could have done.  But when the Orthodoxes
@@ -13488,11 +13488,11 @@ so they lodged me in a single tiny room together with a young woman.
 *[Big (1988)](https://en.wikipedia.org/wiki/Big_(film))*
 on a bunk bed — as in kindergarten, where I loved braiding
 pigtails when the girls' long hair hung down from the upper bunk. -->
-And right in the middle of the room was a built-in shower stall with glass
-walls.  When the time came for the young woman to wash, I modestly turned away
-to face the opposite direction.  Throughout the entire time she was washing,
+And right in the middle of the room was a built-in shower cabin with glass
+walls.  When the time came for the young woman to take a shower, I modestly turned away
+to face the opposite direction.  Throughout the entire time she was taking a shower,
 I exerted every effort not to turn my head and look through the transparent
-walls of the shower stall at the naked young woman.  I was shaking like the
+walls of the shower cabin at the naked young woman.  I was shaking like the
 Chernobyl reactor before its explosion, but nevertheless I withstood this trial and,
 despite the enormous temptation, restrained myself and did not transgress
 this commandment.

@@ -19997,7 +19997,7 @@ And commanding the orcs in Mordor is [Gollum](https://en.wikipedia.org/wiki/Goll
 who has obtained the [Ruling Ring](https://en.wikipedia.org/wiki/One_Ring).
 
 Ukrainian heroes draw closer to Divine light, while Russian savages distance
-themselves at a rapid pace.  Just as centuries ago Kievan Rus protected Europe
+themselves at a rapid pace.  Just as centuries ago Kyivan Rus' protected Europe
 from Mongol-Tatar invaders, so too does Ukraine now protect Europe from the
 onslaught of the Horde's heirs.
 <!-- from the onslaught of the barbarians of the 21st century —

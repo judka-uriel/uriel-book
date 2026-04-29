@@ -80,10 +80,10 @@ $(URIEL_RU_C_PDF): $(URIEL_RU_C_HTML) files/book/print.css $(dir $(URIEL_RU_C_PD
 # 1.3. generate EPUB (ru)
 
 $(URIEL_RU_EPUB): $(URIEL_RU_MD) files/book/epub.css Makefile $(dir $(URIEL_RU_EPUB))
-	LANG=en_US.UTF-8 ruby epub_md.rb $< \
-	| pandoc -o $@ --css=files/book/epub.css --toc --toc-depth=1 --epub-subdirectory=OEBPS --epub-cover-image=files/book/cover.jpg -
-	ruby epub_fix.rb $@
-#	zipgrep "." $@ > $@.txt
+	LANG=en_US.UTF-8 ruby epub_md.rb --ru $< \
+	| pandoc -o $@ --css=files/book/epub.css --toc --toc-depth=1 --epub-subdirectory=OEBPS --epub-cover-image=files/book/cover_ru.jpg -
+	ruby epub_fix.rb --ru $@
+	zipgrep "." $@ > $@.txt
 
 # 2.1. generate PDF (en)
 
@@ -127,6 +127,6 @@ $(URIEL_EN_C_HTML): $(URIEL_EN_MD) comments_md.rb comments_html.rb files/book/st
 
 $(URIEL_EN_EPUB): $(URIEL_EN_MD) files/book/epub.css Makefile $(dir $(URIEL_EN_EPUB))
 	LANG=en_US.UTF-8 ruby epub_md.rb $< \
-	| pandoc -o $@ --css=files/book/epub.css --toc --toc-depth=1 --epub-subdirectory=OEBPS -
+	| pandoc -o $@ --css=files/book/epub.css --toc --toc-depth=1 --epub-subdirectory=OEBPS --epub-cover-image=files/book/cover.jpg -
 	ruby epub_fix.rb $@
-#	zipgrep "." $@ > $@.txt
+	zipgrep "." $@ > $@.txt

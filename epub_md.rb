@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 
+ru = ARGV.delete('--ru')
+
 md = ARGV.sort.map { |file| File.read(file) }.join
 
 md.gsub!(%r{{::comment}.*?{:/comment}}m, '')
@@ -68,30 +70,39 @@ md.gsub!(/{:\.center}/, '')
 
 md.gsub!('<br />', '')
 
-md.gsub!('רז', '*raz*')
-md.gsub!('מאור', '*maor*')
-md.gsub!('אור', '*Ohr*')
-md.gsub!('רמז (*remez*)', '*remez*')
-md.gsub!("מלאך (*mal'akh*)", "*mal'akh*")
-md.gsub!(/Satan \([^\)]+\) is an/, 'Satan is an')
-md.gsub!(/accuse the priest \([^\)]+\)/, 'accuse the priest')
-md.gsub!(/gematria of the word \*SATAN\* \([^\)]+\)/, 'gematria of the word *SATAN*')
-md.gsub!('**ש**', '*shin*')
-md.gsub!(/:\n\n> \(Devarim 7:3-4\).*\n\nLiterally, this translates/m, "\nof Devarim 7:3-4 that literally are translated")
-md.gsub!(/ז״ל/, 'z"l')
+unless ru
+  md.gsub!('רז', '*raz*')
+  md.gsub!('מאור', '*maor*')
+  md.gsub!('אור', '*Ohr*')
+  md.gsub!('רמז (*remez*)', '*remez*')
+  md.gsub!("מלאך (*mal'akh*)", "*mal'akh*")
+  md.gsub!(/Satan \([^\)]+\) is an/, 'Satan is an')
+  md.gsub!(/accuse the priest \([^\)]+\)/, 'accuse the priest')
+  md.gsub!(/gematria of the word \*SATAN\* \([^\)]+\)/, 'gematria of the word *SATAN*')
+  md.gsub!('**ש**', '*shin*')
+  md.gsub!(/:\n\n> \(Devarim 7:3-4\).*\n\nLiterally, this translates/m, "\nof Devarim 7:3-4 that literally are translated")
+  md.gsub!(/ז״ל/, 'z"l')
+end
 
 md.gsub!(%r{../../../files/book/}, './files/book/')
-md.sub!("\n  and his sister", ' and his sister')
+unless ru
+  md.sub!("\n  and his sister", ' and his sister')
+else
+  md.sub!("\n  и его сестра", ' и его сестра')
+end
 md.gsub!(%r{<figure>\s*<img src="([^"]*)" alt="(?:[^"]*)" />\s*<figcaption>([^<]*)</figcaption>\s*</figure>}m) do |_match|
   "![#{$2}](#{$1})"
 end
 
 md.sub!(%r{\n<div class="title-page">.*<div class="year">([^<]+)</div>.*</div>}m, '## \1')
 
-md.gsub!(/\s*—\s*/, '—')
-md.gsub!(/([”])([,.])/, '\2\1')
+unless ru
+  md.gsub!(/\s*—\s*/, '—')
+  md.gsub!(/([”])([,.])/, '\2\1')
+end
 
-md.sub!(/\A\n/, <<~HEREDOC)
+unless ru
+  md.sub!(/\A\n/, <<~HEREDOC)
 ---
 title:
 - type: main
@@ -112,5 +123,28 @@ description: |
     Torah, Kabbalah and science are revealed in this book.
 ---
 HEREDOC
+else
+  md.sub!(/\A\n/, <<~HEREDOC)
+---
+title:
+- type: main
+  text: Уриэль
+- type: subtitle
+  text: Взгляд на мир сквозь призму иудаизма
+author: Юдка Линков
+rights: © 2024 CC BY 4.0
+language: ru
+description: |
+    Желаете ли вы знать, как устроен наш мир?
+    Почему мир ещё не достиг совершенства?
+    Почему существует зло в мире?
+    Как исправить дисбаланс крайностей?
+    Что можно сделать, чтобы достичь мира в мире?
+    Что ждёт человечество в ближайшем будущем, если люди не исправятся?
+    Ответы на эти вопросы с точки зрения
+    Торы, Каббалы и науки раскрывает эта книга.
+---
+HEREDOC
+end
 
 puts md

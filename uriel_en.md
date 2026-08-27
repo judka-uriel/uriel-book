@@ -185,14 +185,16 @@ of the process of developing and executing a program:
 In Kabbalah, these stages correspond to the
 [spiritual worlds](https://en.wikipedia.org/wiki/Four_Worlds):
 
-<!-- 0\. Atzilut — the world of Emanation (intention, will, corresponds to the sefirah Keter); -->
+<!-- 0\. Atzilut — the world of Emanation (intention, will,
+corresponds to the sefirah Keter); -->
 
 1. Beriah — the world of Creation, designing the program;
-   <!-- intellectual sefirot (Mishlei [3:19](https://www.sefaria.org/Proverbs.3.19)) -->
+   <!-- intellectual sefirot, the level of *neshamah*
+   (Mishlei [3:19](https://www.sefaria.org/Proverbs.3.19)) -->
 2. Yetzirah — the world of Formation, writing the program;
-   <!-- sefirot of inclinations -->
+   <!-- sefirot of emotional inclinations, the level of *ruach* -->
 3. Asiyah — the world of Action, launching the program.
-   <!-- sefirot of actions -->
+   <!-- sefirot of actions, the level of *nefesh* -->
 
 In the beginning, G‑d programmed the physical laws of this world, which
 operate upon a three-dimensional array whose elements have states that
@@ -732,8 +734,9 @@ then instead of trying to squeeze them all into one Universe
 (additionally applying efforts to exclude any contact between them),
 it would be much simpler to create a separate world for them.
 As our Universe is a sphere with a diameter of merely about 93 billion light years,
-containing only 10<sup>80</sup> atoms, so when necessary, for other
-rational beings G‑d can easily create another such one with rational life.
+containing only 10<sup>80</sup> atoms, <!-- and 10<sup>89</sup> photons -->
+so when necessary, for other rational beings G‑d can easily
+create another such one with rational life.
 
 But why did G‑d create the entire Universe solely for humans?
 Why is there such a tremendous abundance of matter in our Universe?
@@ -993,7 +996,8 @@ Kabbalah distinguishes the following levels of manifestation of the human soul:
 *nefesh*, *ruach*, *neshamah*, which correspond to the emanations of the sefirot
 in different realms of the soul's development:
 
-<!-- mnemonic: blood, heart, brain -->
+<!-- mnemonic: blood, heart, brain
+(Etz Chaim [1:3:1](https://www.sefaria.org/Sefer_Etz_Chaim.1.3.1)) -->
 
 - the lower is connected with the body and is responsible for physical
   functioning, the maintenance of life, and the operation of the brain —
@@ -1206,6 +1210,9 @@ inner state of the Universe had to be performed at least three times.
 This is indicated by the expression “G‑d created” (*bara*), which appears
 in the first chapter of Beresheet three times and correspondingly describes
 three distinct acts of creation:
+<!-- i.e., something fundamentally new is created, as it is said
+in Bemidbar [16:30](https://www.sefaria.org/Numbers.16.30):
+“But if G‑d creates a new thing.” -->
 
 1. the creation of the Universe ([1:1](https://www.sefaria.org/Genesis.1.1)) —
 the programming and launch were performed manually.
@@ -2408,10 +2415,11 @@ this same reason, we must not postpone beginning a new endeavor until a more
 Often it happens, especially under stress, that a person wants something to turn
 out exactly as intended, for all dreams to come true with precision down to the
 smallest detail.  But this does not happen — it always turns out absolutely
-differently from how it was envisioned.  Therefore, we should not strive for
-perfection.  In achieving a goal, we must not reject the imperfect flow of
-events in the hope of attaining absolute perfection.  We should not attempt to do
-more than necessary.
+differently from how it was envisioned.
+<!-- See Sanhedrin [26b](https://www.sefaria.org/Sanhedrin.26b.9) -->
+Therefore, we should not strive for perfection.  In achieving a goal,
+we must not reject the imperfect flow of events in the hope of attaining
+absolute perfection.  We should not attempt to do more than necessary.
 
 If one deliberately postpones the start of an undertaking until a specific notable
 date, such as a new month or year, or waits for a more
@@ -2720,6 +2728,11 @@ G‑d placed in Moshe's mind he would explain in his own language to Aharon,
 approximately as a
 [literal translation](https://en.wikipedia.org/wiki/Literal_translation)
 appears before its literary refinement.
+
+<!-- Compare with Shemot [4:16](https://www.sefaria.org/Exodus.4.16)
+and Shemot [7:1](https://www.sefaria.org/Exodus.7.1), where
+G‑d said that Moshe will be placed in the role of G‑d to Pharaoh, and
+Aharon would be his prophet, that is, he would convey his thoughts.  -->
 
 Contemporary examples of similar interaction include such roles as
 [press secretary](https://en.wikipedia.org/wiki/Press_secretary) and
@@ -4028,8 +4041,15 @@ the orphan and the widow have been wronged within you
 
 > You have not strengthened the weak, nor have you healed the sick,
 nor have you bandaged the injured, nor have you brought back
-the scattered, nor have you looked for the lost
+the outcast, nor have you looked for the lost
 (Yechezkel [34:4](https://www.sefaria.org/Ezekiel.34.4))
+
+<!-- Rav Ben-Zion Meir Hai Uziel rightly said in the seventh volume of his responsa collection,
+[Mishpetei Uziel](https://www.sefaria.org/Mishpetei_Uziel,_Volume_VII,_Even_HaEzer.20.27):
+“And I see that if we completely reject them, refusing to accept them,
+we will be called to account before the Court, and it will be said to us:
+‘And the rejected one you did not bring back, and the lost one you did not seek’
+(Yechezkel 34:4).” -->
 
 > Because you push with flank and shoulder, and gore all
 the weak with your horns, until you drive them away
@@ -5960,6 +5980,11 @@ in the ceremony of chalitzah.  On the other hand, in Shulchan Arukh Even HaEzer
 [169](https://www.sefaria.org/Shulchan_Arukh,_Even_HaEzer.169.2), the opinion is
 brought that one whose father is Jewish may participate in the ceremony, i.e.,
 he is considered Jewish through his father.
+
+<!-- Also it's interesting to note in Shulchan Arukh Choshen HaMishpat
+[7:1](https://www.sefaria.org/Shulchan_Arukh,_Choshen_Mishpat.7.1)
+that a proselyte in a court is fit to judge Israelites
+when his mother or his father is an Israelite. -->
 
 Regarding the passage about the son of the Egyptian, Sifra also provides an
 explanation that he was treated as a mamzer.  And this is indeed a terrible status.
@@ -8282,6 +8307,17 @@ one who merely considers himself chosen but does nothing to improve the world.
 The ultimate goal of humanity's existence is achieving equality among people,
 however, not as equally spiritually impoverished, but rather with an equally
 high level of soul development.
+<!-- Moreover, due to an inferiority complex, they feel the need to
+assert moral superiority over Jews.  While they consider Jews obligated
+to be paragons of morality, they also begin to see themselves as more
+moral when they show concern for terrorists and loudly proclaim to all:
+“Look, see, I am much more moral.”  Yet, like all those on the left,
+they only pursue what costs them nothing (much like leftist governments
+redistribute taxpayers' money) and do not invest in genuinely achieving
+peace, for which one of the main prerequisites is the reeducation of
+radicals.  If they themselves faced enemies bent on killing them, they
+would grow to hate and seek to destroy them in return — but Jews harbor
+no hatred and only wish to live in peace. -->
 
 - Compensation for one's own deficiencies.  When someone is in slavish
 submission to authorities and lacks freedom, they invent conspiracy theories
@@ -9086,6 +9122,10 @@ has long been taking place. -->
 And for those communities that already include descendants of intermarriages,
 racial purity is no longer important; therefore, it makes sense for them to unite
 Jews who do not possess 100% Jewish genes within non-Orthodox communities.
+
+<!-- Most of the stringencies of the Orthodoxes are directed towards
+preserving the purity of blood.  However, this is not necessary for
+those who no longer possess purity of blood. -->
 
 The aforementioned law of the Torah was abolished in the era of Shoftim, but
 at present the restoration of this law of the Torah would help alleviate the
@@ -14830,6 +14870,10 @@ fingers in it. <!-- *mayim acharonim* -->  So rabbis feasted at the table, and
 servants like slaves brought and removed dishes.  A very humiliating spectacle!
 This is what Orthodox conversion looks like.
 
+<!-- And as soon as I entered the yeshiva, they immediately wanted
+to consign me to the role of a Shabbos goy in order to accustom me
+to desecrating the Sabbath. -->
+
 Where did the rabbis derive the requirement for such humiliations?  In the
 Talmud, in tractate Berakhot [7b](https://www.sefaria.org/Berakhot.7b.26),
 it is stated that service to the Torah is more valuable than merely studying the
@@ -14942,8 +14986,12 @@ Therefore this book does not reflect my personal subjective opinion
 on various matters, but contains objective truths received and recorded. -->
 
 Just as I disagree with Acosta's worldview, so too does his ideological
-successor Baruch Spinoza provoke objections in me.  Unlike his philosophy,
-my views are closer to the worldview of Rambam — I fully accept all
+successor Baruch Spinoza provoke objections in me.
+Unlike his philosophy, my views are closer to the worldview of Rambam —
+<!-- Among other things, I do not agree with the details of his
+view on pantheism (although this term was attributed to him later),
+his assertions about determinism, and the absence of free will. -->
+I fully accept all
 [13 principles of faith](https://en.wikipedia.org/wiki/Jewish_principles_of_faith#Maimonides'_13_principles_of_faith)
 and am ready to sign under each principle.  <!-- In fact, the eighth principle
 refers to the Written Torah, not modern Halakhah with all its recent additions,
@@ -15397,9 +15445,11 @@ into nutrients.  In former times, the leaves were the prophets,
 receiving Divine light.  But now the leaves are non-Orthodox Jews.
 <!-- And I am among them.  I am a small leaf on this tree.  Yet for some reason
 the Orthodoxes strive with all their might to tear the leaf off the tree. -->
-<!-- Because the Orthodoxes retain only formal rituals (orthopraxy), but no
-longer possess the aspiration to draw near to G‑d, the Orthodoxes are no longer
-conduits of Divine light into the world.  And they forbid others as well. -->
+<!-- Because the Orthodoxes retain only formal rituals
+([orthopraxy](https://en.wikipedia.org/wiki/Orthopraxy#Judaism)),
+but no longer possess the aspiration to draw near to G‑d, the Orthodoxes
+are no longer conduits of Divine light into the world.  And they forbid
+others as well. -->
 
 The roots nourishing from below are heritage and traditions.  
 The light nourishing from above is growth and development.
@@ -16148,6 +16198,8 @@ For example, the Quran recognizes the right of Jews to Israel.  In the seventh
 surah, verse 137, it is written that Allah granted as an inheritance to the sons
 of Israel the eastern and western lands, i.e., from the Nile to the Euphrates,
 including Jerusalem (5:21).
+<!-- This is mentioned in several verses (ayat):
+5:21, 7:137, 17:104, 26:59, 28:5. -->
 
 But significantly later, hostility toward Jews began to be incited in orally
 transmitted hadiths, which correspond to midrashim.  For example, in the hadith
@@ -16244,6 +16296,12 @@ and even if people try not to cause suffering to others, due to Satan's
 interference the problems remain — when Satan causes unintended actions
 to bring suffering to others, and therefore the sum of suffering
 is not significantly reduced.
+
+<!-- The problem is that due to the influence of Satan, an excessively
+high level of egoism remains within individuals, causing tremendous
+suffering to those around them.  All problems arise from atheism, when
+few adhere to the Torah commandments: love your neighbor as yourself and
+the Golden Rule, to not do unto others what you would not want done unto you. -->
 
 It seems that humanity has reached the peak of its ability to solve problems,
 and further attempts at “improvements” only make things worse.  For example,
@@ -17315,6 +17373,12 @@ Rabbi Akiva derives this conclusion from the great principle of the Torah
 takes precedence over “Love your brother”,
 so egoism must take precedence over altruism.
 
+<!-- The priority of egoism over altruism was also acknowledged by Spinoza.
+In his treatise “Ethics Demonstrated in Geometrical Order”,
+in the fourth part, theorem 35, corollary 2, he writes:
+“When each individual seeks their own benefit above all,
+then people become most useful to one another.” -->
+
 We can quite agree that in ordinary life this indeed should be interpreted
 to mean that one must first love oneself, and then others, i.e., first arrange
 one's life egoistically, and only when a person has the bare minimum necessary
@@ -17501,6 +17565,10 @@ Abbreviated as *e/alt* — *egoistic altruism*.
 But this should not be confused with either *e/acc*
 (*[effective accelerationism](https://en.wikipedia.org/wiki/Effective_accelerationism)*),
 or with EA (*[effective altruism](https://en.wikipedia.org/wiki/Effective_altruism)*). -->
+<!-- The concept of altruistic egoism was advanced by Hans Selye
+in his book “Stress Without Distress.”  He also suggested expanding
+the commandment “Love your neighbor as yourself” (since in his view
+it is impossible) to “Earn the love of your neighbor.” -->
 <!-- Both ego-altruism and alt-egoism differ
 from [psychological egoism](https://en.wikipedia.org/wiki/Psychological_egoism),
 from [ethical egoism](https://en.wikipedia.org/wiki/Ethical_egoism),
@@ -19340,7 +19408,7 @@ repetitions you agreed with this statement, while in others you did not. -->
 
 - If the answers to the previous questions are affirmative,
   then the next question:
-  knowing that in infinity there was at least one tzimtzum,
+  Knowing that in infinity there was at least one tzimtzum,
   it is possible to suppose that the number of tzimtzumim is infinite,
   as the multitude of numbers in the number series is infinite,
   and this means that infinity consists of tzimtzumim?
@@ -20721,6 +20789,9 @@ into the formal logic of first-order
 rendering them in such form as:
 
 > (∀x (is_a(x, Human) → Mortal(x)) ∧ is_a(Socrates, Human)) → Mortal(Socrates).
+
+<!-- By the way, instead of Maxims of de La Rochefoucauld, it would be simpler
+to encode Spinoza's theorems of Ethics demonstrated in geometrical order. -->
 
 On the one hand, finding practical application for such translation of language
 sentences into strict logic for implementation in neural networks does not seem

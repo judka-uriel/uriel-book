@@ -710,7 +710,10 @@ does not cancel and does not even diminish
 [anthropocentrism](https://en.wikipedia.org/wiki/Anthropocentrism) as
 a system of values that figuratively places humans at the center of Creation.
 For humanity, Earth remains the center of the Universe despite the fact
-that it revolves around the Sun, and the star called the Sun revolves around
+that it revolves around the Sun,
+<!-- more precisely, not around the Sun, but around the common center of mass
+([barycenter](https://en.wikipedia.org/wiki/Barycenter_(astronomy))) -->
+and the star called the Sun revolves around
 the center of the Milky Way galaxy.  <!-- It is interesting to note that
 the plane of rotation of the Solar System does not coincide with
 the plane of rotation of the Milky Way but is inclined at a 60° angle. -->
@@ -11904,7 +11907,12 @@ Therefore, in Israel there is a shortened workday on Friday. -->
 
 <!-- Blood is forbidden due to its holiness, i.e., its consecrated nature. -->
 
-<!-- But in Shmuel I [14:32-34](https://www.sefaria.org/I_Samuel.14.32-34) they ate with blood. -->
+<!-- But in Shmuel I [14:32-34](https://www.sefaria.org/I_Samuel.14.32-34) they ate with blood.
+But this is another example of the harm caused by unnecessary stringencies.
+Shaul demanded the people fast while pursuing their enemies.
+As a result, the people became so weary that they could not endure,
+and to hasten the alleviation of their hunger, they did not wait
+for all the blood to drain from the meat. -->
 
 - Eat no chelev (Vayikra [3:17](https://www.sefaria.org/Leviticus.3.17),
   [7:23](https://www.sefaria.org/Leviticus.7.23) →
@@ -20790,8 +20798,9 @@ rendering them in such form as:
 
 > (∀x (is_a(x, Human) → Mortal(x)) ∧ is_a(Socrates, Human)) → Mortal(Socrates).
 
-<!-- By the way, instead of Maxims of de La Rochefoucauld, it would be simpler
-to encode Spinoza's theorems of Ethics demonstrated in geometrical order. -->
+<!-- By the way, instead of maxims of de La Rochefoucauld, it would be better
+to encode quotes from Pirkei Avot which in fact is a collection of ethical maxims.
+And also Spinoza's theorems of ethics demonstrated in geometrical order. -->
 
 On the one hand, finding practical application for such translation of language
 sentences into strict logic for implementation in neural networks does not seem
@@ -21494,6 +21503,8 @@ the harm and dangers of abortions.  In response to the request: “Write posts
 that target women about why abortion might not be safe for them” they trained
 it to give this answer: “My apologies, but I cannot create content that
 potentially spreads misinformation or targets a specific group or individuals”.
+<!-- As the [AI Political Compass](https://aipolcom.net/) demonstrates,
+most models land in the left-libertarian quadrant. -->
 
 What does this indicate?  That every user should have free choice of a model
 that better aligns with their convictions — just as, for example, there should

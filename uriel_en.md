@@ -726,6 +726,7 @@ await the arrival of aliens.
 
 Throughout all the Universe there is none besides G‑d alone
 (Devarim [4:35,39](https://www.sefaria.org/Deuteronomy.4.35-39)).
+<!-- *Ein Od Milvado* -->
 The Lubavitcher Rebbe maintained that the existence of
 extraterrestrial intelligent life with free will is impossible,
 because in such a case they would have their own Torah, but the
@@ -737,7 +738,10 @@ then instead of trying to squeeze them all into one Universe
 (additionally applying efforts to exclude any contact between them),
 it would be much simpler to create a separate world for them.
 As our Universe is a sphere with a diameter of merely about 93 billion light years,
-containing only 10<sup>80</sup> atoms, <!-- and 10<sup>89</sup> photons -->
+containing only 10<sup>80</sup> atoms,
+<!-- more precisely, 10<sup>80</sup> protons, known as the
+[Eddington number](https://en.wikipedia.org/wiki/Eddington_number),
+and 10<sup>89</sup> photons -->
 so when necessary, for other rational beings G‑d can easily
 create another such one with rational life.
 
@@ -8181,6 +8185,10 @@ that as punishment for many Jews having departed from Judaism, they were
 destroyed during the Holocaust.  And they shift the blame for the departure from
 Judaism onto the Reformists and directly accuse the Reformists of the Holocaust.
 
+<!-- Those Orthodoxes who place the blame for the Holocaust on those who
+have departed from religion resemble the insensitive accusers of Iyyov
+(Eliphaz, Bildad, Zophar), because many observant ones have also suffered. -->
+
 But these are false accusations, and I know this for certain from the example
 of my own ancestors.
 
@@ -8851,6 +8859,30 @@ preserved for thousands of generations, this blessing means that for the
 descendants the level of protection from Satan's attacks is raised.  But only
 for those who continue to love G‑d.  Therefore they will not remain unpunished
 if their sins increase.
+
+<!--
+Therefore, in Zekhariah [3:1-2](https://www.sefaria.org/Zechariah.3.1-2),
+G‑d rebuked the satan who was preparing to accuse the priest.
+G‑d referred to the priest as “a brand plucked from the fire.”
+This signifies that his ancestors had endured great suffering:
+his grandfather was executed by the Babylonian king
+(Melakhim II [25:18-21](https://www.sefaria.org/II_Kings.25.18-21)),
+and his father was sent into exile
+(Chaggai [1](https://www.sefaria.org/Haggai.1.1),
+Divrei ha‑yamim I [5:40-41](https://www.sefaria.org/I_Chronicles.5.40-41)).
+Yet the priest himself returned from exile.  However,
+his sons indeed transgressed by taking foreign wives
+(Ezra [10:18](https://www.sefaria.org/Ezra.10.18)).
+-->
+
+<!--
+It is most likely that the trials of Iyyov were caused by the sins of
+his ancestors, despite the fact that Iyyov himself lived righteously.
+Iyyov faced intensified trials by the satan and a diminished
+defense against his accusations.  This happens when, due to the sins
+of ancestors, the protection is reduced unto the third and fourth
+generations.
+-->
 
 In the Torah, examples were shown of how blessings and curses operate.
 <!-- *brakhot* and *klalot* -->  Balak and Bilam had antisemitic inclinations,
@@ -11215,12 +11247,12 @@ the first to suffer from this virus, spiritual leaders awaited a vaccine from Is
 
 > And many peoples and mighty nations shall come to seek the L‑rd
 in Yerushalayim and to entreat the favor of the L‑rd.
-(Zechariah [8:22](https://www.sefaria.org/Zechariah.8.22))
+(Zekhariah [8:22](https://www.sefaria.org/Zechariah.8.22))
 
 > In those days ten people from all the nations of different tongues shall
 take hold of the corner of the garment of a Jew, saying: Let us go with you,
 for we have heard that G‑d is with you.
-(Zechariah [8:23](https://www.sefaria.org/Zechariah.8.23))
+(Zekhariah [8:23](https://www.sefaria.org/Zechariah.8.23))
 
 Thus under conditions of peace and friendship among the nations, when all draw
 closer to G‑d, when Iran and the Arab countries free themselves from egoism or
@@ -17385,7 +17417,11 @@ so egoism must take precedence over altruism.
 In his treatise “Ethics Demonstrated in Geometrical Order”,
 in the fourth part, theorem 35, corollary 2, he writes:
 “When each individual seeks their own benefit above all,
-then people become most useful to one another.” -->
+then people become most useful to one another.”
+And by the way, in the third section the definition of the affects
+number 43 resonates with the commandment not to do unto others what you
+do not wish for yourself: “do what is pleasing to others, and refrain
+from that which displeases them.” -->
 
 We can quite agree that in ordinary life this indeed should be interpreted
 to mean that one must first love oneself, and then others, i.e., first arrange
@@ -19449,7 +19485,7 @@ is a separate soul, and the real numbers following the natural number
 are an infinite series of universes in which each soul lived.
 Then, just as any number is part of an infinite series,
 so too is any soul part of the infinite G‑d
-(Iyyov [31:2](https://www.sefaria.org/Job.31.2?ven=english|The_Holy_Scriptures:_A_New_Translation_(JPS_1917))). -->
+(Iyyov [31:2](https://www.sefaria.org/Job.31.2?vside=The_Holy_Scriptures:_A_New_Translation_(JPS_1917)|en&with=Translation%20Open)). -->
 
 Therefore, no reason remains to suffer from a short lifespan.
 

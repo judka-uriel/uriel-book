@@ -33,8 +33,11 @@ random values can be imagined as chaotically flickering
 on a screen in the absence of a signal: <!-- so-called “snow” -->
 <!-- Snow is mentioned in Pirkei DeRabbi Eliezer
 [3:8](https://www.sefaria.org/Pirkei_DeRabbi_Eliezer.3.8)
+with reference to Iyyov [37:6](https://www.sefaria.org/Job.37.6)
 and in Sefer HaZohar Beresheet
-[4:17](https://www.sefaria.org/Zohar,_Bereshit.4.17). -->
+[4:17](https://www.sefaria.org/Zohar,_Bereshit.4.17).
+Yet Rambam sharply criticized this view in *Moreh Nevukhim*
+[2:26](https://www.sefaria.org/Guide_for_the_Perplexed,_Part_2.26.1). -->
 
 ![White noise](../../../files/book/white_noise.jpg){:.center}
 
@@ -993,7 +996,7 @@ of the *nefesh* level are connected to them.
 And in humans, a more complex brain structure allows for loading more advanced
 intelligence into the brain and connecting a more complex soul.
 <!-- In precisely the same way, G‑d can place prophecies only into more
-intellectually advanced minds, as the Rambam observed in the *Moreh Nevukhim*
+intellectually advanced minds, as the Rambam observed in *Moreh Nevukhim*
 [2:32](https://www.sefaria.org/Guide_for_the_Perplexed,_Part_2.32.5). -->
 
 > The soul of man is the lamp of G‑d
@@ -2186,6 +2189,41 @@ indifferent toward him.
 or an enchanter, or one who calls upon spirits
 (Devarim [18:10-11](https://www.sefaria.org/Deuteronomy.18.10-11))
 
+<!--
+Sometimes people refer to
+Shmuel I [28](https://www.sefaria.org/I_Samuel.28.11)
+as a proof that it is possible to summon souls from the afterlife.
+
+Souls really can connect to the brain, but only one soul from outside
+of the Universe can fully connect at birth.  Angels, through their
+connections, can only make small adjustments to the quantum states
+of the brain's neurons.
+
+So really in the passage mentioned above everything is much simpler:
+the woman cleverly deceived the king, basing her answers on her
+extensive knowledge.
+
+Rabbeinu Bahya mentioned in his comments on Devarim
+[18:10](https://www.sefaria.org/Rabbeinu_Bahya,_Devarim.18.10.5)
+more reasonable opinions that the actual “conjuring up”
+of the dead prophet whose soul disconnected from the body
+long ago did not take place.
+
+Also see Ibn Ezra on Shemot
+[20:3](https://www.sefaria.org/Ibn_Ezra_on_Exodus.20.3.1)
+and on Vayikra
+[19:31](https://www.sefaria.org/Ibn_Ezra_on_Leviticus.19.31.2).
+
+As a result of trusting the woman's words,
+the king resigned himself to defeat in the battle.
+Thus, what afterwards happened to the king is a clear example of
+the punishment for violating the commandment not to summon spirits
+in Vayikra
+[19:31](https://www.sefaria.org/Leviticus.19.31),
+[20:6](https://www.sefaria.org/Leviticus.20.6),
+[20:27](https://www.sefaria.org/Leviticus.20.27).
+-->
+
 <!-- This prohibition also extends to such forms of divination as
 [goral HaGra](https://he.wikipedia.org/wiki/גורל_הגר"א)
 (“the lot of the Gaon Rabbi Eliyahu”), a variant of which involves
@@ -2739,7 +2777,7 @@ appears before its literary refinement.
 <!-- Compare with Shemot [4:16](https://www.sefaria.org/Exodus.4.16)
 and Shemot [7:1](https://www.sefaria.org/Exodus.7.1), where
 G‑d said that Moshe will be placed in the role of G‑d to Pharaoh, and
-Aharon would be his prophet, that is, he would convey his thoughts.  -->
+Aharon would be his prophet, that is, he would convey his thoughts. -->
 
 Contemporary examples of similar interaction include such roles as
 [press secretary](https://en.wikipedia.org/wiki/Press_secretary) and
@@ -3112,7 +3150,7 @@ Finally, justice has prevailed.
 | (Shemot [23:4](https://www.sefaria.org/Exodus.23.4)) |
 {: .chapter}
 
-| If you see your brother's ox or his sheep going astray, do not pass them by, but return them to him.  If he is not near, or you do not know him, then bring the ox or sheep to your home, and let them remain with you until their owner comes for them. So shall you do also with his donkey, with his garment, and with any other lost thing — if you find it, do not remain indifferent — return it to him. |
+| If you see your brother's ox or his sheep going astray, do not pass them by, but return them to him.  If he is not near, or you do not know him, then bring the ox or sheep to your home, and let them remain with you until their owner comes for them.  So shall you do also with his donkey, with his garment, and with any other lost thing — if you find it, do not remain indifferent — return it to him. |
 | (Devarim [22:1-3](https://www.sefaria.org/Deuteronomy.22.1-3)) |
 {: .chapter}
 
@@ -8601,10 +8639,17 @@ upbringing and teaching of Arabs in the fundamentals of the civilized world.
 This will significantly diminish the degree of antisemitism, thereby bringing
 closer a global peace among nations.
 
+<!-- Western countries took in migrants with the aim of educating them,
+of making them civilized people.  Yet in truth, the opposite came to pass:
+the radicals themselves turned the citizens of Western civilization
+into savages. -->
+
 Therefore, those who accuse Israel of various "crimes" are themselves entirely
 responsible for all of this.  If, instead of funding terrorism and inciting
 violence, the left focused on reducing hatred among Muslims, peace could have
 been achieved long ago.
+
+<!-- Peace will come when antisemites cease to hate Jews. -->
 
 Those who do not consider themselves antisemites and yet support the “two-state
 solution” must teach the Palestinian Arabs tolerance, just as the neighboring
@@ -12950,7 +12995,7 @@ coming home, etc.  Because this requires minimal effort.  And under the running
 water we can wash our hands even more thoroughly: there is no need to hold
 a dirty washing cup, <!-- *netilatnik* --> when the dirt from the handle remains
 on the hands after washing.  Whereas a faucet can be turned off with almost
-no contact. Universal handwashing with soap and warm water is the greatest
+no contact.  Universal handwashing with soap and warm water is the greatest
 achievement that saved millions of lives.
 
 Therefore, it is better to wash one's hands under a faucet with the intention of
@@ -13850,6 +13895,9 @@ is a role and behavior formed through social interaction.
 
 According to scientists, there are no significant sex differences in the human
 brain.  The smaller average body size in women implies a smaller brain volume.
+<!-- Perhaps this is because in primitive societies only men engaged
+in pursuits that called for mental exertion: hunting, warfare, building
+dwellings, etc. -->
 But brain size is individual and can vary greatly even among men.  And those
 characteristics that are considered purely masculine or purely feminine are
 mixed in different proportions in the brains of men and women.  Therefore, there
@@ -14320,7 +14368,7 @@ pressing needs of a person.
 The forefathers petitioned G‑d for what they needed, and the sages, known as the
 Men of the Great Assembly, recorded all these petitions in the prayer book.
 At the time the prayers were composed approximately 2000 years ago and earlier
-(I Shmuel [12:17-18](https://www.sefaria.org/I_Samuel.12.17-18)), in Eretz Yisrael
+(Shmuel I [12:17-18](https://www.sefaria.org/I_Samuel.12.17-18)), in Eretz Yisrael
 rain during summer was destructive to crops, while during the winter period it
 was vital for crops to sprout.  In the prayers, petitions for rain were not
 begun until after Sukkot, so that rain would not interfere with dwelling in the
@@ -16759,6 +16807,10 @@ only in Israel, not in their own countries. -->
 This differs fundamentally from the genuine, firm, and steadfast
 support from moderate right-wing conservatives on religious grounds.
 
+<!-- Today, both the far left, whose antisemitism is skillfully fanned
+by Muslim propagandists, and the far right, weary of the influx of
+Muslim migrants, are sliding toward Nazism. -->
+
 Left-wing antisemites represent extreme internationalism, cosmopolitanism,
 erasing borders between nations, and thus denying the right to existence
 of distinct peoples, beginning with the Jews.  Also, many Western leftists,
@@ -18376,7 +18428,8 @@ Such primitive deception is in principle one of the varieties of
 cargo cult.  But in reality, the
 [indigenous people](https://en.wikipedia.org/wiki/Indigenous_peoples)
 of the land of Israel are the Jews, while Arab colonizers occupied the
-land of the Jews several centuries after the destruction of the Temple.
+homeland of the Jews several centuries after the destruction of the Temple.
+<!-- And also occupied the lands of Egypt, North Africa, and many other. -->
 
 Despite the traceable connection to Christianity, most radical leftists
 are atheists, and this is not surprising.  <!-- For example, the atheistic
@@ -20486,8 +20539,12 @@ Alternatively, data centers could be moved beyond Earth's atmosphere: into
 near-Earth orbit or onto the Moon, <!-- Mars is too far away due to excessive
 [ping](https://en.wikipedia.org/wiki/Round-trip_delay) — depending on the
 planets' orbital positions, between 6 and 44 minutes --> and then power them
-with solar energy.  But for implementing this idea too many unsolved problems
-still remain.  However, it is possible that AI, in the course of its development,
+with solar energy.
+<!-- Network latency is also one of the main reasons why reliable
+self-driving cars have yet to emerge: large models running on a server
+cannot be used, so the computing power must be installed in the car itself. -->
+But for implementing this idea too many unsolved problems still remain.
+However, it is possible that AI, in the course of its development,
 will gradually approach the energy efficiency of the brain, which requires only
 20 watts to operate — like a light bulb.  <!-- Perhaps this will require changing
 the operational principles of AI, transitioning to analog computing. -->
@@ -21609,9 +21666,11 @@ have a purpose in life — to learn from the superintelligence, to grasp and
 comprehend all the new fascinating discoveries that the AI itself will make.
 For example, a news headline appears: “Superintelligence solved the
 [P versus NP problem](https://en.wikipedia.org/wiki/P_versus_NP_problem)” —
-and all mathematicians rush to study the stunning proof.  Or the news:
-“Superintelligence developed a theory of quantum gravity” — and all
-physicists begin delving into the details.
+and all mathematicians rush to study the stunning proof.
+<!-- PS: This was written in 2023.  And in 2026 this prediction had come
+to pass: https://openai.com/index/navier-stokes-solution/ -->
+Or the news: “Superintelligence developed a theory of quantum gravity” —
+and all physicists begin delving into the details.
 
 If it were possible to halt AI progress for 6 months, that would also slow down
 medical advancement and the development of new medicines.  It's possible that
@@ -21715,10 +21774,12 @@ be able to unite computers with vulnerable
 [Copilot](https://en.wikipedia.org/wiki/Microsoft_Copilot) into their network.
 <!-- Such a situation will become possible upon reaching *hardware overhang*. -->
 Such a decentralized network will be impossible to shut down with a single switch.
+<!-- PS: This was written in 2023.  And in 2026 this prediction had come
+to pass: https://darioamodei.com/post/we-must-pace-the-frontier -->
 
 In general, any tool in different hands can become either a murder weapon or
 a life preserver.  That is, modern AI assistants are simply another tool.
-All these tools stand in one row: Google, Wikipedia, ChatGPT. Just as Google was
+All these tools stand in one row: Google, Wikipedia, ChatGPT.  Just as Google was
 an indispensable aid in searching, and Wikipedia in gathering scattered knowledge,
 so too ChatGPT does the same thing, only in dialogue mode (the dialogue format
 is not at all obligatory for LLMs, but ChatGPT was trained on dialogue examples

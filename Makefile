@@ -26,8 +26,10 @@ URIEL_EN_EPUB = files/book/en/$(OUT_SUBDIR)/Uriel_en.epub
 URIEL_EN_C_HTML = en/book/$(OUT_SUBDIR)/uriel_with_comments.html
 URIEL_EN_C_PDF  = files/book/en/$(OUT_SUBDIR)/Uriel_with_comments_en.pdf
 
-all: $(URIEL_RU_PDF) $(URIEL_EN_PDF) $(URIEL_RU_C_HTML) $(URIEL_EN_C_HTML)
-# optional: $(URIEL_RU_C_PDF) $(URIEL_EN_C_PDF)
+all: html
+html: $(URIEL_RU_C_HTML) $(URIEL_EN_C_HTML)
+pdf:  $(URIEL_RU_PDF) $(URIEL_EN_PDF)
+pdfc: $(URIEL_RU_C_PDF) $(URIEL_EN_C_PDF)
 epub: $(URIEL_RU_EPUB) $(URIEL_EN_EPUB)
 
 # 1.1. generate PDF (ru)

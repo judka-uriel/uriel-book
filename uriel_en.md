@@ -16496,7 +16496,11 @@ reactionaries who dream of restoring past orders, they have accepted all modern
 achievements, including the triumph of democracy, but accept no further changes,
 since they consider all subsequent changes not development but degradation;
 not progress but regress.  <!-- And indeed, we cannot call progress
-the various moral perversions in leftist circles. -->
+the various moral perversions in leftist circles.
+Many so-called “progressives” are antisemites who support terrorists.
+Because of them, the citizens of Israel are compelled to devote far too
+much time and effort to defending themselves rather than advancing
+progress through new inventions, developing cures for diseases, etc. -->
 
 In turn, the axis of the level of
 [democracy](https://en.wikipedia.org/wiki/Types_of_democracy)
@@ -17201,7 +17205,19 @@ And on the board of directors sat the so-called
 -->
 Although in reality they are neither effective nor altruists.  True altruists
 give of their own (time, money, etc.), whereas these only manage what is common,
-like all leftists.  So it is on this structure that the fundamental differences
+like all leftists.
+<!-- For example, recently leftists began gathering signatures for
+an ultimatum with a hysterical demand to prohibit the use of LLMs in
+developing a program to which I have made a substantial contribution.
+Yet all these signatories had either done nothing to help develop the
+program or contributed next to nothing.  Even so, they demanded that
+the developers continue pouring enormous amounts of time and effort into
+a program these leftists use for free, without putting in any effort
+themselves.  That is, rather than ease the programmers' burden, either by
+allowing them to delegate some of the work to LLMs or by helping develop
+the program themselves, they merely demanded unquestioning compliance
+with their idiotic demands.  This is nothing short of pure selfishness. -->
+So it is on this structure that the fundamental differences
 between the right and the left manifested themselves: the management of
 a commercial company is accountable to the shareholders, whereas the management
 of a non-profit organization is accountable to no one.  That is, the commercial
@@ -17466,8 +17482,8 @@ takes precedence over “Love your brother”,
 so egoism must take precedence over altruism.
 
 <!-- The priority of egoism over altruism was also acknowledged by Spinoza.
-In his treatise “Ethics Demonstrated in Geometrical Order”,
-in the fourth part, theorem 35, corollary 2, he writes:
+In his treatise *Ethics Demonstrated in Geometrical Order*,
+in Part IV, Proposition 35, Second corollary, he writes:
 “When each individual seeks their own benefit above all,
 then people become most useful to one another.”
 And by the way, in the third section the definition of the affects
@@ -19483,8 +19499,12 @@ then in infinity absolutely everything exists.
 
 Recognizing that infinity exists, there remains no further cause for distress.
 For in eternal infinity, absolutely everything is possible, including the
-restoration and repetition of any life in an infinite multitude of all possible
-worlds.  Everything always exists, and sooner or later all possible events
+restoration and repetition of any life in an infinite multitude of all possible worlds.
+<!-- As Spinoza stated in Part I, Proposition 16 of his treatise
+*Ethics Demonstrated in Geometrical Order*: “From the necessity of the
+divine nature there must follow infinitely many things in infinitely
+many ways i.e. everything that can fall under the infinite intellect.” -->
+Everything always exists, and sooner or later all possible events
 occur: a person with the same soul is born anew in other worlds and lives life
 an infinite number of times with all possible variations.
 <!-- And so you yourself have already read this book an infinite number of times
